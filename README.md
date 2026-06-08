@@ -215,9 +215,9 @@ If you use this dataset in research or publications, please cite it as:
 ```
 Bangladesh Administrative Data Repository (2024).
 Upazila and Police Thana level dataset for Bangladesh.
-GitHub: https://github.com/YOUR_USERNAME/bangladesh-administrative-data
 ```
 
 ---
 
 *Last updated: June 2026 | Data reference year: 2022*
+*SHAGAR GOSHAMI*
