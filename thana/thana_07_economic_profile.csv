@@ -1,0 +1,768 @@
+﻿Division,District,Thana / Police Station,Thana Type,Poverty Rate (%),Agriculture Workers (%),Industry Workers (%),Service Workers (%),Unemployment (%),Mobile Banking (%),E-Commerce Activity,Remittance Dependency
+Barisal,Barguna,Amtali,Coastal,31.5,47.0,11.0,42.0,3.6,45.6,Low,Low
+Barisal,Barguna,Bamna,Rural,25.0,50.8,15.4,33.8,4.0,48.1,Low,Medium
+Barisal,Barguna,Barguna Sadar,Sadar,29.6,33.0,30.0,37.0,3.7,67.0,Medium,Low
+Barisal,Barguna,Betagi,Rural,38.9,41.2,14.6,44.2,3.5,61.3,Low,Medium
+Barisal,Barguna,Patharghata,Coastal,25.2,47.8,19.3,32.9,4.7,59.4,Low,Low
+Barisal,Barguna,Taltali,Coastal,28.4,50.4,10.0,39.6,3.5,65.7,Low,Low
+Barisal,Barguna,Naltona,Rural,36.0,45.4,7.8,46.8,4.7,54.4,Low,Medium
+Barisal,Barguna,Burirarchar,Coastal,35.8,47.7,16.4,35.9,4.5,44.0,Low,Medium
+Barisal,Barguna,Keorabunia,River,29.6,45.7,12.0,42.3,6.3,50.6,Low,Medium
+Barisal,Barisal,Kotwali Barisal,Metropolitan,5.1,11.3,41.2,47.5,4.7,60.3,High,Medium
+Barisal,Barisal,Barisal Sadar,Sadar,25.3,29.0,22.0,49.0,5.2,63.1,Medium,Medium
+Barisal,Barisal,Airport Barisal,Metropolitan,14.8,15.0,36.5,48.5,4.1,55.8,High,Medium
+Barisal,Barisal,Agailjhara,Rural,37.5,54.7,17.2,28.1,4.9,67.0,Low,Medium
+Barisal,Barisal,Babuganj,Rural,27.2,44.5,16.4,39.1,3.9,62.9,Low,Medium
+Barisal,Barisal,Bakerganj,Rural,34.9,42.9,19.7,37.4,6.3,53.5,Low,Medium
+Barisal,Barisal,Banari Para,Rural,28.1,50.9,21.8,27.3,6.2,53.4,Low,Medium
+Barisal,Barisal,Gaurnadi,Rural,25.5,53.9,8.6,37.5,6.3,61.8,Low,Low
+Barisal,Barisal,Hizla,River,31.8,53.1,7.3,39.6,5.3,66.2,Low,Low
+Barisal,Barisal,Mehendiganj,River,27.7,55.0,5.0,40.0,5.1,57.1,Low,Medium
+Barisal,Barisal,Muladi,Rural,28.1,41.7,10.8,47.5,6.0,67.4,Low,Medium
+Barisal,Barisal,Wazirpur,Rural,40.3,49.9,5.0,45.1,5.9,46.0,Low,Medium
+Barisal,Barisal,Char Monai,River,32.2,53.4,9.3,37.3,2.9,65.2,Low,Medium
+Barisal,Barisal,Nalchira,Rural,37.3,44.1,21.8,34.1,4.7,60.2,Low,Low
+Barisal,Barisal,Duarghat,River,37.4,53.0,11.0,36.0,5.9,53.0,Low,Low
+Barisal,Barisal,Tungibaria,Rural,26.7,55.1,14.4,30.5,4.5,81.8,Low,Medium
+Barisal,Barisal,Charbaria,Rural,31.8,53.7,16.0,30.3,4.2,69.5,Low,Low
+Barisal,Barisal,South Barisal,Metropolitan,16.7,15.7,44.2,40.1,3.7,82.2,High,Low
+Barisal,Barisal,Barisal Industrial,Industrial,27.6,36.7,30.2,33.1,7.9,60.2,Medium,Low
+Barisal,Barisal,Raipura Char,River,32.8,46.1,13.1,40.8,2.7,51.3,Low,Low
+Barisal,Bhola,Bhola Sadar,Sadar,21.9,41.6,31.0,27.4,4.6,78.2,Medium,Medium
+Barisal,Bhola,Burhanuddin,Rural,21.3,46.8,10.1,43.1,5.6,54.5,Low,Medium
+Barisal,Bhola,Char Fasson,Coastal,25.1,51.6,20.0,28.4,5.6,52.9,Low,Medium
+Barisal,Bhola,Daulatkhan,River,29.4,60.4,24.4,15.2,5.0,68.4,Low,Low
+Barisal,Bhola,Lalmohan,Rural,19.1,35.8,9.8,54.4,3.9,60.3,Low,Low
+Barisal,Bhola,Manpura,Coastal,32.3,42.2,5.2,52.6,4.8,57.8,Low,Low
+Barisal,Bhola,Tazumuddin,River,26.6,44.8,16.4,38.8,5.3,57.2,Low,Low
+Barisal,Bhola,Ilisha,River,23.1,48.4,15.8,35.8,5.1,57.6,Low,Medium
+Barisal,Bhola,Veduria,Coastal,20.0,50.1,15.7,34.2,5.1,56.8,Low,Low
+Barisal,Bhola,Char Khalifa,Coastal,27.4,57.0,18.7,24.3,4.8,62.6,Low,Low
+Barisal,Bhola,Nothullabad,Rural,28.1,39.4,17.8,42.8,5.6,63.5,Low,Medium
+Barisal,Jhalokati,Jhalokati Sadar,Sadar,21.2,40.7,25.6,33.7,4.1,61.9,Medium,Low
+Barisal,Jhalokati,Kathalia,Rural,28.0,55.4,7.0,37.6,5.4,43.3,Low,Low
+Barisal,Jhalokati,Nalchity,Rural,37.6,56.1,19.3,24.6,3.7,68.6,Low,Low
+Barisal,Jhalokati,Rajapur,Rural,25.6,55.9,16.2,27.9,5.9,59.6,Low,Medium
+Barisal,Jhalokati,Gabkhan,River,28.1,38.9,12.4,48.7,4.4,52.9,Low,Medium
+Barisal,Jhalokati,Shashibhushan,Rural,33.3,42.1,18.8,39.1,4.0,58.1,Low,Medium
+Barisal,Jhalokati,Bisher,Rural,34.3,44.3,14.1,41.6,3.5,45.9,Low,Medium
+Barisal,Jhalokati,Nathullabad,River,23.3,60.1,21.1,18.8,4.5,64.2,Low,Low
+Barisal,Patuakhali,Patuakhali Sadar,Sadar,22.9,35.8,23.2,41.0,5.3,60.2,Medium,Low
+Barisal,Patuakhali,Bauphal,Coastal,33.3,38.1,19.3,42.6,2.5,58.7,Low,Low
+Barisal,Patuakhali,Dashmina,Coastal,28.6,44.3,9.7,46.0,4.6,56.0,Low,Low
+Barisal,Patuakhali,Dumki,Rural,35.5,48.6,10.7,40.7,5.2,50.4,Low,Low
+Barisal,Patuakhali,Galachipa,Coastal,32.3,50.7,21.9,27.4,4.8,71.8,Low,Medium
+Barisal,Patuakhali,Kalapara,Coastal,23.7,45.8,13.2,41.0,5.7,65.5,Low,Low
+Barisal,Patuakhali,Mirzaganj,River,32.5,55.5,18.3,26.2,3.7,41.4,Low,Low
+Barisal,Patuakhali,Rangabali,Coastal,22.4,40.2,19.2,40.6,5.0,54.6,Low,Low
+Barisal,Patuakhali,Kuakata,Tourism,24.2,40.0,18.1,41.9,4.9,63.8,Medium,Low
+Barisal,Patuakhali,Lohalia,River,21.5,46.4,12.9,40.7,4.2,64.9,Low,Medium
+Barisal,Patuakhali,Madarbunia,Coastal,39.1,47.0,18.0,35.0,4.2,56.8,Low,Low
+Barisal,Patuakhali,Char Kajal,Coastal,24.2,43.7,22.4,33.9,5.0,47.7,Low,Low
+Barisal,Patuakhali,Baufal North,Rural,41.4,44.6,12.0,43.4,5.3,43.2,Low,Medium
+Barisal,Patuakhali,Kalaiya,River,33.0,50.7,20.3,29.0,4.4,65.4,Low,Low
+Barisal,Pirojpur,Pirojpur Sadar,Sadar,21.4,37.9,26.9,35.2,4.1,58.3,Medium,Medium
+Barisal,Pirojpur,Bhandaria,River,33.1,47.8,13.0,39.2,5.1,53.6,Low,Medium
+Barisal,Pirojpur,Kawkhali,River,27.3,41.4,17.5,41.1,5.2,59.9,Low,Low
+Barisal,Pirojpur,Mathbaria,Coastal,39.3,53.4,20.5,26.1,4.2,68.2,Low,Low
+Barisal,Pirojpur,Nazirpur,Rural,28.6,49.1,12.2,38.7,5.5,65.5,Low,Low
+Barisal,Pirojpur,Nesarabad,Rural,18.4,57.0,11.1,31.9,5.3,56.9,Low,Medium
+Barisal,Pirojpur,Zianagar,Rural,38.0,48.2,16.6,35.2,4.8,48.6,Low,Low
+Barisal,Pirojpur,Hularhat,River,33.1,42.9,14.7,42.4,3.1,70.8,Low,Low
+Barisal,Pirojpur,Indurkani,Rural,27.2,62.7,13.8,23.5,6.7,68.3,Low,Low
+Barisal,Pirojpur,Swarupkathi,River,27.4,49.9,22.5,27.6,6.4,46.4,Low,Low
+Barisal,Pirojpur,Tutkhali,Rural,20.4,47.2,11.3,41.5,6.3,57.3,Low,Medium
+Barisal,Pirojpur,Shalikha Pir,Rural,30.7,53.2,23.2,23.6,4.4,51.3,Low,Low
+Barisal,Pirojpur,Mathbaria North,Coastal,22.8,45.1,19.1,35.8,4.2,83.1,Low,Medium
+Chittagong,Chittagong,Kotwali Ctg,Metropolitan,8.7,10.0,35.9,54.1,4.6,87.0,High,Low
+Chittagong,Chittagong,Double Mooring,Metropolitan,5.0,10.1,43.5,46.4,3.5,72.8,High,Low
+Chittagong,Chittagong,Pahartali,Metropolitan,5.0,14.0,32.6,53.4,5.8,76.0,High,Low
+Chittagong,Chittagong,Panchlaish,Metropolitan,7.6,17.9,37.1,45.0,4.0,85.2,High,Low
+Chittagong,Chittagong,Chandgaon,Metropolitan,5.3,11.1,44.3,44.6,3.6,74.9,High,Low
+Chittagong,Chittagong,Bayazid Bostami,Metropolitan,7.4,13.3,35.9,50.8,5.7,63.0,High,Medium
+Chittagong,Chittagong,Khulshi,Metropolitan,9.1,14.8,37.7,47.5,3.8,86.8,High,Medium
+Chittagong,Chittagong,Halishahar,Metropolitan,7.3,10.0,30.9,59.1,3.7,76.2,High,Medium
+Chittagong,Chittagong,Bandar,City,6.0,20.4,36.3,43.3,5.0,68.9,High,Low
+Chittagong,Chittagong,Patenga,Industrial,14.3,34.0,35.2,30.8,4.1,76.8,Medium,Medium
+Chittagong,Chittagong,EPZ Ctg,Industrial,6.0,28.8,32.3,38.9,2.9,74.9,Medium,Low
+Chittagong,Chittagong,Bakalia,Metropolitan,12.5,10.6,34.1,55.3,4.1,73.0,High,Low
+Chittagong,Chittagong,Akbar Shah,Metropolitan,5.0,19.2,33.9,46.9,3.9,72.7,High,Medium
+Chittagong,Chittagong,Karnaphuli,Industrial,14.8,25.1,37.8,37.1,5.7,76.7,Medium,Low
+Chittagong,Chittagong,Chattogram Port,Industrial,13.8,25.0,27.2,47.8,5.0,73.2,Medium,Low
+Chittagong,Chittagong,South Khulshi,Metropolitan,5.0,25.2,39.8,35.0,4.6,77.5,High,Low
+Chittagong,Chittagong,Anwara,Industrial,15.8,29.5,28.3,42.2,5.8,69.0,Medium,Low
+Chittagong,Chittagong,Banshkhali,Rural,20.8,41.1,16.1,42.8,5.3,39.1,Low,Low
+Chittagong,Chittagong,Boalkhali,Industrial,9.7,37.5,35.2,27.3,4.9,60.0,Medium,Medium
+Chittagong,Chittagong,Chandanaish,Rural,21.1,50.3,18.2,31.5,3.6,42.5,Low,Medium
+Chittagong,Chittagong,Fatikchhari,Rural,22.2,42.2,22.5,35.3,6.6,57.8,Low,Medium
+Chittagong,Chittagong,Hathazari,Rural,27.3,51.8,11.4,36.8,5.9,67.5,Low,Medium
+Chittagong,Chittagong,Lohagara,Rural,23.8,49.0,8.5,42.5,3.6,57.7,Low,Low
+Chittagong,Chittagong,Mirsharai,Industrial,14.6,28.6,35.3,36.1,3.9,65.6,Medium,Low
+Chittagong,Chittagong,Patiya,Industrial,10.2,36.2,26.0,37.8,3.5,68.6,Medium,Low
+Chittagong,Chittagong,Rangunia,Rural,12.3,60.5,9.1,30.4,5.3,64.3,Low,Medium
+Chittagong,Chittagong,Raozan,Industrial,13.7,31.6,24.2,44.2,3.7,76.9,Medium,Low
+Chittagong,Chittagong,Sandwip,Coastal,22.3,37.9,10.5,51.6,2.4,59.5,Low,Low
+Chittagong,Chittagong,Satkania,Rural,15.8,56.8,18.1,25.1,6.7,67.8,Low,Low
+Chittagong,Chittagong,Sitakunda,Industrial,8.0,36.8,33.4,29.8,5.2,70.9,Medium,Medium
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,Tourism,15.7,44.0,16.8,39.2,4.0,67.6,Medium,Low
+Chittagong,Cox's Bazar,Chakaria,Rural,17.4,51.5,8.5,40.0,5.7,71.9,Low,Medium
+Chittagong,Cox's Bazar,Kutubdia,Coastal,21.0,45.8,16.5,37.7,6.8,68.5,Low,Medium
+Chittagong,Cox's Bazar,Maheshkhali,Coastal,24.0,32.0,24.7,43.3,5.6,60.0,Low,Low
+Chittagong,Cox's Bazar,Pekua,Coastal,22.3,60.4,12.3,27.3,2.0,58.8,Low,Low
+Chittagong,Cox's Bazar,Ramu,Tourism,19.1,38.0,21.9,40.1,5.3,70.8,Medium,Low
+Chittagong,Cox's Bazar,Teknaf,Border,21.6,42.2,22.8,35.0,4.7,52.1,Low,Low
+Chittagong,Cox's Bazar,Ukhia,Border,25.2,39.8,15.6,44.6,5.0,73.1,Low,Low
+Chittagong,Cox's Bazar,Hnila,Border,22.3,44.6,22.0,33.4,3.9,60.0,Low,Medium
+Chittagong,Comilla,Kotwali Comilla,City,6.2,19.7,28.4,51.9,4.2,70.6,High,Medium
+Chittagong,Comilla,Adarsha Sadar,Sadar,19.8,23.4,28.6,48.0,4.6,74.1,Medium,Low
+Chittagong,Comilla,Barura,Rural,23.0,60.4,10.7,28.9,4.8,54.8,Low,Medium
+Chittagong,Comilla,Brahmanpara,Rural,10.4,55.8,19.3,24.9,2.7,53.5,Low,Low
+Chittagong,Comilla,Burichang,Rural,21.5,56.0,11.0,33.0,5.1,51.6,Low,Low
+Chittagong,Comilla,Chandina,Rural,18.6,42.9,12.7,44.4,3.2,53.5,Low,Low
+Chittagong,Comilla,Chauddagram,Industrial,9.1,29.6,19.4,51.0,6.1,60.8,Medium,Low
+Chittagong,Comilla,Daudkandi,River,19.8,52.1,11.6,36.3,3.6,72.7,Low,Medium
+Chittagong,Comilla,Debidwar,Rural,25.9,51.9,12.2,35.9,4.7,75.7,Low,Medium
+Chittagong,Comilla,Homna,River,22.5,51.4,27.8,20.8,7.2,74.9,Low,Medium
+Chittagong,Comilla,Laksam,Industrial,9.3,39.7,24.9,35.4,5.5,71.6,Medium,Low
+Chittagong,Comilla,Lalmai,Rural,31.7,61.6,21.0,17.4,4.9,68.4,Low,Low
+Chittagong,Comilla,Manoharganj,Rural,15.0,47.1,19.0,33.9,4.7,48.9,Low,Low
+Chittagong,Comilla,Meghna,River,24.4,42.9,11.2,45.9,6.2,62.9,Low,Low
+Chittagong,Comilla,Muradnagar,Industrial,11.1,28.9,23.9,47.2,6.6,70.0,Medium,Medium
+Chittagong,Comilla,Nangalkot,Rural,18.4,65.4,12.2,22.4,3.7,67.3,Low,Low
+Chittagong,Comilla,Titas,River,21.8,55.1,15.9,29.0,4.1,48.0,Low,Medium
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,City,6.1,19.3,33.9,46.8,5.0,93.5,High,Low
+Chittagong,Brahmanbaria,Akhaura,Border,10.1,51.4,21.1,27.5,4.4,61.8,Low,Low
+Chittagong,Brahmanbaria,Ashuganj,Industrial,5.0,33.6,25.7,40.7,5.1,65.6,Medium,Low
+Chittagong,Brahmanbaria,Bancharampur,Rural,32.5,44.0,19.1,36.9,3.4,55.2,Low,Medium
+Chittagong,Brahmanbaria,Bijoynagar,Rural,20.9,50.7,12.0,37.3,3.0,65.3,Low,Low
+Chittagong,Brahmanbaria,Kasba,Border,20.8,45.4,26.4,28.2,2.0,54.7,Low,Low
+Chittagong,Brahmanbaria,Nabinagar,Rural,28.8,57.0,10.0,33.0,4.7,67.7,Low,Medium
+Chittagong,Brahmanbaria,Nasirnagar,Rural,21.6,56.6,13.3,30.1,5.7,61.3,Low,Medium
+Chittagong,Brahmanbaria,Sarail,Rural,21.8,46.1,14.2,39.7,3.2,47.1,Low,Medium
+Chittagong,Brahmanbaria,Akhaura Land Port,Border,14.5,37.5,15.6,46.9,4.6,62.4,Low,Low
+Chittagong,Brahmanbaria,Ashuganj Ferry,River,15.5,52.8,24.2,23.0,4.6,49.1,Low,Low
+Chittagong,Chandpur,Chandpur Sadar,River,24.6,50.1,6.3,43.6,6.4,53.6,Low,Low
+Chittagong,Chandpur,Faridganj,River,18.2,50.6,16.0,33.4,4.4,35.3,Low,Low
+Chittagong,Chandpur,Haimchar,River,15.9,42.1,15.0,42.9,3.5,75.0,Low,Low
+Chittagong,Chandpur,Haziganj,Rural,17.1,56.6,23.4,20.0,2.7,48.2,Low,Low
+Chittagong,Chandpur,Kachua,Rural,24.5,48.5,18.3,33.2,6.0,51.5,Low,Medium
+Chittagong,Chandpur,Matlab Dakshin,River,25.5,47.2,21.4,31.4,3.9,57.6,Low,Medium
+Chittagong,Chandpur,Matlab Uttar,River,12.5,54.3,5.2,40.5,5.5,47.2,Low,Low
+Chittagong,Chandpur,Shahrasti,Rural,17.4,50.4,8.0,41.6,4.8,53.8,Low,Low
+Chittagong,Chandpur,Hajiganj,River,6.5,41.5,17.0,41.5,5.3,54.3,Low,Medium
+Chittagong,Feni,Feni Sadar,City,11.5,20.3,39.2,40.5,5.7,67.8,High,Medium
+Chittagong,Feni,Chhagalnaiya,Rural,25.4,55.1,19.7,25.2,4.2,60.4,Low,Medium
+Chittagong,Feni,Daganbhuiyan,Rural,19.0,41.5,6.8,51.7,4.7,49.1,Low,Medium
+Chittagong,Feni,Fulgazi,Rural,23.5,45.0,5.6,49.4,5.6,63.2,Low,Low
+Chittagong,Feni,Parshuram,Border,15.9,39.0,22.5,38.5,3.8,72.7,Low,Medium
+Chittagong,Feni,Sonagazi,Industrial,5.2,28.7,31.7,39.6,5.4,71.7,Medium,Medium
+Chittagong,Feni,Muhuriganj,Rural,22.8,50.7,10.3,39.0,3.8,58.2,Low,Medium
+Chittagong,Feni,Feni North,Rural,15.7,52.4,13.3,34.3,6.0,59.4,Low,Medium
+Chittagong,Lakshmipur,Lakshmipur Sadar,Sadar,16.8,36.7,31.5,31.8,5.7,69.5,Medium,Medium
+Chittagong,Lakshmipur,Kamalnagar,Coastal,24.4,40.8,17.2,42.0,3.5,48.4,Low,Low
+Chittagong,Lakshmipur,Ramganj,Rural,22.2,47.8,10.6,41.6,4.9,53.6,Low,Low
+Chittagong,Lakshmipur,Ramgati,Coastal,24.7,43.8,15.0,41.2,4.5,60.9,Low,Low
+Chittagong,Lakshmipur,Raipur,River,18.1,42.8,15.6,41.6,8.6,62.4,Low,Low
+Chittagong,Lakshmipur,Char Ababil,Coastal,18.8,43.5,12.6,43.9,2.0,49.7,Low,Low
+Chittagong,Lakshmipur,Meghna Ghat,River,15.9,59.2,17.0,23.8,3.3,50.9,Low,Low
+Chittagong,Noakhali,Noakhali Sadar,Sadar,19.0,40.4,25.3,34.3,2.9,59.5,Medium,Medium
+Chittagong,Noakhali,Begumganj,Rural,27.6,45.4,17.3,37.3,2.3,71.0,Low,Low
+Chittagong,Noakhali,Chatkhil,Rural,24.0,57.2,9.3,33.5,4.8,52.3,Low,Medium
+Chittagong,Noakhali,Companiganj,Coastal,18.6,59.0,23.7,17.3,7.8,52.7,Low,Low
+Chittagong,Noakhali,Hatiya,Coastal,21.9,39.0,26.3,34.7,4.3,51.0,Low,Medium
+Chittagong,Noakhali,Kabirhat,Rural,31.2,49.4,12.6,38.0,5.3,54.5,Low,Medium
+Chittagong,Noakhali,Senbagh,Rural,21.4,49.4,15.4,35.2,3.5,46.6,Low,Low
+Chittagong,Noakhali,Sonaimuri,Rural,23.6,46.8,9.0,44.2,4.3,55.9,Low,Medium
+Chittagong,Noakhali,Subarnachar,Coastal,16.3,64.1,17.1,18.8,5.7,56.3,Low,Low
+Chittagong,Noakhali,Char Jublee,Coastal,21.5,47.5,16.5,36.0,3.6,65.8,Low,Medium
+Chittagong,Noakhali,Noakhali Model,Sadar,16.8,34.8,25.8,39.4,4.5,70.9,Medium,Medium
+Chittagong,Bandarban,Bandarban Sadar,Hill,19.2,57.4,16.4,26.2,3.9,50.3,Low,Low
+Chittagong,Bandarban,Ali Kadam,Hill,23.6,42.1,15.2,42.7,4.8,53.4,Low,Medium
+Chittagong,Bandarban,Lama,Hill,18.2,40.6,22.0,37.4,5.6,66.9,Low,Medium
+Chittagong,Bandarban,Naikhongchhari,Hill,21.3,50.4,18.2,31.4,4.2,50.6,Low,Low
+Chittagong,Bandarban,Ruma,Hill,13.7,45.4,14.8,39.8,5.6,57.2,Low,Low
+Chittagong,Bandarban,Rowangchhari,Hill,15.3,44.8,17.6,37.6,7.1,75.5,Low,Medium
+Chittagong,Bandarban,Thanchi,Hill,25.3,52.9,5.0,42.1,7.4,53.5,Low,Medium
+Chittagong,Khagrachhari,Khagrachhari Sadar,Hill,20.3,44.0,9.6,46.4,5.4,46.6,Low,Low
+Chittagong,Khagrachhari,Dighinala,Hill,26.2,50.3,22.8,26.9,3.3,39.2,Low,Medium
+Chittagong,Khagrachhari,Matiranga,Hill,20.9,38.5,18.3,43.2,4.9,50.3,Low,Medium
+Chittagong,Khagrachhari,Ramgarh,Border,9.4,44.5,11.5,44.0,5.8,69.6,Low,Medium
+Chittagong,Khagrachhari,Manikchhari,Hill,22.2,49.1,15.0,35.9,6.1,66.2,Low,Low
+Chittagong,Khagrachhari,Panchhari,Hill,26.1,49.2,20.9,29.9,3.3,53.2,Low,Medium
+Chittagong,Khagrachhari,Lakshmichhari,Hill,24.9,51.3,21.0,27.7,7.3,48.1,Low,Low
+Chittagong,Khagrachhari,Mahalchhari,Hill,23.3,48.2,23.3,28.5,3.8,60.7,Low,Low
+Chittagong,Rangamati,Rangamati Sadar,Hill,8.1,51.2,14.5,34.3,4.2,68.3,Low,Medium
+Chittagong,Rangamati,Kaptai,Hill,26.4,45.8,19.3,34.9,6.3,62.9,Low,Low
+Chittagong,Rangamati,Langadu,Hill,31.5,46.6,15.0,38.4,5.6,59.3,Low,Low
+Chittagong,Rangamati,Bagaichhari,Hill,15.6,43.7,18.7,37.6,6.6,62.8,Low,Low
+Chittagong,Rangamati,Barkal,Hill,23.9,49.6,15.8,34.6,4.8,51.8,Low,Low
+Chittagong,Rangamati,Belaichhari,Hill,12.9,48.2,12.6,39.2,6.5,70.8,Low,Medium
+Chittagong,Rangamati,Rajasthali,Hill,11.4,52.1,16.4,31.5,4.8,55.5,Low,Medium
+Chittagong,Rangamati,Naniarchar,Hill,11.9,48.0,16.0,36.0,6.2,48.3,Low,Low
+Chittagong,Rangamati,Juraichhari,Hill,11.5,54.6,13.9,31.5,5.7,59.3,Low,Medium
+Chittagong,Rangamati,Kawkhali Rmt,Hill,23.3,47.7,14.8,37.5,4.8,60.7,Low,Medium
+Dhaka,Dhaka,Motijheel,Metropolitan,5.0,10.0,35.9,54.1,5.5,76.1,High,Low
+Dhaka,Dhaka,Kotwali Dhaka,Metropolitan,5.0,20.3,44.4,35.3,2.3,75.5,High,Low
+Dhaka,Dhaka,Sutrapur,Metropolitan,10.5,12.0,46.8,41.2,4.1,67.4,High,Medium
+Dhaka,Dhaka,Wari,Metropolitan,5.0,15.4,43.2,41.4,6.3,92.4,High,Low
+Dhaka,Dhaka,Lalbagh,Metropolitan,5.0,26.9,46.8,26.3,6.3,83.6,High,Medium
+Dhaka,Dhaka,Hazaribagh,Metropolitan,5.0,15.1,30.7,54.2,2.9,69.9,High,Medium
+Dhaka,Dhaka,Kamrangirchar,Metropolitan,5.9,15.7,46.9,37.4,2.0,81.6,High,Medium
+Dhaka,Dhaka,Demra,Metropolitan,5.0,12.1,45.1,42.8,4.1,78.4,High,Low
+Dhaka,Dhaka,Jatrabari,Metropolitan,5.0,12.3,43.4,44.3,5.4,82.6,High,Low
+Dhaka,Dhaka,Kadamtali,Metropolitan,5.0,25.3,42.1,32.6,4.4,92.9,High,Low
+Dhaka,Dhaka,Shyampur,Metropolitan,5.0,12.3,48.7,39.0,5.1,83.8,High,Low
+Dhaka,Dhaka,Dhanmondi,Metropolitan,5.0,21.8,47.8,30.4,2.7,95.0,High,Medium
+Dhaka,Dhaka,Adabor,Metropolitan,5.0,10.0,36.9,53.1,5.9,72.1,High,Medium
+Dhaka,Dhaka,Mohammadpur,Metropolitan,5.0,10.0,44.9,45.1,6.8,80.0,High,Low
+Dhaka,Dhaka,Sher-e-Bangla Nagar,Metropolitan,5.0,17.3,39.5,43.2,5.2,91.5,High,Medium
+Dhaka,Dhaka,Tejgaon,Metropolitan,5.0,14.1,39.9,46.0,4.3,84.5,High,Low
+Dhaka,Dhaka,Tejgaon Industrial,Industrial,9.5,33.6,27.3,39.1,4.5,70.8,Medium,Medium
+Dhaka,Dhaka,Kafrul,Metropolitan,5.0,11.5,42.2,46.3,4.8,79.2,High,Low
+Dhaka,Dhaka,Pallabi,Metropolitan,7.9,16.8,40.5,42.7,5.4,83.0,High,Medium
+Dhaka,Dhaka,Mirpur,Metropolitan,10.5,10.0,42.3,47.7,7.0,74.1,High,Medium
+Dhaka,Dhaka,Shah Ali,Metropolitan,5.0,10.0,41.3,48.7,5.8,74.1,High,Medium
+Dhaka,Dhaka,Turag,Metropolitan,5.0,12.0,30.3,57.7,5.0,76.9,High,Medium
+Dhaka,Dhaka,Uttara,Metropolitan,9.6,15.0,43.4,41.6,4.5,95.0,High,Medium
+Dhaka,Dhaka,Uttara West,Metropolitan,5.0,19.8,46.2,34.0,5.4,79.4,High,Low
+Dhaka,Dhaka,Airport,Metropolitan,5.0,11.9,42.8,45.3,3.8,92.8,High,Low
+Dhaka,Dhaka,Dakshinkhan,Metropolitan,5.0,18.5,37.3,44.2,5.4,75.0,High,Low
+Dhaka,Dhaka,Uttar Khan,Metropolitan,5.0,10.8,46.1,43.1,5.6,73.9,High,Low
+Dhaka,Dhaka,Badda,Metropolitan,5.0,11.0,43.2,45.8,4.9,77.0,High,Low
+Dhaka,Dhaka,Rampura,Metropolitan,14.6,18.0,39.9,42.1,5.6,76.4,High,Low
+Dhaka,Dhaka,Khilgaon,Metropolitan,5.0,16.1,37.4,46.5,4.1,82.5,High,Low
+Dhaka,Dhaka,Sabujbagh,Metropolitan,5.0,17.9,37.7,44.4,6.4,70.2,High,Low
+Dhaka,Dhaka,Gulshan,Metropolitan,6.9,14.0,47.1,38.9,3.6,71.8,High,Low
+Dhaka,Dhaka,Banani,Metropolitan,7.2,18.3,43.1,38.6,4.9,64.4,High,Low
+Dhaka,Dhaka,Cantonment Dhaka,Metropolitan,5.0,16.5,48.0,35.5,4.3,73.1,High,Low
+Dhaka,Dhaka,Khilkhet,Metropolitan,5.0,10.0,46.6,43.4,6.8,86.3,High,Medium
+Dhaka,Dhaka,Vatara,Metropolitan,5.0,10.0,36.5,53.5,4.7,92.1,High,Low
+Dhaka,Dhaka,Bhatara,Metropolitan,5.0,22.6,41.7,35.7,5.9,72.4,High,Medium
+Dhaka,Dhaka,Agargaon,Metropolitan,5.0,10.0,44.9,45.1,4.5,70.2,High,Low
+Dhaka,Dhaka,Chawkbazar,Metropolitan,5.0,10.0,42.2,47.8,2.0,85.6,High,Low
+Dhaka,Dhaka,Newmarket,Metropolitan,5.0,25.1,44.6,30.3,5.2,83.1,High,Low
+Dhaka,Dhaka,Ramna,Metropolitan,5.8,16.0,37.3,46.7,3.0,85.8,High,Low
+Dhaka,Dhaka,Shahbag,Metropolitan,5.0,21.6,45.9,32.5,7.0,72.9,High,Medium
+Dhaka,Dhaka,Hatirjheel,Metropolitan,5.0,15.3,41.4,43.3,4.2,74.5,High,Low
+Dhaka,Dhaka,Rupnagar,Metropolitan,5.0,10.0,39.6,50.4,5.6,80.1,High,Medium
+Dhaka,Dhaka,Matijhata,Metropolitan,11.7,18.8,42.6,38.6,2.0,86.2,High,Low
+Dhaka,Dhaka,Keraniganj Model,Industrial,5.7,46.6,36.2,17.2,5.5,69.5,Medium,Low
+Dhaka,Dhaka,Nawabganj Dhaka,Metropolitan,5.0,16.5,41.1,42.4,3.6,78.9,High,Low
+Dhaka,Dhaka,Dhamrai,Rural,14.8,56.8,10.5,32.7,5.6,65.4,Low,Medium
+Dhaka,Dhaka,Dohar,River,12.7,43.6,19.4,37.0,4.9,61.7,Low,Medium
+Dhaka,Dhaka,Savar,Industrial,6.8,31.2,30.4,38.4,3.3,56.2,Medium,Low
+Dhaka,Gazipur,Gazipur Sadar,Industrial,5.0,27.2,29.4,43.4,4.6,87.4,Medium,Low
+Dhaka,Gazipur,Joydebpur,City,5.0,20.9,34.8,44.3,3.4,59.1,High,Low
+Dhaka,Gazipur,Kaliakair,Industrial,5.8,27.5,24.2,48.3,5.0,73.4,Medium,Medium
+Dhaka,Gazipur,Kaliganj,Industrial,5.0,28.0,27.2,44.8,5.7,60.9,Medium,Low
+Dhaka,Gazipur,Kapasia,Rural,16.9,43.9,22.1,34.0,4.7,54.6,Low,Low
+Dhaka,Gazipur,Sreepur,Industrial,8.6,36.3,28.1,35.6,6.1,63.3,Medium,Low
+Dhaka,Gazipur,Tongi,Industrial,13.4,38.3,33.0,28.7,5.2,82.8,Medium,Low
+Dhaka,Gazipur,Basan,Industrial,9.2,25.5,38.8,35.7,6.2,62.5,Medium,Medium
+Dhaka,Gazipur,Pubail,Industrial,7.5,25.4,32.0,42.6,6.4,89.8,Medium,Low
+Dhaka,Gazipur,Gazipur Industrial North,Industrial,10.4,38.1,33.9,28.0,4.2,65.0,Medium,Medium
+Dhaka,Narayanganj,Narayanganj Sadar,Industrial,5.0,28.3,19.5,52.2,5.0,61.0,Medium,Medium
+Dhaka,Narayanganj,Fatullah,Industrial,5.0,19.1,27.6,53.3,4.5,59.7,Medium,Low
+Dhaka,Narayanganj,Siddhirganj,Industrial,14.5,37.2,30.9,31.9,5.1,67.9,Medium,Medium
+Dhaka,Narayanganj,Bandar,Industrial,6.0,21.6,29.6,48.8,4.3,64.7,Medium,Low
+Dhaka,Narayanganj,Araihazar,Industrial,5.0,24.9,29.9,45.2,3.5,70.4,Medium,Low
+Dhaka,Narayanganj,Rupganj,Industrial,13.7,30.4,31.8,37.8,4.4,76.9,Medium,Medium
+Dhaka,Narayanganj,Sonargaon,Industrial,5.0,25.3,34.8,39.9,3.2,65.8,Medium,Medium
+Dhaka,Narayanganj,Adamjee,Industrial,5.0,29.4,25.1,45.5,4.3,80.9,Medium,Low
+Dhaka,Narayanganj,Narayanganj Port,Industrial,5.0,37.0,34.1,28.9,3.3,62.7,Medium,Low
+Dhaka,Narsingdi,Narsingdi Sadar,Industrial,7.7,32.5,16.2,51.3,4.2,76.6,Medium,Medium
+Dhaka,Narsingdi,Belabo,Rural,24.5,62.4,13.2,24.4,5.4,47.6,Low,Medium
+Dhaka,Narsingdi,Monohardi,Rural,14.8,46.2,11.2,42.6,3.6,56.6,Low,Low
+Dhaka,Narsingdi,Palash,Industrial,16.0,15.8,31.5,52.7,4.2,74.1,Medium,Low
+Dhaka,Narsingdi,Raipura,River,10.4,54.8,5.5,39.7,3.4,54.0,Low,Low
+Dhaka,Narsingdi,Shibpur,Industrial,8.0,27.1,37.3,35.6,6.5,68.1,Medium,Low
+Dhaka,Narsingdi,Ghodashail,Industrial,5.0,23.9,22.7,53.4,6.3,62.4,Medium,Low
+Dhaka,Narsingdi,Madhabdi,Industrial,5.8,27.5,28.1,44.4,6.0,60.5,Medium,Low
+Dhaka,Kishoreganj,Kishoreganj Sadar,City,7.4,23.0,30.9,46.1,3.6,66.9,High,Low
+Dhaka,Kishoreganj,Astagram,River,10.5,56.8,18.7,24.5,5.5,57.2,Low,Low
+Dhaka,Kishoreganj,Bajitpur,River,9.4,56.4,15.0,28.6,6.8,45.6,Low,Medium
+Dhaka,Kishoreganj,Bhairab,Industrial,8.7,29.9,26.0,44.1,4.2,74.3,Medium,Low
+Dhaka,Kishoreganj,Hossainpur,Rural,14.8,48.5,16.0,35.5,2.4,50.5,Low,Low
+Dhaka,Kishoreganj,Itna,River,18.8,37.9,12.7,49.4,5.4,67.6,Low,Low
+Dhaka,Kishoreganj,Karimganj,Rural,22.1,38.8,9.4,51.8,4.0,57.4,Low,Low
+Dhaka,Kishoreganj,Katiadi,Rural,21.5,46.6,19.8,33.6,4.7,64.1,Low,Low
+Dhaka,Kishoreganj,Kuliarchar,River,15.5,40.5,10.0,49.5,3.9,58.1,Low,Medium
+Dhaka,Kishoreganj,Mithamain,River,13.3,46.3,26.8,26.9,4.8,60.0,Low,Low
+Dhaka,Kishoreganj,Nikli,River,8.3,49.5,19.1,31.4,4.9,48.9,Low,Medium
+Dhaka,Kishoreganj,Pakundia,Rural,23.7,57.7,13.2,29.1,6.0,53.6,Low,Low
+Dhaka,Kishoreganj,Tarail,Rural,18.3,58.5,11.5,30.0,5.5,55.7,Low,Low
+Dhaka,Kishoreganj,Bhairab Ferry,River,12.9,40.4,26.5,33.1,5.2,59.1,Low,Low
+Dhaka,Kishoreganj,Kuliarchar River,River,12.6,49.8,12.6,37.6,2.9,53.3,Low,Low
+Dhaka,Tangail,Tangail Sadar,City,11.5,20.4,37.8,41.8,4.0,61.3,High,Medium
+Dhaka,Tangail,Basail,Rural,21.7,56.4,17.2,26.4,5.7,59.9,Low,Medium
+Dhaka,Tangail,Bhuapur,Rural,15.1,58.5,16.8,24.7,4.3,52.1,Low,Medium
+Dhaka,Tangail,Delduar,Rural,13.2,51.1,19.4,29.5,7.0,59.2,Low,Medium
+Dhaka,Tangail,Dhanbari,Rural,22.4,41.7,5.6,52.7,5.3,53.4,Low,Low
+Dhaka,Tangail,Ghatail,Rural,10.7,43.3,16.9,39.8,6.6,63.1,Low,Low
+Dhaka,Tangail,Gopalpur,Rural,10.8,48.4,19.5,32.1,5.5,43.6,Low,Low
+Dhaka,Tangail,Kalihati,Industrial,5.0,37.0,29.9,33.1,6.0,73.2,Medium,Medium
+Dhaka,Tangail,Madhupur,Rural,18.3,40.1,12.3,47.6,5.9,66.3,Low,Low
+Dhaka,Tangail,Mirzapur,Industrial,21.3,28.4,26.8,44.8,5.0,65.2,Medium,Medium
+Dhaka,Tangail,Nagarpur,Rural,6.6,49.8,12.3,37.9,3.2,57.2,Low,Medium
+Dhaka,Tangail,Sakhipur,Rural,12.9,48.3,14.4,37.3,4.2,67.4,Low,Low
+Dhaka,Tangail,Madhupur Forest,Rural,12.0,43.1,16.6,40.3,3.4,45.5,Low,Low
+Dhaka,Tangail,Tangail Model,City,9.2,18.8,41.1,40.1,4.0,87.8,High,Low
+Dhaka,Manikganj,Manikganj Sadar,Sadar,7.4,30.3,22.3,47.4,3.6,67.4,Medium,Medium
+Dhaka,Manikganj,Daulatpur,River,16.4,41.5,17.6,40.9,3.5,49.7,Low,Low
+Dhaka,Manikganj,Ghior,Rural,16.1,47.3,14.1,38.6,4.2,55.4,Low,Low
+Dhaka,Manikganj,Harirampur,River,16.9,42.8,12.5,44.7,4.1,59.9,Low,Medium
+Dhaka,Manikganj,Saturia,Rural,15.5,66.9,20.0,13.1,4.9,63.0,Low,Medium
+Dhaka,Manikganj,Shibalaya,River,17.5,57.5,8.2,34.3,4.4,61.7,Low,Medium
+Dhaka,Manikganj,Singair,Rural,11.8,35.3,15.7,49.0,3.7,51.3,Low,Medium
+Dhaka,Manikganj,Paturia Ghat,River,14.2,37.5,7.9,54.6,4.3,65.9,Low,Low
+Dhaka,Manikganj,Aricha Ghat,River,11.5,44.0,12.6,43.4,5.7,68.5,Low,Medium
+Dhaka,Munshiganj,Munshiganj Sadar,Industrial,12.1,33.0,33.8,33.2,4.2,68.3,Medium,Low
+Dhaka,Munshiganj,Gazaria,Industrial,12.9,38.6,29.8,31.6,3.9,73.8,Medium,Low
+Dhaka,Munshiganj,Louhajang,River,18.2,45.7,15.0,39.3,6.2,57.5,Low,Low
+Dhaka,Munshiganj,Sirajdikhan,Industrial,8.9,31.2,30.6,38.2,6.4,66.3,Medium,Low
+Dhaka,Munshiganj,Sreenagar,Industrial,5.0,36.4,34.1,29.5,5.3,61.6,Medium,Low
+Dhaka,Munshiganj,Tongibari,River,7.7,51.2,18.2,30.6,2.0,71.5,Low,Medium
+Dhaka,Munshiganj,Mawa Ferry,River,5.0,51.8,26.8,21.4,3.7,55.3,Low,Low
+Dhaka,Munshiganj,Lauhajang Ferry,River,17.7,51.7,10.3,38.0,5.8,48.1,Low,Medium
+Dhaka,Faridpur,Faridpur Sadar,Sadar,13.7,31.7,19.5,48.8,4.6,56.4,Medium,Medium
+Dhaka,Faridpur,Alfadanga,Rural,15.2,46.7,18.7,34.6,5.8,51.1,Low,Medium
+Dhaka,Faridpur,Bhanga,River,13.6,51.3,21.9,26.8,4.1,57.3,Low,Low
+Dhaka,Faridpur,Boalmari,Rural,17.8,58.0,15.7,26.3,7.4,70.2,Low,Low
+Dhaka,Faridpur,Char Bhadrasan,River,8.5,48.8,13.1,38.1,3.2,51.4,Low,Low
+Dhaka,Faridpur,Madhukhali,Rural,11.4,41.7,13.4,44.9,6.1,69.4,Low,Low
+Dhaka,Faridpur,Nagarkanda,Rural,5.8,52.5,17.7,29.8,7.7,57.8,Low,Medium
+Dhaka,Faridpur,Saltha,Rural,18.8,55.0,7.8,37.2,4.5,61.1,Low,Medium
+Dhaka,Faridpur,Sadarpur,River,11.1,46.6,19.1,34.3,3.8,52.9,Low,Medium
+Dhaka,Faridpur,Faridpur Model,Sadar,15.5,33.9,28.0,38.1,4.9,67.5,Medium,Low
+Dhaka,Gopalganj,Gopalganj Sadar,Sadar,5.6,36.5,25.3,38.2,6.0,70.0,Medium,Low
+Dhaka,Gopalganj,Kashiani,Rural,16.8,46.8,14.6,38.6,4.0,50.2,Low,Low
+Dhaka,Gopalganj,Kotalipara,Rural,9.9,53.9,7.7,38.4,2.8,72.4,Low,Low
+Dhaka,Gopalganj,Muksudpur,Rural,12.3,55.7,20.6,23.7,4.4,74.2,Low,Medium
+Dhaka,Gopalganj,Tungipara,Rural,12.8,50.5,14.3,35.2,6.2,61.9,Low,Low
+Dhaka,Gopalganj,Gopalganj Model,Sadar,8.9,29.4,27.7,42.9,4.0,69.7,Medium,Low
+Dhaka,Gopalganj,Kotalipara Ferry,River,18.8,44.5,10.7,44.8,4.7,48.9,Low,Low
+Dhaka,Madaripur,Madaripur Sadar,Sadar,5.0,30.9,32.8,36.3,2.8,64.8,Medium,Medium
+Dhaka,Madaripur,Kalkini,River,26.1,51.0,20.2,28.8,6.5,66.6,Low,Medium
+Dhaka,Madaripur,Rajoir,River,19.4,41.8,14.0,44.2,4.6,48.6,Low,Low
+Dhaka,Madaripur,Shibchar,River,20.0,42.8,21.4,35.8,2.0,63.0,Low,Medium
+Dhaka,Madaripur,Sibchar Ferry,River,20.6,48.6,17.5,33.9,5.4,59.7,Low,Low
+Dhaka,Madaripur,Muksudpur Ferry,River,8.6,55.1,20.7,24.2,6.3,61.9,Low,Medium
+Dhaka,Rajbari,Rajbari Sadar,Sadar,5.0,31.2,22.3,46.5,5.0,60.3,Medium,Low
+Dhaka,Rajbari,Baliakandi,Rural,9.9,57.5,16.3,26.2,5.6,50.5,Low,Low
+Dhaka,Rajbari,Goalandaghat,River,13.5,36.2,10.0,53.8,5.6,57.3,Low,Medium
+Dhaka,Rajbari,Kalukhali,River,18.8,49.7,18.7,31.6,4.5,40.9,Low,Low
+Dhaka,Rajbari,Pangsha,Rural,17.2,61.3,5.0,33.7,6.1,56.9,Low,Medium
+Dhaka,Rajbari,Goalanda Ghat,River,10.2,40.4,18.7,40.9,5.3,60.3,Low,Medium
+Dhaka,Rajbari,Rajbari Model,Sadar,9.3,29.0,31.1,39.9,4.3,66.4,Medium,Low
+Dhaka,Shariatpur,Shariatpur Sadar,Sadar,8.8,33.5,30.9,35.6,4.3,64.1,Medium,Medium
+Dhaka,Shariatpur,Bhedarganj,River,11.5,49.2,17.8,33.0,5.2,53.6,Low,Low
+Dhaka,Shariatpur,Damudya,River,20.0,51.1,10.2,38.7,6.4,62.7,Low,Low
+Dhaka,Shariatpur,Gosairhat,River,14.2,51.2,18.4,30.4,3.2,62.3,Low,Low
+Dhaka,Shariatpur,Jajira,River,11.5,47.7,12.1,40.2,5.2,48.1,Low,Low
+Dhaka,Shariatpur,Naria,River,10.0,53.7,10.3,36.0,3.3,47.0,Low,Low
+Dhaka,Shariatpur,Shakhipur River,River,13.2,57.2,15.7,27.1,5.0,53.0,Low,Medium
+Dhaka,Shariatpur,Jajira Ferry,River,24.8,43.5,16.5,40.0,5.4,59.5,Low,Medium
+Khulna,Khulna,Khulna Kotwali,Metropolitan,9.7,13.3,41.4,45.3,5.6,90.5,High,Medium
+Khulna,Khulna,Sonadanga,Metropolitan,5.0,12.6,43.2,44.2,5.1,88.7,High,Medium
+Khulna,Khulna,Khalishpur,Industrial,15.4,28.6,20.2,51.2,5.8,68.2,Medium,Low
+Khulna,Khulna,Daulatpur,Industrial,22.4,27.0,25.1,47.9,3.2,63.7,Medium,Low
+Khulna,Khulna,Khan Jahan Ali,Metropolitan,17.4,22.2,40.4,37.4,5.0,64.7,High,Low
+Khulna,Khulna,Harintana,Metropolitan,10.5,11.0,44.0,45.0,5.8,64.9,High,Medium
+Khulna,Khulna,Arongghata,Metropolitan,7.1,10.0,49.4,40.6,4.2,73.8,High,Medium
+Khulna,Khulna,Khulna Industrial,Industrial,21.3,40.4,28.3,31.3,3.7,60.9,Medium,Low
+Khulna,Khulna,Batiaghata,Rural,26.9,43.6,18.7,37.7,4.9,46.0,Low,Medium
+Khulna,Khulna,Dacope,Coastal,24.1,51.6,24.0,24.4,4.4,58.5,Low,Low
+Khulna,Khulna,Dighalia,Rural,22.4,48.9,15.4,35.7,3.7,61.4,Low,Low
+Khulna,Khulna,Dumuria,Rural,20.3,53.9,9.5,36.6,4.7,51.0,Low,Medium
+Khulna,Khulna,Koyra,Coastal,31.6,43.0,20.6,36.4,5.4,66.8,Low,Low
+Khulna,Khulna,Paikgachha,Coastal,23.5,40.6,13.1,46.3,5.5,60.9,Low,Medium
+Khulna,Khulna,Phultala,Industrial,8.3,34.4,35.2,30.4,5.3,81.3,Medium,Low
+Khulna,Khulna,Rupsha,Industrial,15.6,35.1,27.2,37.7,2.8,73.5,Medium,Low
+Khulna,Khulna,Mongla Port,Industrial,14.2,29.6,33.3,37.1,3.0,69.2,Medium,Low
+Khulna,Bagerhat,Bagerhat Sadar,Sadar,23.4,26.6,23.1,50.3,5.9,57.9,Medium,Medium
+Khulna,Bagerhat,Chitalmari,Rural,26.6,44.4,5.3,50.3,2.3,52.3,Low,Medium
+Khulna,Bagerhat,Fakirhat,Rural,24.3,53.9,11.5,34.6,5.5,69.7,Low,Low
+Khulna,Bagerhat,Kachua,Rural,24.7,37.2,14.8,48.0,5.4,49.4,Low,Low
+Khulna,Bagerhat,Mollahat,Rural,25.9,49.2,29.8,21.0,3.3,54.3,Low,Medium
+Khulna,Bagerhat,Mongla,Industrial,11.8,28.9,34.9,36.2,5.4,73.0,Medium,Low
+Khulna,Bagerhat,Morrelganj,Coastal,21.8,49.1,20.9,30.0,5.0,54.4,Low,Medium
+Khulna,Bagerhat,Rampal,Rural,41.4,49.4,9.0,41.6,3.5,67.0,Low,Medium
+Khulna,Bagerhat,Sarankhola,Coastal,28.5,44.6,5.7,49.7,3.1,71.0,Low,Medium
+Khulna,Bagerhat,Mongla EPZ,Industrial,19.8,36.5,41.2,22.3,8.2,72.1,Medium,Low
+Khulna,Bagerhat,Bagerhat Model,Sadar,19.1,34.7,19.4,45.9,3.5,62.8,Medium,Low
+Khulna,Jessore,Jessore Kotwali,City,8.5,31.1,36.1,32.8,4.1,61.7,High,Medium
+Khulna,Jessore,Abhaynagar,Industrial,18.8,27.6,35.6,36.8,3.0,58.0,Medium,Medium
+Khulna,Jessore,Bagherpara,Rural,27.9,55.5,16.5,28.0,6.3,53.8,Low,Low
+Khulna,Jessore,Chaugachha,Rural,38.5,55.8,13.2,31.0,4.8,60.5,Low,Low
+Khulna,Jessore,Jhikargachha,Border,20.0,41.9,28.4,29.7,5.0,59.0,Low,Medium
+Khulna,Jessore,Keshabpur,Rural,28.3,69.5,11.3,19.2,4.5,57.3,Low,Medium
+Khulna,Jessore,Manirampur,Rural,19.2,58.8,21.5,19.7,5.8,51.4,Low,Low
+Khulna,Jessore,Sharsha,Border,25.2,51.8,15.3,32.9,5.2,46.0,Low,Low
+Khulna,Jessore,Benapole Land Port,Border,23.0,49.7,18.0,32.3,2.8,47.2,Low,Low
+Khulna,Jessore,Jessore Cantonment,Metropolitan,9.4,18.9,41.5,39.6,3.6,82.4,High,Low
+Khulna,Jhenaidah,Jhenaidah Sadar,City,15.5,16.0,30.2,53.8,5.1,76.0,High,Medium
+Khulna,Jhenaidah,Harinakunda,Rural,20.9,50.4,18.8,30.8,5.4,68.1,Low,Low
+Khulna,Jhenaidah,Kaliganj,Rural,22.0,50.7,13.6,35.7,5.1,56.4,Low,Low
+Khulna,Jhenaidah,Kotchandpur,Rural,19.0,37.5,9.9,52.6,4.8,42.0,Low,Low
+Khulna,Jhenaidah,Maheshpur,Rural,18.3,43.5,19.6,36.9,4.0,62.5,Low,Low
+Khulna,Jhenaidah,Shailkupa,Rural,17.2,40.3,12.8,46.9,5.3,62.9,Low,Low
+Khulna,Jhenaidah,Halidhani,Rural,19.9,48.9,18.2,32.9,4.9,48.5,Low,Medium
+Khulna,Jhenaidah,Jhenaidah Model,City,8.2,19.0,34.2,46.8,4.4,63.3,High,Low
+Khulna,Kushtia,Kushtia Sadar,City,23.2,21.4,30.1,48.5,5.0,73.0,High,Medium
+Khulna,Kushtia,Bheramara,Industrial,27.7,27.4,34.7,37.9,4.3,68.4,Medium,Low
+Khulna,Kushtia,Daulatpur Kus,Rural,32.5,37.7,18.3,44.0,6.7,55.0,Low,Low
+Khulna,Kushtia,Khoksa,Industrial,9.2,34.7,18.6,46.7,4.9,56.7,Medium,Medium
+Khulna,Kushtia,Kumarkhali,Industrial,18.4,36.7,28.0,35.3,6.3,63.2,Medium,Medium
+Khulna,Kushtia,Mirpur Kus,Rural,27.2,57.5,16.5,26.0,6.0,39.8,Low,Low
+Khulna,Kushtia,Hardinge Bridge,Industrial,15.2,30.7,30.3,39.0,5.8,76.6,Medium,Low
+Khulna,Kushtia,Lalon Shah Border,Border,23.4,53.1,24.5,22.4,5.7,67.2,Low,Medium
+Khulna,Chuadanga,Chuadanga Sadar,Border,16.3,44.6,22.2,33.2,4.5,71.2,Low,Low
+Khulna,Chuadanga,Alamdanga,Rural,22.6,53.4,14.1,32.5,5.0,75.0,Low,Low
+Khulna,Chuadanga,Damurhuda,Border,32.3,63.1,27.2,10.0,6.6,57.8,Low,Low
+Khulna,Chuadanga,Jibannagar,Rural,23.7,49.4,14.0,36.6,3.9,49.1,Low,Low
+Khulna,Chuadanga,Chuadanga Border,Border,23.5,41.1,16.0,42.9,5.1,45.0,Low,Medium
+Khulna,Chuadanga,Darshana ICT,Border,20.3,43.0,15.7,41.3,5.9,62.5,Low,Low
+Khulna,Magura,Magura Sadar,Sadar,23.3,39.2,32.4,28.4,6.1,63.4,Medium,Low
+Khulna,Magura,Mohammadpur,Rural,26.0,53.5,14.3,32.2,4.6,54.9,Low,Low
+Khulna,Magura,Shalikha,Rural,18.9,63.9,6.7,29.4,3.8,65.4,Low,Medium
+Khulna,Magura,Sreepur,Rural,26.8,60.7,14.9,24.4,4.5,50.3,Low,Low
+Khulna,Magura,Magura Model,Sadar,20.3,32.9,31.2,35.9,3.1,69.1,Medium,Low
+Khulna,Magura,Binarpota,Rural,25.1,46.1,20.6,33.3,4.9,54.5,Low,Low
+Khulna,Meherpur,Meherpur Sadar,Border,26.8,48.9,11.1,40.0,4.2,56.6,Low,Low
+Khulna,Meherpur,Gangni,Border,23.6,41.5,26.4,32.1,3.1,62.5,Low,Low
+Khulna,Meherpur,Mujibnagar,Border,23.5,55.9,21.3,22.8,5.1,51.7,Low,Medium
+Khulna,Meherpur,Meherpur Border,Border,25.7,43.5,16.5,40.0,3.2,62.9,Low,Medium
+Khulna,Meherpur,Meherpur Model,Border,28.0,52.0,12.3,35.7,3.6,67.9,Low,Low
+Khulna,Narail,Narail Sadar,Sadar,23.2,42.2,27.5,30.3,4.5,69.2,Medium,Low
+Khulna,Narail,Kalia,Rural,32.3,48.0,12.4,39.6,5.2,52.0,Low,Medium
+Khulna,Narail,Lohagara,Rural,25.0,54.1,14.7,31.2,4.6,51.6,Low,Medium
+Khulna,Narail,Narail Model,Sadar,22.8,30.9,21.8,47.3,5.2,56.2,Medium,Medium
+Khulna,Narail,Narail River,River,28.1,50.3,17.4,32.3,3.5,44.1,Low,Medium
+Khulna,Satkhira,Satkhira Sadar,Border,12.5,44.2,14.5,41.3,4.6,58.6,Low,Medium
+Khulna,Satkhira,Assasuni,Coastal,26.2,50.9,19.2,29.9,6.7,63.6,Low,Low
+Khulna,Satkhira,Debhata,Border,22.0,40.1,18.7,41.2,7.2,56.6,Low,Low
+Khulna,Satkhira,Kalaroa,Rural,26.4,46.1,11.5,42.4,4.2,56.2,Low,Low
+Khulna,Satkhira,Kaliganj Sat,Coastal,28.1,56.3,10.0,33.7,6.1,56.5,Low,Medium
+Khulna,Satkhira,Shyamnagar,Coastal,26.2,46.8,13.0,40.2,5.2,50.5,Low,Low
+Khulna,Satkhira,Tala,Rural,31.0,45.2,12.4,42.4,4.0,60.4,Low,Medium
+Khulna,Satkhira,Bhomra Land Port,Border,23.4,53.9,18.6,27.5,6.2,55.6,Low,Low
+Khulna,Satkhira,Sundarban,Coastal,20.2,55.1,17.3,27.6,6.9,65.3,Low,Low
+Mymensingh,Mymensingh,Mymensingh Kotwali,City,19.7,22.7,35.5,41.8,2.1,85.1,High,Low
+Mymensingh,Mymensingh,Mymensingh Sadar,Sadar,30.2,39.1,22.8,38.1,4.9,76.3,Medium,Low
+Mymensingh,Mymensingh,Bhaluka,Industrial,18.1,32.9,28.4,38.7,4.0,70.1,Medium,Medium
+Mymensingh,Mymensingh,Dhobaura,Border,22.7,48.8,21.8,29.4,6.1,63.5,Low,Low
+Mymensingh,Mymensingh,Fulbaria,Rural,35.0,54.3,18.7,27.0,4.6,75.4,Low,Low
+Mymensingh,Mymensingh,Gaffargaon,Rural,27.2,48.6,20.9,30.5,5.5,52.4,Low,Medium
+Mymensingh,Mymensingh,Gauripur,Rural,26.9,53.6,11.5,34.9,4.5,62.6,Low,Low
+Mymensingh,Mymensingh,Haluaghat,Border,33.1,55.5,16.7,27.8,5.4,61.3,Low,Low
+Mymensingh,Mymensingh,Ishwarganj,Rural,33.0,57.6,12.5,29.9,6.5,48.2,Low,Medium
+Mymensingh,Mymensingh,Muktagachha,Rural,33.5,59.1,23.3,17.6,5.6,59.2,Low,Medium
+Mymensingh,Mymensingh,Nandail,Rural,40.7,53.7,17.8,28.5,4.0,56.4,Low,Low
+Mymensingh,Mymensingh,Phulpur,Rural,32.0,43.3,14.5,42.2,4.6,50.9,Low,Medium
+Mymensingh,Mymensingh,Trishal,Industrial,22.3,32.4,30.5,37.1,3.6,70.5,Medium,Medium
+Mymensingh,Mymensingh,Mymensingh Model,City,18.6,24.9,40.0,35.1,7.1,63.4,High,Low
+Mymensingh,Mymensingh,Bhaluka Industrial,Industrial,25.6,28.4,28.7,42.9,7.8,49.3,Medium,Medium
+Mymensingh,Mymensingh,Haluaghat Border,Border,14.5,41.7,9.9,48.4,3.5,54.1,Low,Low
+Mymensingh,Mymensingh,Trishal University,Rural,24.5,41.8,15.4,42.8,4.6,77.6,Low,Low
+Mymensingh,Jamalpur,Jamalpur Sadar,City,23.0,10.8,36.5,52.7,3.4,75.4,High,Low
+Mymensingh,Jamalpur,Baksiganj,Rural,29.8,53.8,14.1,32.1,5.8,66.5,Low,Medium
+Mymensingh,Jamalpur,Dewanganj,River,29.5,50.0,20.6,29.4,3.4,57.9,Low,Low
+Mymensingh,Jamalpur,Islampur,River,29.3,48.6,7.6,43.8,2.6,39.5,Low,Medium
+Mymensingh,Jamalpur,Madarganj,River,33.6,61.5,12.5,26.0,3.0,57.8,Low,Medium
+Mymensingh,Jamalpur,Melandaha,River,24.0,51.3,10.4,38.3,3.1,56.3,Low,Low
+Mymensingh,Jamalpur,Sarishabari,Rural,26.5,42.0,14.7,43.3,7.2,63.8,Low,Medium
+Mymensingh,Jamalpur,Jamalpur Model,City,19.8,27.0,35.9,37.1,6.1,74.8,High,Medium
+Mymensingh,Jamalpur,Dewanganj Ferry,River,26.7,51.7,18.4,29.9,4.4,68.9,Low,Low
+Mymensingh,Netrokona,Netrokona Sadar,Sadar,24.6,29.1,15.1,55.8,4.7,57.8,Medium,Low
+Mymensingh,Netrokona,Atpara,Rural,23.6,49.0,17.6,33.4,5.6,59.0,Low,Low
+Mymensingh,Netrokona,Barhatta,Rural,32.7,39.6,14.6,45.8,6.5,46.0,Low,Medium
+Mymensingh,Netrokona,Durgapur,Border,35.6,41.7,13.2,45.1,5.5,50.7,Low,Low
+Mymensingh,Netrokona,Kalmakanda,Border,23.7,43.1,20.1,36.8,5.3,72.0,Low,Low
+Mymensingh,Netrokona,Kendua,Rural,29.3,49.8,24.3,25.9,4.3,62.4,Low,Low
+Mymensingh,Netrokona,Khaliajuri,River,19.8,44.1,18.9,37.0,4.8,61.0,Low,Low
+Mymensingh,Netrokona,Madan,River,40.2,48.6,7.8,43.6,6.4,57.7,Low,Low
+Mymensingh,Netrokona,Mohanganj,River,38.5,41.5,18.6,39.9,4.8,66.4,Low,Low
+Mymensingh,Netrokona,Purbadhala,Rural,41.9,56.7,13.3,30.0,5.7,62.8,Low,Medium
+Mymensingh,Netrokona,Netrokona Model,Sadar,16.2,41.8,33.6,24.6,5.2,65.2,Medium,Low
+Mymensingh,Sherpur,Sherpur Sadar,City,18.4,33.4,34.3,32.3,4.8,72.6,High,Medium
+Mymensingh,Sherpur,Jhenaigati,Border,30.4,44.0,16.9,39.1,5.3,60.8,Low,Low
+Mymensingh,Sherpur,Nakla,Rural,34.6,56.6,13.2,30.2,6.0,49.4,Low,Low
+Mymensingh,Sherpur,Nalitabari,Border,23.3,39.5,17.9,42.6,6.1,52.9,Low,Medium
+Mymensingh,Sherpur,Sreebardi,Border,35.2,37.5,15.6,46.9,5.5,64.1,Low,Low
+Mymensingh,Sherpur,Sherpur Model,City,15.4,21.5,39.7,38.8,5.3,62.8,High,Medium
+Mymensingh,Sherpur,Nalitabari Border,Border,31.3,46.9,16.0,37.1,5.0,44.7,Low,Low
+Mymensingh,Sherpur,Sreebardi Border,Border,28.2,39.1,28.1,32.8,4.5,67.1,Low,Low
+Mymensingh,Netrokona,Durgapur Border,Border,32.4,40.0,5.8,54.2,6.2,52.6,Low,Low
+Mymensingh,Netrokona,Kalmakanda Border,Border,24.5,46.3,10.8,42.9,5.9,57.0,Low,Low
+Mymensingh,Mymensingh,Dhobaura Border,Border,30.1,51.6,18.2,30.2,3.9,51.5,Low,Medium
+Mymensingh,Mymensingh,Gaffargaon Industrial,Industrial,13.1,28.9,29.5,41.6,6.0,71.0,Medium,Medium
+Mymensingh,Mymensingh,Mymensingh River,River,31.7,44.7,12.4,42.9,4.6,50.8,Low,Low
+Mymensingh,Jamalpur,Islampur River,River,30.8,54.6,20.2,25.2,5.8,56.5,Low,Low
+Mymensingh,Jamalpur,Sarishabari Handloom,Rural,41.2,49.2,10.5,40.3,5.5,65.5,Low,Low
+Rajshahi,Rajshahi,Boalia,Metropolitan,17.0,10.0,42.5,47.5,5.1,71.8,High,Medium
+Rajshahi,Rajshahi,Rajpara,Metropolitan,6.2,12.2,42.8,45.0,4.6,79.1,High,Medium
+Rajshahi,Rajshahi,Motihar,Metropolitan,12.6,16.4,38.4,45.2,3.8,81.5,High,Low
+Rajshahi,Rajshahi,Shah Makhdum,Metropolitan,17.5,14.8,25.9,59.3,3.9,82.5,High,Low
+Rajshahi,Rajshahi,Rajshahi Cantonment,Metropolitan,19.1,10.6,46.6,42.8,5.9,68.8,High,Medium
+Rajshahi,Rajshahi,Rajshahi Industrial,Industrial,22.4,32.3,21.3,46.4,2.9,71.4,Medium,Medium
+Rajshahi,Rajshahi,Bagha,Rural,27.9,46.0,16.4,37.6,4.5,62.5,Low,Low
+Rajshahi,Rajshahi,Bagmara,Rural,27.1,45.9,19.4,34.7,6.4,52.1,Low,Low
+Rajshahi,Rajshahi,Charghat,Industrial,15.7,25.0,33.4,41.6,2.9,62.6,Medium,Low
+Rajshahi,Rajshahi,Durgapur Raj,Rural,30.5,55.9,15.0,29.1,5.8,68.8,Low,Medium
+Rajshahi,Rajshahi,Godagari,Border,17.2,51.4,13.0,35.6,4.6,54.7,Low,Low
+Rajshahi,Rajshahi,Mohanpur,Rural,31.9,46.6,6.8,46.6,5.1,61.9,Low,Low
+Rajshahi,Rajshahi,Paba,Industrial,20.2,29.0,39.5,31.5,3.1,81.8,Medium,Low
+Rajshahi,Rajshahi,Putia,Rural,24.1,42.3,10.4,47.3,5.5,58.0,Low,Medium
+Rajshahi,Rajshahi,Godagari Border,Border,19.7,48.9,24.8,26.3,5.5,67.5,Low,Low
+Rajshahi,Rajshahi,Rajshahi EPZ,Industrial,20.8,27.4,35.7,36.9,4.7,75.8,Medium,Low
+Rajshahi,Bogura,Bogura Sadar,City,5.2,28.7,30.7,40.6,4.6,74.3,High,Medium
+Rajshahi,Bogura,Adamdighi,Rural,26.6,44.7,14.5,40.8,4.5,52.2,Low,Medium
+Rajshahi,Bogura,Dhunat,River,28.5,51.1,14.9,34.0,5.4,53.1,Low,Low
+Rajshahi,Bogura,Dupchanchia,Rural,22.3,49.7,6.1,44.2,6.5,54.5,Low,Medium
+Rajshahi,Bogura,Gabtali,Rural,24.0,48.1,18.6,33.3,4.9,54.4,Low,Low
+Rajshahi,Bogura,Kahaloo,Rural,23.6,50.7,12.5,36.8,5.1,69.3,Low,Low
+Rajshahi,Bogura,Nandigram,Rural,27.7,52.7,14.0,33.3,3.8,53.2,Low,Medium
+Rajshahi,Bogura,Sariakandi,River,27.5,48.7,10.2,41.1,4.9,62.7,Low,Low
+Rajshahi,Bogura,Shajahanpur,Industrial,15.4,28.8,27.7,43.5,2.9,54.5,Medium,Low
+Rajshahi,Bogura,Sherpur Bog,Rural,31.1,65.5,19.9,14.6,5.2,51.5,Low,Low
+Rajshahi,Bogura,Shibganj Bog,Rural,25.4,55.7,7.7,36.6,5.5,49.7,Low,Low
+Rajshahi,Bogura,Sonatola,Rural,21.7,56.7,16.6,26.7,4.8,64.7,Low,Low
+Rajshahi,Bogura,Bogura Model,City,14.9,27.1,42.7,30.2,5.1,74.5,High,Medium
+Rajshahi,Bogura,Sariakandi River,River,37.5,46.9,20.0,33.1,3.2,63.5,Low,Low
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,Border,23.1,37.7,22.0,40.3,5.1,68.4,Low,Low
+Rajshahi,Chapainawabganj,Bholahat,Border,18.2,45.4,19.1,35.5,5.1,58.7,Low,Medium
+Rajshahi,Chapainawabganj,Gomastapur,Rural,21.3,61.5,15.6,22.9,8.8,56.0,Low,Medium
+Rajshahi,Chapainawabganj,Nachole,Border,31.9,50.9,21.3,27.8,4.2,54.3,Low,Low
+Rajshahi,Chapainawabganj,Shibganj Chap,Border,31.2,44.3,17.9,37.8,4.2,61.5,Low,Medium
+Rajshahi,Chapainawabganj,Sonamasjid Land Port,Border,24.3,57.6,14.0,28.4,3.2,79.0,Low,Low
+Rajshahi,Chapainawabganj,Chapai Model,Border,22.1,53.9,19.0,27.1,4.3,55.8,Low,Low
+Rajshahi,Joypurhat,Joypurhat Sadar,City,27.4,24.4,32.8,42.8,6.2,64.3,High,Low
+Rajshahi,Joypurhat,Akkelpur,Industrial,30.5,29.3,27.4,43.3,5.8,73.0,Medium,Medium
+Rajshahi,Joypurhat,Kalai,Rural,27.0,46.5,25.4,28.1,3.7,50.7,Low,Low
+Rajshahi,Joypurhat,Khetlal,Rural,20.9,49.5,14.6,35.9,5.1,61.1,Low,Medium
+Rajshahi,Joypurhat,Panchbibi,Rural,26.2,49.3,11.9,38.8,3.0,71.4,Low,Medium
+Rajshahi,Joypurhat,Joypurhat Model,City,13.3,34.7,36.8,28.5,5.1,67.4,High,Medium
+Rajshahi,Joypurhat,Akkelpur Industrial,Industrial,9.8,29.1,30.0,40.9,5.7,65.0,Medium,Low
+Rajshahi,Naogaon,Naogaon Sadar,City,5.0,12.9,34.2,52.9,3.5,68.2,High,Low
+Rajshahi,Naogaon,Atrai,River,11.9,51.7,5.0,43.3,3.5,67.0,Low,Low
+Rajshahi,Naogaon,Badalgachhi,Rural,32.1,49.3,9.8,40.9,4.9,51.4,Low,Low
+Rajshahi,Naogaon,Dhamoirhat,Rural,18.5,59.4,16.4,24.2,6.4,55.3,Low,Low
+Rajshahi,Naogaon,Manda,Rural,24.6,60.7,11.2,28.1,2.7,79.1,Low,Low
+Rajshahi,Naogaon,Mahadebpur,Rural,27.0,41.2,13.6,45.2,5.7,54.3,Low,Low
+Rajshahi,Naogaon,Niamatpur,Rural,23.9,45.9,21.8,32.3,4.5,59.7,Low,Medium
+Rajshahi,Naogaon,Patnitala,Rural,26.1,51.2,10.3,38.5,3.0,42.0,Low,Low
+Rajshahi,Naogaon,Porsha,Border,21.5,59.8,17.0,23.2,5.6,58.1,Low,Low
+Rajshahi,Naogaon,Raninagar,Rural,20.2,50.4,16.9,32.7,6.3,48.8,Low,Medium
+Rajshahi,Naogaon,Sapahar,Rural,21.9,41.5,25.5,33.0,5.0,63.8,Low,Medium
+Rajshahi,Naogaon,Naogaon Model,City,20.7,19.2,41.2,39.6,5.6,78.1,High,Medium
+Rajshahi,Naogaon,Atrai River,River,28.3,37.9,22.2,39.9,3.5,49.7,Low,Low
+Rajshahi,Natore,Natore Sadar,City,10.5,28.6,30.9,40.5,5.4,66.4,High,Medium
+Rajshahi,Natore,Bagatipara,Rural,28.8,42.5,21.1,36.4,7.5,58.7,Low,Low
+Rajshahi,Natore,Baraigram,Rural,22.8,58.9,15.9,25.2,3.8,69.3,Low,Low
+Rajshahi,Natore,Gurudaspur,Industrial,16.3,23.5,20.6,55.9,5.8,58.2,Medium,Medium
+Rajshahi,Natore,Lalpur,Rural,24.5,52.9,10.0,37.1,4.8,62.9,Low,Medium
+Rajshahi,Natore,Singra,Rural,30.4,44.6,15.2,40.2,4.2,56.7,Low,Medium
+Rajshahi,Natore,Natore Model,City,15.5,23.8,35.6,40.6,4.1,72.2,High,Medium
+Rajshahi,Natore,Baraigram Sugar,Industrial,16.6,32.1,39.3,28.6,4.5,60.5,Medium,Medium
+Rajshahi,Pabna,Pabna Sadar,City,12.5,18.2,39.8,42.0,2.7,73.7,High,Medium
+Rajshahi,Pabna,Atgharia,Rural,22.4,43.8,24.3,31.9,6.5,52.5,Low,Low
+Rajshahi,Pabna,Bera,River,36.2,42.9,10.6,46.5,4.8,62.4,Low,Low
+Rajshahi,Pabna,Bhangura,Rural,34.2,50.2,14.7,35.1,4.1,54.2,Low,Low
+Rajshahi,Pabna,Chatmohar,River,23.9,47.5,7.0,45.5,5.7,63.0,Low,Medium
+Rajshahi,Pabna,Faridpur Pab,Rural,31.4,47.1,13.1,39.8,6.4,55.4,Low,Low
+Rajshahi,Pabna,Ishwardi,Industrial,9.7,25.1,25.5,49.4,6.3,65.4,Medium,Low
+Rajshahi,Pabna,Santhia,River,27.0,54.4,8.2,37.4,6.0,51.9,Low,Low
+Rajshahi,Pabna,Sujanagar,River,24.6,46.6,19.5,33.9,4.1,50.8,Low,Low
+Rajshahi,Pabna,Ishwardi EPZ,Industrial,23.3,23.9,31.7,44.4,3.0,76.1,Medium,Low
+Rajshahi,Pabna,Pabna Model,City,20.4,19.8,25.9,54.3,4.0,78.1,High,Low
+Rajshahi,Sirajganj,Sirajganj Sadar,City,17.2,25.4,28.2,46.4,5.6,73.6,High,Low
+Rajshahi,Sirajganj,Belkuchi,Industrial,17.2,33.6,29.4,37.0,3.3,78.4,Medium,Medium
+Rajshahi,Sirajganj,Chauhali,River,30.4,47.9,19.2,32.9,5.4,65.1,Low,Low
+Rajshahi,Sirajganj,Kamarkhand,Industrial,11.9,40.5,18.5,41.0,3.8,76.9,Medium,Low
+Rajshahi,Sirajganj,Kazipur,River,29.0,46.3,14.6,39.1,3.7,53.0,Low,Low
+Rajshahi,Sirajganj,Raiganj,River,37.9,48.4,17.0,34.6,2.5,47.5,Low,Low
+Rajshahi,Sirajganj,Shahjadpur,Industrial,9.9,26.9,26.8,46.3,5.1,73.1,Medium,Low
+Rajshahi,Sirajganj,Tarash,Rural,29.5,44.5,9.6,45.9,5.1,56.2,Low,Medium
+Rajshahi,Sirajganj,Ullahpara,Industrial,17.6,21.3,31.0,47.7,3.3,76.9,Medium,Medium
+Rajshahi,Sirajganj,Sirajganj Ferry,River,23.8,54.6,22.2,23.2,5.1,62.1,Low,Low
+Rajshahi,Sirajganj,Sirajganj Industrial,Industrial,21.4,24.6,23.8,51.6,6.3,70.7,Medium,Low
+Rajshahi,Sirajganj,Shahjadpur Handloom,Industrial,22.8,33.3,31.7,35.0,3.7,48.5,Medium,Medium
+Rangpur,Rangpur,Rangpur Kotwali,City,18.9,21.9,38.8,39.3,4.4,78.4,High,Low
+Rangpur,Rangpur,Rangpur Sadar,Sadar,33.7,40.4,29.9,29.7,4.4,82.2,Medium,Low
+Rangpur,Rangpur,Rangpur Model,City,19.3,23.3,40.1,36.6,4.3,52.0,High,Low
+Rangpur,Rangpur,Rangpur Industrial,Industrial,31.3,35.9,34.6,29.5,4.2,64.2,Medium,Low
+Rangpur,Rangpur,Rangpur Cantonment,Metropolitan,28.1,17.5,53.3,29.2,3.9,75.1,High,Medium
+Rangpur,Rangpur,Badarganj,Rural,37.3,46.4,5.7,47.9,3.2,60.8,Low,Medium
+Rangpur,Rangpur,Gangachara,Rural,44.5,47.3,12.9,39.8,3.5,48.6,Low,Low
+Rangpur,Rangpur,Kaunia,Rural,43.9,43.2,9.1,47.7,6.6,66.1,Low,Low
+Rangpur,Rangpur,Mithapukur,Rural,39.1,40.5,19.8,39.7,3.8,62.5,Low,Low
+Rangpur,Rangpur,Pirgachha,Rural,31.1,45.4,14.0,40.6,2.6,72.7,Low,Medium
+Rangpur,Rangpur,Pirganj Rng,Rural,34.9,45.4,22.5,32.1,5.2,47.8,Low,Medium
+Rangpur,Rangpur,Taraganj,Rural,28.8,44.1,13.0,42.9,5.2,62.4,Low,Low
+Rangpur,Dinajpur,Dinajpur Sadar,City,23.1,15.6,36.5,47.9,3.4,77.1,High,Medium
+Rangpur,Dinajpur,Birampur,Rural,32.4,60.3,13.2,26.5,3.2,55.4,Low,Medium
+Rangpur,Dinajpur,Birganj,Rural,37.5,56.8,11.6,31.6,4.9,70.8,Low,Medium
+Rangpur,Dinajpur,Biral,Rural,37.0,49.3,15.5,35.2,3.1,59.2,Low,Medium
+Rangpur,Dinajpur,Bochaganj,Rural,29.4,54.8,13.3,31.9,4.1,65.5,Low,Medium
+Rangpur,Dinajpur,Chirirbandar,Rural,34.5,50.7,18.7,30.6,5.4,56.4,Low,Medium
+Rangpur,Dinajpur,Fulbari Din,Industrial,27.1,23.7,31.7,44.6,7.0,72.5,Medium,Low
+Rangpur,Dinajpur,Ghoraghat,Rural,39.7,43.2,14.3,42.5,4.1,57.3,Low,Low
+Rangpur,Dinajpur,Hakimpur,Rural,25.4,38.1,11.3,50.6,4.4,53.9,Low,Medium
+Rangpur,Dinajpur,Kaharole,Rural,32.1,52.8,12.2,35.0,4.8,63.9,Low,Medium
+Rangpur,Dinajpur,Khansama,Rural,32.4,53.0,14.8,32.2,6.8,41.3,Low,Low
+Rangpur,Dinajpur,Nawabganj Din,Border,37.1,43.0,17.2,39.8,6.5,63.1,Low,Medium
+Rangpur,Dinajpur,Parbatipur,Industrial,30.0,20.8,28.8,50.4,4.1,70.8,Medium,Low
+Rangpur,Dinajpur,Dinajpur Model,City,21.2,32.9,32.9,34.2,5.6,86.5,High,Medium
+Rangpur,Dinajpur,Fulbari Coal,Industrial,41.6,36.9,24.1,39.0,5.6,62.8,Medium,Medium
+Rangpur,Gaibandha,Gaibandha Sadar,City,25.2,17.6,41.4,41.0,4.0,81.0,High,Low
+Rangpur,Gaibandha,Fulchhari,River,36.5,52.9,23.9,23.2,4.7,58.1,Low,Low
+Rangpur,Gaibandha,Gobindaganj,Industrial,31.4,30.4,41.9,27.7,5.3,55.2,Medium,Low
+Rangpur,Gaibandha,Palashbari,Rural,28.9,50.3,13.9,35.8,2.9,55.3,Low,Low
+Rangpur,Gaibandha,Sadullapur,Rural,33.2,51.1,24.0,24.9,4.3,48.5,Low,Low
+Rangpur,Gaibandha,Saghata,River,44.5,38.1,20.4,41.5,5.3,59.9,Low,Low
+Rangpur,Gaibandha,Sundarganj,River,34.0,41.9,18.1,40.0,2.8,59.8,Low,Low
+Rangpur,Gaibandha,Gaibandha Model,City,29.6,28.8,42.7,28.5,4.4,73.3,High,Medium
+Rangpur,Gaibandha,Fulchhari Ferry,River,38.3,46.9,18.4,34.7,6.3,50.1,Low,Medium
+Rangpur,Kurigram,Kurigram Sadar,City,23.3,26.0,30.1,43.9,5.9,75.0,High,Medium
+Rangpur,Kurigram,Bhurungamari,Border,32.6,42.9,28.7,28.4,7.3,58.0,Low,Low
+Rangpur,Kurigram,Char Rajibpur,River,33.8,41.6,19.6,38.8,4.0,56.1,Low,Medium
+Rangpur,Kurigram,Chilmari,River,28.7,55.0,9.9,35.1,4.0,62.5,Low,Low
+Rangpur,Kurigram,Nageshwari,Rural,35.3,52.7,13.5,33.8,4.7,45.2,Low,Medium
+Rangpur,Kurigram,Phulbari Kur,Border,32.2,52.7,18.9,28.4,5.1,56.4,Low,Low
+Rangpur,Kurigram,Rajarhat,Rural,37.7,55.3,20.1,24.6,4.9,58.6,Low,Medium
+Rangpur,Kurigram,Raumari,Border,28.6,45.3,8.1,46.6,3.0,67.9,Low,Low
+Rangpur,Kurigram,Ulipur,River,32.4,56.9,19.7,23.4,5.4,58.1,Low,Low
+Rangpur,Kurigram,Kurigram Model,City,22.3,23.4,33.4,43.2,4.4,58.7,High,Low
+Rangpur,Kurigram,Bhurungamari Border,Border,32.5,44.4,24.1,31.5,5.1,59.0,Low,Medium
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Border,33.5,35.2,11.7,53.1,5.2,60.7,Low,Low
+Rangpur,Lalmonirhat,Aditmari,Rural,46.8,57.4,18.1,24.5,4.5,46.0,Low,Medium
+Rangpur,Lalmonirhat,Hatibandha,Border,37.0,38.8,16.2,45.0,3.5,65.8,Low,Medium
+Rangpur,Lalmonirhat,Kaliganj Lal,Rural,34.5,36.3,23.0,40.7,3.4,54.7,Low,Low
+Rangpur,Lalmonirhat,Patgram,Border,35.8,43.3,12.5,44.2,6.0,57.2,Low,Low
+Rangpur,Lalmonirhat,Lalmonirhat Model,Border,34.3,41.1,12.3,46.6,6.5,58.5,Low,Low
+Rangpur,Lalmonirhat,Burimari Land Port,Border,31.9,45.9,18.8,35.3,6.6,52.4,Low,Low
+Rangpur,Nilphamari,Nilphamari Sadar,City,24.5,20.7,33.9,45.4,4.6,68.9,High,Medium
+Rangpur,Nilphamari,Dimla,Border,40.5,43.6,14.0,42.4,5.1,73.8,Low,Low
+Rangpur,Nilphamari,Domar,Rural,33.1,43.1,15.1,41.8,6.3,71.5,Low,Medium
+Rangpur,Nilphamari,Jaldhaka,Rural,37.1,54.5,14.8,30.7,4.5,49.2,Low,Medium
+Rangpur,Nilphamari,Kishoreganj Nil,Rural,39.5,51.6,18.3,30.1,3.4,60.2,Low,Medium
+Rangpur,Nilphamari,Saidpur,Industrial,21.7,25.2,29.9,44.9,4.8,50.3,Medium,Low
+Rangpur,Nilphamari,Nilphamari Model,City,15.6,24.9,23.0,52.1,2.7,71.1,High,Medium
+Rangpur,Nilphamari,Saidpur Cantonment,Industrial,24.3,26.9,25.1,48.0,4.1,73.1,Medium,Medium
+Rangpur,Panchagarh,Panchagarh Sadar,Border,35.8,42.0,19.1,38.9,3.7,52.6,Low,Medium
+Rangpur,Panchagarh,Atwari,Border,34.6,38.4,15.8,45.8,5.0,57.6,Low,Low
+Rangpur,Panchagarh,Boda,Rural,29.8,52.6,9.0,38.4,2.9,57.6,Low,Medium
+Rangpur,Panchagarh,Debiganj,Border,33.0,45.6,10.4,44.0,6.0,61.8,Low,Low
+Rangpur,Panchagarh,Tetulia,Border,31.7,44.1,21.3,34.6,3.9,58.8,Low,Low
+Rangpur,Panchagarh,Banglabandha Land Port,Border,33.3,41.6,22.9,35.5,3.7,57.7,Low,Low
+Rangpur,Thakurgaon,Thakurgaon Sadar,City,29.0,20.8,40.3,38.9,5.3,71.4,High,Low
+Rangpur,Thakurgaon,Baliadangi,Rural,25.1,52.9,8.8,38.3,4.7,59.6,Low,Low
+Rangpur,Thakurgaon,Haripur,Rural,29.9,52.6,14.8,32.6,4.4,66.6,Low,Low
+Rangpur,Thakurgaon,Pirganj Tha,Rural,30.8,50.5,11.5,38.0,4.1,66.3,Low,Low
+Rangpur,Thakurgaon,Ranisankail,Rural,48.6,39.1,16.9,44.0,6.0,45.0,Low,Low
+Rangpur,Thakurgaon,Thakurgaon Model,City,26.8,17.3,38.2,44.5,3.7,75.5,High,Medium
+Rangpur,Thakurgaon,Haripur Border,Border,31.0,47.4,16.0,36.6,5.3,66.3,Low,Medium
+Sylhet,Sylhet,Sylhet Kotwali,Metropolitan,16.7,10.0,40.9,49.1,4.7,77.2,High,High
+Sylhet,Sylhet,South Surma,Metropolitan,12.7,15.3,39.4,45.3,3.9,76.1,High,High
+Sylhet,Sylhet,Sylhet Sadar,Sadar,18.9,33.8,18.2,48.0,6.0,56.4,Medium,High
+Sylhet,Sylhet,Osmani Nagar,Industrial,20.9,34.6,37.9,27.5,3.0,70.4,Medium,High
+Sylhet,Sylhet,Sylhet Airport,Metropolitan,5.0,15.4,39.0,45.6,6.2,77.7,High,High
+Sylhet,Sylhet,Shah Paran,Metropolitan,15.6,10.0,43.9,46.1,7.2,77.6,High,High
+Sylhet,Sylhet,Jalalabad,Metropolitan,14.8,12.9,42.4,44.7,5.3,64.1,High,High
+Sylhet,Sylhet,Sylhet Industrial,Industrial,10.7,27.9,31.8,40.3,4.3,72.2,Medium,High
+Sylhet,Sylhet,Balaganj,Rural,17.3,47.4,19.5,33.1,5.0,59.8,Low,High
+Sylhet,Sylhet,Beani Bazar,Rural,16.3,42.9,20.9,36.2,3.1,64.4,Low,High
+Sylhet,Sylhet,Bishwanath,Industrial,5.0,28.2,31.5,40.3,5.3,73.7,Medium,High
+Sylhet,Sylhet,Companiganj Syl,Rural,24.5,49.0,19.2,31.8,6.1,69.1,Low,High
+Sylhet,Sylhet,Dakshin Surma,Industrial,18.3,40.9,35.1,24.0,4.2,59.9,Medium,High
+Sylhet,Sylhet,Fenchuganj,Industrial,14.9,29.1,28.4,42.5,5.1,60.2,Medium,High
+Sylhet,Sylhet,Golapganj,Rural,21.7,41.8,11.6,46.6,2.1,51.4,Low,High
+Sylhet,Sylhet,Gowainghat,Rural,24.9,46.9,17.8,35.3,4.0,73.0,Low,High
+Sylhet,Sylhet,Jaintiapur,Rural,22.3,49.5,18.3,32.2,2.4,61.2,Low,High
+Sylhet,Sylhet,Kanaighat,Border,23.4,43.6,17.6,38.8,4.6,54.9,Low,High
+Sylhet,Sylhet,Zakiganj,Border,20.8,49.6,18.5,31.9,5.9,56.1,Low,High
+Sylhet,Sylhet,Zakiganj Border,Border,13.3,31.8,14.7,53.5,5.7,71.2,Low,High
+Sylhet,Sylhet,Kanaighat Border,Border,16.7,34.3,20.0,45.7,4.7,53.0,Low,High
+Sylhet,Sylhet,Gowainghat Stone,Rural,27.6,50.1,11.5,38.4,4.7,49.4,Low,High
+Sylhet,Sylhet,Fenchuganj Gas,Industrial,25.0,24.3,26.0,49.7,4.5,69.7,Medium,High
+Sylhet,Habiganj,Habiganj Sadar,City,13.0,20.1,38.0,41.9,4.8,60.0,High,High
+Sylhet,Habiganj,Ajmiriganj,River,28.8,43.2,22.3,34.5,5.1,71.9,Low,High
+Sylhet,Habiganj,Bahubal,Rural,25.0,46.5,10.5,43.0,4.7,63.0,Low,High
+Sylhet,Habiganj,Baniachong,Rural,25.4,62.3,12.8,24.9,5.3,51.2,Low,High
+Sylhet,Habiganj,Chunarughat,Tea,22.3,37.6,19.3,43.1,4.6,67.1,Low,High
+Sylhet,Habiganj,Lakhai,Rural,19.9,48.5,18.1,33.4,6.6,62.6,Low,High
+Sylhet,Habiganj,Madhabpur,Tea,31.5,43.8,16.8,39.4,5.8,55.7,Low,High
+Sylhet,Habiganj,Nabiganj,Rural,29.6,41.9,23.5,34.6,6.8,62.0,Low,High
+Sylhet,Habiganj,Shaistaganj,Industrial,25.5,35.9,29.9,34.2,4.6,78.9,Medium,High
+Sylhet,Habiganj,Habiganj Model,City,6.3,19.7,41.3,39.0,4.5,91.6,High,High
+Sylhet,Habiganj,Chunarughat Tea,Tea,21.9,43.1,27.3,29.6,4.3,50.7,Low,High
+Sylhet,Habiganj,Ajmiriganj Ferry,River,23.7,39.1,15.9,45.0,5.1,56.5,Low,High
+Sylhet,Moulvibazar,Moulvibazar Sadar,City,17.0,27.2,38.9,33.9,5.5,72.4,High,High
+Sylhet,Moulvibazar,Barlekha,Tea,22.9,45.4,18.6,36.0,5.4,54.5,Low,High
+Sylhet,Moulvibazar,Juri,Tea,21.9,47.1,17.2,35.7,5.2,64.2,Low,High
+Sylhet,Moulvibazar,Kamalganj,Tea,15.4,40.0,23.0,37.0,5.6,69.0,Low,High
+Sylhet,Moulvibazar,Kulaura,Tea,26.8,50.2,11.8,38.0,5.1,67.4,Low,High
+Sylhet,Moulvibazar,Rajnagar,Tea,13.8,45.6,14.8,39.6,2.4,57.6,Low,High
+Sylhet,Moulvibazar,Sreemangal,Tea,24.1,42.1,25.4,32.5,2.4,55.6,Low,High
+Sylhet,Moulvibazar,Moulvibazar Model,City,9.7,15.8,38.4,45.8,4.4,76.9,High,High
+Sylhet,Moulvibazar,Sreemangal Tourism,Tourism,25.1,48.6,20.0,31.4,6.4,69.7,Medium,High
+Sylhet,Moulvibazar,Kulaura Railway,Tea,22.4,59.6,20.0,20.4,7.0,62.9,Low,High
+Sylhet,Moulvibazar,Barlekha Tea,Tea,21.6,45.3,12.3,42.4,4.6,42.6,Low,High
+Sylhet,Moulvibazar,Kamalganj Tea,Tea,27.4,57.8,13.5,28.7,6.5,50.2,Low,High
+Sylhet,Sunamganj,Sunamganj Sadar,City,5.0,30.2,41.7,28.1,7.5,67.9,High,High
+Sylhet,Sunamganj,Bishwamvarpur,River,12.2,41.1,13.6,45.3,4.7,64.5,Low,High
+Sylhet,Sunamganj,Chhatak,Industrial,21.9,29.1,23.4,47.5,7.1,47.6,Medium,High
+Sylhet,Sunamganj,Derai,River,22.7,61.8,13.1,25.1,5.4,56.6,Low,High
+Sylhet,Sunamganj,Dharampasha,River,33.0,62.1,13.4,24.5,4.1,61.0,Low,High
+Sylhet,Sunamganj,Dowarabazar,Border,20.8,37.6,9.7,52.7,5.2,63.7,Low,High
+Sylhet,Sunamganj,Jagannathpur,Rural,33.0,46.1,10.5,43.4,5.2,51.5,Low,High
+Sylhet,Sunamganj,Jamalganj,River,22.2,57.3,17.8,24.9,5.7,61.4,Low,High
+Sylhet,Sunamganj,Sulla,River,27.1,48.3,16.4,35.3,5.4,63.9,Low,High
+Sylhet,Sunamganj,Tahirpur,River,32.5,53.6,25.8,20.6,4.3,65.0,Low,High
+Sylhet,Sunamganj,Sunamganj Model,City,8.9,34.9,32.9,32.2,5.9,85.0,High,High
+Sylhet,Sunamganj,Chhatak Cement,Industrial,16.4,34.6,26.1,39.3,5.0,76.0,Medium,High
+Sylhet,Sunamganj,Dowarabazar Border,Border,21.7,38.3,12.8,48.9,3.2,59.1,Low,High
+Sylhet,Sunamganj,Sulla Haor,River,16.8,43.2,14.7,42.1,4.7,58.0,Low,High
+Sylhet,Sunamganj,Dharampasha Haor,River,24.5,45.9,12.4,41.7,4.8,70.2,Low,High
+Barisal,Barguna,Bakkhali,Coastal,25.6,51.7,21.3,27.0,5.7,57.9,Low,Low
+Barisal,Bhola,Bhola Industrial,Industrial,26.8,34.0,18.9,47.1,6.0,62.4,Medium,Low
+Barisal,Patuakhali,Patuakhali River,River,27.7,50.1,10.9,39.0,4.8,56.6,Low,Low
+Chittagong,Noakhali,Begumganj North,Rural,26.1,49.6,24.0,26.4,5.8,48.4,Low,Medium
+Dhaka,Dhaka,Demra South,Metropolitan,5.0,10.4,39.9,49.7,5.6,78.8,High,Low
+Dhaka,Dhaka,Jatrabari South,Metropolitan,5.0,10.0,40.5,49.5,3.2,77.5,High,Medium
+Dhaka,Dhaka,Mugda,Metropolitan,5.0,21.8,49.5,28.7,3.8,71.4,High,Medium
+Dhaka,Dhaka,Rayer Bazar,Metropolitan,5.0,10.0,45.4,44.6,4.4,70.6,High,Low
+Dhaka,Dhaka,Hazaribagh Model,Metropolitan,5.0,15.5,35.0,49.5,3.0,64.6,High,Low
+Dhaka,Dhaka,Kotwali South,Metropolitan,5.0,14.3,40.0,45.7,6.5,67.6,High,Low
+Dhaka,Dhaka,Pallabi South,Metropolitan,5.0,16.3,37.2,46.5,4.7,79.3,High,Low
+Dhaka,Dhaka,Mirpur East,Metropolitan,7.4,16.9,34.2,48.9,5.2,77.3,High,Medium
+Dhaka,Dhaka,Uttara East,Metropolitan,7.3,12.5,40.7,46.8,4.2,73.1,High,Low
+Dhaka,Dhaka,Dakshinkhan South,Metropolitan,5.0,10.0,43.9,46.1,6.3,72.9,High,Low
+Dhaka,Gazipur,Gazipur North,Industrial,13.0,33.8,29.6,36.6,3.9,64.3,Medium,Low
+Dhaka,Gazipur,Kaliakair North,Industrial,15.1,28.6,28.2,43.2,5.5,62.5,Medium,Medium
+Dhaka,Narayanganj,Rupganj North,Industrial,13.7,29.7,24.5,45.8,4.8,79.7,Medium,Low
+Dhaka,Narayanganj,Sonargaon South,Industrial,13.7,25.2,28.5,46.3,3.6,67.7,Medium,Low
+Dhaka,Narsingdi,Raipura South,River,18.0,54.2,14.3,31.5,6.6,58.8,Low,Low
+Dhaka,Kishoreganj,Bajitpur South,River,17.2,52.6,11.3,36.1,5.7,55.4,Low,Low
+Dhaka,Tangail,Ghatail North,Rural,16.8,59.3,15.2,25.5,4.2,66.6,Low,Low
+Dhaka,Faridpur,Bhanga South,River,5.0,46.8,20.7,32.5,4.2,65.9,Low,Low
+Dhaka,Manikganj,Singair South,Rural,17.0,60.0,9.6,30.4,4.5,58.7,Low,Low
+Dhaka,Shariatpur,Jajira South,River,16.1,44.0,10.6,45.4,6.2,63.3,Low,Low
+Mymensingh,Mymensingh,Mymensingh North,City,20.3,26.3,32.8,40.9,4.0,70.0,High,Low
+Mymensingh,Mymensingh,Phulpur North,Rural,35.7,47.5,14.3,38.2,4.5,50.9,Low,Medium
+Mymensingh,Mymensingh,Gaffargaon South,Rural,15.6,48.2,22.2,29.6,4.4,51.2,Low,Low
+Mymensingh,Mymensingh,Bhaluka South,Industrial,18.8,32.0,39.2,28.8,4.0,70.7,Medium,Medium
+Mymensingh,Jamalpur,Islampur South,River,28.7,46.2,20.0,33.8,4.6,49.3,Low,Low
+Mymensingh,Jamalpur,Madarganj South,River,31.5,50.0,19.8,30.2,4.4,54.3,Low,Medium
+Mymensingh,Netrokona,Kendua South,Rural,31.5,52.1,13.3,34.6,2.9,51.2,Low,Low
+Mymensingh,Netrokona,Mohanganj South,River,34.0,53.5,14.6,31.9,4.9,66.4,Low,Medium
+Mymensingh,Sherpur,Nakla South,Rural,32.8,45.0,13.2,41.8,4.4,64.3,Low,Low
+Mymensingh,Sherpur,Sreebardi South,Border,38.3,44.6,19.0,36.4,5.7,51.4,Low,Low
+Rangpur,Rangpur,Mithapukur South,Rural,36.6,53.6,17.9,28.5,3.7,59.6,Low,Low
+Rangpur,Dinajpur,Birganj South,Rural,37.6,54.5,23.3,22.2,4.3,56.2,Low,Medium
+Rangpur,Gaibandha,Gobindaganj South,Industrial,25.5,47.8,29.4,22.8,5.1,82.9,Medium,Medium
+Sylhet,Sylhet,Sylhet South,Metropolitan,5.6,15.9,51.7,32.4,5.5,63.8,High,High
+Sylhet,Sylhet,Osmani Nagar South,Industrial,8.0,24.8,34.4,40.8,5.6,72.3,Medium,High
+Sylhet,Habiganj,Nabiganj South,Rural,19.9,48.4,12.5,39.1,2.8,55.6,Low,High
+Sylhet,Moulvibazar,Kulaura South,Tea,24.5,46.0,12.8,41.2,5.4,65.9,Low,High
+Sylhet,Sunamganj,Jagannathpur South,Rural,20.9,54.0,10.3,35.7,4.9,73.5,Low,High

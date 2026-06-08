@@ -1,0 +1,492 @@
+﻿Division,District,Upazila,Area (km²),Population,Pop. Density (/km²),Urban Pop. %,Main Economic Activity
+Barisal,Barguna,Amtali,680.17,212000,312,18,"Fishing, Agriculture"
+Barisal,Barguna,Bamna,214.86,82000,381,12,Agriculture
+Barisal,Barguna,Barguna Sadar,484.25,215000,444,28,"Trade, Fishing"
+Barisal,Barguna,Betagi,290.06,130000,448,15,Agriculture
+Barisal,Barguna,Patharghata,396.23,145000,366,16,"Fishing, Agriculture"
+Barisal,Barguna,Taltali,402.13,115000,286,11,"Fishing, Agriculture"
+Barisal,Barisal,Agailjhara,158.17,138000,873,14,"Agriculture, Fishing"
+Barisal,Barisal,Babuganj,160.23,158000,987,16,Agriculture
+Barisal,Barisal,Bakerganj,361.73,355000,982,18,"Agriculture, Trade"
+Barisal,Barisal,Banari Para,208.45,215000,1032,14,Agriculture
+Barisal,Barisal,Barisal Sadar,58.08,612000,10537,85,"Trade, Services, Industry"
+Barisal,Barisal,Gaurnadi,134.48,188000,1398,22,"Agriculture, Trade"
+Barisal,Barisal,Hizla,167.74,135000,805,12,"Fishing, Agriculture"
+Barisal,Barisal,Mehendiganj,408.73,310000,759,15,"Agriculture, Fishing"
+Barisal,Barisal,Muladi,204.91,188000,918,16,Agriculture
+Barisal,Barisal,Wazirpur,200.53,198000,987,17,"Agriculture, Trade"
+Barisal,Bhola,Bhola Sadar,648.78,375000,578,30,"Trade, Agriculture"
+Barisal,Bhola,Burhanuddin,302.15,220000,728,18,Agriculture
+Barisal,Bhola,Char Fasson,1115.66,465000,417,14,"Fishing, Agriculture"
+Barisal,Bhola,Daulatkhan,221.32,168000,759,16,"Agriculture, Fishing"
+Barisal,Bhola,Lalmohan,399.75,280000,700,17,Agriculture
+Barisal,Bhola,Manpura,373.06,98000,263,10,"Fishing, Agriculture"
+Barisal,Bhola,Tazumuddin,216.94,148000,682,13,"Agriculture, Fishing"
+Barisal,Jhalokati,Jhalokati Sadar,309.44,205000,662,28,"Trade, Agriculture"
+Barisal,Jhalokati,Kathalia,220.67,138000,625,13,Agriculture
+Barisal,Jhalokati,Nalchity,192.13,128000,666,14,Agriculture
+Barisal,Jhalokati,Rajapur,214.25,148000,691,15,"Agriculture, Trade"
+Barisal,Patuakhali,Bauphal,573.84,295000,514,15,"Agriculture, Fishing"
+Barisal,Patuakhali,Dashmina,318.49,168000,527,13,"Fishing, Agriculture"
+Barisal,Patuakhali,Dumki,115.32,98000,850,14,Agriculture
+Barisal,Patuakhali,Galachipa,1011.04,315000,311,14,"Fishing, Agriculture"
+Barisal,Patuakhali,Kalapara,1002.45,298000,297,16,"Fishing, Agriculture"
+Barisal,Patuakhali,Mirzaganj,213.54,138000,646,14,Agriculture
+Barisal,Patuakhali,Patuakhali Sadar,462.16,295000,638,32,"Trade, Services"
+Barisal,Patuakhali,Rangabali,482.33,95000,197,10,Fishing
+Barisal,Pirojpur,Bhandaria,212.91,155000,728,16,Agriculture
+Barisal,Pirojpur,Kawkhali,176.23,128000,727,15,Agriculture
+Barisal,Pirojpur,Mathbaria,406.23,248000,611,16,"Agriculture, Fishing"
+Barisal,Pirojpur,Nazirpur,279.87,208000,743,15,Agriculture
+Barisal,Pirojpur,Pirojpur Sadar,340.35,248000,729,30,"Trade, Agriculture"
+Barisal,Pirojpur,Nesarabad,265.44,192000,723,15,Agriculture
+Barisal,Pirojpur,Zianagar,183.56,138000,752,13,Agriculture
+Chittagong,Bandarban,Ali Kadam,1046.26,58000,55,8,"Agriculture, Forestry"
+Chittagong,Bandarban,Bandarban Sadar,1167.52,118000,101,35,"Tourism, Trade"
+Chittagong,Bandarban,Lama,787.38,125000,159,12,"Agriculture, Forestry"
+Chittagong,Bandarban,Naikhongchhari,1076.41,68000,63,8,"Agriculture, Forestry"
+Chittagong,Bandarban,Rowangchhari,428.32,52000,121,10,"Agriculture, Forestry"
+Chittagong,Bandarban,Ruma,1083.01,45000,42,8,"Agriculture, Forestry"
+Chittagong,Bandarban,Thanchi,1284.03,38000,30,7,"Agriculture, Forestry"
+Chittagong,Brahmanbaria,Akhaura,96.83,198000,2045,45,"Trade, Industry"
+Chittagong,Brahmanbaria,Ashuganj,118.26,215000,1818,40,"Industry, Energy"
+Chittagong,Brahmanbaria,Bancharampur,225.23,268000,1190,18,Agriculture
+Chittagong,Brahmanbaria,Bijoynagar,178.45,198000,1110,15,Agriculture
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,220.63,458000,2077,55,"Trade, Services, Industry"
+Chittagong,Brahmanbaria,Kasba,277.45,328000,1182,22,"Agriculture, Trade"
+Chittagong,Brahmanbaria,Nabinagar,323.92,358000,1106,20,"Agriculture, Trade"
+Chittagong,Brahmanbaria,Nasirnagar,325.68,298000,915,16,Agriculture
+Chittagong,Brahmanbaria,Sarail,178.45,268000,1502,18,"Agriculture, Trade"
+Chittagong,Chandpur,Chandpur Sadar,247.08,368000,1489,45,"Trade, Fishing"
+Chittagong,Chandpur,Faridganj,260.22,298000,1145,18,"Agriculture, Fishing"
+Chittagong,Chandpur,Haimchar,155.4,148000,952,15,"Agriculture, Fishing"
+Chittagong,Chandpur,Haziganj,197.15,248000,1258,20,"Agriculture, Trade"
+Chittagong,Chandpur,Kachua,277.37,258000,931,16,Agriculture
+Chittagong,Chandpur,Matlab Dakshin,214.66,228000,1062,16,"Agriculture, Fishing"
+Chittagong,Chandpur,Matlab Uttar,226.55,248000,1095,17,"Agriculture, Fishing"
+Chittagong,Chandpur,Shahrasti,168.43,198000,1176,18,Agriculture
+Chittagong,Chittagong,Anwara,241.73,268000,1109,22,"Industry, Agriculture"
+Chittagong,Chittagong,Banshkhali,381.04,388000,1018,18,"Agriculture, Industry"
+Chittagong,Chittagong,Boalkhali,133.68,258000,1930,25,"Industry, Agriculture"
+Chittagong,Chittagong,Chandanaish,176.08,238000,1352,20,"Agriculture, Trade"
+Chittagong,Chittagong,Chittagong Sadar,168.05,985000,5861,92,"Port, Trade, Industry"
+Chittagong,Chittagong,Fatikchhari,878.34,468000,533,18,"Agriculture, Tea"
+Chittagong,Chittagong,Hathazari,237.97,398000,1672,28,"Agriculture, Trade"
+Chittagong,Chittagong,Karnaphuli,141.56,278000,1964,38,"Industry, Port"
+Chittagong,Chittagong,Lohagara,244.71,248000,1014,15,Agriculture
+Chittagong,Chittagong,Mirsharai,493.41,438000,888,22,"Industry, Agriculture"
+Chittagong,Chittagong,Patiya,248.67,428000,1721,28,"Agriculture, Industry"
+Chittagong,Chittagong,Rangunia,366.5,338000,922,18,"Agriculture, Forestry"
+Chittagong,Chittagong,Raozan,195.39,318000,1628,25,"Agriculture, Industry"
+Chittagong,Chittagong,Sandwip,762.42,358000,470,18,"Fishing, Agriculture"
+Chittagong,Chittagong,Satkania,393.04,358000,911,18,Agriculture
+Chittagong,Chittagong,Sitakunda,486.59,378000,777,35,"Industry, Trade"
+Chittagong,Comilla,Barura,249.08,298000,1197,18,Agriculture
+Chittagong,Comilla,Brahmanpara,180.18,228000,1266,16,Agriculture
+Chittagong,Comilla,Burichang,176.74,258000,1460,20,"Agriculture, Trade"
+Chittagong,Comilla,Chandina,226.34,318000,1405,22,"Agriculture, Trade"
+Chittagong,Comilla,Chauddagram,304.41,358000,1176,20,"Agriculture, Industry"
+Chittagong,Comilla,Comilla Sadar,148.35,618000,4166,75,"Trade, Services, Industry"
+Chittagong,Comilla,Comilla Sadar Dakshin,168.43,298000,1770,30,"Trade, Industry"
+Chittagong,Comilla,Daudkandi,341.26,368000,1078,22,"Agriculture, Trade"
+Chittagong,Comilla,Debidwar,264.97,358000,1352,20,Agriculture
+Chittagong,Comilla,Homna,168.06,198000,1178,16,"Agriculture, Fishing"
+Chittagong,Comilla,Laksam,130.51,248000,1901,32,"Trade, Industry"
+Chittagong,Comilla,Lalmai,95.12,148000,1556,22,Agriculture
+Chittagong,Comilla,Manoharganj,211.79,248000,1171,16,Agriculture
+Chittagong,Comilla,Meghna,139.39,178000,1277,18,"Agriculture, Fishing"
+Chittagong,Comilla,Muradnagar,343.22,458000,1335,20,"Agriculture, Industry"
+Chittagong,Comilla,Nangalkot,268.27,318000,1186,18,Agriculture
+Chittagong,Comilla,Titas,216.17,248000,1147,16,"Agriculture, Fishing"
+Chittagong,Cox's Bazar,Chakaria,727.39,448000,616,20,"Agriculture, Fishing"
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,318.92,448000,1405,55,"Tourism, Fishing, Trade"
+Chittagong,Cox's Bazar,Kutubdia,216.65,138000,637,15,Fishing
+Chittagong,Cox's Bazar,Maheshkhali,393.91,298000,757,20,"Fishing, Salt"
+Chittagong,Cox's Bazar,Pekua,231.85,165000,712,15,"Fishing, Agriculture"
+Chittagong,Cox's Bazar,Ramu,599.24,248000,414,18,"Agriculture, Tourism"
+Chittagong,Cox's Bazar,Teknaf,412.83,248000,601,18,"Fishing, Trade"
+Chittagong,Cox's Bazar,Ukhia,441.05,248000,562,12,"Agriculture, Fishing"
+Chittagong,Feni,Chhagalnaiya,196.06,248000,1265,20,"Agriculture, Trade"
+Chittagong,Feni,Daganbhuiyan,376.02,298000,793,18,Agriculture
+Chittagong,Feni,Feni Sadar,264.88,448000,1692,52,"Trade, Services, Industry"
+Chittagong,Feni,Fulgazi,168.35,168000,998,15,Agriculture
+Chittagong,Feni,Parshuram,103.76,128000,1234,18,Agriculture
+Chittagong,Feni,Sonagazi,259.58,248000,956,18,"Agriculture, Industry"
+Chittagong,Khagrachhari,Dighinala,703.57,98000,139,12,"Agriculture, Forestry"
+Chittagong,Khagrachhari,Guimara,298.43,55000,184,10,"Agriculture, Forestry"
+Chittagong,Khagrachhari,Khagrachhari Sadar,621.84,178000,286,38,"Trade, Agriculture"
+Chittagong,Khagrachhari,Lakshmichhari,255.56,42000,164,8,"Agriculture, Forestry"
+Chittagong,Khagrachhari,Mahalchhari,338.68,48000,142,10,"Agriculture, Forestry"
+Chittagong,Khagrachhari,Manikchhari,395.85,65000,164,10,"Agriculture, Forestry"
+Chittagong,Khagrachhari,Matiranga,517.44,105000,203,12,"Agriculture, Trade"
+Chittagong,Khagrachhari,Panchhari,697.36,68000,98,8,"Agriculture, Forestry"
+Chittagong,Khagrachhari,Ramgarh,335.88,75000,223,18,"Agriculture, Trade"
+Chittagong,Lakshmipur,Kamalnagar,209.47,248000,1184,15,"Fishing, Agriculture"
+Chittagong,Lakshmipur,Lakshmipur Sadar,278.93,468000,1678,45,"Trade, Agriculture"
+Chittagong,Lakshmipur,Ramganj,213.25,318000,1492,22,"Agriculture, Trade"
+Chittagong,Lakshmipur,Ramgati,383.06,265000,692,15,"Fishing, Agriculture"
+Chittagong,Lakshmipur,Raipur,105.31,198000,1880,30,"Agriculture, Trade"
+Chittagong,Noakhali,Begumganj,348.2,558000,1603,28,"Agriculture, Trade"
+Chittagong,Noakhali,Chatkhil,178.96,298000,1665,20,Agriculture
+Chittagong,Noakhali,Companiganj,490.35,328000,669,15,"Agriculture, Fishing"
+Chittagong,Noakhali,Hatiya,1587.56,358000,226,14,"Fishing, Agriculture"
+Chittagong,Noakhali,Kabirhat,200.45,248000,1237,22,"Agriculture, Trade"
+Chittagong,Noakhali,Noakhali Sadar,338.29,468000,1384,48,"Trade, Services"
+Chittagong,Noakhali,Senbagh,168.91,248000,1469,20,Agriculture
+Chittagong,Noakhali,Sonaimuri,245.52,298000,1214,18,Agriculture
+Chittagong,Noakhali,Subarnachar,840.31,248000,295,12,"Agriculture, Fishing"
+Chittagong,Rangamati,Bagaichhari,837.83,58000,69,8,"Agriculture, Forestry"
+Chittagong,Rangamati,Barkal,1159.22,42000,36,7,"Agriculture, Forestry"
+Chittagong,Rangamati,Belaichhari,655.29,32000,49,7,"Agriculture, Forestry"
+Chittagong,Rangamati,Juraichhari,652.81,28000,43,6,"Agriculture, Forestry"
+Chittagong,Rangamati,Kaptai,364.77,68000,186,22,"Hydropower, Forestry"
+Chittagong,Rangamati,Kawkhali,340.22,42000,123,10,"Agriculture, Forestry"
+Chittagong,Rangamati,Langadu,804.34,58000,72,10,"Agriculture, Forestry"
+Chittagong,Rangamati,Naniarchar,499.94,38000,76,8,"Agriculture, Forestry"
+Chittagong,Rangamati,Rajasthali,376.98,28000,74,7,"Agriculture, Forestry"
+Chittagong,Rangamati,Rangamati Sadar,617.57,138000,224,42,"Trade, Tourism, Services"
+Dhaka,Dhaka,Demra,46.89,658000,14033,88,"Industry, Trade"
+Dhaka,Dhaka,Dhamrai,349.55,468000,1339,22,"Industry, Agriculture"
+Dhaka,Dhaka,Dohar,165.97,248000,1494,18,Agriculture
+Dhaka,Dhaka,Keraniganj,163.0,858000,5264,68,"Industry, Trade"
+Dhaka,Dhaka,Nawabganj,177.71,348000,1959,28,"Agriculture, Industry"
+Dhaka,Dhaka,Savar,280.54,1658000,5909,75,"Industry (EPZ), Trade"
+Dhaka,Dhaka,Tejgaon (Dhaka City),306.38,8906039,29074,99,"Trade, Industry, Services"
+Dhaka,Faridpur,Alfadanga,182.75,148000,810,14,Agriculture
+Dhaka,Faridpur,Bhanga,248.37,248000,999,18,"Agriculture, Trade"
+Dhaka,Faridpur,Boalmari,246.69,248000,1006,16,Agriculture
+Dhaka,Faridpur,Char Bhadrasan,159.95,118000,738,12,Agriculture
+Dhaka,Faridpur,Faridpur Sadar,372.6,468000,1256,45,"Trade, Services"
+Dhaka,Faridpur,Madhukhali,195.39,178000,911,15,Agriculture
+Dhaka,Faridpur,Nagarkanda,198.2,178000,898,15,Agriculture
+Dhaka,Faridpur,Saltha,150.18,128000,852,13,Agriculture
+Dhaka,Faridpur,Sadarpur,227.43,198000,871,14,Agriculture
+Dhaka,Gazipur,Gazipur Sadar,446.04,1658000,3717,78,"Industry, Trade"
+Dhaka,Gazipur,Kaliakair,327.77,858000,2618,55,"Industry (EPZ), Trade"
+Dhaka,Gazipur,Kaliganj,214.08,468000,2186,35,"Industry, Agriculture"
+Dhaka,Gazipur,Kapasia,375.63,348000,927,22,"Agriculture, Industry"
+Dhaka,Gazipur,Sreepur,455.96,658000,1443,38,"Industry, Agriculture"
+Dhaka,Gopalganj,Gopalganj Sadar,440.22,298000,678,32,"Trade, Agriculture"
+Dhaka,Gopalganj,Kashiani,277.57,248000,894,18,Agriculture
+Dhaka,Gopalganj,Kotalipara,305.83,248000,811,16,Agriculture
+Dhaka,Gopalganj,Muksudpur,318.38,248000,779,15,Agriculture
+Dhaka,Gopalganj,Tungipara,112.63,118000,1048,18,Agriculture
+Dhaka,Kishoreganj,Astagram,376.02,258000,686,14,"Agriculture, Fishing"
+Dhaka,Kishoreganj,Bajitpur,238.77,298000,1248,25,"Agriculture, Trade"
+Dhaka,Kishoreganj,Bhairab,143.93,358000,2488,55,"Trade, Industry"
+Dhaka,Kishoreganj,Hossainpur,149.06,198000,1328,18,Agriculture
+Dhaka,Kishoreganj,Itna,340.19,218000,641,12,"Agriculture, Fishing"
+Dhaka,Kishoreganj,Karimganj,311.25,278000,894,18,Agriculture
+Dhaka,Kishoreganj,Katiadi,268.37,298000,1111,18,Agriculture
+Dhaka,Kishoreganj,Kishoreganj Sadar,214.04,418000,1953,48,"Trade, Services"
+Dhaka,Kishoreganj,Kuliarchar,213.38,248000,1162,18,"Agriculture, Fishing"
+Dhaka,Kishoreganj,Mithamain,272.2,178000,654,12,"Agriculture, Fishing"
+Dhaka,Kishoreganj,Nikli,204.79,148000,723,12,"Agriculture, Fishing"
+Dhaka,Kishoreganj,Pakundia,219.47,298000,1358,20,Agriculture
+Dhaka,Kishoreganj,Tarail,178.6,198000,1109,15,Agriculture
+Dhaka,Madaripur,Kalkini,327.48,248000,757,15,Agriculture
+Dhaka,Madaripur,Madaripur Sadar,339.73,368000,1083,38,"Trade, Agriculture"
+Dhaka,Madaripur,Rajoir,208.29,188000,903,15,Agriculture
+Dhaka,Madaripur,Shibchar,380.9,298000,783,16,Agriculture
+Dhaka,Manikganj,Daulatpur,262.86,248000,944,16,Agriculture
+Dhaka,Manikganj,Ghior,196.39,198000,1008,15,Agriculture
+Dhaka,Manikganj,Harirampur,297.92,198000,665,13,Agriculture
+Dhaka,Manikganj,Manikganj Sadar,282.12,298000,1056,32,"Trade, Agriculture"
+Dhaka,Manikganj,Saturia,184.12,218000,1184,18,Agriculture
+Dhaka,Manikganj,Shibalaya,179.53,178000,991,15,Agriculture
+Dhaka,Manikganj,Singair,253.14,268000,1059,18,Agriculture
+Dhaka,Munshiganj,Gazaria,120.84,248000,2053,25,"Industry, Agriculture"
+Dhaka,Munshiganj,Louhajang,166.3,248000,1492,22,"Industry, Agriculture"
+Dhaka,Munshiganj,Munshiganj Sadar,163.53,348000,2128,42,"Trade, Services"
+Dhaka,Munshiganj,Sirajdikhan,181.86,278000,1529,20,"Agriculture, Industry"
+Dhaka,Munshiganj,Sreenagar,170.78,298000,1745,28,"Industry, Agriculture"
+Dhaka,Munshiganj,Tongibari,186.73,298000,1597,22,"Agriculture, Industry"
+Dhaka,Narayanganj,Araihazar,184.64,458000,2481,35,"Industry, Agriculture"
+Dhaka,Narayanganj,Bandar,53.0,658000,12415,88,"Industry, Trade, Port"
+Dhaka,Narayanganj,Narayanganj Sadar,69.73,858000,12305,92,"Industry, Trade"
+Dhaka,Narayanganj,Rupganj,176.23,858000,4869,68,"Industry, Trade"
+Dhaka,Narayanganj,Sonargaon,207.83,458000,2205,35,"Industry, Tourism"
+Dhaka,Narsingdi,Belabo,162.84,248000,1523,18,"Agriculture, Industry"
+Dhaka,Narsingdi,Monohardi,195.18,248000,1270,18,Agriculture
+Dhaka,Narsingdi,Narsingdi Sadar,235.17,658000,2798,52,"Trade, Industry"
+Dhaka,Narsingdi,Palash,76.69,348000,4538,65,"Industry (Chemical), Trade"
+Dhaka,Narsingdi,Raipura,379.75,468000,1233,22,"Agriculture, Industry"
+Dhaka,Narsingdi,Shibpur,246.08,348000,1414,25,"Agriculture, Industry"
+Dhaka,Rajbari,Baliakandi,252.82,198000,783,14,Agriculture
+Dhaka,Rajbari,Goalandaghat,213.21,178000,835,18,"Fishing, Trade"
+Dhaka,Rajbari,Kalukhali,133.52,148000,1108,18,Agriculture
+Dhaka,Rajbari,Pangsha,250.52,248000,990,16,Agriculture
+Dhaka,Rajbari,Rajbari Sadar,268.49,298000,1110,35,"Trade, Agriculture"
+Dhaka,Shariatpur,Bhedarganj,302.14,298000,987,18,"Agriculture, Fishing"
+Dhaka,Shariatpur,Damudya,134.48,178000,1324,20,Agriculture
+Dhaka,Shariatpur,Gosairhat,239.71,198000,826,15,"Agriculture, Fishing"
+Dhaka,Shariatpur,Jajira,242.34,248000,1023,18,"Agriculture, Fishing"
+Dhaka,Shariatpur,Naria,264.24,248000,939,16,Agriculture
+Dhaka,Shariatpur,Shariatpur Sadar,228.53,298000,1304,35,"Trade, Agriculture"
+Dhaka,Tangail,Basail,146.68,148000,1009,14,Agriculture
+Dhaka,Tangail,Bhuapur,234.48,248000,1058,16,Agriculture
+Dhaka,Tangail,Delduar,204.58,218000,1066,16,Agriculture
+Dhaka,Tangail,Dhanbari,198.76,198000,997,15,Agriculture
+Dhaka,Tangail,Ghatail,378.35,368000,973,18,Agriculture
+Dhaka,Tangail,Gopalpur,175.53,218000,1242,16,Agriculture
+Dhaka,Tangail,Kalihati,278.44,318000,1143,18,Agriculture
+Dhaka,Tangail,Madhupur,492.31,368000,748,20,"Agriculture, Forestry"
+Dhaka,Tangail,Mirzapur,335.76,368000,1097,25,"Industry, Agriculture"
+Dhaka,Tangail,Nagarpur,257.26,248000,964,15,Agriculture
+Dhaka,Tangail,Sakhipur,371.62,248000,667,14,"Agriculture, Forestry"
+Dhaka,Tangail,Tangail Sadar,348.36,658000,1889,48,"Trade, Services, Industry"
+Khulna,Bagerhat,Bagerhat Sadar,479.98,298000,621,28,"Trade, Agriculture"
+Khulna,Bagerhat,Chitalmari,198.28,148000,746,14,Agriculture
+Khulna,Bagerhat,Fakirhat,195.4,148000,757,14,Agriculture
+Khulna,Bagerhat,Kachua,322.77,198000,613,13,"Agriculture, Fishing"
+Khulna,Bagerhat,Mollahat,252.98,168000,664,14,Agriculture
+Khulna,Bagerhat,Mongla,1955.5,138000,71,22,"Port, Industry, Fishing"
+Khulna,Bagerhat,Morrelganj,495.5,248000,501,18,"Agriculture, Fishing"
+Khulna,Bagerhat,Rampal,339.34,168000,495,14,Agriculture
+Khulna,Bagerhat,Sarankhola,377.85,138000,365,13,"Fishing, Agriculture"
+Khulna,Chuadanga,Alamdanga,347.84,248000,713,18,Agriculture
+Khulna,Chuadanga,Chuadanga Sadar,352.09,318000,903,35,"Trade, Agriculture"
+Khulna,Chuadanga,Damurhuda,293.64,218000,743,15,Agriculture
+Khulna,Chuadanga,Jibannagar,203.18,168000,827,14,Agriculture
+Khulna,Jessore,Abhaynagar,270.82,248000,916,18,"Agriculture, Industry"
+Khulna,Jessore,Bagherpara,334.68,248000,741,16,Agriculture
+Khulna,Jessore,Chaugachha,293.67,248000,846,16,Agriculture
+Khulna,Jessore,Jessore Sadar,369.47,568000,1538,55,"Trade, Services, Industry"
+Khulna,Jessore,Jhikargachha,334.26,298000,892,18,Agriculture
+Khulna,Jessore,Keshabpur,275.32,218000,792,15,Agriculture
+Khulna,Jessore,Manirampur,384.7,348000,905,18,Agriculture
+Khulna,Jessore,Sharsha,344.82,358000,1038,22,"Agriculture, Trade"
+Khulna,Jhenaidah,Harinakunda,294.39,198000,673,15,Agriculture
+Khulna,Jhenaidah,Jhenaidah Sadar,474.27,458000,966,42,"Trade, Services, Agriculture"
+Khulna,Jhenaidah,Kaliganj,366.76,298000,813,18,Agriculture
+Khulna,Jhenaidah,Kotchandpur,204.75,168000,821,16,Agriculture
+Khulna,Jhenaidah,Maheshpur,413.09,298000,721,16,Agriculture
+Khulna,Jhenaidah,Shailkupa,421.13,298000,708,16,Agriculture
+Khulna,Khulna,Batiaghata,373.94,198000,530,15,"Agriculture, Fishing"
+Khulna,Khulna,Dacope,1443.5,168000,116,14,"Fishing, Agriculture"
+Khulna,Khulna,Dighalia,129.38,138000,1067,22,Agriculture
+Khulna,Khulna,Dumuria,591.71,298000,504,16,Agriculture
+Khulna,Khulna,Koyra,1695.61,168000,99,12,"Fishing, Agriculture"
+Khulna,Khulna,Khulna Sadar,59.57,858000,14400,92,"Trade, Industry, Port"
+Khulna,Khulna,Paikgachha,503.97,248000,492,15,"Shrimp, Agriculture"
+Khulna,Khulna,Phultala,73.27,138000,1884,35,"Industry, Agriculture"
+Khulna,Khulna,Rupsha,112.8,248000,2199,45,"Industry, Trade"
+Khulna,Kushtia,Bheramara,162.24,198000,1220,28,"Industry, Agriculture"
+Khulna,Kushtia,Daulatpur,389.76,298000,764,18,Agriculture
+Khulna,Kushtia,Khoksa,127.13,168000,1321,20,"Agriculture, Industry"
+Khulna,Kushtia,Kushtia Sadar,428.23,548000,1280,52,"Trade, Services, Industry"
+Khulna,Kushtia,Kumarkhali,263.05,298000,1133,22,"Agriculture, Industry"
+Khulna,Kushtia,Mirpur,285.82,248000,868,16,Agriculture
+Khulna,Magura,Magura Sadar,435.2,368000,846,38,"Trade, Agriculture"
+Khulna,Magura,Mohammadpur,255.32,198000,776,15,Agriculture
+Khulna,Magura,Shalikha,192.17,148000,770,14,Agriculture
+Khulna,Magura,Sreepur,208.35,168000,807,15,Agriculture
+Khulna,Meherpur,Gangni,292.28,218000,746,16,Agriculture
+Khulna,Meherpur,Meherpur Sadar,289.56,248000,857,28,"Trade, Agriculture"
+Khulna,Meherpur,Mujibnagar,86.71,78000,900,14,Agriculture
+Khulna,Narail,Kalia,296.41,248000,838,16,Agriculture
+Khulna,Narail,Lohagara,263.5,198000,752,15,Agriculture
+Khulna,Narail,Narail Sadar,365.41,298000,815,32,"Trade, Agriculture"
+Khulna,Satkhira,Assasuni,430.31,248000,577,14,"Agriculture, Shrimp"
+Khulna,Satkhira,Debhata,285.63,178000,623,13,"Agriculture, Shrimp"
+Khulna,Satkhira,Kalaroa,356.88,298000,836,16,Agriculture
+Khulna,Satkhira,Kaliganj,430.15,248000,577,14,"Agriculture, Shrimp"
+Khulna,Satkhira,Satkhira Sadar,464.16,468000,1008,38,"Trade, Agriculture"
+Khulna,Satkhira,Shyamnagar,1768.28,198000,112,12,"Fishing, Shrimp, Forestry"
+Khulna,Satkhira,Tala,320.14,248000,775,15,Agriculture
+Mymensingh,Jamalpur,Baksiganj,193.48,218000,1127,16,Agriculture
+Mymensingh,Jamalpur,Dewanganj,329.01,298000,906,16,Agriculture
+Mymensingh,Jamalpur,Islampur,326.13,348000,1067,18,"Agriculture, Trade"
+Mymensingh,Jamalpur,Jamalpur Sadar,453.2,548000,1209,45,"Trade, Services"
+Mymensingh,Jamalpur,Madarganj,225.94,248000,1098,16,Agriculture
+Mymensingh,Jamalpur,Melandaha,267.65,298000,1113,16,Agriculture
+Mymensingh,Jamalpur,Sarishabari,261.43,298000,1140,18,"Agriculture, Handloom"
+Mymensingh,Mymensingh,Bhaluka,350.96,468000,1334,28,"Industry, Agriculture"
+Mymensingh,Mymensingh,Dhobaura,225.05,168000,747,12,Agriculture
+Mymensingh,Mymensingh,Fulbaria,349.19,348000,998,16,Agriculture
+Mymensingh,Mymensingh,Gaffargaon,344.91,398000,1154,20,"Agriculture, Trade"
+Mymensingh,Mymensingh,Gauripur,252.01,298000,1183,18,Agriculture
+Mymensingh,Mymensingh,Haluaghat,401.61,298000,742,14,Agriculture
+Mymensingh,Mymensingh,Ishwarganj,306.7,348000,1135,18,Agriculture
+Mymensingh,Mymensingh,Mymensingh Sadar,358.46,758000,2116,58,"Trade, Services, Industry"
+Mymensingh,Mymensingh,Muktagachha,282.25,298000,1056,18,"Agriculture, Trade"
+Mymensingh,Mymensingh,Nandail,326.36,348000,1066,18,Agriculture
+Mymensingh,Mymensingh,Phulpur,386.58,398000,1030,16,Agriculture
+Mymensingh,Mymensingh,Trishal,293.55,398000,1356,22,"Agriculture, Industry"
+Mymensingh,Netrokona,Atpara,200.95,198000,985,14,Agriculture
+Mymensingh,Netrokona,Barhatta,252.22,198000,785,12,Agriculture
+Mymensingh,Netrokona,Durgapur,346.58,178000,514,12,Agriculture
+Mymensingh,Netrokona,Kalmakanda,420.41,218000,519,12,Agriculture
+Mymensingh,Netrokona,Kendua,414.26,348000,841,14,Agriculture
+Mymensingh,Netrokona,Khaliajuri,290.32,148000,510,11,"Agriculture, Fishing"
+Mymensingh,Netrokona,Madan,296.62,198000,668,13,"Agriculture, Fishing"
+Mymensingh,Netrokona,Mohanganj,278.5,198000,711,14,"Agriculture, Fishing"
+Mymensingh,Netrokona,Netrokona Sadar,340.92,348000,1021,38,"Trade, Agriculture"
+Mymensingh,Netrokona,Purbadhala,348.57,298000,855,14,Agriculture
+Mymensingh,Sherpur,Jhenaigati,349.66,148000,423,12,"Agriculture, Forestry"
+Mymensingh,Sherpur,Nakla,243.56,248000,1019,16,Agriculture
+Mymensingh,Sherpur,Nalitabari,449.65,248000,552,14,Agriculture
+Mymensingh,Sherpur,Sherpur Sadar,366.9,418000,1140,38,"Trade, Agriculture"
+Mymensingh,Sherpur,Sreebardi,361.38,218000,603,13,Agriculture
+Rajshahi,Bogura,Adamdighi,190.42,198000,1040,15,Agriculture
+Rajshahi,Bogura,Bogura Sadar,426.56,758000,1777,55,"Trade, Services, Industry"
+Rajshahi,Bogura,Dhunat,363.58,298000,820,16,Agriculture
+Rajshahi,Bogura,Dupchanchia,164.27,178000,1083,16,Agriculture
+Rajshahi,Bogura,Gabtali,269.23,298000,1107,18,Agriculture
+Rajshahi,Bogura,Kahaloo,219.26,248000,1131,16,Agriculture
+Rajshahi,Bogura,Nandigram,182.71,198000,1084,15,Agriculture
+Rajshahi,Bogura,Sariakandi,362.08,248000,685,14,Agriculture
+Rajshahi,Bogura,Shajahanpur,169.43,198000,1169,16,"Agriculture, Industry"
+Rajshahi,Bogura,Sherpur,255.39,298000,1168,20,"Agriculture, Trade"
+Rajshahi,Bogura,Shibganj,346.87,368000,1061,18,Agriculture
+Rajshahi,Bogura,Sonatola,185.64,168000,905,14,Agriculture
+Rajshahi,Chapainawabganj,Bholahat,124.78,118000,946,14,Agriculture (Mango)
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,450.88,498000,1104,38,"Trade, Agriculture (Mango)"
+Rajshahi,Chapainawabganj,Gomastapur,436.85,298000,682,15,Agriculture
+Rajshahi,Chapainawabganj,Nachole,258.37,198000,766,14,Agriculture
+Rajshahi,Chapainawabganj,Shibganj,560.5,368000,657,15,"Agriculture (Mango), Silk"
+Rajshahi,Joypurhat,Akkelpur,154.67,148000,957,18,"Agriculture, Industry"
+Rajshahi,Joypurhat,Joypurhat Sadar,377.68,298000,789,35,"Trade, Agriculture"
+Rajshahi,Joypurhat,Kalai,212.97,198000,930,16,Agriculture
+Rajshahi,Joypurhat,Khetlal,162.45,148000,911,15,Agriculture
+Rajshahi,Joypurhat,Panchbibi,249.22,198000,795,14,Agriculture
+Rajshahi,Naogaon,Atrai,348.49,248000,712,14,Agriculture
+Rajshahi,Naogaon,Badalgachhi,265.12,198000,747,13,Agriculture
+Rajshahi,Naogaon,Dhamoirhat,293.51,198000,675,13,Agriculture
+Rajshahi,Naogaon,Manda,312.81,298000,953,16,Agriculture
+Rajshahi,Naogaon,Mahadebpur,397.52,298000,750,14,Agriculture
+Rajshahi,Naogaon,Naogaon Sadar,444.54,448000,1008,38,"Trade, Agriculture"
+Rajshahi,Naogaon,Niamatpur,364.27,248000,681,13,Agriculture
+Rajshahi,Naogaon,Patnitala,310.23,248000,799,14,Agriculture
+Rajshahi,Naogaon,Porsha,283.45,198000,699,13,Agriculture
+Rajshahi,Naogaon,Raninagar,214.32,178000,831,14,Agriculture
+Rajshahi,Naogaon,Sapahar,353.3,198000,561,13,Agriculture
+Rajshahi,Natore,Bagatipara,175.57,148000,843,14,Agriculture
+Rajshahi,Natore,Baraigram,365.74,298000,815,15,Agriculture
+Rajshahi,Natore,Gurudaspur,252.24,248000,984,18,"Agriculture, Sugarcane"
+Rajshahi,Natore,Lalpur,276.27,248000,898,15,Agriculture
+Rajshahi,Natore,Natore Sadar,400.16,448000,1120,38,"Trade, Agriculture"
+Rajshahi,Natore,Singra,383.9,348000,907,16,Agriculture
+Rajshahi,Pabna,Atgharia,188.48,168000,892,14,Agriculture
+Rajshahi,Pabna,Bera,358.22,298000,832,16,Agriculture
+Rajshahi,Pabna,Bhangura,186.81,168000,899,15,Agriculture
+Rajshahi,Pabna,Chatmohar,296.57,248000,837,15,Agriculture
+Rajshahi,Pabna,Faridpur,237.83,198000,832,14,Agriculture
+Rajshahi,Pabna,Ishwardi,265.36,348000,1312,42,"Industry, Agriculture"
+Rajshahi,Pabna,Pabna Sadar,407.74,548000,1344,48,"Trade, Services, Industry"
+Rajshahi,Pabna,Santhia,323.22,298000,922,16,Agriculture
+Rajshahi,Pabna,Sujanagar,265.7,248000,934,15,Agriculture
+Rajshahi,Rajshahi,Bagha,262.41,198000,755,16,Agriculture (Mango)
+Rajshahi,Rajshahi,Bagmara,427.62,348000,814,18,Agriculture
+Rajshahi,Rajshahi,Charghat,194.78,198000,1017,20,"Agriculture, Industry"
+Rajshahi,Rajshahi,Durgapur,289.33,248000,857,16,Agriculture
+Rajshahi,Rajshahi,Godagari,684.72,298000,435,16,"Agriculture, Silk"
+Rajshahi,Rajshahi,Mohanpur,188.42,198000,1051,18,Agriculture
+Rajshahi,Rajshahi,Paba,266.12,348000,1308,38,"Agriculture, Industry"
+Rajshahi,Rajshahi,Putia,232.25,218000,939,16,Agriculture
+Rajshahi,Rajshahi,Rajshahi Sadar,96.67,758000,7844,88,"Trade, Services, Industry"
+Rajshahi,Sirajganj,Belkuchi,144.83,298000,2058,28,"Handloom, Agriculture"
+Rajshahi,Sirajganj,Chauhali,238.2,198000,831,14,"Agriculture, Fishing"
+Rajshahi,Sirajganj,Kamarkhand,162.52,248000,1527,22,"Agriculture, Handloom"
+Rajshahi,Sirajganj,Kazipur,346.8,298000,860,16,Agriculture
+Rajshahi,Sirajganj,Raiganj,348.88,348000,998,18,Agriculture
+Rajshahi,Sirajganj,Shahjadpur,430.95,548000,1272,28,"Handloom, Agriculture"
+Rajshahi,Sirajganj,Sirajganj Sadar,335.59,568000,1693,55,"Trade, Handloom, Services"
+Rajshahi,Sirajganj,Tarash,272.09,198000,728,14,Agriculture
+Rajshahi,Sirajganj,Ullahpara,349.66,348000,996,18,"Agriculture, Handloom"
+Rangpur,Dinajpur,Birampur,272.25,198000,728,14,Agriculture
+Rangpur,Dinajpur,Birganj,362.85,298000,821,16,Agriculture
+Rangpur,Dinajpur,Biral,283.96,248000,874,15,Agriculture
+Rangpur,Dinajpur,Bochaganj,262.32,218000,832,14,Agriculture
+Rangpur,Dinajpur,Chirirbandar,280.51,248000,884,15,Agriculture
+Rangpur,Dinajpur,Dinajpur Sadar,413.62,648000,1567,52,"Trade, Services, Industry"
+Rangpur,Dinajpur,Fulbari,221.63,198000,894,15,"Agriculture, Coal"
+Rangpur,Dinajpur,Ghoraghat,208.55,148000,710,13,Agriculture
+Rangpur,Dinajpur,Hakimpur,128.96,128000,993,14,Agriculture
+Rangpur,Dinajpur,Kaharole,238.44,198000,831,14,Agriculture
+Rangpur,Dinajpur,Khansama,198.32,178000,898,14,Agriculture
+Rangpur,Dinajpur,Nawabganj,337.36,248000,736,15,Agriculture
+Rangpur,Dinajpur,Parbatipur,348.3,298000,856,22,"Agriculture, Railway"
+Rangpur,Gaibandha,Fulchhari,324.2,218000,672,13,Agriculture
+Rangpur,Gaibandha,Gaibandha Sadar,387.42,468000,1208,38,"Trade, Agriculture"
+Rangpur,Gaibandha,Gobindaganj,491.94,498000,1012,20,"Agriculture, Industry"
+Rangpur,Gaibandha,Palashbari,238.44,248000,1040,16,Agriculture
+Rangpur,Gaibandha,Sadullapur,311.04,298000,958,16,Agriculture
+Rangpur,Gaibandha,Saghata,368.26,248000,674,13,Agriculture
+Rangpur,Gaibandha,Sundarganj,491.34,398000,810,16,Agriculture
+Rangpur,Kurigram,Bhurungamari,386.64,298000,771,14,Agriculture
+Rangpur,Kurigram,Char Rajibpur,213.96,118000,552,11,Agriculture
+Rangpur,Kurigram,Chilmari,241.8,178000,736,13,"Agriculture, Fishing"
+Rangpur,Kurigram,Kurigram Sadar,335.94,448000,1334,35,"Trade, Agriculture"
+Rangpur,Kurigram,Nageshwari,476.04,448000,941,16,Agriculture
+Rangpur,Kurigram,Phulbari,238.05,218000,916,14,Agriculture
+Rangpur,Kurigram,Rajarhat,280.43,248000,884,14,Agriculture
+Rangpur,Kurigram,Raumari,350.15,248000,709,13,Agriculture
+Rangpur,Kurigram,Ulipur,519.97,448000,862,16,Agriculture
+Rangpur,Lalmonirhat,Aditmari,199.31,198000,994,14,Agriculture
+Rangpur,Lalmonirhat,Hatibandha,352.38,298000,846,14,Agriculture
+Rangpur,Lalmonirhat,Kaliganj,260.18,248000,954,15,Agriculture
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,314.28,348000,1107,32,"Trade, Agriculture"
+Rangpur,Lalmonirhat,Patgram,515.16,348000,676,14,Agriculture
+Rangpur,Nilphamari,Dimla,327.08,298000,911,15,Agriculture
+Rangpur,Nilphamari,Domar,256.47,248000,968,16,Agriculture
+Rangpur,Nilphamari,Jaldhaka,279.48,248000,888,15,Agriculture
+Rangpur,Nilphamari,Kishoreganj,242.36,218000,900,14,Agriculture
+Rangpur,Nilphamari,Nilphamari Sadar,387.79,448000,1155,38,"Trade, Agriculture"
+Rangpur,Nilphamari,Saidpur,133.17,398000,2989,68,"Industry, Trade"
+Rangpur,Panchagarh,Atwari,266.6,168000,630,12,"Agriculture, Tea"
+Rangpur,Panchagarh,Boda,370.91,248000,669,13,Agriculture
+Rangpur,Panchagarh,Debiganj,395.81,248000,627,12,"Agriculture, Tea"
+Rangpur,Panchagarh,Panchagarh Sadar,428.48,298000,695,28,"Trade, Agriculture, Tea"
+Rangpur,Panchagarh,Tetulia,330.43,178000,539,12,"Agriculture, Tea, Stone"
+Rangpur,Rangpur,Badarganj,258.44,248000,960,16,Agriculture
+Rangpur,Rangpur,Gangachara,386.21,298000,772,14,Agriculture
+Rangpur,Rangpur,Kaunia,204.96,198000,966,15,Agriculture
+Rangpur,Rangpur,Mithapukur,450.17,458000,1018,18,Agriculture
+Rangpur,Rangpur,Pirgachha,291.11,298000,1024,16,Agriculture
+Rangpur,Rangpur,Pirganj,449.23,398000,886,16,Agriculture
+Rangpur,Rangpur,Rangpur Sadar,225.54,658000,2917,62,"Trade, Services, Industry"
+Rangpur,Rangpur,Taraganj,197.47,198000,1003,15,Agriculture
+Rangpur,Thakurgaon,Baliadangi,337.26,248000,736,13,Agriculture
+Rangpur,Thakurgaon,Haripur,275.82,198000,718,13,Agriculture
+Rangpur,Thakurgaon,Pirganj,430.02,298000,693,14,Agriculture
+Rangpur,Thakurgaon,Ranisankail,389.15,298000,766,14,Agriculture
+Rangpur,Thakurgaon,Thakurgaon Sadar,450.08,448000,996,38,"Trade, Agriculture"
+Sylhet,Habiganj,Ajmiriganj,189.93,148000,779,14,"Agriculture, Fishing"
+Sylhet,Habiganj,Bahubal,264.33,198000,749,15,"Tea, Agriculture"
+Sylhet,Habiganj,Baniachong,482.88,368000,762,16,"Agriculture, Fishing"
+Sylhet,Habiganj,Chunarughat,419.06,248000,592,14,"Tea, Agriculture"
+Sylhet,Habiganj,Habiganj Sadar,454.29,448000,987,38,"Trade, Tea, Services"
+Sylhet,Habiganj,Lakhai,209.35,168000,803,13,Agriculture
+Sylhet,Habiganj,Madhabpur,319.47,248000,777,16,"Tea, Agriculture"
+Sylhet,Habiganj,Nabiganj,456.63,298000,653,16,"Agriculture, Tea"
+Sylhet,Moulvibazar,Barlekha,418.04,198000,474,13,"Tea, Agriculture"
+Sylhet,Moulvibazar,Juri,260.83,148000,567,12,"Tea, Agriculture"
+Sylhet,Moulvibazar,Kamalganj,365.04,198000,542,14,"Tea, Agriculture"
+Sylhet,Moulvibazar,Kulaura,469.76,298000,635,16,"Tea, Agriculture"
+Sylhet,Moulvibazar,Moulvibazar Sadar,424.05,348000,821,38,"Trade, Tea, Services"
+Sylhet,Moulvibazar,Rajnagar,275.63,148000,537,12,"Tea, Agriculture"
+Sylhet,Moulvibazar,Sreemangal,430.44,198000,460,22,"Tea, Tourism"
+Sylhet,Sunamganj,Bishwamvarpur,195.41,148000,757,13,"Agriculture, Fishing"
+Sylhet,Sunamganj,Chhatak,274.79,298000,1085,28,"Cement Industry, Agriculture"
+Sylhet,Sunamganj,Derai,368.31,218000,592,12,"Agriculture, Fishing"
+Sylhet,Sunamganj,Dharampasha,457.62,198000,433,11,"Agriculture, Fishing"
+Sylhet,Sunamganj,Dowarabazar,303.63,148000,488,11,Agriculture
+Sylhet,Sunamganj,Jamalganj,269.83,148000,549,11,"Agriculture, Fishing"
+Sylhet,Sunamganj,Jagannathpur,345.27,248000,719,14,Agriculture
+Sylhet,Sunamganj,Sulla,386.79,148000,383,10,"Agriculture, Fishing"
+Sylhet,Sunamganj,Sunamganj Sadar,382.83,348000,909,38,"Trade, Fishing, Services"
+Sylhet,Sunamganj,Tahirpur,290.43,178000,613,12,"Agriculture, Fishing"
+Sylhet,Sylhet,Balaganj,285.81,298000,1043,18,Agriculture
+Sylhet,Sylhet,Beani Bazar,244.46,298000,1219,20,"Agriculture, Remittance"
+Sylhet,Sylhet,Bishwanath,252.58,298000,1180,20,"Agriculture, Remittance"
+Sylhet,Sylhet,Companiganj,268.5,198000,738,13,"Agriculture, Stone"
+Sylhet,Sylhet,Dakshin Surma,194.54,298000,1533,28,"Industry, Agriculture"
+Sylhet,Sylhet,Fenchuganj,137.45,168000,1222,25,"Gas Industry, Agriculture"
+Sylhet,Sylhet,Golapganj,334.61,298000,891,16,Agriculture
+Sylhet,Sylhet,Gowainghat,561.73,198000,352,12,"Agriculture, Stone"
+Sylhet,Sylhet,Jaintiapur,479.52,198000,413,14,"Stone, Agriculture"
+Sylhet,Sylhet,Kanaighat,415.51,248000,597,14,Agriculture
+Sylhet,Sylhet,Osmani Nagar,194.19,298000,1535,30,"Industry, Trade"
+Sylhet,Sylhet,Sylhet Sadar,260.81,858000,3290,72,"Trade, Services, Remittance"
+Sylhet,Sylhet,Zakiganj,294.41,248000,843,15,Agriculture

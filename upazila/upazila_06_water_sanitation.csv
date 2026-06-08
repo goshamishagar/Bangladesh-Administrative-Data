@@ -1,0 +1,492 @@
+﻿Division,District,Upazila,Safe Water Access (%),Improved Sanitation (%),Arsenic Risk Level,Surface Water Dependency,Water Treatment Plants,Open Defecation (%)
+Barisal,Barguna,Amtali,70.0,63.3,Low,Yes,1,7.0
+Barisal,Barguna,Bamna,60.8,52.6,Medium,Yes,0,10.4
+Barisal,Barguna,Barguna Sadar,80.2,71.0,Low,Yes,1,6.2
+Barisal,Barguna,Betagi,71.2,68.4,Low,Yes,0,6.2
+Barisal,Barguna,Patharghata,71.3,65.9,Low,Yes,0,12.8
+Barisal,Barguna,Taltali,61.9,72.1,Low,Yes,0,11.5
+Barisal,Barisal,Agailjhara,62.3,47.0,Medium,Yes,0,8.8
+Barisal,Barisal,Babuganj,73.0,64.4,Low,Yes,0,10.4
+Barisal,Barisal,Bakerganj,64.1,59.1,Medium,Yes,1,8.1
+Barisal,Barisal,Banari Para,72.8,52.9,Low,Yes,1,8.0
+Barisal,Barisal,Barisal Sadar,83.3,86.3,Low,Yes,3,6.3
+Barisal,Barisal,Gaurnadi,74.7,67.5,Medium,Yes,0,7.0
+Barisal,Barisal,Hizla,74.0,62.0,Low,Yes,0,12.4
+Barisal,Barisal,Mehendiganj,41.4,60.5,Medium,Yes,1,10.5
+Barisal,Barisal,Muladi,72.1,71.6,Low,Yes,0,12.0
+Barisal,Barisal,Wazirpur,61.5,65.6,Medium,Yes,0,10.8
+Barisal,Bhola,Bhola Sadar,70.2,68.8,Medium,Yes,2,6.8
+Barisal,Bhola,Burhanuddin,75.0,57.6,Medium,Yes,1,6.5
+Barisal,Bhola,Char Fasson,74.8,73.4,Medium,Yes,1,12.0
+Barisal,Bhola,Daulatkhan,56.7,58.8,Low,Yes,0,12.9
+Barisal,Bhola,Lalmohan,61.5,52.6,Medium,Yes,1,5.5
+Barisal,Bhola,Manpura,63.7,74.6,Low,Yes,0,8.1
+Barisal,Bhola,Tazumuddin,71.2,57.9,Low,Yes,0,10.1
+Barisal,Jhalokati,Jhalokati Sadar,59.8,80.3,Medium,Yes,0,10.7
+Barisal,Jhalokati,Kathalia,70.3,65.0,Medium,Yes,0,13.2
+Barisal,Jhalokati,Nalchity,65.3,65.4,Medium,Yes,0,9.3
+Barisal,Jhalokati,Rajapur,78.5,65.5,Medium,Yes,0,12.6
+Barisal,Patuakhali,Bauphal,61.1,69.5,Medium,Yes,1,9.6
+Barisal,Patuakhali,Dashmina,70.3,51.3,Medium,Yes,0,6.6
+Barisal,Patuakhali,Dumki,63.3,64.6,Medium,Yes,0,9.9
+Barisal,Patuakhali,Galachipa,62.6,80.3,Medium,Yes,1,12.2
+Barisal,Patuakhali,Kalapara,68.2,52.0,Medium,Yes,1,6.5
+Barisal,Patuakhali,Mirzaganj,67.4,63.5,Medium,Yes,0,10.1
+Barisal,Patuakhali,Patuakhali Sadar,77.8,91.9,Low,Yes,1,4.0
+Barisal,Patuakhali,Rangabali,64.2,56.6,Low,Yes,0,11.6
+Barisal,Pirojpur,Bhandaria,69.1,73.7,Medium,Yes,0,11.9
+Barisal,Pirojpur,Kawkhali,64.1,66.8,Low,Yes,0,10.9
+Barisal,Pirojpur,Mathbaria,54.8,59.4,Low,Yes,1,8.8
+Barisal,Pirojpur,Nazirpur,67.3,67.0,Medium,Yes,1,6.7
+Barisal,Pirojpur,Pirojpur Sadar,74.9,63.0,Medium,Yes,1,6.8
+Barisal,Pirojpur,Nesarabad,65.0,67.9,Low,Yes,1,9.7
+Barisal,Pirojpur,Zianagar,54.1,68.5,Low,Yes,0,10.9
+Chittagong,Bandarban,Ali Kadam,61.3,61.7,Low,Some,0,8.1
+Chittagong,Bandarban,Bandarban Sadar,63.3,47.1,Low,Yes,0,5.4
+Chittagong,Bandarban,Lama,79.3,78.5,Low,Yes,0,10.8
+Chittagong,Bandarban,Naikhongchhari,68.1,54.3,Low,Yes,0,12.5
+Chittagong,Bandarban,Rowangchhari,79.7,42.8,Low,Some,0,10.2
+Chittagong,Bandarban,Ruma,66.3,60.0,Medium,Some,0,8.7
+Chittagong,Bandarban,Thanchi,57.5,71.5,Low,Yes,0,13.5
+Chittagong,Brahmanbaria,Akhaura,69.0,66.1,Low,Yes,0,9.4
+Chittagong,Brahmanbaria,Ashuganj,68.1,70.0,Medium,Yes,0,9.8
+Chittagong,Brahmanbaria,Bancharampur,61.5,62.5,Low,Some,1,7.1
+Chittagong,Brahmanbaria,Bijoynagar,73.1,62.9,Low,Some,1,13.0
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,85.8,77.3,Low,Yes,3,5.9
+Chittagong,Brahmanbaria,Kasba,57.1,70.3,Low,Yes,1,7.4
+Chittagong,Brahmanbaria,Nabinagar,65.6,62.8,Medium,Some,1,9.7
+Chittagong,Brahmanbaria,Nasirnagar,62.3,54.8,Low,Yes,2,9.3
+Chittagong,Brahmanbaria,Sarail,74.2,75.2,Low,Yes,1,6.9
+Chittagong,Chandpur,Chandpur Sadar,74.9,58.2,Medium,Yes,1,2.7
+Chittagong,Chandpur,Faridganj,69.1,66.9,Medium,Yes,0,5.8
+Chittagong,Chandpur,Haimchar,58.3,39.5,Medium,Yes,0,11.3
+Chittagong,Chandpur,Haziganj,52.9,45.3,Medium,Yes,0,7.8
+Chittagong,Chandpur,Kachua,73.2,57.4,Medium,Yes,1,13.2
+Chittagong,Chandpur,Matlab Dakshin,76.5,63.0,Medium,Some,0,10.0
+Chittagong,Chandpur,Matlab Uttar,68.0,63.9,Medium,Some,1,8.0
+Chittagong,Chandpur,Shahrasti,74.3,66.1,Low,Yes,1,12.0
+Chittagong,Chittagong,Anwara,59.0,66.5,Low,Some,1,6.0
+Chittagong,Chittagong,Banshkhali,63.2,66.8,Medium,Some,1,11.4
+Chittagong,Chittagong,Boalkhali,60.2,68.4,Low,Some,1,10.8
+Chittagong,Chittagong,Chandanaish,75.6,61.7,Medium,Yes,1,10.0
+Chittagong,Chittagong,Chittagong Sadar,86.8,67.5,Medium,Some,4,2.6
+Chittagong,Chittagong,Fatikchhari,73.2,67.2,Medium,Some,1,5.9
+Chittagong,Chittagong,Hathazari,78.1,66.2,Medium,Some,1,7.4
+Chittagong,Chittagong,Karnaphuli,68.6,69.5,Low,Yes,1,8.3
+Chittagong,Chittagong,Lohagara,61.0,63.6,Low,Some,1,10.3
+Chittagong,Chittagong,Mirsharai,73.3,71.4,Medium,Yes,2,6.0
+Chittagong,Chittagong,Patiya,64.8,54.4,Low,Yes,1,8.4
+Chittagong,Chittagong,Rangunia,99.0,72.1,Medium,Some,1,11.2
+Chittagong,Chittagong,Raozan,68.1,61.4,Low,Yes,2,12.0
+Chittagong,Chittagong,Sandwip,66.9,71.0,Medium,Some,1,11.9
+Chittagong,Chittagong,Satkania,53.4,75.5,Medium,Yes,2,11.7
+Chittagong,Chittagong,Sitakunda,88.6,72.2,Low,Yes,1,6.5
+Chittagong,Comilla,Barura,65.9,71.1,Low,Yes,1,6.1
+Chittagong,Comilla,Brahmanpara,64.8,83.8,Medium,Some,0,8.6
+Chittagong,Comilla,Burichang,72.5,59.2,Low,Yes,0,5.1
+Chittagong,Comilla,Chandina,68.7,74.1,Medium,Yes,1,11.7
+Chittagong,Comilla,Chauddagram,74.9,53.7,Low,Yes,2,12.0
+Chittagong,Comilla,Comilla Sadar,73.1,73.5,Medium,Yes,3,1.5
+Chittagong,Comilla,Comilla Sadar Dakshin,64.7,71.5,Low,Some,2,10.2
+Chittagong,Comilla,Daudkandi,65.2,69.4,Low,Yes,1,11.0
+Chittagong,Comilla,Debidwar,70.8,70.9,Low,Yes,2,8.8
+Chittagong,Comilla,Homna,79.0,45.7,Medium,Some,0,8.1
+Chittagong,Comilla,Laksam,63.7,47.5,Low,Yes,1,11.4
+Chittagong,Comilla,Lalmai,60.5,67.5,Low,Some,0,11.5
+Chittagong,Comilla,Manoharganj,73.0,58.3,Low,Some,1,6.9
+Chittagong,Comilla,Meghna,78.0,54.8,Low,Yes,0,12.3
+Chittagong,Comilla,Muradnagar,64.9,61.9,Medium,Some,3,11.0
+Chittagong,Comilla,Nangalkot,82.1,68.6,Medium,Yes,1,10.5
+Chittagong,Comilla,Titas,59.5,60.4,Low,Yes,1,12.4
+Chittagong,Cox's Bazar,Chakaria,68.7,66.6,Low,Yes,1,6.0
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,84.8,70.0,Medium,Some,3,5.5
+Chittagong,Cox's Bazar,Kutubdia,76.0,44.7,Medium,Some,0,11.7
+Chittagong,Cox's Bazar,Maheshkhali,80.4,81.2,Low,Yes,0,6.1
+Chittagong,Cox's Bazar,Pekua,69.4,46.0,Low,Some,1,9.3
+Chittagong,Cox's Bazar,Ramu,66.3,61.3,Low,Yes,1,6.5
+Chittagong,Cox's Bazar,Teknaf,71.2,64.5,Medium,Yes,1,11.0
+Chittagong,Cox's Bazar,Ukhia,62.8,86.6,Low,Yes,1,6.7
+Chittagong,Feni,Chhagalnaiya,64.0,59.7,Medium,Some,0,8.6
+Chittagong,Feni,Daganbhuiyan,69.5,56.0,Medium,Yes,0,9.9
+Chittagong,Feni,Feni Sadar,92.2,84.5,Medium,Yes,3,7.9
+Chittagong,Feni,Fulgazi,79.7,67.0,Low,Some,1,12.9
+Chittagong,Feni,Parshuram,57.4,72.3,Medium,Some,0,5.6
+Chittagong,Feni,Sonagazi,67.1,70.8,Medium,Yes,0,12.3
+Chittagong,Khagrachhari,Dighinala,74.5,61.3,Medium,Yes,0,11.4
+Chittagong,Khagrachhari,Guimara,70.5,74.2,Low,Some,0,6.7
+Chittagong,Khagrachhari,Khagrachhari Sadar,81.9,65.2,Medium,Some,1,10.3
+Chittagong,Khagrachhari,Lakshmichhari,72.0,49.0,Medium,Yes,0,8.1
+Chittagong,Khagrachhari,Mahalchhari,69.2,63.2,Medium,Yes,0,11.1
+Chittagong,Khagrachhari,Manikchhari,70.7,72.6,Medium,Yes,0,8.9
+Chittagong,Khagrachhari,Matiranga,58.7,68.4,Medium,Some,0,9.7
+Chittagong,Khagrachhari,Panchhari,61.7,45.3,Medium,Some,0,7.8
+Chittagong,Khagrachhari,Ramgarh,76.0,65.0,Medium,Yes,0,7.0
+Chittagong,Lakshmipur,Kamalnagar,77.3,60.4,Medium,Some,1,6.1
+Chittagong,Lakshmipur,Lakshmipur Sadar,64.1,61.2,Medium,Yes,3,5.9
+Chittagong,Lakshmipur,Ramganj,76.7,78.1,Low,Yes,2,9.4
+Chittagong,Lakshmipur,Ramgati,77.1,50.8,Low,Yes,1,8.9
+Chittagong,Lakshmipur,Raipur,79.2,44.0,Medium,Yes,1,6.6
+Chittagong,Noakhali,Begumganj,67.9,79.8,Low,Yes,1,4.8
+Chittagong,Noakhali,Chatkhil,70.7,70.2,Medium,Some,1,10.2
+Chittagong,Noakhali,Companiganj,55.8,71.2,Low,Some,1,5.6
+Chittagong,Noakhali,Hatiya,66.8,62.0,Low,Yes,1,11.0
+Chittagong,Noakhali,Kabirhat,83.6,58.0,Medium,Yes,1,10.1
+Chittagong,Noakhali,Noakhali Sadar,78.9,59.8,Medium,Some,3,9.4
+Chittagong,Noakhali,Senbagh,60.2,62.5,Low,Yes,0,9.9
+Chittagong,Noakhali,Sonaimuri,57.4,63.1,Low,Yes,2,7.2
+Chittagong,Noakhali,Subarnachar,79.9,71.5,Low,Yes,1,8.2
+Chittagong,Rangamati,Bagaichhari,64.8,46.4,Medium,Some,0,12.6
+Chittagong,Rangamati,Barkal,61.4,73.1,Medium,Yes,0,8.6
+Chittagong,Rangamati,Belaichhari,72.2,51.9,Medium,Some,0,7.8
+Chittagong,Rangamati,Juraichhari,64.6,67.8,Medium,Some,0,10.9
+Chittagong,Rangamati,Kaptai,65.1,77.7,Medium,Some,0,6.1
+Chittagong,Rangamati,Kawkhali,69.6,70.0,Low,Yes,0,13.9
+Chittagong,Rangamati,Langadu,66.4,62.6,Medium,Yes,0,9.6
+Chittagong,Rangamati,Naniarchar,68.2,52.6,Medium,Yes,0,7.1
+Chittagong,Rangamati,Rajasthali,63.0,78.2,Medium,Yes,0,12.2
+Chittagong,Rangamati,Rangamati Sadar,71.7,55.8,Medium,Some,0,3.1
+Dhaka,Dhaka,Demra,95.1,95.2,High,Yes,2,1.9
+Dhaka,Dhaka,Dhamrai,81.3,84.9,High,Yes,2,9.0
+Dhaka,Dhaka,Dohar,84.9,57.5,High,Yes,1,7.5
+Dhaka,Dhaka,Keraniganj,92.0,69.2,High,Yes,4,3.6
+Dhaka,Dhaka,Nawabganj,62.6,80.1,High,Yes,1,4.6
+Dhaka,Dhaka,Savar,83.6,84.8,High,Yes,4,4.7
+Dhaka,Dhaka,Tejgaon (Dhaka City),93.8,88.6,High,Yes,25,0.0
+Dhaka,Faridpur,Alfadanga,64.5,41.5,High,Yes,0,9.7
+Dhaka,Faridpur,Bhanga,60.4,57.7,High,Yes,0,9.6
+Dhaka,Faridpur,Boalmari,49.9,49.4,High,Some,1,6.4
+Dhaka,Faridpur,Char Bhadrasan,64.5,68.3,High,Yes,0,11.3
+Dhaka,Faridpur,Faridpur Sadar,72.5,85.0,High,Yes,2,9.5
+Dhaka,Faridpur,Madhukhali,68.5,77.4,High,Yes,1,7.6
+Dhaka,Faridpur,Nagarkanda,66.4,63.9,High,Yes,0,12.1
+Dhaka,Faridpur,Saltha,78.5,56.3,High,Some,0,6.1
+Dhaka,Faridpur,Sadarpur,60.3,41.7,High,Some,0,8.0
+Dhaka,Gazipur,Gazipur Sadar,71.8,85.4,High,Some,7,1.5
+Dhaka,Gazipur,Kaliakair,81.6,82.3,High,Some,3,7.7
+Dhaka,Gazipur,Kaliganj,65.5,82.9,High,Some,2,7.3
+Dhaka,Gazipur,Kapasia,68.4,79.0,High,Yes,0,9.8
+Dhaka,Gazipur,Sreepur,74.0,82.1,High,Yes,1,8.1
+Dhaka,Gopalganj,Gopalganj Sadar,89.4,89.4,High,Yes,2,4.2
+Dhaka,Gopalganj,Kashiani,71.6,69.8,High,Some,0,10.4
+Dhaka,Gopalganj,Kotalipara,78.5,79.3,High,Yes,1,6.3
+Dhaka,Gopalganj,Muksudpur,55.3,58.2,High,Some,0,6.9
+Dhaka,Gopalganj,Tungipara,52.8,67.3,High,Yes,0,5.7
+Dhaka,Kishoreganj,Astagram,68.2,66.5,High,Some,1,12.2
+Dhaka,Kishoreganj,Bajitpur,63.5,44.9,High,Yes,1,4.5
+Dhaka,Kishoreganj,Bhairab,74.0,94.4,High,Yes,1,6.4
+Dhaka,Kishoreganj,Hossainpur,59.5,59.8,High,Yes,0,10.3
+Dhaka,Kishoreganj,Itna,68.7,64.2,High,Some,0,10.9
+Dhaka,Kishoreganj,Karimganj,83.3,84.0,High,Yes,1,7.5
+Dhaka,Kishoreganj,Katiadi,59.6,66.9,High,Yes,1,10.6
+Dhaka,Kishoreganj,Kishoreganj Sadar,71.5,59.1,High,Yes,1,5.8
+Dhaka,Kishoreganj,Kuliarchar,66.8,67.2,High,Yes,0,5.6
+Dhaka,Kishoreganj,Mithamain,74.1,53.4,High,Some,0,13.0
+Dhaka,Kishoreganj,Nikli,71.2,50.3,High,Some,1,7.6
+Dhaka,Kishoreganj,Pakundia,64.9,67.0,High,Yes,0,5.4
+Dhaka,Kishoreganj,Tarail,55.7,59.1,High,Yes,1,8.4
+Dhaka,Madaripur,Kalkini,78.0,62.9,High,Some,0,12.0
+Dhaka,Madaripur,Madaripur Sadar,62.7,72.7,High,Yes,2,5.3
+Dhaka,Madaripur,Rajoir,67.4,57.6,High,Some,1,6.2
+Dhaka,Madaripur,Shibchar,67.4,83.9,High,Yes,1,12.8
+Dhaka,Manikganj,Daulatpur,79.6,66.0,High,Yes,0,6.0
+Dhaka,Manikganj,Ghior,73.2,67.9,High,Yes,0,11.6
+Dhaka,Manikganj,Harirampur,79.4,70.6,High,Yes,1,7.1
+Dhaka,Manikganj,Manikganj Sadar,57.5,54.8,High,Some,0,9.8
+Dhaka,Manikganj,Saturia,79.6,54.4,High,Yes,1,6.3
+Dhaka,Manikganj,Shibalaya,53.6,59.0,High,Yes,1,11.3
+Dhaka,Manikganj,Singair,64.7,60.7,High,Yes,1,6.0
+Dhaka,Munshiganj,Gazaria,62.3,71.0,High,Yes,1,9.3
+Dhaka,Munshiganj,Louhajang,60.9,61.9,High,Yes,0,7.7
+Dhaka,Munshiganj,Munshiganj Sadar,65.2,86.7,High,Yes,1,8.2
+Dhaka,Munshiganj,Sirajdikhan,80.4,72.2,High,Yes,1,9.8
+Dhaka,Munshiganj,Sreenagar,68.5,59.0,High,Yes,0,11.2
+Dhaka,Munshiganj,Tongibari,67.9,74.7,High,Yes,1,8.8
+Dhaka,Narayanganj,Araihazar,57.1,91.7,High,Yes,1,9.7
+Dhaka,Narayanganj,Bandar,99.0,85.2,High,Yes,4,4.3
+Dhaka,Narayanganj,Narayanganj Sadar,79.0,75.0,High,Some,4,5.5
+Dhaka,Narayanganj,Rupganj,72.9,92.6,High,Some,3,5.7
+Dhaka,Narayanganj,Sonargaon,66.5,46.6,High,Some,3,4.1
+Dhaka,Narsingdi,Belabo,60.4,60.6,High,Yes,1,12.0
+Dhaka,Narsingdi,Monohardi,72.9,63.6,High,Some,0,7.9
+Dhaka,Narsingdi,Narsingdi Sadar,78.2,54.2,High,Some,2,5.6
+Dhaka,Narsingdi,Palash,84.1,71.0,High,Yes,0,3.0
+Dhaka,Narsingdi,Raipura,67.8,55.1,High,Yes,1,5.3
+Dhaka,Narsingdi,Shibpur,75.3,62.4,High,Some,1,9.5
+Dhaka,Rajbari,Baliakandi,71.0,46.6,High,Yes,0,11.8
+Dhaka,Rajbari,Goalandaghat,63.0,55.6,High,Some,1,5.9
+Dhaka,Rajbari,Kalukhali,61.2,77.8,High,Some,0,9.6
+Dhaka,Rajbari,Pangsha,63.8,63.8,High,Yes,1,5.5
+Dhaka,Rajbari,Rajbari Sadar,59.9,47.2,High,Some,1,8.6
+Dhaka,Shariatpur,Bhedarganj,73.6,73.3,High,Some,2,5.2
+Dhaka,Shariatpur,Damudya,78.0,72.1,High,Some,1,11.8
+Dhaka,Shariatpur,Gosairhat,62.8,48.5,High,Yes,0,10.3
+Dhaka,Shariatpur,Jajira,71.7,69.5,High,Yes,1,9.9
+Dhaka,Shariatpur,Naria,61.9,62.9,High,Some,1,10.8
+Dhaka,Shariatpur,Shariatpur Sadar,63.4,55.8,High,Some,1,10.0
+Dhaka,Tangail,Basail,75.4,70.4,High,Yes,0,6.4
+Dhaka,Tangail,Bhuapur,83.5,47.8,High,Yes,1,11.7
+Dhaka,Tangail,Delduar,64.1,67.0,High,Yes,0,6.7
+Dhaka,Tangail,Dhanbari,71.0,65.9,High,Some,0,9.1
+Dhaka,Tangail,Ghatail,57.5,69.9,High,Yes,1,9.7
+Dhaka,Tangail,Gopalpur,74.8,60.6,High,Yes,0,7.4
+Dhaka,Tangail,Kalihati,61.2,59.1,High,Yes,2,11.6
+Dhaka,Tangail,Madhupur,67.2,55.5,High,Yes,1,5.5
+Dhaka,Tangail,Mirzapur,74.8,56.9,High,Yes,2,5.5
+Dhaka,Tangail,Nagarpur,85.0,55.9,High,Some,0,6.6
+Dhaka,Tangail,Sakhipur,55.2,82.0,High,Some,1,12.0
+Dhaka,Tangail,Tangail Sadar,79.7,76.0,High,Yes,2,2.9
+Khulna,Bagerhat,Bagerhat Sadar,75.1,50.8,Low,Yes,1,9.9
+Khulna,Bagerhat,Chitalmari,60.3,73.8,Medium,Yes,0,10.3
+Khulna,Bagerhat,Fakirhat,73.9,49.9,Low,Yes,0,9.8
+Khulna,Bagerhat,Kachua,65.4,78.5,Medium,Yes,1,8.4
+Khulna,Bagerhat,Mollahat,66.5,70.1,Medium,Yes,0,10.6
+Khulna,Bagerhat,Mongla,76.3,61.1,Low,Yes,0,6.3
+Khulna,Bagerhat,Morrelganj,72.0,76.5,Low,Yes,1,5.4
+Khulna,Bagerhat,Rampal,63.3,75.7,Medium,Yes,1,6.5
+Khulna,Bagerhat,Sarankhola,64.2,68.1,Low,Yes,0,12.5
+Khulna,Chuadanga,Alamdanga,70.4,82.2,Medium,Yes,1,10.6
+Khulna,Chuadanga,Chuadanga Sadar,71.4,62.9,Low,Yes,1,5.1
+Khulna,Chuadanga,Damurhuda,49.1,84.7,Low,Yes,0,6.7
+Khulna,Chuadanga,Jibannagar,69.5,66.4,Medium,Yes,1,9.7
+Khulna,Jessore,Abhaynagar,74.7,67.2,Low,Yes,1,9.6
+Khulna,Jessore,Bagherpara,66.7,61.4,Medium,Yes,1,9.7
+Khulna,Jessore,Chaugachha,69.1,75.1,Low,Yes,1,8.4
+Khulna,Jessore,Jessore Sadar,80.9,73.6,Low,Yes,3,6.5
+Khulna,Jessore,Jhikargachha,67.0,79.0,Medium,Yes,1,6.8
+Khulna,Jessore,Keshabpur,70.7,74.4,Low,Yes,0,6.0
+Khulna,Jessore,Manirampur,57.5,62.1,Low,Yes,1,5.9
+Khulna,Jessore,Sharsha,59.4,69.2,Medium,Yes,1,8.7
+Khulna,Jhenaidah,Harinakunda,66.4,77.5,Medium,Yes,0,12.9
+Khulna,Jhenaidah,Jhenaidah Sadar,83.0,66.5,Medium,Yes,2,3.9
+Khulna,Jhenaidah,Kaliganj,71.9,66.1,Medium,Yes,2,8.3
+Khulna,Jhenaidah,Kotchandpur,68.3,71.8,Medium,Yes,0,6.4
+Khulna,Jhenaidah,Maheshpur,77.5,65.1,Low,Yes,1,11.8
+Khulna,Jhenaidah,Shailkupa,64.5,63.9,Low,Yes,2,13.4
+Khulna,Khulna,Batiaghata,64.7,65.6,Low,Yes,0,10.9
+Khulna,Khulna,Dacope,62.2,52.3,Low,Yes,1,8.8
+Khulna,Khulna,Dighalia,67.7,68.7,Medium,Yes,0,12.3
+Khulna,Khulna,Dumuria,74.3,64.4,Low,Yes,1,12.2
+Khulna,Khulna,Koyra,68.2,37.1,Medium,Yes,1,13.2
+Khulna,Khulna,Khulna Sadar,77.8,86.4,Medium,Yes,2,0.7
+Khulna,Khulna,Paikgachha,74.5,52.4,Medium,Yes,0,10.1
+Khulna,Khulna,Phultala,66.1,76.1,Medium,Yes,0,3.8
+Khulna,Khulna,Rupsha,62.4,71.1,Low,Yes,0,7.7
+Khulna,Kushtia,Bheramara,84.0,65.5,Medium,Yes,0,6.1
+Khulna,Kushtia,Daulatpur,57.5,64.2,Medium,Yes,0,8.5
+Khulna,Kushtia,Khoksa,67.8,73.2,Medium,Yes,0,12.5
+Khulna,Kushtia,Kushtia Sadar,71.6,71.5,Low,Yes,3,6.0
+Khulna,Kushtia,Kumarkhali,84.7,48.5,Low,Yes,2,11.3
+Khulna,Kushtia,Mirpur,68.2,61.5,Low,Yes,1,9.7
+Khulna,Magura,Magura Sadar,71.4,86.7,Medium,Yes,1,4.0
+Khulna,Magura,Mohammadpur,60.8,58.5,Medium,Yes,0,13.3
+Khulna,Magura,Shalikha,69.1,69.1,Medium,Yes,0,10.4
+Khulna,Magura,Sreepur,73.4,81.4,Medium,Yes,0,8.8
+Khulna,Meherpur,Gangni,69.4,65.8,Low,Yes,0,10.7
+Khulna,Meherpur,Meherpur Sadar,73.9,76.9,Low,Yes,1,7.8
+Khulna,Meherpur,Mujibnagar,68.9,65.1,Medium,Yes,0,6.0
+Khulna,Narail,Kalia,77.3,78.2,Low,Yes,1,12.9
+Khulna,Narail,Lohagara,85.8,58.7,Low,Yes,0,6.0
+Khulna,Narail,Narail Sadar,79.6,71.4,Low,Yes,1,10.5
+Khulna,Satkhira,Assasuni,60.0,53.1,Low,Yes,0,12.6
+Khulna,Satkhira,Debhata,58.7,60.1,Medium,Yes,1,10.7
+Khulna,Satkhira,Kalaroa,80.8,67.5,Low,Yes,1,11.7
+Khulna,Satkhira,Kaliganj,67.3,60.1,Medium,Yes,1,6.3
+Khulna,Satkhira,Satkhira Sadar,77.8,86.8,Medium,Yes,2,8.6
+Khulna,Satkhira,Shyamnagar,65.0,64.8,Low,Yes,1,6.0
+Khulna,Satkhira,Tala,71.9,65.5,Low,Yes,1,9.6
+Mymensingh,Jamalpur,Baksiganj,78.8,62.1,High,Yes,0,7.4
+Mymensingh,Jamalpur,Dewanganj,68.5,61.1,High,Yes,1,6.3
+Mymensingh,Jamalpur,Islampur,66.3,72.1,High,Yes,2,6.9
+Mymensingh,Jamalpur,Jamalpur Sadar,72.4,70.3,High,Yes,1,8.5
+Mymensingh,Jamalpur,Madarganj,72.6,58.0,High,Yes,1,12.2
+Mymensingh,Jamalpur,Melandaha,62.9,62.7,High,Yes,1,9.1
+Mymensingh,Jamalpur,Sarishabari,75.6,71.0,High,Yes,1,12.2
+Mymensingh,Mymensingh,Bhaluka,60.3,65.3,High,Some,3,9.9
+Mymensingh,Mymensingh,Dhobaura,54.4,65.7,High,Yes,0,11.7
+Mymensingh,Mymensingh,Fulbaria,60.1,65.4,High,Yes,2,12.8
+Mymensingh,Mymensingh,Gaffargaon,70.4,43.6,High,Some,2,8.6
+Mymensingh,Mymensingh,Gauripur,72.4,50.5,High,Some,1,11.0
+Mymensingh,Mymensingh,Haluaghat,60.3,60.5,High,Some,0,6.0
+Mymensingh,Mymensingh,Ishwarganj,60.1,78.8,High,Yes,1,10.7
+Mymensingh,Mymensingh,Mymensingh Sadar,87.9,72.2,High,Yes,4,6.0
+Mymensingh,Mymensingh,Muktagachha,58.7,55.7,High,Some,1,8.7
+Mymensingh,Mymensingh,Nandail,82.1,45.7,High,Some,2,12.1
+Mymensingh,Mymensingh,Phulpur,61.3,67.5,High,Some,2,5.9
+Mymensingh,Mymensingh,Trishal,70.6,67.1,High,Yes,1,9.5
+Mymensingh,Netrokona,Atpara,81.2,63.6,High,Yes,1,8.5
+Mymensingh,Netrokona,Barhatta,58.1,58.4,High,Yes,1,10.2
+Mymensingh,Netrokona,Durgapur,70.2,79.5,High,Some,0,8.6
+Mymensingh,Netrokona,Kalmakanda,79.1,59.9,High,Yes,0,13.5
+Mymensingh,Netrokona,Kendua,66.9,64.9,High,Some,2,9.6
+Mymensingh,Netrokona,Khaliajuri,72.9,55.3,High,Yes,0,7.8
+Mymensingh,Netrokona,Madan,79.6,48.4,High,Yes,1,13.4
+Mymensingh,Netrokona,Mohanganj,68.4,57.7,High,Yes,0,8.0
+Mymensingh,Netrokona,Netrokona Sadar,69.7,61.1,High,Yes,1,9.5
+Mymensingh,Netrokona,Purbadhala,64.0,41.9,High,Yes,1,9.1
+Mymensingh,Sherpur,Jhenaigati,63.4,57.1,High,Some,0,11.1
+Mymensingh,Sherpur,Nakla,67.9,60.4,High,Some,0,13.2
+Mymensingh,Sherpur,Nalitabari,73.3,51.9,High,Yes,1,12.1
+Mymensingh,Sherpur,Sherpur Sadar,65.6,87.0,High,Yes,2,9.6
+Mymensingh,Sherpur,Sreebardi,71.3,48.3,High,Yes,1,6.6
+Rajshahi,Bogura,Adamdighi,62.3,67.7,Low,Yes,1,6.4
+Rajshahi,Bogura,Bogura Sadar,69.1,73.6,Low,Some,2,6.8
+Rajshahi,Bogura,Dhunat,77.8,48.0,Medium,Yes,1,7.4
+Rajshahi,Bogura,Dupchanchia,68.2,74.1,Medium,Yes,1,5.9
+Rajshahi,Bogura,Gabtali,64.2,68.7,Low,Some,0,13.1
+Rajshahi,Bogura,Kahaloo,70.0,64.0,Low,Yes,1,12.6
+Rajshahi,Bogura,Nandigram,68.0,54.0,Medium,Yes,0,11.3
+Rajshahi,Bogura,Sariakandi,76.3,58.7,Low,Some,0,9.9
+Rajshahi,Bogura,Shajahanpur,62.7,90.1,Medium,Some,1,5.8
+Rajshahi,Bogura,Sherpur,59.5,70.5,Medium,Some,0,7.2
+Rajshahi,Bogura,Shibganj,52.7,44.5,Medium,Some,0,8.7
+Rajshahi,Bogura,Sonatola,72.4,77.6,Low,Some,0,13.3
+Rajshahi,Chapainawabganj,Bholahat,72.6,53.3,Low,Some,0,8.3
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,76.3,89.3,Medium,Yes,1,9.1
+Rajshahi,Chapainawabganj,Gomastapur,63.9,51.5,Low,Yes,1,5.5
+Rajshahi,Chapainawabganj,Nachole,49.7,75.9,Medium,Yes,1,7.3
+Rajshahi,Chapainawabganj,Shibganj,70.8,60.2,Low,Some,1,6.9
+Rajshahi,Joypurhat,Akkelpur,55.7,55.2,Medium,Yes,0,10.6
+Rajshahi,Joypurhat,Joypurhat Sadar,69.9,62.2,Medium,Some,2,5.4
+Rajshahi,Joypurhat,Kalai,61.9,73.0,Medium,Yes,0,5.7
+Rajshahi,Joypurhat,Khetlal,77.6,70.3,Low,Yes,0,9.9
+Rajshahi,Joypurhat,Panchbibi,71.0,48.9,Medium,Some,1,5.7
+Rajshahi,Naogaon,Atrai,64.9,69.1,Medium,Yes,1,9.0
+Rajshahi,Naogaon,Badalgachhi,73.4,80.8,Medium,Some,1,6.7
+Rajshahi,Naogaon,Dhamoirhat,65.6,75.8,Medium,Yes,0,9.3
+Rajshahi,Naogaon,Manda,67.6,79.3,Medium,Yes,1,10.8
+Rajshahi,Naogaon,Mahadebpur,63.1,68.5,Medium,Yes,1,11.8
+Rajshahi,Naogaon,Naogaon Sadar,66.0,63.4,Medium,Some,2,7.6
+Rajshahi,Naogaon,Niamatpur,74.2,74.0,Low,Some,1,9.7
+Rajshahi,Naogaon,Patnitala,53.1,67.9,Low,Yes,0,10.4
+Rajshahi,Naogaon,Porsha,70.4,68.9,Low,Yes,0,13.5
+Rajshahi,Naogaon,Raninagar,58.9,68.1,Medium,Some,0,6.0
+Rajshahi,Naogaon,Sapahar,71.1,55.0,Low,Yes,0,10.6
+Rajshahi,Natore,Bagatipara,71.3,66.2,Medium,Yes,0,13.3
+Rajshahi,Natore,Baraigram,76.2,61.2,Low,Some,1,6.6
+Rajshahi,Natore,Gurudaspur,68.7,55.2,Low,Yes,1,10.4
+Rajshahi,Natore,Lalpur,74.6,75.2,Low,Some,1,6.3
+Rajshahi,Natore,Natore Sadar,70.9,57.1,Low,Yes,2,3.8
+Rajshahi,Natore,Singra,69.8,48.0,Low,Yes,0,10.9
+Rajshahi,Pabna,Atgharia,71.5,66.8,Low,Yes,0,12.6
+Rajshahi,Pabna,Bera,52.7,75.3,Medium,Yes,1,9.7
+Rajshahi,Pabna,Bhangura,57.4,60.5,Medium,Yes,0,8.8
+Rajshahi,Pabna,Chatmohar,60.5,60.0,Medium,Some,0,11.2
+Rajshahi,Pabna,Faridpur,59.0,61.1,Low,Yes,0,9.7
+Rajshahi,Pabna,Ishwardi,76.8,87.8,Medium,Yes,2,10.4
+Rajshahi,Pabna,Pabna Sadar,75.1,75.7,Medium,Yes,1,6.6
+Rajshahi,Pabna,Santhia,74.9,57.3,Low,Some,1,5.8
+Rajshahi,Pabna,Sujanagar,51.2,53.8,Low,Yes,0,9.3
+Rajshahi,Rajshahi,Bagha,64.9,59.1,Low,Yes,0,8.9
+Rajshahi,Rajshahi,Bagmara,57.9,61.3,Low,Yes,1,10.0
+Rajshahi,Rajshahi,Charghat,70.4,84.0,Medium,Some,0,8.4
+Rajshahi,Rajshahi,Durgapur,59.7,58.4,Medium,Some,0,12.9
+Rajshahi,Rajshahi,Godagari,60.7,65.6,Low,Yes,1,12.2
+Rajshahi,Rajshahi,Mohanpur,63.6,74.9,Low,Some,1,12.3
+Rajshahi,Rajshahi,Paba,81.8,62.8,Low,Yes,1,3.8
+Rajshahi,Rajshahi,Putia,59.0,75.5,Low,Yes,1,12.6
+Rajshahi,Rajshahi,Rajshahi Sadar,71.6,71.2,Medium,Yes,2,5.2
+Rajshahi,Sirajganj,Belkuchi,77.9,47.2,Low,Yes,2,7.7
+Rajshahi,Sirajganj,Chauhali,66.8,63.8,Medium,Some,0,11.5
+Rajshahi,Sirajganj,Kamarkhand,82.8,75.4,Medium,Yes,0,7.4
+Rajshahi,Sirajganj,Kazipur,71.3,73.0,Medium,Yes,1,12.4
+Rajshahi,Sirajganj,Raiganj,65.2,51.2,Medium,Yes,2,11.9
+Rajshahi,Sirajganj,Shahjadpur,61.3,60.3,Medium,Yes,1,11.7
+Rajshahi,Sirajganj,Sirajganj Sadar,72.2,91.9,Low,Yes,2,6.4
+Rajshahi,Sirajganj,Tarash,76.4,45.8,Medium,Some,1,11.0
+Rajshahi,Sirajganj,Ullahpara,71.8,55.8,Medium,Some,2,7.7
+Rangpur,Dinajpur,Birampur,86.0,55.9,Medium,Yes,1,9.8
+Rangpur,Dinajpur,Birganj,51.1,73.8,Low,Yes,1,11.4
+Rangpur,Dinajpur,Biral,73.0,62.8,Low,Yes,1,6.3
+Rangpur,Dinajpur,Bochaganj,74.1,74.3,Low,Some,1,9.5
+Rangpur,Dinajpur,Chirirbandar,62.3,57.1,Low,Yes,1,6.4
+Rangpur,Dinajpur,Dinajpur Sadar,78.7,84.0,Low,Yes,2,5.5
+Rangpur,Dinajpur,Fulbari,78.5,56.0,Medium,Some,1,6.5
+Rangpur,Dinajpur,Ghoraghat,80.5,58.9,Medium,Yes,0,8.5
+Rangpur,Dinajpur,Hakimpur,63.6,56.0,Low,Some,0,9.3
+Rangpur,Dinajpur,Kaharole,67.9,71.8,Low,Yes,1,5.7
+Rangpur,Dinajpur,Khansama,76.5,70.0,Medium,Yes,0,5.7
+Rangpur,Dinajpur,Nawabganj,68.1,56.8,Medium,Some,0,10.1
+Rangpur,Dinajpur,Parbatipur,66.2,78.9,Low,Some,0,11.4
+Rangpur,Gaibandha,Fulchhari,66.4,51.7,Low,Yes,0,9.3
+Rangpur,Gaibandha,Gaibandha Sadar,83.6,67.5,Medium,Yes,1,4.1
+Rangpur,Gaibandha,Gobindaganj,82.9,63.7,Low,Yes,1,9.6
+Rangpur,Gaibandha,Palashbari,67.7,65.7,Medium,Some,1,6.7
+Rangpur,Gaibandha,Sadullapur,79.2,71.4,Low,Some,1,6.8
+Rangpur,Gaibandha,Saghata,75.9,67.3,Medium,Some,1,5.9
+Rangpur,Gaibandha,Sundarganj,78.8,62.6,Low,Yes,1,9.7
+Rangpur,Kurigram,Bhurungamari,77.0,66.6,Low,Some,1,11.1
+Rangpur,Kurigram,Char Rajibpur,71.5,50.9,Low,Some,0,13.2
+Rangpur,Kurigram,Chilmari,62.4,60.7,Medium,Some,0,10.7
+Rangpur,Kurigram,Kurigram Sadar,63.6,61.1,Medium,Yes,2,7.3
+Rangpur,Kurigram,Nageshwari,66.6,58.9,Medium,Yes,2,10.4
+Rangpur,Kurigram,Phulbari,76.3,59.6,Medium,Some,1,11.9
+Rangpur,Kurigram,Rajarhat,57.4,59.5,Low,Some,0,8.8
+Rangpur,Kurigram,Raumari,75.1,61.1,Medium,Some,1,10.1
+Rangpur,Kurigram,Ulipur,68.5,67.1,Low,Some,2,7.6
+Rangpur,Lalmonirhat,Aditmari,60.3,67.1,Low,Some,0,5.6
+Rangpur,Lalmonirhat,Hatibandha,65.9,57.5,Medium,Yes,1,7.1
+Rangpur,Lalmonirhat,Kaliganj,68.7,79.5,Low,Yes,0,6.2
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,53.1,80.9,Low,Some,2,8.2
+Rangpur,Lalmonirhat,Patgram,74.6,58.2,Low,Yes,1,11.1
+Rangpur,Nilphamari,Dimla,83.2,56.5,Low,Some,1,7.2
+Rangpur,Nilphamari,Domar,67.5,86.8,Low,Yes,1,6.2
+Rangpur,Nilphamari,Jaldhaka,62.5,65.3,Low,Yes,0,12.7
+Rangpur,Nilphamari,Kishoreganj,82.3,66.1,Low,Yes,1,7.8
+Rangpur,Nilphamari,Nilphamari Sadar,68.0,82.8,Low,Some,3,5.1
+Rangpur,Nilphamari,Saidpur,93.8,75.0,Medium,Some,1,7.8
+Rangpur,Panchagarh,Atwari,67.3,66.0,Medium,Yes,0,11.6
+Rangpur,Panchagarh,Boda,71.1,63.4,Low,Some,1,7.7
+Rangpur,Panchagarh,Debiganj,72.4,71.9,Low,Yes,1,8.4
+Rangpur,Panchagarh,Panchagarh Sadar,73.8,57.1,Low,Yes,2,4.7
+Rangpur,Panchagarh,Tetulia,73.5,54.7,Medium,Yes,1,9.6
+Rangpur,Rangpur,Badarganj,76.9,54.1,Low,Yes,0,8.6
+Rangpur,Rangpur,Gangachara,73.0,57.8,Medium,Yes,1,10.6
+Rangpur,Rangpur,Kaunia,73.0,61.1,Low,Yes,1,12.3
+Rangpur,Rangpur,Mithapukur,73.5,76.2,Medium,Yes,1,11.2
+Rangpur,Rangpur,Pirgachha,57.6,71.1,Low,Yes,1,9.7
+Rangpur,Rangpur,Pirganj,68.8,72.2,Low,Some,2,6.2
+Rangpur,Rangpur,Rangpur Sadar,71.4,82.9,Low,Yes,2,3.6
+Rangpur,Rangpur,Taraganj,64.9,51.4,Low,Yes,0,6.0
+Rangpur,Thakurgaon,Baliadangi,72.0,71.0,Low,Some,1,12.4
+Rangpur,Thakurgaon,Haripur,60.9,68.9,Medium,Some,0,12.0
+Rangpur,Thakurgaon,Pirganj,67.6,61.3,Low,Yes,1,8.6
+Rangpur,Thakurgaon,Ranisankail,67.6,62.8,Medium,Some,1,9.7
+Rangpur,Thakurgaon,Thakurgaon Sadar,75.1,69.7,Medium,Yes,2,10.7
+Sylhet,Habiganj,Ajmiriganj,65.6,86.3,Low,Yes,0,10.1
+Sylhet,Habiganj,Bahubal,64.3,62.4,Low,Yes,1,12.8
+Sylhet,Habiganj,Baniachong,62.0,56.5,Low,Yes,1,5.8
+Sylhet,Habiganj,Chunarughat,73.1,67.9,Low,Yes,1,12.4
+Sylhet,Habiganj,Habiganj Sadar,82.4,62.2,Medium,Yes,1,10.7
+Sylhet,Habiganj,Lakhai,65.8,68.2,Low,Yes,0,10.0
+Sylhet,Habiganj,Madhabpur,63.3,86.6,Low,Yes,0,9.7
+Sylhet,Habiganj,Nabiganj,66.1,75.2,Medium,Yes,2,5.8
+Sylhet,Moulvibazar,Barlekha,61.1,62.6,Medium,Yes,1,11.1
+Sylhet,Moulvibazar,Juri,77.6,56.8,Medium,Yes,0,9.1
+Sylhet,Moulvibazar,Kamalganj,59.4,56.1,Medium,Yes,0,7.1
+Sylhet,Moulvibazar,Kulaura,55.0,56.7,Medium,Yes,1,5.6
+Sylhet,Moulvibazar,Moulvibazar Sadar,75.2,72.7,Medium,Yes,2,9.1
+Sylhet,Moulvibazar,Rajnagar,67.3,68.7,Medium,Yes,0,6.2
+Sylhet,Moulvibazar,Sreemangal,60.3,59.9,Low,Yes,1,9.9
+Sylhet,Sunamganj,Bishwamvarpur,68.6,62.8,Low,Yes,0,12.4
+Sylhet,Sunamganj,Chhatak,62.3,44.2,Low,Yes,1,5.1
+Sylhet,Sunamganj,Derai,69.6,46.1,Low,Yes,1,13.6
+Sylhet,Sunamganj,Dharampasha,73.0,67.4,Low,Yes,1,10.0
+Sylhet,Sunamganj,Dowarabazar,65.7,75.6,Low,Yes,0,11.6
+Sylhet,Sunamganj,Jamalganj,64.4,58.1,Low,Yes,0,10.9
+Sylhet,Sunamganj,Jagannathpur,64.7,67.1,Medium,Yes,0,9.3
+Sylhet,Sunamganj,Sulla,68.6,58.1,Medium,Yes,0,8.8
+Sylhet,Sunamganj,Sunamganj Sadar,72.8,70.1,Low,Yes,1,3.3
+Sylhet,Sunamganj,Tahirpur,67.4,52.8,Medium,Yes,0,9.2
+Sylhet,Sylhet,Balaganj,77.6,85.0,Low,Yes,0,8.5
+Sylhet,Sylhet,Beani Bazar,73.2,78.8,Medium,Yes,1,11.6
+Sylhet,Sylhet,Bishwanath,68.2,40.4,Low,Yes,1,8.1
+Sylhet,Sylhet,Companiganj,83.7,44.6,Low,Yes,0,8.9
+Sylhet,Sylhet,Dakshin Surma,68.1,66.1,Medium,Yes,0,7.3
+Sylhet,Sylhet,Fenchuganj,81.5,65.3,Medium,Yes,0,6.9
+Sylhet,Sylhet,Golapganj,66.3,67.5,Medium,Yes,1,7.8
+Sylhet,Sylhet,Gowainghat,60.4,48.3,Low,Yes,1,11.3
+Sylhet,Sylhet,Jaintiapur,76.2,60.1,Low,Yes,0,13.0
+Sylhet,Sylhet,Kanaighat,73.1,59.2,Low,Yes,1,12.4
+Sylhet,Sylhet,Osmani Nagar,68.9,82.9,Medium,Yes,1,6.3
+Sylhet,Sylhet,Sylhet Sadar,85.5,73.3,Medium,Yes,6,3.4
+Sylhet,Sylhet,Zakiganj,69.6,43.7,Low,Yes,1,13.2

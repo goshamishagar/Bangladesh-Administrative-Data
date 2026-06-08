@@ -1,0 +1,492 @@
+﻿Division,District,Upazila,Highway Length (km),Railway Station,River/Launch Port,Ferry Service,Airport/Airstrip,Bus Terminal,Major Bridges,Key River(s),Nearest Seaport
+Barisal,Barguna,Amtali,14.4,Yes,Yes,Yes,No,Yes,14,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barguna,Bamna,47.5,No,Yes,Yes,No,Yes,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barguna,Barguna Sadar,10.3,Yes,Yes,Yes,No,Yes,7,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barguna,Betagi,13.6,No,Yes,Yes,No,Partial,5,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barguna,Patharghata,43.3,No,Yes,Yes,No,Partial,6,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barguna,Taltali,11.9,No,Yes,Yes,No,Yes,6,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Agailjhara,39.8,No,Yes,Yes,No,Yes,2,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Babuganj,28.7,No,Yes,Yes,No,Yes,2,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Bakerganj,38.0,No,Yes,Yes,No,Partial,7,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Banari Para,35.5,No,Yes,Yes,No,Yes,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Barisal Sadar,14.8,No,Yes,Yes,No,Yes,1,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Gaurnadi,50.8,Yes,Yes,Yes,No,Yes,2,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Hizla,32.0,No,Yes,Yes,No,Yes,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Mehendiganj,13.7,Yes,Yes,Yes,No,Partial,6,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Muladi,34.6,Yes,Yes,Yes,No,Partial,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Barisal,Wazirpur,42.9,No,Yes,Yes,No,Yes,2,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Bhola,Bhola Sadar,41.0,No,Yes,Yes,No,Yes,9,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Bhola,Burhanuddin,28.5,No,Yes,Yes,No,Partial,5,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Bhola,Char Fasson,43.9,No,Yes,Yes,No,Partial,18,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Bhola,Daulatkhan,41.6,No,Yes,Yes,No,Yes,4,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Bhola,Lalmohan,44.1,Yes,Yes,Yes,No,Yes,6,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Bhola,Manpura,25.9,No,Yes,Yes,No,Partial,7,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Bhola,Tazumuddin,22.5,No,Yes,Yes,No,Yes,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Jhalokati,Jhalokati Sadar,23.2,Yes,Yes,Yes,No,Yes,5,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Jhalokati,Kathalia,34.2,No,Yes,Yes,No,Yes,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Jhalokati,Nalchity,20.5,Yes,Yes,Yes,No,Yes,2,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Jhalokati,Rajapur,25.4,No,Yes,Yes,No,Yes,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Patuakhali,Bauphal,14.7,No,Yes,Yes,No,Yes,12,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Patuakhali,Dashmina,11.6,No,Yes,Yes,No,Partial,6,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Patuakhali,Dumki,37.3,No,Yes,Yes,No,Partial,2,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Patuakhali,Galachipa,42.3,Yes,Yes,Yes,No,Yes,13,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Patuakhali,Kalapara,38.2,No,Yes,Yes,No,Yes,18,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Patuakhali,Mirzaganj,36.3,Yes,Yes,Yes,No,Yes,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Patuakhali,Patuakhali Sadar,39.7,No,Yes,Yes,No,Yes,8,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Patuakhali,Rangabali,28.0,No,Yes,Yes,No,Partial,8,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Pirojpur,Bhandaria,20.2,No,Yes,Yes,No,Yes,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Pirojpur,Kawkhali,35.0,No,Yes,Yes,No,Yes,2,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Pirojpur,Mathbaria,11.6,No,Yes,Yes,No,Partial,6,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Pirojpur,Nazirpur,9.7,No,Yes,Yes,No,Partial,4,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Pirojpur,Pirojpur Sadar,47.7,No,Yes,Yes,No,Yes,7,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Pirojpur,Nesarabad,18.6,No,Yes,Yes,No,Partial,4,"Kirtankhola, Bishkhali, Meghna",Mongla
+Barisal,Pirojpur,Zianagar,10.0,No,Yes,Yes,No,Partial,3,"Kirtankhola, Bishkhali, Meghna",Mongla
+Chittagong,Bandarban,Ali Kadam,31.6,No,Yes,No,No,Partial,17,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Bandarban,Bandarban Sadar,25.8,No,Yes,No,No,Yes,20,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Bandarban,Lama,45.5,No,Yes,No,No,Partial,13,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Bandarban,Naikhongchhari,42.2,Yes,Yes,Yes,No,Partial,20,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Bandarban,Rowangchhari,36.1,No,Yes,No,No,Yes,8,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Bandarban,Ruma,41.1,No,Yes,No,No,Yes,18,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Bandarban,Thanchi,36.6,No,Yes,No,No,Partial,27,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Akhaura,27.4,Yes,Yes,No,No,Yes,1,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Ashuganj,13.1,Yes,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Bancharampur,39.6,No,Yes,No,No,Partial,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Bijoynagar,32.7,No,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,11.5,No,Yes,No,Yes,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Kasba,45.2,No,Yes,Yes,No,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Nabinagar,36.4,No,Yes,No,No,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Nasirnagar,20.8,No,Yes,Yes,No,Yes,6,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Brahmanbaria,Sarail,45.5,Yes,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chandpur,Chandpur Sadar,39.1,No,Yes,Yes,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chandpur,Faridganj,48.9,No,Yes,Yes,No,Partial,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chandpur,Haimchar,21.7,No,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chandpur,Haziganj,27.1,Yes,Yes,No,No,Partial,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chandpur,Kachua,41.5,Yes,Yes,No,No,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chandpur,Matlab Dakshin,49.6,No,Yes,Yes,No,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chandpur,Matlab Uttar,30.5,No,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chandpur,Shahrasti,7.8,No,Yes,Yes,No,Partial,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Anwara,13.0,Yes,Yes,Yes,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Banshkhali,28.1,No,Yes,No,No,Partial,7,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Boalkhali,6.3,No,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Chandanaish,14.5,Yes,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Chittagong Sadar,74.6,No,Yes,Yes,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Fatikchhari,37.8,Yes,Yes,No,No,Partial,15,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Hathazari,53.6,Yes,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Karnaphuli,20.2,Yes,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Lohagara,24.0,Yes,Yes,No,No,Partial,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Mirsharai,20.3,No,Yes,No,No,Yes,6,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Patiya,54.5,No,Yes,Yes,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Rangunia,14.1,No,Yes,Yes,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Raozan,36.9,Yes,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Sandwip,13.0,Yes,Yes,No,No,Yes,12,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Satkania,48.3,Yes,Yes,Yes,No,Yes,8,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Chittagong,Sitakunda,33.5,No,Yes,No,No,Yes,7,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Barura,29.0,Yes,Yes,No,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Brahmanpara,22.1,No,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Burichang,15.2,No,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Chandina,53.5,No,Yes,No,No,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Chauddagram,23.0,Yes,Yes,No,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Comilla Sadar,31.5,Yes,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Comilla Sadar Dakshin,25.1,No,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Daudkandi,35.0,No,Yes,Yes,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Debidwar,8.0,Yes,Yes,Yes,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Homna,32.7,No,Yes,Yes,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Laksam,48.1,Yes,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Lalmai,34.9,No,Yes,No,No,Yes,1,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Manoharganj,20.5,Yes,Yes,Yes,No,Partial,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Meghna,44.5,No,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Muradnagar,15.8,No,Yes,No,No,Partial,7,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Nangalkot,45.4,Yes,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Comilla,Titas,24.8,No,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Cox's Bazar,Chakaria,30.3,No,Yes,No,No,Partial,12,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,60.6,No,Yes,Yes,No,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Cox's Bazar,Kutubdia,7.1,Yes,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Cox's Bazar,Maheshkhali,21.2,No,Yes,Yes,No,Yes,6,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Cox's Bazar,Pekua,26.6,No,Yes,No,No,Partial,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Cox's Bazar,Ramu,18.5,Yes,Yes,No,No,Partial,8,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Cox's Bazar,Teknaf,43.0,Yes,Yes,No,No,Yes,7,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Cox's Bazar,Ukhia,20.6,No,Yes,No,No,Yes,6,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Feni,Chhagalnaiya,42.7,No,Yes,No,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Feni,Daganbhuiyan,43.5,Yes,Yes,No,No,Partial,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Feni,Feni Sadar,13.2,Yes,Yes,No,Yes,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Feni,Fulgazi,7.5,Yes,Yes,No,No,Partial,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Feni,Parshuram,6.4,No,Yes,No,No,Yes,1,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Feni,Sonagazi,47.5,Yes,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Dighinala,13.8,Yes,Yes,No,No,Yes,9,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Guimara,12.7,No,Yes,No,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Khagrachhari Sadar,44.4,No,Yes,No,No,Yes,10,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Lakshmichhari,5.8,Yes,Yes,No,No,Partial,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Mahalchhari,37.6,No,Yes,Yes,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Manikchhari,47.1,No,Yes,No,No,Yes,6,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Matiranga,22.3,No,Yes,No,No,Yes,11,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Panchhari,19.1,Yes,Yes,No,No,Yes,10,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Khagrachhari,Ramgarh,52.2,No,Yes,No,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Lakshmipur,Kamalnagar,40.9,No,Yes,No,No,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Lakshmipur,Lakshmipur Sadar,35.9,Yes,Yes,No,No,Yes,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Lakshmipur,Ramganj,44.2,No,Yes,Yes,No,Yes,4,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Lakshmipur,Ramgati,21.4,No,Yes,No,No,Partial,6,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Lakshmipur,Raipur,56.9,No,Yes,Yes,No,Yes,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Begumganj,42.7,Yes,Yes,No,No,Yes,6,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Chatkhil,31.3,Yes,Yes,No,No,Partial,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Companiganj,34.1,No,Yes,Yes,No,Yes,9,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Hatiya,30.8,No,Yes,No,No,Partial,21,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Kabirhat,16.9,No,Yes,No,No,Yes,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Noakhali Sadar,59.1,No,Yes,No,No,Yes,7,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Senbagh,10.9,No,Yes,No,No,Partial,2,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Sonaimuri,30.7,Yes,Yes,No,No,Partial,3,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Noakhali,Subarnachar,33.5,Yes,Yes,Yes,No,Partial,14,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Bagaichhari,26.6,No,Yes,Yes,No,Yes,13,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Barkal,16.1,No,Yes,No,No,Yes,15,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Belaichhari,19.5,Yes,Yes,No,No,Yes,10,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Juraichhari,21.6,No,Yes,Yes,No,Yes,9,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Kaptai,15.1,No,Yes,Yes,No,Yes,7,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Kawkhali,14.5,Yes,Yes,No,No,Yes,7,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Langadu,20.2,No,Yes,Yes,No,Yes,11,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Naniarchar,39.9,No,Yes,No,No,Yes,10,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Rajasthali,20.9,No,Yes,No,No,Partial,5,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Chittagong,Rangamati,Rangamati Sadar,21.1,Yes,Yes,Yes,No,Yes,10,"Karnaphuli, Halda, Feni, Meghna",Chittagong
+Dhaka,Dhaka,Demra,55.5,Yes,No,No,No,Yes,1,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Dhaka,Dhamrai,24.1,No,No,No,No,Yes,7,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Dhaka,Dohar,34.9,Yes,Yes,No,No,Partial,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Dhaka,Keraniganj,73.2,Yes,No,Yes,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Dhaka,Nawabganj,40.6,Yes,No,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Dhaka,Savar,22.8,No,No,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Dhaka,Tejgaon (Dhaka City),22.9,Yes,No,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Alfadanga,23.9,Yes,No,No,No,Partial,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Bhanga,49.0,Yes,No,Yes,No,Partial,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Boalmari,32.7,No,Yes,No,No,Partial,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Char Bhadrasan,18.7,Yes,No,Yes,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Faridpur Sadar,18.9,No,No,No,No,Yes,6,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Madhukhali,24.4,Yes,Yes,No,No,Partial,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Nagarkanda,16.9,Yes,Yes,Yes,No,Partial,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Saltha,20.7,No,No,Yes,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Faridpur,Sadarpur,36.8,Yes,No,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gazipur,Gazipur Sadar,72.6,Yes,No,No,No,Yes,6,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gazipur,Kaliakair,11.7,Yes,Yes,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gazipur,Kaliganj,45.1,Yes,Yes,Yes,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gazipur,Kapasia,39.5,Yes,Yes,Yes,No,Yes,6,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gazipur,Sreepur,37.6,No,No,No,No,Yes,8,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gopalganj,Gopalganj Sadar,34.7,No,No,No,No,Yes,8,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gopalganj,Kashiani,20.1,No,No,Yes,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gopalganj,Kotalipara,32.2,No,No,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gopalganj,Muksudpur,42.3,Yes,No,No,No,Partial,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Gopalganj,Tungipara,30.8,No,No,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Astagram,34.1,No,Yes,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Bajitpur,40.8,Yes,Yes,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Bhairab,9.3,Yes,No,No,No,Yes,1,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Hossainpur,40.7,No,No,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Itna,10.1,No,Yes,Yes,No,Yes,7,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Karimganj,30.3,No,No,No,No,Yes,6,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Katiadi,6.5,No,Yes,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Kishoreganj Sadar,10.1,Yes,No,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Kuliarchar,21.4,No,Yes,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Mithamain,43.1,No,Yes,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Nikli,47.5,Yes,Yes,Yes,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Pakundia,39.7,Yes,No,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Kishoreganj,Tarail,8.1,No,No,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Madaripur,Kalkini,45.2,No,No,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Madaripur,Madaripur Sadar,52.9,Yes,No,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Madaripur,Rajoir,23.9,No,No,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Madaripur,Shibchar,28.8,No,Yes,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Manikganj,Daulatpur,27.6,No,No,Yes,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Manikganj,Ghior,28.1,Yes,No,Yes,No,Partial,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Manikganj,Harirampur,31.5,Yes,Yes,Yes,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Manikganj,Manikganj Sadar,17.7,Yes,Yes,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Manikganj,Saturia,20.1,No,No,Yes,No,Partial,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Manikganj,Shibalaya,40.9,No,No,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Manikganj,Singair,42.3,Yes,Yes,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Munshiganj,Gazaria,9.3,No,No,No,No,Yes,1,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Munshiganj,Louhajang,9.0,No,No,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Munshiganj,Munshiganj Sadar,24.9,No,No,Yes,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Munshiganj,Sirajdikhan,50.2,No,No,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Munshiganj,Sreenagar,23.3,Yes,No,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Munshiganj,Tongibari,50.4,No,No,Yes,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narayanganj,Araihazar,20.1,Yes,Yes,Yes,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narayanganj,Bandar,13.5,Yes,No,No,No,Yes,1,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narayanganj,Narayanganj Sadar,13.1,No,Yes,Yes,Yes,Yes,1,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narayanganj,Rupganj,49.5,No,No,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narayanganj,Sonargaon,45.6,No,Yes,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narsingdi,Belabo,51.0,Yes,Yes,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narsingdi,Monohardi,31.5,No,No,No,No,Partial,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narsingdi,Narsingdi Sadar,65.0,Yes,Yes,Yes,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narsingdi,Palash,20.3,No,No,No,No,Yes,1,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narsingdi,Raipura,44.1,No,Yes,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Narsingdi,Shibpur,37.4,No,No,Yes,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Rajbari,Baliakandi,13.2,No,No,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Rajbari,Goalandaghat,7.2,No,Yes,No,No,Partial,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Rajbari,Kalukhali,21.2,Yes,Yes,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Rajbari,Pangsha,35.6,No,Yes,Yes,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Rajbari,Rajbari Sadar,16.6,No,No,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Shariatpur,Bhedarganj,36.6,No,Yes,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Shariatpur,Damudya,30.7,Yes,Yes,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Shariatpur,Gosairhat,29.9,No,Yes,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Shariatpur,Jajira,37.9,Yes,Yes,Yes,No,Partial,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Shariatpur,Naria,14.0,No,No,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Shariatpur,Shariatpur Sadar,9.1,Yes,No,No,No,Yes,4,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Basail,7.8,Yes,Yes,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Bhuapur,50.0,Yes,Yes,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Delduar,46.1,Yes,No,Yes,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Dhanbari,46.8,No,No,No,No,Yes,2,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Ghatail,45.9,No,Yes,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Gopalpur,32.8,No,No,No,No,Partial,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Kalihati,47.6,No,No,Yes,No,Partial,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Madhupur,16.5,Yes,Yes,Yes,No,Partial,9,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Mirzapur,44.7,Yes,No,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Nagarpur,20.1,No,No,No,No,Yes,3,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Sakhipur,7.1,Yes,Yes,No,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Dhaka,Tangail,Tangail Sadar,20.2,Yes,No,Yes,No,Yes,5,"Buriganga, Shitalakhya, Meghna, Dhaleshwari",Chittagong
+Khulna,Bagerhat,Bagerhat Sadar,35.1,No,Yes,Yes,No,Yes,8,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Bagerhat,Chitalmari,15.6,No,Yes,Yes,No,Yes,3,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Bagerhat,Fakirhat,27.0,No,Yes,Yes,No,Yes,3,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Bagerhat,Kachua,23.5,No,Yes,Yes,No,Yes,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Bagerhat,Mollahat,13.1,No,Yes,Yes,No,Partial,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Bagerhat,Mongla,33.3,Yes,Yes,Yes,No,Yes,35,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Bagerhat,Morrelganj,11.2,Yes,Yes,Yes,No,Partial,9,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Bagerhat,Rampal,31.7,Yes,Yes,Yes,No,Partial,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Bagerhat,Sarankhola,7.1,No,Yes,Yes,No,Yes,7,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Chuadanga,Alamdanga,26.6,Yes,Yes,Yes,No,Partial,7,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Chuadanga,Chuadanga Sadar,27.3,Yes,Yes,Yes,No,Yes,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Chuadanga,Damurhuda,26.8,Yes,Yes,Yes,No,Yes,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Chuadanga,Jibannagar,19.9,No,Yes,Yes,No,Yes,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jessore,Abhaynagar,40.3,No,Yes,Yes,No,Partial,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jessore,Bagherpara,37.2,Yes,Yes,Yes,No,Partial,5,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jessore,Chaugachha,12.6,No,Yes,Yes,No,Partial,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jessore,Jessore Sadar,62.9,Yes,Yes,Yes,No,Yes,5,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jessore,Jhikargachha,34.3,No,Yes,Yes,No,Yes,5,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jessore,Keshabpur,11.6,Yes,Yes,Yes,No,Yes,5,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jessore,Manirampur,16.5,No,Yes,Yes,No,Yes,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jessore,Sharsha,34.6,No,Yes,Yes,No,Yes,7,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jhenaidah,Harinakunda,34.7,Yes,Yes,Yes,No,Partial,3,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jhenaidah,Jhenaidah Sadar,31.7,No,Yes,Yes,No,Yes,8,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jhenaidah,Kaliganj,37.0,Yes,Yes,Yes,No,Yes,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jhenaidah,Kotchandpur,20.8,No,Yes,Yes,No,Partial,3,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jhenaidah,Maheshpur,47.0,Yes,Yes,Yes,No,Yes,8,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Jhenaidah,Shailkupa,50.2,Yes,Yes,Yes,No,Partial,7,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Batiaghata,13.7,Yes,Yes,Yes,No,Partial,7,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Dacope,14.9,No,Yes,Yes,No,Partial,25,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Dighalia,10.1,Yes,Yes,Yes,No,Yes,1,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Dumuria,31.1,Yes,Yes,Yes,No,Yes,10,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Koyra,38.2,Yes,Yes,Yes,No,Partial,28,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Khulna Sadar,75.0,Yes,Yes,Yes,No,Yes,1,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Paikgachha,22.4,No,Yes,Yes,No,Yes,9,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Phultala,47.4,Yes,Yes,Yes,No,Yes,1,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Khulna,Rupsha,18.7,Yes,Yes,Yes,No,Yes,2,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Kushtia,Bheramara,38.1,Yes,Yes,Yes,No,Yes,2,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Kushtia,Daulatpur,28.9,No,Yes,Yes,No,Yes,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Kushtia,Khoksa,37.9,Yes,Yes,Yes,No,Yes,2,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Kushtia,Kushtia Sadar,10.1,No,Yes,Yes,No,Yes,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Kushtia,Kumarkhali,17.1,No,Yes,Yes,No,Yes,5,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Kushtia,Mirpur,14.9,Yes,Yes,Yes,No,Partial,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Magura,Magura Sadar,61.7,No,Yes,Yes,No,Yes,7,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Magura,Mohammadpur,38.9,Yes,Yes,Yes,No,Yes,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Magura,Shalikha,50.0,Yes,Yes,Yes,No,Partial,3,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Magura,Sreepur,31.1,Yes,Yes,Yes,No,Yes,3,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Meherpur,Gangni,19.8,No,Yes,Yes,No,Yes,3,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Meherpur,Meherpur Sadar,11.9,Yes,Yes,Yes,No,Yes,5,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Meherpur,Mujibnagar,35.5,No,Yes,Yes,No,Partial,1,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Narail,Kalia,17.7,Yes,Yes,Yes,No,Yes,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Narail,Lohagara,32.6,Yes,Yes,Yes,No,Yes,3,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Narail,Narail Sadar,52.4,No,Yes,Yes,No,Yes,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Satkhira,Assasuni,45.6,No,Yes,Yes,No,Partial,8,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Satkhira,Debhata,34.1,Yes,Yes,Yes,No,Yes,4,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Satkhira,Kalaroa,37.6,No,Yes,Yes,No,Yes,7,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Satkhira,Kaliganj,41.6,Yes,Yes,Yes,No,Partial,8,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Satkhira,Satkhira Sadar,42.4,Yes,Yes,Yes,No,Yes,7,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Satkhira,Shyamnagar,49.3,No,Yes,Yes,No,Partial,30,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Khulna,Satkhira,Tala,45.2,Yes,Yes,Yes,No,Yes,6,"Rupsha, Bhairab, Passur, Kobadak",Mongla
+Mymensingh,Jamalpur,Baksiganj,13.2,No,Yes,Yes,No,Partial,3,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Jamalpur,Dewanganj,22.1,No,No,No,No,Yes,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Jamalpur,Islampur,11.4,Yes,No,No,No,Partial,7,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Jamalpur,Jamalpur Sadar,25.3,No,Yes,No,No,Yes,7,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Jamalpur,Madarganj,43.9,No,No,No,No,Partial,3,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Jamalpur,Melandaha,7.5,No,No,Yes,No,Yes,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Jamalpur,Sarishabari,31.0,Yes,No,No,No,Partial,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Bhaluka,54.4,Yes,Yes,No,No,Yes,6,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Dhobaura,7.1,Yes,No,No,No,Yes,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Fulbaria,23.4,No,Yes,No,No,Partial,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Gaffargaon,43.2,Yes,No,No,No,Partial,6,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Gauripur,45.2,No,No,No,No,Yes,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Haluaghat,24.6,No,No,No,No,Yes,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Ishwarganj,47.8,No,Yes,No,No,Yes,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Mymensingh Sadar,40.1,No,Yes,No,No,Yes,6,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Muktagachha,32.5,No,Yes,No,No,Partial,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Nandail,30.1,No,No,No,No,Yes,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Phulpur,17.5,No,Yes,No,No,Partial,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Mymensingh,Trishal,33.7,No,No,No,No,Yes,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Atpara,6.9,No,No,Yes,No,Partial,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Barhatta,15.1,No,No,No,No,Yes,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Durgapur,36.3,Yes,No,Yes,No,Partial,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Kalmakanda,7.3,No,Yes,Yes,No,Yes,8,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Kendua,14.8,Yes,Yes,Yes,No,Partial,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Khaliajuri,30.3,Yes,Yes,No,No,Partial,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Madan,24.6,No,Yes,No,No,Partial,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Mohanganj,36.9,Yes,Yes,No,No,Partial,4,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Netrokona Sadar,15.7,No,Yes,No,No,Yes,6,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Netrokona,Purbadhala,28.7,Yes,No,No,No,Yes,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Sherpur,Jhenaigati,50.3,Yes,Yes,Yes,No,Partial,5,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Sherpur,Nakla,18.8,No,No,No,No,Partial,3,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Sherpur,Nalitabari,39.4,Yes,No,No,No,Yes,8,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Sherpur,Sherpur Sadar,33.0,Yes,No,No,No,Yes,6,"Brahmaputra, Someswari, Netai",Chittagong
+Mymensingh,Sherpur,Sreebardi,39.1,No,Yes,No,No,Yes,5,"Brahmaputra, Someswari, Netai",Chittagong
+Rajshahi,Bogura,Adamdighi,27.8,No,Yes,Yes,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Bogura Sadar,62.6,Yes,Yes,No,No,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Dhunat,12.6,Yes,Yes,Yes,No,Yes,7,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Dupchanchia,52.0,No,Yes,Yes,No,Yes,2,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Gabtali,39.1,No,Yes,Yes,No,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Kahaloo,31.7,No,No,Yes,No,Partial,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Nandigram,14.7,No,No,No,No,Partial,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Sariakandi,18.0,No,No,No,No,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Shajahanpur,12.6,No,No,No,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Sherpur,9.1,No,No,No,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Shibganj,9.8,Yes,Yes,Yes,No,Yes,7,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Bogura,Sonatola,44.0,Yes,No,No,No,Yes,2,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Chapainawabganj,Bholahat,21.3,No,No,No,No,Yes,1,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,25.9,Yes,Yes,No,No,Yes,8,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Chapainawabganj,Gomastapur,15.5,Yes,Yes,No,No,Yes,6,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Chapainawabganj,Nachole,12.6,No,No,No,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Chapainawabganj,Shibganj,35.2,Yes,No,No,No,Partial,9,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Joypurhat,Akkelpur,41.4,Yes,Yes,No,No,Yes,2,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Joypurhat,Joypurhat Sadar,7.1,Yes,No,No,No,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Joypurhat,Kalai,29.9,No,Yes,No,No,Yes,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Joypurhat,Khetlal,32.0,No,Yes,No,No,Partial,2,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Joypurhat,Panchbibi,11.0,No,No,No,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Atrai,46.6,No,Yes,No,No,Partial,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Badalgachhi,18.0,Yes,Yes,No,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Dhamoirhat,41.9,No,Yes,No,No,Partial,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Manda,25.5,No,Yes,No,No,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Mahadebpur,12.7,Yes,No,Yes,No,Yes,6,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Naogaon Sadar,18.9,Yes,Yes,No,No,Yes,6,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Niamatpur,14.6,No,Yes,Yes,No,Partial,6,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Patnitala,24.1,No,Yes,No,No,Partial,6,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Porsha,5.9,No,No,No,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Raninagar,31.6,Yes,No,No,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Naogaon,Sapahar,6.1,No,Yes,Yes,No,Yes,7,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Natore,Bagatipara,20.5,Yes,No,No,No,Partial,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Natore,Baraigram,21.5,Yes,Yes,Yes,No,Partial,7,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Natore,Gurudaspur,23.2,Yes,No,Yes,No,Partial,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Natore,Lalpur,18.1,No,Yes,Yes,No,Partial,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Natore,Natore Sadar,36.1,No,Yes,No,No,Yes,6,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Natore,Singra,41.7,Yes,No,No,No,Partial,6,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Atgharia,29.1,Yes,No,No,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Bera,18.6,No,Yes,No,No,Partial,7,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Bhangura,29.5,No,Yes,Yes,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Chatmohar,49.5,No,Yes,No,No,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Faridpur,50.7,Yes,Yes,No,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Ishwardi,21.2,Yes,Yes,Yes,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Pabna Sadar,20.2,No,Yes,Yes,No,Yes,8,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Santhia,24.5,No,No,Yes,No,Partial,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Pabna,Sujanagar,38.4,No,No,Yes,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Bagha,13.9,No,No,No,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Bagmara,38.5,No,No,Yes,No,Yes,8,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Charghat,6.8,No,Yes,No,No,Partial,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Durgapur,51.2,Yes,No,No,No,Partial,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Godagari,15.5,No,No,No,No,Partial,12,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Mohanpur,20.0,No,No,No,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Paba,57.7,No,No,No,No,Yes,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Putia,30.3,Yes,Yes,No,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Rajshahi,Rajshahi Sadar,59.6,Yes,Yes,No,Yes,Yes,1,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Belkuchi,30.8,No,No,No,No,Yes,1,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Chauhali,28.1,No,Yes,No,No,Partial,4,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Kamarkhand,31.6,Yes,Yes,Yes,No,Yes,3,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Kazipur,19.3,Yes,No,No,No,Yes,7,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Raiganj,14.3,No,Yes,No,No,Yes,6,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Shahjadpur,11.5,No,Yes,Yes,No,Yes,8,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Sirajganj Sadar,9.0,Yes,Yes,No,Yes,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Tarash,45.6,No,Yes,No,No,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rajshahi,Sirajganj,Ullahpara,32.1,No,No,Yes,No,Yes,5,"Padma, Mahananda, Atrai, Barind",Mongla
+Rangpur,Dinajpur,Birampur,20.7,Yes,No,Yes,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Birganj,31.0,Yes,No,Yes,No,Yes,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Biral,27.6,No,Yes,Yes,No,Yes,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Bochaganj,37.6,No,No,Yes,No,Yes,3,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Chirirbandar,28.2,No,No,Yes,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Dinajpur Sadar,43.1,Yes,Yes,Yes,No,Yes,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Fulbari,12.7,Yes,No,No,No,Partial,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Ghoraghat,33.1,No,Yes,Yes,No,Partial,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Hakimpur,11.6,No,Yes,No,No,Yes,2,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Kaharole,16.4,No,No,Yes,No,Yes,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Khansama,43.4,No,No,Yes,No,Partial,3,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Nawabganj,36.8,No,No,No,No,Yes,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Dinajpur,Parbatipur,19.1,No,No,No,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Gaibandha,Fulchhari,19.9,No,Yes,No,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Gaibandha,Gaibandha Sadar,15.9,No,No,Yes,No,Yes,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Gaibandha,Gobindaganj,49.3,No,No,No,No,Yes,10,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Gaibandha,Palashbari,18.6,No,No,No,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Gaibandha,Sadullapur,43.5,Yes,No,No,No,Yes,6,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Gaibandha,Saghata,27.5,No,Yes,No,No,Yes,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Gaibandha,Sundarganj,12.2,No,No,No,No,Yes,9,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Bhurungamari,39.8,No,Yes,No,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Char Rajibpur,37.8,Yes,No,No,No,Partial,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Chilmari,20.4,Yes,Yes,No,No,Partial,3,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Kurigram Sadar,12.5,No,Yes,No,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Nageshwari,50.8,Yes,No,Yes,No,Yes,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Phulbari,30.6,Yes,No,No,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Rajarhat,45.8,No,Yes,Yes,No,Yes,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Raumari,37.2,Yes,No,No,No,Yes,6,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Kurigram,Ulipur,29.2,Yes,Yes,No,No,Yes,9,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Lalmonirhat,Aditmari,25.1,No,Yes,No,No,Yes,3,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Lalmonirhat,Hatibandha,11.8,Yes,No,No,No,Yes,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Lalmonirhat,Kaliganj,26.7,Yes,No,Yes,No,Yes,3,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,20.9,Yes,No,No,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Lalmonirhat,Patgram,35.6,Yes,Yes,Yes,No,Yes,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Nilphamari,Dimla,9.0,Yes,No,Yes,No,Partial,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Nilphamari,Domar,8.4,Yes,No,No,No,Yes,3,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Nilphamari,Jaldhaka,48.0,Yes,Yes,No,No,Partial,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Nilphamari,Kishoreganj,33.7,No,No,No,No,Yes,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Nilphamari,Nilphamari Sadar,60.0,No,No,No,No,Yes,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Nilphamari,Saidpur,29.5,Yes,Yes,Yes,No,Yes,2,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Panchagarh,Atwari,42.7,Yes,Yes,Yes,No,Yes,3,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Panchagarh,Boda,36.9,No,No,No,No,Yes,8,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Panchagarh,Debiganj,6.9,No,No,No,No,Yes,6,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Panchagarh,Panchagarh Sadar,41.5,No,No,Yes,No,Yes,6,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Panchagarh,Tetulia,9.2,Yes,No,No,No,Partial,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Rangpur,Badarganj,48.3,Yes,No,No,No,Yes,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Rangpur,Gangachara,42.4,No,Yes,No,No,Yes,8,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Rangpur,Kaunia,29.1,Yes,Yes,No,No,Partial,3,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Rangpur,Mithapukur,39.7,Yes,No,No,No,Yes,6,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Rangpur,Pirgachha,38.9,Yes,No,No,No,Partial,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Rangpur,Pirganj,10.3,No,No,No,No,Yes,6,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Rangpur,Rangpur Sadar,29.8,Yes,Yes,No,No,Yes,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Rangpur,Taraganj,25.7,Yes,No,No,No,Yes,2,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Thakurgaon,Baliadangi,19.9,No,No,No,No,Partial,4,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Thakurgaon,Haripur,35.7,No,No,Yes,No,Yes,5,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Thakurgaon,Pirganj,43.9,No,Yes,No,No,Partial,6,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Thakurgaon,Ranisankail,35.1,Yes,No,Yes,No,Partial,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Rangpur,Thakurgaon,Thakurgaon Sadar,26.7,Yes,No,Yes,No,Yes,7,"Teesta, Dharla, Dudhkumar, Brahmaputra",Chittagong
+Sylhet,Habiganj,Ajmiriganj,26.2,Yes,Yes,No,No,Yes,3,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Habiganj,Bahubal,24.9,Yes,No,Yes,No,Partial,4,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Habiganj,Baniachong,10.5,No,Yes,Yes,No,Partial,8,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Habiganj,Chunarughat,30.6,Yes,Yes,Yes,No,Partial,7,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Habiganj,Habiganj Sadar,40.0,No,Yes,Yes,No,Yes,7,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Habiganj,Lakhai,50.1,Yes,Yes,No,No,Partial,3,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Habiganj,Madhabpur,42.5,Yes,No,Yes,No,Partial,6,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Habiganj,Nabiganj,31.6,Yes,No,Yes,No,Partial,8,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Moulvibazar,Barlekha,41.4,No,Yes,No,No,Yes,7,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Moulvibazar,Juri,48.4,No,Yes,No,No,Partial,3,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Moulvibazar,Kamalganj,50.2,No,Yes,No,No,Yes,6,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Moulvibazar,Kulaura,33.0,Yes,No,No,No,Yes,9,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Moulvibazar,Moulvibazar Sadar,43.3,Yes,Yes,Yes,No,Yes,8,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Moulvibazar,Rajnagar,31.8,Yes,Yes,Yes,No,Yes,5,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Moulvibazar,Sreemangal,37.6,No,Yes,No,No,Yes,7,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Bishwamvarpur,31.5,No,Yes,No,No,Partial,3,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Chhatak,28.2,No,Yes,No,No,Yes,4,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Derai,24.3,Yes,Yes,Yes,No,Yes,6,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Dharampasha,39.6,No,Yes,No,No,Yes,9,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Dowarabazar,18.3,Yes,Yes,Yes,No,Partial,4,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Jamalganj,38.7,Yes,Yes,Yes,No,Partial,5,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Jagannathpur,48.5,Yes,No,No,No,Yes,4,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Sulla,48.4,Yes,Yes,No,No,Partial,6,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Sunamganj Sadar,41.2,No,Yes,Yes,No,Yes,8,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sunamganj,Tahirpur,34.3,Yes,Yes,No,No,Yes,4,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Balaganj,19.7,No,No,Yes,No,Yes,3,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Beani Bazar,40.1,Yes,Yes,No,No,Yes,5,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Bishwanath,32.3,No,Yes,No,No,Partial,4,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Companiganj,9.8,No,Yes,Yes,No,Partial,5,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Dakshin Surma,32.4,Yes,No,Yes,No,Yes,2,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Fenchuganj,34.8,No,No,Yes,No,Yes,2,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Golapganj,13.2,Yes,No,No,No,Yes,5,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Gowainghat,45.0,Yes,No,No,No,Yes,8,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Jaintiapur,37.7,No,Yes,No,No,Partial,9,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Kanaighat,49.3,No,No,No,No,Yes,6,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Osmani Nagar,18.4,Yes,No,No,No,Yes,3,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Sylhet Sadar,29.0,No,No,No,No,Yes,3,"Surma, Kushiyara, Manu, Kalni",Chittagong
+Sylhet,Sylhet,Zakiganj,30.2,Yes,No,No,No,Partial,4,"Surma, Kushiyara, Manu, Kalni",Chittagong

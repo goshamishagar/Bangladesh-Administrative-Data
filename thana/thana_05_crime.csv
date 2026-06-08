@@ -1,0 +1,768 @@
+﻿Division,District,Thana / Police Station,Thana Type,Total Crimes (annual),Murder Cases,Robbery Cases,Theft Cases,Narcotics Cases,GBV/VAW Cases,Human Trafficking Risk
+Barisal,Barguna,Amtali,Coastal,282,3,2,135,9,2,High
+Barisal,Barguna,Bamna,Rural,112,1,1,38,1,1,Low
+Barisal,Barguna,Barguna Sadar,Sadar,389,3,8,145,10,6,Low
+Barisal,Barguna,Betagi,Rural,164,0,3,70,4,3,Low
+Barisal,Barguna,Patharghata,Coastal,191,1,8,92,6,3,High
+Barisal,Barguna,Taltali,Coastal,148,2,2,49,4,2,High
+Barisal,Barguna,Naltona,Rural,87,0,3,41,3,2,Medium
+Barisal,Barguna,Burirarchar,Coastal,118,1,3,49,4,2,High
+Barisal,Barguna,Keorabunia,River,55,0,1,19,1,0,Low
+Barisal,Barisal,Kotwali Barisal,Metropolitan,818,4,11,405,11,11,Low
+Barisal,Barisal,Barisal Sadar,Sadar,305,3,11,143,6,4,Low
+Barisal,Barisal,Airport Barisal,Metropolitan,318,1,3,98,6,3,Medium
+Barisal,Barisal,Agailjhara,Rural,166,2,7,67,4,3,Low
+Barisal,Barisal,Babuganj,Rural,133,2,6,45,3,5,Low
+Barisal,Barisal,Bakerganj,Rural,335,5,13,127,9,9,Low
+Barisal,Barisal,Banari Para,Rural,244,4,4,89,8,4,Medium
+Barisal,Barisal,Gaurnadi,Rural,178,2,3,53,5,1,Medium
+Barisal,Barisal,Hizla,River,89,1,5,44,4,2,Low
+Barisal,Barisal,Mehendiganj,River,254,4,10,98,11,6,Medium
+Barisal,Barisal,Muladi,Rural,210,3,8,67,8,1,Low
+Barisal,Barisal,Wazirpur,Rural,145,2,5,54,8,4,Medium
+Barisal,Barisal,Char Monai,River,59,0,2,21,1,0,Low
+Barisal,Barisal,Nalchira,Rural,82,1,4,30,3,0,Medium
+Barisal,Barisal,Duarghat,River,65,0,1,28,1,1,Low
+Barisal,Barisal,Tungibaria,Rural,47,1,1,19,2,1,Low
+Barisal,Barisal,Charbaria,Rural,103,1,3,35,1,1,Medium
+Barisal,Barisal,South Barisal,Metropolitan,286,1,5,118,3,2,Low
+Barisal,Barisal,Barisal Industrial,Industrial,171,1,2,84,1,2,Low
+Barisal,Barisal,Raipura Char,River,58,0,2,20,2,0,Medium
+Barisal,Bhola,Bhola Sadar,Sadar,582,6,5,277,9,8,Low
+Barisal,Bhola,Burhanuddin,Rural,252,3,10,120,11,3,Medium
+Barisal,Bhola,Char Fasson,Coastal,567,6,9,194,20,9,High
+Barisal,Bhola,Daulatkhan,River,122,1,6,49,7,3,Low
+Barisal,Bhola,Lalmohan,Rural,232,4,9,111,7,2,Low
+Barisal,Bhola,Manpura,Coastal,135,0,2,46,1,2,High
+Barisal,Bhola,Tazumuddin,River,159,1,5,65,4,2,Medium
+Barisal,Bhola,Ilisha,River,118,0,1,50,3,1,Medium
+Barisal,Bhola,Veduria,Coastal,78,1,4,35,4,1,High
+Barisal,Bhola,Char Khalifa,Coastal,115,1,1,43,3,1,High
+Barisal,Bhola,Nothullabad,Rural,74,1,3,29,2,1,Medium
+Barisal,Jhalokati,Jhalokati Sadar,Sadar,338,4,7,147,4,5,Low
+Barisal,Jhalokati,Kathalia,Rural,172,0,7,68,3,1,Low
+Barisal,Jhalokati,Nalchity,Rural,96,0,2,29,3,3,Medium
+Barisal,Jhalokati,Rajapur,Rural,131,1,4,60,3,4,Medium
+Barisal,Jhalokati,Gabkhan,River,85,1,2,25,2,1,Low
+Barisal,Jhalokati,Shashibhushan,Rural,96,0,3,29,2,1,Low
+Barisal,Jhalokati,Bisher,Rural,59,1,1,25,1,0,Low
+Barisal,Jhalokati,Nathullabad,River,55,1,2,25,1,1,Low
+Barisal,Patuakhali,Patuakhali Sadar,Sadar,315,4,9,134,7,7,Medium
+Barisal,Patuakhali,Bauphal,Coastal,286,4,8,131,10,3,High
+Barisal,Patuakhali,Dashmina,Coastal,164,2,6,66,3,2,High
+Barisal,Patuakhali,Dumki,Rural,103,1,4,42,4,1,Low
+Barisal,Patuakhali,Galachipa,Coastal,335,6,4,158,8,6,High
+Barisal,Patuakhali,Kalapara,Coastal,401,3,15,184,15,6,High
+Barisal,Patuakhali,Mirzaganj,River,119,2,2,49,3,3,Medium
+Barisal,Patuakhali,Rangabali,Coastal,125,0,3,39,4,1,High
+Barisal,Patuakhali,Kuakata,Tourism,100,0,3,35,2,1,Low
+Barisal,Patuakhali,Lohalia,River,77,1,2,29,2,1,Medium
+Barisal,Patuakhali,Madarbunia,Coastal,71,0,1,29,1,1,High
+Barisal,Patuakhali,Char Kajal,Coastal,56,0,2,27,3,0,High
+Barisal,Patuakhali,Baufal North,Rural,68,0,1,24,2,1,Low
+Barisal,Patuakhali,Kalaiya,River,65,0,3,23,2,1,Low
+Barisal,Pirojpur,Pirojpur Sadar,Sadar,401,3,4,162,7,8,Medium
+Barisal,Pirojpur,Bhandaria,River,150,2,2,48,2,2,Medium
+Barisal,Pirojpur,Kawkhali,River,141,2,4,65,5,1,Low
+Barisal,Pirojpur,Mathbaria,Coastal,223,3,4,79,8,4,High
+Barisal,Pirojpur,Nazirpur,Rural,239,2,9,104,10,3,Low
+Barisal,Pirojpur,Nesarabad,Rural,181,1,7,79,4,3,Low
+Barisal,Pirojpur,Zianagar,Rural,101,2,3,32,6,2,Low
+Barisal,Pirojpur,Hularhat,River,74,1,2,28,3,0,Low
+Barisal,Pirojpur,Indurkani,Rural,99,0,2,32,4,2,Low
+Barisal,Pirojpur,Swarupkathi,River,75,1,3,27,2,0,Low
+Barisal,Pirojpur,Tutkhali,Rural,50,0,2,18,2,0,Low
+Barisal,Pirojpur,Shalikha Pir,Rural,69,0,2,28,2,1,Low
+Barisal,Pirojpur,Mathbaria North,Coastal,107,2,2,32,4,1,High
+Chittagong,Chittagong,Kotwali Ctg,Metropolitan,1411,10,23,441,23,10,Medium
+Chittagong,Chittagong,Double Mooring,Metropolitan,682,3,11,212,12,3,Low
+Chittagong,Chittagong,Pahartali,Metropolitan,879,2,11,364,12,3,Medium
+Chittagong,Chittagong,Panchlaish,Metropolitan,820,4,14,259,6,4,Low
+Chittagong,Chittagong,Chandgaon,Metropolitan,821,7,14,396,13,12,Low
+Chittagong,Chittagong,Bayazid Bostami,Metropolitan,550,4,14,236,11,2,Medium
+Chittagong,Chittagong,Khulshi,Metropolitan,565,4,7,196,6,4,Medium
+Chittagong,Chittagong,Halishahar,Metropolitan,725,7,14,228,12,10,Medium
+Chittagong,Chittagong,Bandar,City,508,5,15,180,10,9,Low
+Chittagong,Chittagong,Patenga,Industrial,428,4,11,200,7,4,Medium
+Chittagong,Chittagong,EPZ Ctg,Industrial,299,2,9,135,9,5,Low
+Chittagong,Chittagong,Bakalia,Metropolitan,943,1,10,369,14,8,Low
+Chittagong,Chittagong,Akbar Shah,Metropolitan,603,3,13,252,11,7,Medium
+Chittagong,Chittagong,Karnaphuli,Industrial,333,3,10,114,9,3,Medium
+Chittagong,Chittagong,Chattogram Port,Industrial,221,1,3,91,2,2,Medium
+Chittagong,Chittagong,South Khulshi,Metropolitan,450,3,9,136,7,5,Medium
+Chittagong,Chittagong,Anwara,Industrial,341,4,10,112,7,2,Low
+Chittagong,Chittagong,Banshkhali,Rural,329,6,11,149,7,9,Low
+Chittagong,Chittagong,Boalkhali,Industrial,463,2,3,221,13,5,Low
+Chittagong,Chittagong,Chandanaish,Rural,275,3,6,131,7,2,Low
+Chittagong,Chittagong,Fatikchhari,Rural,497,4,19,215,23,13,Low
+Chittagong,Chittagong,Hathazari,Rural,291,3,9,106,16,9,Low
+Chittagong,Chittagong,Lohagara,Rural,231,2,9,85,12,7,Low
+Chittagong,Chittagong,Mirsharai,Industrial,820,7,9,327,21,9,Low
+Chittagong,Chittagong,Patiya,Industrial,568,3,8,239,15,6,Low
+Chittagong,Chittagong,Rangunia,Rural,266,2,8,106,8,9,Low
+Chittagong,Chittagong,Raozan,Industrial,545,4,6,165,9,4,Low
+Chittagong,Chittagong,Sandwip,Coastal,408,2,8,195,11,10,High
+Chittagong,Chittagong,Satkania,Rural,283,2,6,92,9,9,Medium
+Chittagong,Chittagong,Sitakunda,Industrial,563,7,9,225,8,3,Medium
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,Tourism,561,5,9,196,15,10,Low
+Chittagong,Cox's Bazar,Chakaria,Rural,510,9,12,245,18,4,Low
+Chittagong,Cox's Bazar,Kutubdia,Coastal,185,1,4,56,5,2,High
+Chittagong,Cox's Bazar,Maheshkhali,Coastal,288,4,4,102,9,3,High
+Chittagong,Cox's Bazar,Pekua,Coastal,130,2,2,44,6,2,High
+Chittagong,Cox's Bazar,Ramu,Tourism,433,2,12,202,8,8,Medium
+Chittagong,Cox's Bazar,Teknaf,Border,534,3,8,204,3,5,High
+Chittagong,Cox's Bazar,Ukhia,Border,513,2,7,254,11,4,High
+Chittagong,Cox's Bazar,Hnila,Border,224,1,1,68,1,1,High
+Chittagong,Comilla,Kotwali Comilla,City,870,4,24,273,21,9,Low
+Chittagong,Comilla,Adarsha Sadar,Sadar,533,5,13,179,8,9,Medium
+Chittagong,Comilla,Barura,Rural,209,4,5,67,13,4,Low
+Chittagong,Comilla,Brahmanpara,Rural,159,4,6,60,5,3,Low
+Chittagong,Comilla,Burichang,Rural,227,4,9,94,8,3,Medium
+Chittagong,Comilla,Chandina,Rural,236,2,16,80,16,7,Low
+Chittagong,Comilla,Chauddagram,Industrial,458,5,11,171,16,5,Low
+Chittagong,Comilla,Daudkandi,River,310,6,13,113,6,4,Low
+Chittagong,Comilla,Debidwar,Rural,254,7,11,104,12,3,Low
+Chittagong,Comilla,Homna,River,191,2,7,94,4,5,Low
+Chittagong,Comilla,Laksam,Industrial,380,2,3,136,11,5,Low
+Chittagong,Comilla,Lalmai,Rural,148,2,3,73,3,1,Low
+Chittagong,Comilla,Manoharganj,Rural,208,3,10,96,6,2,Low
+Chittagong,Comilla,Meghna,River,128,1,7,53,8,3,Low
+Chittagong,Comilla,Muradnagar,Industrial,557,4,14,197,8,10,Medium
+Chittagong,Comilla,Nangalkot,Rural,238,5,3,87,7,4,Low
+Chittagong,Comilla,Titas,River,246,2,9,89,10,3,Medium
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,City,958,3,17,290,14,6,Low
+Chittagong,Brahmanbaria,Akhaura,Border,440,2,2,164,8,4,High
+Chittagong,Brahmanbaria,Ashuganj,Industrial,324,3,6,117,4,3,Low
+Chittagong,Brahmanbaria,Bancharampur,Rural,191,3,13,62,14,6,Medium
+Chittagong,Brahmanbaria,Bijoynagar,Rural,185,3,4,86,8,5,Low
+Chittagong,Brahmanbaria,Kasba,Border,692,5,6,309,14,6,High
+Chittagong,Brahmanbaria,Nabinagar,Rural,272,2,13,124,6,7,Low
+Chittagong,Brahmanbaria,Nasirnagar,Rural,224,5,7,110,5,8,Medium
+Chittagong,Brahmanbaria,Sarail,Rural,249,3,5,83,5,4,Medium
+Chittagong,Brahmanbaria,Akhaura Land Port,Border,71,0,1,35,1,0,High
+Chittagong,Brahmanbaria,Ashuganj Ferry,River,60,1,1,18,1,0,Medium
+Chittagong,Chandpur,Chandpur Sadar,River,380,4,6,127,11,9,Low
+Chittagong,Chandpur,Faridganj,River,236,3,9,86,12,3,Low
+Chittagong,Chandpur,Haimchar,River,133,2,7,63,3,2,Medium
+Chittagong,Chandpur,Haziganj,Rural,286,3,6,124,4,4,Medium
+Chittagong,Chandpur,Kachua,Rural,207,1,5,100,10,4,Low
+Chittagong,Chandpur,Matlab Dakshin,River,201,2,3,80,5,2,Medium
+Chittagong,Chandpur,Matlab Uttar,River,227,2,3,110,4,5,Low
+Chittagong,Chandpur,Shahrasti,Rural,186,1,9,62,8,5,Medium
+Chittagong,Chandpur,Hajiganj,River,152,0,4,70,5,3,Low
+Chittagong,Feni,Feni Sadar,City,770,3,19,246,8,4,Low
+Chittagong,Feni,Chhagalnaiya,Rural,253,2,5,105,5,2,Low
+Chittagong,Feni,Daganbhuiyan,Rural,272,5,11,110,5,3,Low
+Chittagong,Feni,Fulgazi,Rural,156,1,3,67,8,3,Low
+Chittagong,Feni,Parshuram,Border,313,2,6,151,5,1,High
+Chittagong,Feni,Sonagazi,Industrial,330,1,8,146,8,6,Medium
+Chittagong,Feni,Muhuriganj,Rural,103,1,3,49,4,3,Low
+Chittagong,Feni,Feni North,Rural,123,2,4,57,4,2,Low
+Chittagong,Lakshmipur,Lakshmipur Sadar,Sadar,615,10,14,286,25,10,Medium
+Chittagong,Lakshmipur,Kamalnagar,Coastal,285,3,9,93,5,3,High
+Chittagong,Lakshmipur,Ramganj,Rural,382,4,5,172,13,8,Low
+Chittagong,Lakshmipur,Ramgati,Coastal,288,4,7,126,6,5,High
+Chittagong,Lakshmipur,Raipur,River,214,3,3,72,8,2,Low
+Chittagong,Lakshmipur,Char Ababil,Coastal,110,0,4,46,3,1,High
+Chittagong,Lakshmipur,Meghna Ghat,River,51,0,0,25,1,0,Low
+Chittagong,Noakhali,Noakhali Sadar,Sadar,510,8,10,228,18,7,Low
+Chittagong,Noakhali,Begumganj,Rural,638,7,13,203,27,8,Low
+Chittagong,Noakhali,Chatkhil,Rural,359,5,11,150,13,6,Low
+Chittagong,Noakhali,Companiganj,Coastal,357,5,13,114,6,9,High
+Chittagong,Noakhali,Hatiya,Coastal,413,5,6,194,16,6,High
+Chittagong,Noakhali,Kabirhat,Rural,291,2,12,111,5,4,Low
+Chittagong,Noakhali,Senbagh,Rural,274,3,11,96,5,2,Low
+Chittagong,Noakhali,Sonaimuri,Rural,230,2,12,70,11,7,Low
+Chittagong,Noakhali,Subarnachar,Coastal,276,4,11,90,8,7,High
+Chittagong,Noakhali,Char Jublee,Coastal,152,1,5,61,6,2,High
+Chittagong,Noakhali,Noakhali Model,Sadar,175,2,4,59,4,2,Low
+Chittagong,Bandarban,Bandarban Sadar,Hill,67,1,4,24,3,3,Low
+Chittagong,Bandarban,Ali Kadam,Hill,43,0,2,15,1,1,Low
+Chittagong,Bandarban,Lama,Hill,112,1,4,36,2,3,Low
+Chittagong,Bandarban,Naikhongchhari,Hill,55,1,1,25,2,1,Medium
+Chittagong,Bandarban,Ruma,Hill,26,0,0,11,1,0,Low
+Chittagong,Bandarban,Rowangchhari,Hill,33,0,2,10,1,0,Medium
+Chittagong,Bandarban,Thanchi,Hill,36,0,0,17,0,0,Low
+Chittagong,Khagrachhari,Khagrachhari Sadar,Hill,115,3,3,56,6,1,Medium
+Chittagong,Khagrachhari,Dighinala,Hill,77,0,2,31,3,2,Low
+Chittagong,Khagrachhari,Matiranga,Hill,63,1,4,22,2,1,Medium
+Chittagong,Khagrachhari,Ramgarh,Border,144,0,2,58,1,1,High
+Chittagong,Khagrachhari,Manikchhari,Hill,64,0,3,26,2,1,Low
+Chittagong,Khagrachhari,Panchhari,Hill,57,1,1,25,3,1,Low
+Chittagong,Khagrachhari,Lakshmichhari,Hill,41,0,1,16,1,1,Low
+Chittagong,Khagrachhari,Mahalchhari,Hill,44,0,1,19,1,0,Medium
+Chittagong,Rangamati,Rangamati Sadar,Hill,96,2,4,32,2,3,Low
+Chittagong,Rangamati,Kaptai,Hill,57,0,2,17,2,1,Low
+Chittagong,Rangamati,Langadu,Hill,40,0,2,15,2,1,Low
+Chittagong,Rangamati,Bagaichhari,Hill,41,0,1,14,0,1,Medium
+Chittagong,Rangamati,Barkal,Hill,28,0,1,13,1,0,Low
+Chittagong,Rangamati,Belaichhari,Hill,25,0,1,10,0,0,Low
+Chittagong,Rangamati,Rajasthali,Hill,25,0,0,12,0,0,Low
+Chittagong,Rangamati,Naniarchar,Hill,28,0,0,12,1,1,Medium
+Chittagong,Rangamati,Juraichhari,Hill,20,0,1,9,1,0,Low
+Chittagong,Rangamati,Kawkhali Rmt,Hill,25,0,1,12,1,0,Low
+Dhaka,Dhaka,Motijheel,Metropolitan,1075,10,13,367,16,16,Low
+Dhaka,Dhaka,Kotwali Dhaka,Metropolitan,1000,4,7,448,19,8,Low
+Dhaka,Dhaka,Sutrapur,Metropolitan,886,3,17,367,19,6,Low
+Dhaka,Dhaka,Wari,Metropolitan,698,4,15,336,11,10,Low
+Dhaka,Dhaka,Lalbagh,Metropolitan,864,3,12,379,16,11,Low
+Dhaka,Dhaka,Hazaribagh,Metropolitan,617,3,8,185,15,3,Low
+Dhaka,Dhaka,Kamrangirchar,Metropolitan,1095,3,5,502,14,11,Low
+Dhaka,Dhaka,Demra,Metropolitan,1185,12,27,498,19,7,Medium
+Dhaka,Dhaka,Jatrabari,Metropolitan,868,2,9,280,12,14,Low
+Dhaka,Dhaka,Kadamtali,Metropolitan,812,7,19,294,15,4,Low
+Dhaka,Dhaka,Shyampur,Metropolitan,970,7,12,292,14,10,Medium
+Dhaka,Dhaka,Dhanmondi,Metropolitan,909,3,10,355,10,10,Low
+Dhaka,Dhaka,Adabor,Metropolitan,809,7,9,375,16,11,Low
+Dhaka,Dhaka,Mohammadpur,Metropolitan,969,3,17,461,12,4,Medium
+Dhaka,Dhaka,Sher-e-Bangla Nagar,Metropolitan,640,5,11,219,15,8,Low
+Dhaka,Dhaka,Tejgaon,Metropolitan,858,6,4,316,5,7,Low
+Dhaka,Dhaka,Tejgaon Industrial,Industrial,549,3,4,243,6,8,Low
+Dhaka,Dhaka,Kafrul,Metropolitan,627,4,18,263,11,11,Low
+Dhaka,Dhaka,Pallabi,Metropolitan,732,5,21,359,16,6,Low
+Dhaka,Dhaka,Mirpur,Metropolitan,1355,5,17,424,32,17,Low
+Dhaka,Dhaka,Shah Ali,Metropolitan,719,5,13,352,9,8,Low
+Dhaka,Dhaka,Turag,Metropolitan,761,7,10,308,15,3,Low
+Dhaka,Dhaka,Uttara,Metropolitan,802,6,18,340,15,13,Medium
+Dhaka,Dhaka,Uttara West,Metropolitan,622,2,14,237,13,10,Low
+Dhaka,Dhaka,Airport,Metropolitan,669,3,10,206,7,5,Medium
+Dhaka,Dhaka,Dakshinkhan,Metropolitan,659,7,16,318,15,4,Low
+Dhaka,Dhaka,Uttar Khan,Metropolitan,737,6,8,365,15,7,Low
+Dhaka,Dhaka,Badda,Metropolitan,893,8,14,328,22,4,Low
+Dhaka,Dhaka,Rampura,Metropolitan,768,4,15,291,11,4,Low
+Dhaka,Dhaka,Khilgaon,Metropolitan,710,7,6,254,13,6,Low
+Dhaka,Dhaka,Sabujbagh,Metropolitan,812,2,8,363,18,12,Low
+Dhaka,Dhaka,Gulshan,Metropolitan,928,3,10,395,14,5,Low
+Dhaka,Dhaka,Banani,Metropolitan,513,2,13,183,9,3,Low
+Dhaka,Dhaka,Cantonment Dhaka,Metropolitan,782,1,4,267,14,8,Medium
+Dhaka,Dhaka,Khilkhet,Metropolitan,790,2,9,314,12,8,Medium
+Dhaka,Dhaka,Vatara,Metropolitan,646,3,8,254,7,9,Low
+Dhaka,Dhaka,Bhatara,Metropolitan,574,5,7,253,8,5,Low
+Dhaka,Dhaka,Agargaon,Metropolitan,638,3,6,248,5,5,Low
+Dhaka,Dhaka,Chawkbazar,Metropolitan,768,5,13,270,17,6,Low
+Dhaka,Dhaka,Newmarket,Metropolitan,562,5,4,249,5,3,Medium
+Dhaka,Dhaka,Ramna,Metropolitan,727,2,13,358,13,7,Medium
+Dhaka,Dhaka,Shahbag,Metropolitan,517,2,7,186,9,6,Low
+Dhaka,Dhaka,Hatirjheel,Metropolitan,481,2,5,231,5,5,Low
+Dhaka,Dhaka,Rupnagar,Metropolitan,640,1,6,246,11,6,Low
+Dhaka,Dhaka,Matijhata,Metropolitan,641,3,12,302,11,8,Low
+Dhaka,Dhaka,Keraniganj Model,Industrial,815,3,21,314,21,16,Low
+Dhaka,Dhaka,Nawabganj Dhaka,Metropolitan,804,5,13,271,7,10,Medium
+Dhaka,Dhaka,Dhamrai,Rural,396,4,14,177,17,12,Medium
+Dhaka,Dhaka,Dohar,River,183,3,4,87,11,6,Medium
+Dhaka,Dhaka,Savar,Industrial,2384,18,29,900,84,36,Medium
+Dhaka,Gazipur,Gazipur Sadar,Industrial,2013,10,70,771,25,18,Low
+Dhaka,Gazipur,Joydebpur,City,1237,12,34,446,28,22,Medium
+Dhaka,Gazipur,Kaliakair,Industrial,1702,7,13,521,24,12,Low
+Dhaka,Gazipur,Kaliganj,Industrial,779,7,13,298,16,4,Low
+Dhaka,Gazipur,Kapasia,Rural,423,2,6,163,17,5,Low
+Dhaka,Gazipur,Sreepur,Industrial,976,11,16,450,25,13,Low
+Dhaka,Gazipur,Tongi,Industrial,1112,7,18,522,12,6,Low
+Dhaka,Gazipur,Basan,Industrial,710,5,20,299,11,3,Low
+Dhaka,Gazipur,Pubail,Industrial,465,5,11,145,5,6,Low
+Dhaka,Gazipur,Gazipur Industrial North,Industrial,418,5,6,194,12,3,Low
+Dhaka,Narayanganj,Narayanganj Sadar,Industrial,1215,4,19,468,21,19,Low
+Dhaka,Narayanganj,Fatullah,Industrial,954,8,14,459,11,14,Medium
+Dhaka,Narayanganj,Siddhirganj,Industrial,626,7,17,233,20,8,Medium
+Dhaka,Narayanganj,Bandar,Industrial,1006,6,20,307,29,13,Medium
+Dhaka,Narayanganj,Araihazar,Industrial,510,6,13,192,14,5,Low
+Dhaka,Narayanganj,Rupganj,Industrial,1090,12,33,348,12,20,Low
+Dhaka,Narayanganj,Sonargaon,Industrial,831,7,19,312,15,13,Low
+Dhaka,Narayanganj,Adamjee,Industrial,268,2,3,127,4,4,Medium
+Dhaka,Narayanganj,Narayanganj Port,Industrial,170,2,3,59,2,2,Low
+Dhaka,Narsingdi,Narsingdi Sadar,Industrial,1169,4,22,570,18,16,Low
+Dhaka,Narsingdi,Belabo,Rural,269,4,6,108,4,5,Low
+Dhaka,Narsingdi,Monohardi,Rural,207,1,8,70,6,6,Low
+Dhaka,Narsingdi,Palash,Industrial,468,6,4,152,15,3,Medium
+Dhaka,Narsingdi,Raipura,River,347,8,13,123,11,4,Medium
+Dhaka,Narsingdi,Shibpur,Industrial,574,4,13,184,15,7,Medium
+Dhaka,Narsingdi,Ghodashail,Industrial,281,3,5,86,6,2,Low
+Dhaka,Narsingdi,Madhabdi,Industrial,272,2,3,98,5,3,Low
+Dhaka,Kishoreganj,Kishoreganj Sadar,City,655,5,18,232,18,10,Low
+Dhaka,Kishoreganj,Astagram,River,259,2,4,97,5,4,Low
+Dhaka,Kishoreganj,Bajitpur,River,286,1,5,86,13,3,Low
+Dhaka,Kishoreganj,Bhairab,Industrial,619,5,12,237,9,3,Low
+Dhaka,Kishoreganj,Hossainpur,Rural,168,2,6,76,10,3,Low
+Dhaka,Kishoreganj,Itna,River,202,2,6,79,10,2,Low
+Dhaka,Kishoreganj,Karimganj,Rural,192,2,12,80,8,7,Medium
+Dhaka,Kishoreganj,Katiadi,Rural,301,2,8,125,9,7,Medium
+Dhaka,Kishoreganj,Kuliarchar,River,209,1,7,101,7,5,Low
+Dhaka,Kishoreganj,Mithamain,River,135,1,6,51,4,3,Low
+Dhaka,Kishoreganj,Nikli,River,113,2,3,55,4,3,Medium
+Dhaka,Kishoreganj,Pakundia,Rural,188,4,3,89,10,6,Medium
+Dhaka,Kishoreganj,Tarail,Rural,143,3,5,44,3,5,Low
+Dhaka,Kishoreganj,Bhairab Ferry,River,27,0,0,8,1,0,Low
+Dhaka,Kishoreganj,Kuliarchar River,River,29,0,0,9,1,0,Medium
+Dhaka,Tangail,Tangail Sadar,City,1106,10,27,540,22,6,Low
+Dhaka,Tangail,Basail,Rural,123,1,3,36,3,2,Medium
+Dhaka,Tangail,Bhuapur,Rural,247,4,7,76,10,4,Medium
+Dhaka,Tangail,Delduar,Rural,144,3,7,56,5,4,Low
+Dhaka,Tangail,Dhanbari,Rural,198,2,3,59,4,3,Low
+Dhaka,Tangail,Ghatail,Rural,351,2,9,133,11,10,Low
+Dhaka,Tangail,Gopalpur,Rural,234,3,2,90,4,6,Low
+Dhaka,Tangail,Kalihati,Industrial,498,4,4,216,10,5,Low
+Dhaka,Tangail,Madhupur,Rural,347,3,14,127,8,3,Medium
+Dhaka,Tangail,Mirzapur,Industrial,455,6,12,155,6,5,Low
+Dhaka,Tangail,Nagarpur,Rural,200,2,3,99,4,3,Low
+Dhaka,Tangail,Sakhipur,Rural,220,2,7,105,7,2,Low
+Dhaka,Tangail,Madhupur Forest,Rural,51,0,1,19,1,1,Low
+Dhaka,Tangail,Tangail Model,City,249,0,2,79,3,3,Low
+Dhaka,Manikganj,Manikganj Sadar,Sadar,315,4,9,151,5,6,Low
+Dhaka,Manikganj,Daulatpur,River,217,3,12,82,6,6,Low
+Dhaka,Manikganj,Ghior,Rural,228,3,10,106,10,2,Medium
+Dhaka,Manikganj,Harirampur,River,205,3,4,74,8,2,Medium
+Dhaka,Manikganj,Saturia,Rural,173,1,5,55,6,3,Low
+Dhaka,Manikganj,Shibalaya,River,136,2,3,67,5,3,Low
+Dhaka,Manikganj,Singair,Rural,284,4,8,118,7,4,Low
+Dhaka,Manikganj,Paturia Ghat,River,26,0,1,10,0,1,Low
+Dhaka,Manikganj,Aricha Ghat,River,24,0,1,10,0,0,Medium
+Dhaka,Munshiganj,Munshiganj Sadar,Industrial,647,6,10,296,12,7,Low
+Dhaka,Munshiganj,Gazaria,Industrial,338,2,8,103,11,6,Low
+Dhaka,Munshiganj,Louhajang,River,219,3,5,96,7,3,Low
+Dhaka,Munshiganj,Sirajdikhan,Industrial,452,3,3,138,10,4,Low
+Dhaka,Munshiganj,Sreenagar,Industrial,389,3,11,174,8,3,Low
+Dhaka,Munshiganj,Tongibari,River,311,4,11,122,8,8,Low
+Dhaka,Munshiganj,Mawa Ferry,River,31,0,0,14,0,0,Low
+Dhaka,Munshiganj,Lauhajang Ferry,River,20,0,0,6,0,0,Low
+Dhaka,Faridpur,Faridpur Sadar,Sadar,661,3,12,222,17,13,Low
+Dhaka,Faridpur,Alfadanga,Rural,168,1,5,62,5,2,Low
+Dhaka,Faridpur,Bhanga,River,191,3,7,71,6,5,Medium
+Dhaka,Faridpur,Boalmari,Rural,233,3,9,77,6,3,Medium
+Dhaka,Faridpur,Char Bhadrasan,River,104,1,4,44,4,2,Medium
+Dhaka,Faridpur,Madhukhali,Rural,142,2,6,65,3,4,Low
+Dhaka,Faridpur,Nagarkanda,Rural,219,1,6,106,8,3,Medium
+Dhaka,Faridpur,Saltha,Rural,94,1,3,38,3,2,Medium
+Dhaka,Faridpur,Sadarpur,River,155,3,3,73,6,1,Low
+Dhaka,Faridpur,Faridpur Model,Sadar,139,1,1,58,4,1,Low
+Dhaka,Gopalganj,Gopalganj Sadar,Sadar,457,4,8,219,7,3,Low
+Dhaka,Gopalganj,Kashiani,Rural,267,1,10,90,11,5,Medium
+Dhaka,Gopalganj,Kotalipara,Rural,208,4,11,92,5,5,Low
+Dhaka,Gopalganj,Muksudpur,Rural,215,4,13,67,6,3,Medium
+Dhaka,Gopalganj,Tungipara,Rural,94,1,5,40,5,1,Low
+Dhaka,Gopalganj,Gopalganj Model,Sadar,93,0,1,39,2,1,Low
+Dhaka,Gopalganj,Kotalipara Ferry,River,22,0,1,7,1,0,Low
+Dhaka,Madaripur,Madaripur Sadar,Sadar,434,2,12,185,8,3,Low
+Dhaka,Madaripur,Kalkini,River,181,2,6,70,11,1,Medium
+Dhaka,Madaripur,Rajoir,River,185,1,8,60,4,5,Medium
+Dhaka,Madaripur,Shibchar,River,283,4,3,120,8,7,Low
+Dhaka,Madaripur,Sibchar Ferry,River,27,0,0,11,0,0,Low
+Dhaka,Madaripur,Muksudpur Ferry,River,20,0,0,8,1,0,Low
+Dhaka,Rajbari,Rajbari Sadar,Sadar,288,4,9,107,8,7,Low
+Dhaka,Rajbari,Baliakandi,Rural,199,2,6,82,8,5,Low
+Dhaka,Rajbari,Goalandaghat,River,179,1,5,54,7,4,Low
+Dhaka,Rajbari,Kalukhali,River,114,3,7,40,5,3,Low
+Dhaka,Rajbari,Pangsha,Rural,208,1,5,80,4,3,Low
+Dhaka,Rajbari,Goalanda Ghat,River,26,0,1,11,1,0,Medium
+Dhaka,Rajbari,Rajbari Model,Sadar,87,1,3,38,2,1,Medium
+Dhaka,Shariatpur,Shariatpur Sadar,Sadar,447,4,5,215,12,3,Medium
+Dhaka,Shariatpur,Bhedarganj,River,335,5,7,157,12,7,Medium
+Dhaka,Shariatpur,Damudya,River,164,1,5,61,4,4,Medium
+Dhaka,Shariatpur,Gosairhat,River,138,2,7,48,7,5,Low
+Dhaka,Shariatpur,Jajira,River,242,3,3,73,8,4,Low
+Dhaka,Shariatpur,Naria,River,243,2,10,78,11,5,Low
+Dhaka,Shariatpur,Shakhipur River,River,24,0,1,11,0,0,Low
+Dhaka,Shariatpur,Jajira Ferry,River,20,0,0,9,1,0,Medium
+Khulna,Khulna,Khulna Kotwali,Metropolitan,773,6,13,364,17,8,Low
+Khulna,Khulna,Sonadanga,Metropolitan,729,5,9,328,6,9,Medium
+Khulna,Khulna,Khalishpur,Industrial,543,3,5,237,5,4,Medium
+Khulna,Khulna,Daulatpur,Industrial,634,3,17,259,15,8,Medium
+Khulna,Khulna,Khan Jahan Ali,Metropolitan,733,4,6,285,8,6,Low
+Khulna,Khulna,Harintana,Metropolitan,500,3,3,244,7,2,Low
+Khulna,Khulna,Arongghata,Metropolitan,535,3,6,229,12,4,Medium
+Khulna,Khulna,Khulna Industrial,Industrial,373,1,10,133,4,3,Low
+Khulna,Khulna,Batiaghata,Rural,139,1,3,53,6,3,Medium
+Khulna,Khulna,Dacope,Coastal,233,2,8,105,6,4,High
+Khulna,Khulna,Dighalia,Rural,147,2,3,46,5,3,Medium
+Khulna,Khulna,Dumuria,Rural,338,2,4,141,15,8,Low
+Khulna,Khulna,Koyra,Coastal,222,3,2,105,5,4,High
+Khulna,Khulna,Paikgachha,Coastal,261,1,9,85,8,6,High
+Khulna,Khulna,Phultala,Industrial,193,1,6,59,5,1,Low
+Khulna,Khulna,Rupsha,Industrial,342,1,10,104,10,3,Low
+Khulna,Khulna,Mongla Port,Industrial,234,2,4,116,3,1,Low
+Khulna,Bagerhat,Bagerhat Sadar,Sadar,366,3,6,150,7,5,Low
+Khulna,Bagerhat,Chitalmari,Rural,106,2,4,34,4,2,Medium
+Khulna,Bagerhat,Fakirhat,Rural,131,2,6,57,5,1,Low
+Khulna,Bagerhat,Kachua,Rural,212,3,7,83,7,2,Medium
+Khulna,Bagerhat,Mollahat,Rural,155,1,5,48,6,2,Low
+Khulna,Bagerhat,Mongla,Industrial,204,0,6,101,4,1,Low
+Khulna,Bagerhat,Morrelganj,Coastal,315,3,3,133,12,3,High
+Khulna,Bagerhat,Rampal,Rural,168,1,5,53,7,4,Low
+Khulna,Bagerhat,Sarankhola,Coastal,171,1,4,69,6,1,High
+Khulna,Bagerhat,Mongla EPZ,Industrial,80,0,1,28,1,1,Low
+Khulna,Bagerhat,Bagerhat Model,Sadar,109,0,2,47,1,1,Low
+Khulna,Jessore,Jessore Kotwali,City,831,10,22,359,20,7,Medium
+Khulna,Jessore,Abhaynagar,Industrial,324,2,11,130,4,6,Low
+Khulna,Jessore,Bagherpara,Rural,221,2,10,74,7,6,Low
+Khulna,Jessore,Chaugachha,Rural,193,2,11,94,4,5,Low
+Khulna,Jessore,Jhikargachha,Border,471,2,15,222,9,3,High
+Khulna,Jessore,Keshabpur,Rural,163,2,5,78,3,2,Medium
+Khulna,Jessore,Manirampur,Rural,269,2,4,98,12,5,Low
+Khulna,Jessore,Sharsha,Border,817,4,15,308,5,6,High
+Khulna,Jessore,Benapole Land Port,Border,113,1,1,46,2,1,High
+Khulna,Jessore,Jessore Cantonment,Metropolitan,143,1,3,70,1,2,Low
+Khulna,Jhenaidah,Jhenaidah Sadar,City,879,3,14,319,17,6,Medium
+Khulna,Jhenaidah,Harinakunda,Rural,175,3,3,84,7,1,Low
+Khulna,Jhenaidah,Kaliganj,Rural,299,1,13,120,9,6,Low
+Khulna,Jhenaidah,Kotchandpur,Rural,175,2,5,58,4,3,Low
+Khulna,Jhenaidah,Maheshpur,Rural,329,1,13,137,14,5,Low
+Khulna,Jhenaidah,Shailkupa,Rural,292,4,12,137,6,4,Medium
+Khulna,Jhenaidah,Halidhani,Rural,101,1,3,33,3,1,Low
+Khulna,Jhenaidah,Jhenaidah Model,City,181,0,4,75,2,2,Low
+Khulna,Kushtia,Kushtia Sadar,City,763,3,11,261,23,5,Medium
+Khulna,Kushtia,Bheramara,Industrial,315,2,6,149,3,3,Low
+Khulna,Kushtia,Daulatpur Kus,Rural,213,4,10,101,9,4,Low
+Khulna,Kushtia,Khoksa,Industrial,251,1,5,107,4,5,Low
+Khulna,Kushtia,Kumarkhali,Industrial,541,4,11,268,13,5,Low
+Khulna,Kushtia,Mirpur Kus,Rural,216,1,5,97,6,4,Low
+Khulna,Kushtia,Hardinge Bridge,Industrial,64,0,1,21,1,0,Low
+Khulna,Kushtia,Lalon Shah Border,Border,93,0,0,33,1,0,High
+Khulna,Chuadanga,Chuadanga Sadar,Border,604,2,11,273,9,3,High
+Khulna,Chuadanga,Alamdanga,Rural,178,1,12,62,5,6,Low
+Khulna,Chuadanga,Damurhuda,Border,472,3,9,192,9,3,High
+Khulna,Chuadanga,Jibannagar,Rural,146,3,4,56,5,1,Low
+Khulna,Chuadanga,Chuadanga Border,Border,73,0,1,24,0,0,High
+Khulna,Chuadanga,Darshana ICT,Border,46,0,0,16,1,0,High
+Khulna,Magura,Magura Sadar,Sadar,459,5,10,225,8,4,Low
+Khulna,Magura,Mohammadpur,Rural,178,4,8,55,10,5,Low
+Khulna,Magura,Shalikha,Rural,159,1,7,68,5,2,Medium
+Khulna,Magura,Sreepur,Rural,128,1,7,63,4,1,Low
+Khulna,Magura,Magura Model,Sadar,108,0,3,49,3,1,Medium
+Khulna,Magura,Binarpota,Rural,68,1,1,33,4,2,Low
+Khulna,Meherpur,Meherpur Sadar,Border,504,1,3,231,9,3,High
+Khulna,Meherpur,Gangni,Border,399,3,7,127,5,1,High
+Khulna,Meherpur,Mujibnagar,Border,180,0,2,82,3,0,High
+Khulna,Meherpur,Meherpur Border,Border,54,0,0,20,1,0,High
+Khulna,Meherpur,Meherpur Model,Border,144,0,2,50,1,1,High
+Khulna,Narail,Narail Sadar,Sadar,492,2,15,218,8,4,Low
+Khulna,Narail,Kalia,Rural,217,3,9,107,10,5,Low
+Khulna,Narail,Lohagara,Rural,235,2,9,111,5,1,Medium
+Khulna,Narail,Narail Model,Sadar,79,1,1,24,2,1,Low
+Khulna,Narail,Narail River,River,46,0,2,22,1,1,Low
+Khulna,Satkhira,Satkhira Sadar,Border,1114,5,13,353,21,13,High
+Khulna,Satkhira,Assasuni,Coastal,228,2,13,71,9,5,High
+Khulna,Satkhira,Debhata,Border,271,3,4,98,5,1,High
+Khulna,Satkhira,Kalaroa,Rural,296,3,6,99,6,4,Low
+Khulna,Satkhira,Kaliganj Sat,Coastal,309,4,7,148,5,3,High
+Khulna,Satkhira,Shyamnagar,Coastal,194,1,3,84,5,4,High
+Khulna,Satkhira,Tala,Rural,206,4,4,69,11,3,Medium
+Khulna,Satkhira,Bhomra Land Port,Border,54,0,0,20,1,1,High
+Khulna,Satkhira,Sundarban,Coastal,21,0,0,7,0,0,High
+Mymensingh,Mymensingh,Mymensingh Kotwali,City,1312,8,13,561,20,7,Medium
+Mymensingh,Mymensingh,Mymensingh Sadar,Sadar,540,4,10,212,23,8,Medium
+Mymensingh,Mymensingh,Bhaluka,Industrial,789,7,10,294,12,7,Low
+Mymensingh,Mymensingh,Dhobaura,Border,363,1,8,158,7,2,High
+Mymensingh,Mymensingh,Fulbaria,Rural,260,3,12,106,14,4,Low
+Mymensingh,Mymensingh,Gaffargaon,Rural,315,8,7,121,19,5,Low
+Mymensingh,Mymensingh,Gauripur,Rural,275,6,14,132,15,5,Low
+Mymensingh,Mymensingh,Haluaghat,Border,510,2,5,226,7,5,High
+Mymensingh,Mymensingh,Ishwarganj,Rural,238,3,14,78,10,6,Low
+Mymensingh,Mymensingh,Muktagachha,Rural,209,2,4,78,10,8,Medium
+Mymensingh,Mymensingh,Nandail,Rural,268,5,17,99,17,5,Medium
+Mymensingh,Mymensingh,Phulpur,Rural,362,1,6,121,18,4,Low
+Mymensingh,Mymensingh,Trishal,Industrial,583,5,9,265,8,6,Low
+Mymensingh,Mymensingh,Mymensingh Model,City,187,0,4,69,3,2,Low
+Mymensingh,Mymensingh,Bhaluka Industrial,Industrial,224,3,7,72,5,3,Low
+Mymensingh,Mymensingh,Haluaghat Border,Border,51,0,0,19,1,0,High
+Mymensingh,Mymensingh,Trishal University,Rural,28,0,1,11,1,1,Low
+Mymensingh,Jamalpur,Jamalpur Sadar,City,1195,11,20,405,16,9,Medium
+Mymensingh,Jamalpur,Baksiganj,Rural,232,3,7,83,8,2,Low
+Mymensingh,Jamalpur,Dewanganj,River,276,4,11,136,8,2,Low
+Mymensingh,Jamalpur,Islampur,River,282,2,6,108,5,10,Low
+Mymensingh,Jamalpur,Madarganj,River,257,4,3,79,8,6,Low
+Mymensingh,Jamalpur,Melandaha,River,201,5,12,78,5,6,Low
+Mymensingh,Jamalpur,Sarishabari,Rural,269,1,13,112,5,8,Low
+Mymensingh,Jamalpur,Jamalpur Model,City,121,0,1,47,3,2,Low
+Mymensingh,Jamalpur,Dewanganj Ferry,River,23,0,0,7,0,0,Low
+Mymensingh,Netrokona,Netrokona Sadar,Sadar,372,4,10,174,6,4,Medium
+Mymensingh,Netrokona,Atpara,Rural,209,2,8,96,5,3,Low
+Mymensingh,Netrokona,Barhatta,Rural,216,1,10,101,7,5,Low
+Mymensingh,Netrokona,Durgapur,Border,457,1,8,178,5,2,High
+Mymensingh,Netrokona,Kalmakanda,Border,300,1,6,147,5,5,High
+Mymensingh,Netrokona,Kendua,Rural,295,5,14,133,15,6,Medium
+Mymensingh,Netrokona,Khaliajuri,River,94,1,5,30,5,3,Low
+Mymensingh,Netrokona,Madan,River,172,4,9,61,5,4,Low
+Mymensingh,Netrokona,Mohanganj,River,158,2,9,55,6,1,Medium
+Mymensingh,Netrokona,Purbadhala,Rural,199,4,4,80,12,3,Low
+Mymensingh,Netrokona,Netrokona Model,Sadar,85,1,2,39,3,0,Low
+Mymensingh,Sherpur,Sherpur Sadar,City,637,3,5,258,13,7,Low
+Mymensingh,Sherpur,Jhenaigati,Border,229,1,6,110,2,4,High
+Mymensingh,Sherpur,Nakla,Rural,217,3,6,100,8,5,Low
+Mymensingh,Sherpur,Nalitabari,Border,484,3,9,206,9,3,High
+Mymensingh,Sherpur,Sreebardi,Border,513,2,10,157,9,3,High
+Mymensingh,Sherpur,Sherpur Model,City,155,0,2,67,2,2,Medium
+Mymensingh,Sherpur,Nalitabari Border,Border,51,0,0,21,0,0,High
+Mymensingh,Sherpur,Sreebardi Border,Border,29,0,0,11,0,0,High
+Mymensingh,Netrokona,Durgapur Border,Border,52,0,1,23,0,0,High
+Mymensingh,Netrokona,Kalmakanda Border,Border,49,0,0,22,0,0,High
+Mymensingh,Mymensingh,Dhobaura Border,Border,49,0,0,18,0,0,High
+Mymensingh,Mymensingh,Gaffargaon Industrial,Industrial,133,1,1,65,1,1,Low
+Mymensingh,Mymensingh,Mymensingh River,River,20,0,0,8,1,0,Low
+Mymensingh,Jamalpur,Islampur River,River,21,0,0,6,0,0,Medium
+Mymensingh,Jamalpur,Sarishabari Handloom,Rural,54,0,1,21,1,0,Low
+Rajshahi,Rajshahi,Boalia,Metropolitan,1081,4,14,518,20,8,Medium
+Rajshahi,Rajshahi,Rajpara,Metropolitan,819,6,6,380,8,7,Low
+Rajshahi,Rajshahi,Motihar,Metropolitan,645,4,4,296,16,7,Medium
+Rajshahi,Rajshahi,Shah Makhdum,Metropolitan,771,2,14,312,15,7,Medium
+Rajshahi,Rajshahi,Rajshahi Cantonment,Metropolitan,291,1,5,140,4,1,Low
+Rajshahi,Rajshahi,Rajshahi Industrial,Industrial,324,2,4,104,4,4,Low
+Rajshahi,Rajshahi,Bagha,Rural,152,3,8,57,3,5,Low
+Rajshahi,Rajshahi,Bagmara,Rural,285,6,14,136,7,4,Low
+Rajshahi,Rajshahi,Charghat,Industrial,366,1,3,161,7,2,Low
+Rajshahi,Rajshahi,Durgapur Raj,Rural,256,4,9,96,5,6,Medium
+Rajshahi,Rajshahi,Godagari,Border,650,3,13,224,11,8,High
+Rajshahi,Rajshahi,Mohanpur,Rural,200,2,3,96,6,4,Medium
+Rajshahi,Rajshahi,Paba,Industrial,585,5,4,193,14,6,Medium
+Rajshahi,Rajshahi,Putia,Rural,217,2,3,77,10,6,Medium
+Rajshahi,Rajshahi,Godagari Border,Border,57,0,1,17,1,0,High
+Rajshahi,Rajshahi,Rajshahi EPZ,Industrial,82,0,1,28,1,0,Low
+Rajshahi,Bogura,Bogura Sadar,City,989,9,24,412,14,9,Low
+Rajshahi,Bogura,Adamdighi,Rural,155,2,5,47,6,4,Low
+Rajshahi,Bogura,Dhunat,River,280,1,13,95,10,7,Medium
+Rajshahi,Bogura,Dupchanchia,Rural,154,1,4,46,8,2,Low
+Rajshahi,Bogura,Gabtali,Rural,310,3,11,141,12,2,Low
+Rajshahi,Bogura,Kahaloo,Rural,196,3,5,76,4,3,Low
+Rajshahi,Bogura,Nandigram,Rural,151,1,5,61,7,1,Low
+Rajshahi,Bogura,Sariakandi,River,188,2,9,84,9,2,Low
+Rajshahi,Bogura,Shajahanpur,Industrial,340,1,2,102,6,4,Low
+Rajshahi,Bogura,Sherpur Bog,Rural,206,2,10,85,11,2,Medium
+Rajshahi,Bogura,Shibganj Bog,Rural,292,2,9,112,10,4,Low
+Rajshahi,Bogura,Sonatola,Rural,124,2,6,48,6,4,Low
+Rajshahi,Bogura,Bogura Model,City,129,1,3,54,4,2,Medium
+Rajshahi,Bogura,Sariakandi River,River,25,0,1,12,0,0,Low
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,Border,1082,2,11,489,20,11,High
+Rajshahi,Chapainawabganj,Bholahat,Border,218,1,1,81,1,3,High
+Rajshahi,Chapainawabganj,Gomastapur,Rural,207,4,5,67,7,3,Medium
+Rajshahi,Chapainawabganj,Nachole,Border,478,2,3,226,3,2,High
+Rajshahi,Chapainawabganj,Shibganj Chap,Border,865,3,5,271,8,9,High
+Rajshahi,Chapainawabganj,Sonamasjid Land Port,Border,83,0,1,32,0,0,High
+Rajshahi,Chapainawabganj,Chapai Model,Border,158,0,1,67,1,0,High
+Rajshahi,Joypurhat,Joypurhat Sadar,City,499,2,7,158,6,7,Medium
+Rajshahi,Joypurhat,Akkelpur,Industrial,242,1,4,98,2,3,Low
+Rajshahi,Joypurhat,Kalai,Rural,201,3,3,70,6,3,Low
+Rajshahi,Joypurhat,Khetlal,Rural,152,1,4,64,3,3,Low
+Rajshahi,Joypurhat,Panchbibi,Rural,154,2,5,52,4,3,Low
+Rajshahi,Joypurhat,Joypurhat Model,City,101,0,3,38,2,0,Medium
+Rajshahi,Joypurhat,Akkelpur Industrial,Industrial,68,0,2,26,1,0,Low
+Rajshahi,Naogaon,Naogaon Sadar,City,844,2,17,357,21,10,Medium
+Rajshahi,Naogaon,Atrai,River,166,2,3,50,5,4,Low
+Rajshahi,Naogaon,Badalgachhi,Rural,159,1,8,71,4,3,Low
+Rajshahi,Naogaon,Dhamoirhat,Rural,168,3,7,54,9,3,Medium
+Rajshahi,Naogaon,Manda,Rural,338,4,9,160,10,3,Low
+Rajshahi,Naogaon,Mahadebpur,Rural,221,1,6,103,8,8,Low
+Rajshahi,Naogaon,Niamatpur,Rural,182,2,7,60,9,6,Low
+Rajshahi,Naogaon,Patnitala,Rural,210,2,4,75,5,5,Low
+Rajshahi,Naogaon,Porsha,Border,381,1,6,134,7,4,High
+Rajshahi,Naogaon,Raninagar,Rural,182,2,5,61,6,1,Low
+Rajshahi,Naogaon,Sapahar,Rural,146,2,6,60,6,5,Low
+Rajshahi,Naogaon,Naogaon Model,City,139,0,2,57,3,2,Low
+Rajshahi,Naogaon,Atrai River,River,25,0,1,11,1,0,Low
+Rajshahi,Natore,Natore Sadar,City,590,4,11,250,16,11,Low
+Rajshahi,Natore,Bagatipara,Rural,125,0,3,48,5,2,Low
+Rajshahi,Natore,Baraigram,Rural,302,4,9,94,6,4,Medium
+Rajshahi,Natore,Gurudaspur,Industrial,375,3,6,149,11,5,Medium
+Rajshahi,Natore,Lalpur,Rural,247,1,11,116,6,4,Medium
+Rajshahi,Natore,Singra,Rural,399,5,13,187,8,6,Low
+Rajshahi,Natore,Natore Model,City,162,1,1,77,1,1,Low
+Rajshahi,Natore,Baraigram Sugar,Industrial,46,0,1,15,0,1,Low
+Rajshahi,Pabna,Pabna Sadar,City,847,9,26,305,16,13,Low
+Rajshahi,Pabna,Atgharia,Rural,159,2,7,69,4,4,Medium
+Rajshahi,Pabna,Bera,River,254,2,13,122,13,3,Low
+Rajshahi,Pabna,Bhangura,Rural,191,3,7,88,3,1,Medium
+Rajshahi,Pabna,Chatmohar,River,278,4,8,116,4,6,Medium
+Rajshahi,Pabna,Faridpur Pab,Rural,141,3,5,57,4,4,Low
+Rajshahi,Pabna,Ishwardi,Industrial,528,2,8,167,15,7,Low
+Rajshahi,Pabna,Santhia,River,268,4,7,94,10,3,Low
+Rajshahi,Pabna,Sujanagar,River,292,4,4,108,11,4,Medium
+Rajshahi,Pabna,Ishwardi EPZ,Industrial,66,1,1,31,2,1,Medium
+Rajshahi,Pabna,Pabna Model,City,173,0,2,72,1,0,Low
+Rajshahi,Sirajganj,Sirajganj Sadar,City,1054,5,14,380,12,12,Low
+Rajshahi,Sirajganj,Belkuchi,Industrial,588,6,5,291,15,6,Low
+Rajshahi,Sirajganj,Chauhali,River,168,2,6,77,6,4,Low
+Rajshahi,Sirajganj,Kamarkhand,Industrial,413,2,5,192,8,2,Low
+Rajshahi,Sirajganj,Kazipur,River,272,2,11,93,11,8,Medium
+Rajshahi,Sirajganj,Raiganj,River,341,6,15,110,13,9,Medium
+Rajshahi,Sirajganj,Shahjadpur,Industrial,663,8,19,329,14,7,Low
+Rajshahi,Sirajganj,Tarash,Rural,142,3,4,52,8,4,Low
+Rajshahi,Sirajganj,Ullahpara,Industrial,432,2,12,199,15,9,Low
+Rajshahi,Sirajganj,Sirajganj Ferry,River,23,0,0,8,1,0,Medium
+Rajshahi,Sirajganj,Sirajganj Industrial,Industrial,116,0,2,36,2,1,Low
+Rajshahi,Sirajganj,Shahjadpur Handloom,Industrial,104,0,2,49,2,0,Medium
+Rangpur,Rangpur,Rangpur Kotwali,City,1269,5,18,501,13,12,Medium
+Rangpur,Rangpur,Rangpur Sadar,Sadar,435,4,10,198,7,8,Low
+Rangpur,Rangpur,Rangpur Model,City,372,1,6,160,9,1,Low
+Rangpur,Rangpur,Rangpur Industrial,Industrial,349,1,3,135,3,3,Low
+Rangpur,Rangpur,Rangpur Cantonment,Metropolitan,212,0,4,69,3,1,Low
+Rangpur,Rangpur,Badarganj,Rural,188,1,6,84,12,6,Low
+Rangpur,Rangpur,Gangachara,Rural,215,2,12,72,4,3,Low
+Rangpur,Rangpur,Kaunia,Rural,165,2,5,54,6,3,Low
+Rangpur,Rangpur,Mithapukur,Rural,398,7,12,147,13,7,Low
+Rangpur,Rangpur,Pirgachha,Rural,263,4,9,95,10,5,Low
+Rangpur,Rangpur,Pirganj Rng,Rural,447,2,12,166,7,4,Low
+Rangpur,Rangpur,Taraganj,Rural,216,3,4,82,3,3,Low
+Rangpur,Dinajpur,Dinajpur Sadar,City,1082,13,28,464,15,8,Low
+Rangpur,Dinajpur,Birampur,Rural,172,1,6,57,5,2,Low
+Rangpur,Dinajpur,Birganj,Rural,361,5,15,178,10,8,Medium
+Rangpur,Dinajpur,Biral,Rural,207,2,4,83,9,6,Low
+Rangpur,Dinajpur,Bochaganj,Rural,149,1,7,64,7,4,Medium
+Rangpur,Dinajpur,Chirirbandar,Rural,258,1,4,110,11,1,Low
+Rangpur,Dinajpur,Fulbari Din,Industrial,283,3,7,97,7,5,Medium
+Rangpur,Dinajpur,Ghoraghat,Rural,141,0,3,50,4,2,Low
+Rangpur,Dinajpur,Hakimpur,Rural,94,0,4,42,2,3,Low
+Rangpur,Dinajpur,Kaharole,Rural,175,2,5,79,3,1,Medium
+Rangpur,Dinajpur,Khansama,Rural,207,1,7,75,4,3,Low
+Rangpur,Dinajpur,Nawabganj Din,Border,507,1,12,249,6,7,High
+Rangpur,Dinajpur,Parbatipur,Industrial,427,2,15,138,11,2,Low
+Rangpur,Dinajpur,Dinajpur Model,City,144,0,3,63,3,2,Low
+Rangpur,Dinajpur,Fulbari Coal,Industrial,78,0,2,26,2,0,Low
+Rangpur,Gaibandha,Gaibandha Sadar,City,953,8,17,383,17,14,Low
+Rangpur,Gaibandha,Fulchhari,River,258,2,3,97,11,2,Low
+Rangpur,Gaibandha,Gobindaganj,Industrial,786,5,17,243,22,14,Low
+Rangpur,Gaibandha,Palashbari,Rural,203,3,5,70,8,4,Medium
+Rangpur,Gaibandha,Sadullapur,Rural,234,2,8,73,14,3,Low
+Rangpur,Gaibandha,Saghata,River,198,3,3,85,6,5,Low
+Rangpur,Gaibandha,Sundarganj,River,259,3,8,111,15,9,Low
+Rangpur,Gaibandha,Gaibandha Model,City,134,0,2,65,2,0,Low
+Rangpur,Gaibandha,Fulchhari Ferry,River,24,0,0,10,0,0,Low
+Rangpur,Kurigram,Kurigram Sadar,City,829,7,15,286,23,9,Low
+Rangpur,Kurigram,Bhurungamari,Border,660,2,4,328,13,5,High
+Rangpur,Kurigram,Char Rajibpur,River,106,1,4,40,3,3,Low
+Rangpur,Kurigram,Chilmari,River,155,2,6,52,3,1,Low
+Rangpur,Kurigram,Nageshwari,Rural,420,6,19,204,10,9,Low
+Rangpur,Kurigram,Phulbari Kur,Border,423,1,8,163,8,2,High
+Rangpur,Kurigram,Rajarhat,Rural,196,4,4,59,9,6,Low
+Rangpur,Kurigram,Raumari,Border,511,3,12,172,11,7,High
+Rangpur,Kurigram,Ulipur,River,404,3,10,135,17,8,Medium
+Rangpur,Kurigram,Kurigram Model,City,129,1,1,60,1,1,Medium
+Rangpur,Kurigram,Bhurungamari Border,Border,43,0,0,13,0,0,High
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Border,734,4,13,311,14,4,High
+Rangpur,Lalmonirhat,Aditmari,Rural,157,2,8,47,6,2,Medium
+Rangpur,Lalmonirhat,Hatibandha,Border,628,3,6,196,10,8,High
+Rangpur,Lalmonirhat,Kaliganj Lal,Rural,197,1,7,62,9,6,Low
+Rangpur,Lalmonirhat,Patgram,Border,755,5,10,244,13,6,High
+Rangpur,Lalmonirhat,Lalmonirhat Model,Border,118,1,3,37,2,1,High
+Rangpur,Lalmonirhat,Burimari Land Port,Border,42,0,0,16,0,0,High
+Rangpur,Nilphamari,Nilphamari Sadar,City,710,3,17,291,22,9,Medium
+Rangpur,Nilphamari,Dimla,Border,686,5,9,259,4,7,High
+Rangpur,Nilphamari,Domar,Rural,211,2,5,95,4,3,Low
+Rangpur,Nilphamari,Jaldhaka,Rural,183,1,5,70,6,5,Medium
+Rangpur,Nilphamari,Kishoreganj Nil,Rural,190,3,6,76,7,5,Low
+Rangpur,Nilphamari,Saidpur,Industrial,513,6,6,182,15,6,Low
+Rangpur,Nilphamari,Nilphamari Model,City,161,1,2,79,2,1,Low
+Rangpur,Nilphamari,Saidpur Cantonment,Industrial,80,0,1,37,1,1,Medium
+Rangpur,Panchagarh,Panchagarh Sadar,Border,592,4,12,270,5,4,High
+Rangpur,Panchagarh,Atwari,Border,391,3,4,156,8,2,High
+Rangpur,Panchagarh,Boda,Rural,184,2,3,61,8,6,Low
+Rangpur,Panchagarh,Debiganj,Border,526,3,11,231,9,5,High
+Rangpur,Panchagarh,Tetulia,Border,289,3,7,87,9,3,High
+Rangpur,Panchagarh,Banglabandha Land Port,Border,49,0,1,18,0,0,High
+Rangpur,Thakurgaon,Thakurgaon Sadar,City,691,6,21,255,14,9,Low
+Rangpur,Thakurgaon,Baliadangi,Rural,207,4,4,96,10,5,Low
+Rangpur,Thakurgaon,Haripur,Rural,219,2,7,94,4,3,Medium
+Rangpur,Thakurgaon,Pirganj Tha,Rural,229,1,3,77,7,7,Low
+Rangpur,Thakurgaon,Ranisankail,Rural,326,5,14,114,8,6,Low
+Rangpur,Thakurgaon,Thakurgaon Model,City,134,1,1,66,3,1,Low
+Rangpur,Thakurgaon,Haripur Border,Border,39,0,0,11,0,0,High
+Sylhet,Sylhet,Sylhet Kotwali,Metropolitan,2390,18,43,1065,38,17,Low
+Sylhet,Sylhet,South Surma,Metropolitan,1001,2,15,314,20,7,Low
+Sylhet,Sylhet,Sylhet Sadar,Sadar,681,3,10,214,14,12,Low
+Sylhet,Sylhet,Osmani Nagar,Industrial,458,2,10,168,12,5,Low
+Sylhet,Sylhet,Sylhet Airport,Metropolitan,445,2,3,198,7,3,Low
+Sylhet,Sylhet,Shah Paran,Metropolitan,546,4,7,269,9,5,Low
+Sylhet,Sylhet,Jalalabad,Metropolitan,503,4,11,214,10,5,Low
+Sylhet,Sylhet,Sylhet Industrial,Industrial,323,1,2,156,7,3,Low
+Sylhet,Sylhet,Balaganj,Rural,217,3,15,74,15,6,Low
+Sylhet,Sylhet,Beani Bazar,Rural,278,3,6,133,6,6,Low
+Sylhet,Sylhet,Bishwanath,Industrial,597,2,9,296,12,3,Low
+Sylhet,Sylhet,Companiganj Syl,Rural,205,2,5,71,6,6,Medium
+Sylhet,Sylhet,Dakshin Surma,Industrial,498,2,11,155,8,8,Low
+Sylhet,Sylhet,Fenchuganj,Industrial,275,2,3,103,5,4,Medium
+Sylhet,Sylhet,Golapganj,Rural,258,1,6,102,8,8,Medium
+Sylhet,Sylhet,Gowainghat,Rural,231,4,10,91,4,2,Low
+Sylhet,Sylhet,Jaintiapur,Rural,229,1,7,97,6,2,Medium
+Sylhet,Sylhet,Kanaighat,Border,456,2,10,195,5,3,High
+Sylhet,Sylhet,Zakiganj,Border,532,1,5,195,5,5,High
+Sylhet,Sylhet,Zakiganj Border,Border,52,0,0,22,0,0,High
+Sylhet,Sylhet,Kanaighat Border,Border,48,0,0,18,0,0,High
+Sylhet,Sylhet,Gowainghat Stone,Rural,32,0,0,13,0,1,Low
+Sylhet,Sylhet,Fenchuganj Gas,Industrial,33,0,0,15,1,0,Medium
+Sylhet,Habiganj,Habiganj Sadar,City,935,2,6,358,23,7,Medium
+Sylhet,Habiganj,Ajmiriganj,River,102,0,6,39,4,1,Low
+Sylhet,Habiganj,Bahubal,Rural,204,3,5,66,4,4,Medium
+Sylhet,Habiganj,Baniachong,Rural,296,7,8,106,7,4,Low
+Sylhet,Habiganj,Chunarughat,Tea,228,1,11,90,4,4,Low
+Sylhet,Habiganj,Lakhai,Rural,112,2,3,55,4,2,Low
+Sylhet,Habiganj,Madhabpur,Tea,164,1,9,77,4,2,Low
+Sylhet,Habiganj,Nabiganj,Rural,319,3,13,157,14,6,Medium
+Sylhet,Habiganj,Shaistaganj,Industrial,208,1,4,87,6,1,Medium
+Sylhet,Habiganj,Habiganj Model,City,174,0,1,59,1,1,Medium
+Sylhet,Habiganj,Chunarughat Tea,Tea,21,0,0,8,1,0,Low
+Sylhet,Habiganj,Ajmiriganj Ferry,River,20,0,0,8,0,0,Medium
+Sylhet,Moulvibazar,Moulvibazar Sadar,City,625,5,7,251,9,6,Medium
+Sylhet,Moulvibazar,Barlekha,Tea,135,2,3,42,8,5,Medium
+Sylhet,Moulvibazar,Juri,Tea,102,1,6,45,4,1,Low
+Sylhet,Moulvibazar,Kamalganj,Tea,181,1,4,70,3,3,Low
+Sylhet,Moulvibazar,Kulaura,Tea,292,5,8,111,9,6,Low
+Sylhet,Moulvibazar,Rajnagar,Tea,137,1,7,59,2,4,Medium
+Sylhet,Moulvibazar,Sreemangal,Tea,192,2,5,81,8,4,Low
+Sylhet,Moulvibazar,Moulvibazar Model,City,107,1,1,34,3,1,Low
+Sylhet,Moulvibazar,Sreemangal Tourism,Tourism,67,0,0,20,1,1,Medium
+Sylhet,Moulvibazar,Kulaura Railway,Tea,22,0,0,10,0,0,Low
+Sylhet,Moulvibazar,Barlekha Tea,Tea,24,0,1,7,0,0,Low
+Sylhet,Moulvibazar,Kamalganj Tea,Tea,22,0,1,10,0,0,Medium
+Sylhet,Sunamganj,Sunamganj Sadar,City,662,3,11,288,13,10,Low
+Sylhet,Sunamganj,Bishwamvarpur,River,107,0,2,38,7,1,Medium
+Sylhet,Sunamganj,Chhatak,Industrial,456,2,11,216,5,6,Medium
+Sylhet,Sunamganj,Derai,River,241,3,5,79,7,6,Medium
+Sylhet,Sunamganj,Dharampasha,River,131,3,8,63,8,1,Low
+Sylhet,Sunamganj,Dowarabazar,Border,215,1,6,67,3,3,High
+Sylhet,Sunamganj,Jagannathpur,Rural,202,1,11,73,5,1,Low
+Sylhet,Sunamganj,Jamalganj,River,148,2,3,46,7,2,Medium
+Sylhet,Sunamganj,Sulla,River,145,2,4,62,4,3,Low
+Sylhet,Sunamganj,Tahirpur,River,193,2,2,61,3,2,Low
+Sylhet,Sunamganj,Sunamganj Model,City,176,0,3,82,3,0,Low
+Sylhet,Sunamganj,Chhatak Cement,Industrial,52,0,1,24,0,0,Medium
+Sylhet,Sunamganj,Dowarabazar Border,Border,35,0,0,14,0,0,High
+Sylhet,Sunamganj,Sulla Haor,River,25,0,1,7,0,0,Low
+Sylhet,Sunamganj,Dharampasha Haor,River,20,0,0,8,0,0,Low
+Barisal,Barguna,Bakkhali,Coastal,94,1,3,39,2,2,High
+Barisal,Bhola,Bhola Industrial,Industrial,83,0,1,33,1,0,Medium
+Barisal,Patuakhali,Patuakhali River,River,39,0,2,13,1,0,Medium
+Chittagong,Noakhali,Begumganj North,Rural,123,2,3,38,2,2,Medium
+Dhaka,Dhaka,Demra South,Metropolitan,744,2,8,255,9,7,Medium
+Dhaka,Dhaka,Jatrabari South,Metropolitan,686,3,9,337,13,3,Medium
+Dhaka,Dhaka,Mugda,Metropolitan,679,4,9,221,8,3,Medium
+Dhaka,Dhaka,Rayer Bazar,Metropolitan,406,3,8,191,5,6,Medium
+Dhaka,Dhaka,Hazaribagh Model,Metropolitan,416,2,4,133,4,3,Low
+Dhaka,Dhaka,Kotwali South,Metropolitan,401,2,10,177,4,3,Low
+Dhaka,Dhaka,Pallabi South,Metropolitan,481,2,6,236,9,3,Low
+Dhaka,Dhaka,Mirpur East,Metropolitan,552,2,5,218,5,6,Low
+Dhaka,Dhaka,Uttara East,Metropolitan,503,4,10,212,7,2,Low
+Dhaka,Dhaka,Dakshinkhan South,Metropolitan,437,1,5,184,7,3,Low
+Dhaka,Gazipur,Gazipur North,Industrial,507,3,13,181,8,3,Medium
+Dhaka,Gazipur,Kaliakair North,Industrial,219,1,4,90,5,3,Medium
+Dhaka,Narayanganj,Rupganj North,Industrial,360,1,9,160,5,4,Low
+Dhaka,Narayanganj,Sonargaon South,Industrial,231,2,5,72,5,2,Low
+Dhaka,Narsingdi,Raipura South,River,140,2,4,45,3,3,Low
+Dhaka,Kishoreganj,Bajitpur South,River,109,1,2,48,3,1,Low
+Dhaka,Tangail,Ghatail North,Rural,133,2,3,65,5,2,Medium
+Dhaka,Faridpur,Bhanga South,River,103,1,3,49,2,1,Low
+Dhaka,Manikganj,Singair South,Rural,88,1,2,37,2,2,Low
+Dhaka,Shariatpur,Jajira South,River,62,1,3,26,1,1,Low
+Mymensingh,Mymensingh,Mymensingh North,City,259,0,6,96,3,4,Low
+Mymensingh,Mymensingh,Phulpur North,Rural,102,1,2,32,5,2,Low
+Mymensingh,Mymensingh,Gaffargaon South,Rural,122,2,2,37,6,3,Low
+Mymensingh,Mymensingh,Bhaluka South,Industrial,178,1,5,71,4,1,Medium
+Mymensingh,Jamalpur,Islampur South,River,119,0,3,47,4,3,Low
+Mymensingh,Jamalpur,Madarganj South,River,73,0,1,23,2,2,Low
+Mymensingh,Netrokona,Kendua South,Rural,142,1,3,60,6,1,Low
+Mymensingh,Netrokona,Mohanganj South,River,79,0,2,27,3,1,Low
+Mymensingh,Sherpur,Nakla South,Rural,64,0,2,25,3,0,Medium
+Mymensingh,Sherpur,Sreebardi South,Border,116,0,2,53,1,1,High
+Rangpur,Rangpur,Mithapukur South,Rural,110,1,4,53,2,1,Low
+Rangpur,Dinajpur,Birganj South,Rural,83,2,4,26,5,1,Low
+Rangpur,Gaibandha,Gobindaganj South,Industrial,185,2,3,75,2,2,Medium
+Sylhet,Sylhet,Sylhet South,Metropolitan,410,2,9,179,3,3,Medium
+Sylhet,Sylhet,Osmani Nagar South,Industrial,188,0,3,59,4,1,Low
+Sylhet,Habiganj,Nabiganj South,Rural,100,1,3,37,2,1,Medium
+Sylhet,Moulvibazar,Kulaura South,Tea,93,2,3,30,5,2,Medium
+Sylhet,Sunamganj,Jagannathpur South,Rural,89,0,3,42,2,2,Low

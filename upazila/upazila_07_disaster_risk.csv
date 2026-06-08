@@ -1,0 +1,492 @@
+﻿Division,District,Upazila,Flood Risk,Cyclone Risk,Drought Risk,Riverbank Erosion,Climate Vulnerability,Disaster Mgmt (UDMCs),Cyclone Shelters
+Barisal,Barguna,Amtali,Very High,Very High,Low,High,Very High,Partial,7
+Barisal,Barguna,Bamna,Very High,Very High,Low,High,Very High,Partial,2
+Barisal,Barguna,Barguna Sadar,Very High,Very High,Low,High,Very High,UDMCs,8
+Barisal,Barguna,Betagi,Very High,Very High,Low,High,Very High,Partial,6
+Barisal,Barguna,Patharghata,Very High,Very High,Low,High,Very High,UDMCs,6
+Barisal,Barguna,Taltali,Very High,Very High,Low,High,Very High,UDMCs,4
+Barisal,Barisal,Agailjhara,Very High,Very High,Low,High,Very High,Partial,5
+Barisal,Barisal,Babuganj,Very High,Very High,Low,High,Very High,UDMCs,7
+Barisal,Barisal,Bakerganj,Very High,Very High,Low,High,Very High,UDMCs,25
+Barisal,Barisal,Banari Para,Very High,Very High,Low,High,Very High,UDMCs,12
+Barisal,Barisal,Barisal Sadar,Very High,Very High,Low,High,Very High,Partial,39
+Barisal,Barisal,Gaurnadi,Very High,Very High,Low,High,Very High,UDMCs,8
+Barisal,Barisal,Hizla,Very High,Very High,Low,High,Very High,UDMCs,10
+Barisal,Barisal,Mehendiganj,Very High,Very High,Low,High,Very High,Partial,21
+Barisal,Barisal,Muladi,Very High,Very High,Low,High,Very High,Partial,10
+Barisal,Barisal,Wazirpur,Very High,Very High,Low,High,Very High,UDMCs,13
+Barisal,Bhola,Bhola Sadar,Very High,Very High,Low,High,Very High,UDMCs,17
+Barisal,Bhola,Burhanuddin,Very High,Very High,Low,High,Very High,UDMCs,12
+Barisal,Bhola,Char Fasson,Very High,Very High,Low,High,Very High,UDMCs,30
+Barisal,Bhola,Daulatkhan,Very High,Very High,Low,High,Very High,UDMCs,4
+Barisal,Bhola,Lalmohan,Very High,Very High,Low,High,Very High,UDMCs,18
+Barisal,Bhola,Manpura,Very High,Very High,Low,High,Very High,UDMCs,3
+Barisal,Bhola,Tazumuddin,Very High,Very High,Low,High,Very High,UDMCs,8
+Barisal,Jhalokati,Jhalokati Sadar,Very High,Very High,Low,High,Very High,UDMCs,10
+Barisal,Jhalokati,Kathalia,Very High,Very High,Low,High,Very High,UDMCs,9
+Barisal,Jhalokati,Nalchity,Very High,Very High,Low,High,Very High,UDMCs,7
+Barisal,Jhalokati,Rajapur,Very High,Very High,Low,High,Very High,UDMCs,6
+Barisal,Patuakhali,Bauphal,Very High,Very High,Low,High,Very High,UDMCs,19
+Barisal,Patuakhali,Dashmina,Very High,Very High,Low,High,Very High,UDMCs,10
+Barisal,Patuakhali,Dumki,Very High,Very High,Low,High,Very High,UDMCs,5
+Barisal,Patuakhali,Galachipa,Very High,Very High,Low,High,Very High,UDMCs,8
+Barisal,Patuakhali,Kalapara,Very High,Very High,Low,High,Very High,UDMCs,13
+Barisal,Patuakhali,Mirzaganj,Very High,Very High,Low,High,Very High,UDMCs,8
+Barisal,Patuakhali,Patuakhali Sadar,Very High,Very High,Low,High,Very High,UDMCs,20
+Barisal,Patuakhali,Rangabali,Very High,Very High,Low,High,Very High,UDMCs,6
+Barisal,Pirojpur,Bhandaria,Very High,Very High,Low,High,Very High,UDMCs,5
+Barisal,Pirojpur,Kawkhali,Very High,Very High,Low,High,Very High,UDMCs,6
+Barisal,Pirojpur,Mathbaria,Very High,Very High,Low,High,Very High,UDMCs,9
+Barisal,Pirojpur,Nazirpur,Very High,Very High,Low,High,Very High,UDMCs,5
+Barisal,Pirojpur,Pirojpur Sadar,Very High,Very High,Low,High,Very High,Partial,17
+Barisal,Pirojpur,Nesarabad,Very High,Very High,Low,High,Very High,Partial,7
+Barisal,Pirojpur,Zianagar,Very High,Very High,Low,High,Very High,UDMCs,3
+Chittagong,Bandarban,Ali Kadam,High,High,Low,Medium,High,UDMCs,2
+Chittagong,Bandarban,Bandarban Sadar,High,High,Low,Low,High,UDMCs,7
+Chittagong,Bandarban,Lama,High,High,Low,Low,High,UDMCs,6
+Chittagong,Bandarban,Naikhongchhari,High,High,Low,Low,High,UDMCs,4
+Chittagong,Bandarban,Rowangchhari,High,High,Low,Medium,High,UDMCs,2
+Chittagong,Bandarban,Ruma,High,High,Low,Medium,High,Partial,3
+Chittagong,Bandarban,Thanchi,High,High,Low,Low,High,UDMCs,1
+Chittagong,Brahmanbaria,Akhaura,High,High,Low,Low,High,Partial,14
+Chittagong,Brahmanbaria,Ashuganj,High,High,Low,Medium,High,UDMCs,11
+Chittagong,Brahmanbaria,Bancharampur,High,High,Low,Low,High,UDMCs,7
+Chittagong,Brahmanbaria,Bijoynagar,High,High,Low,Medium,High,UDMCs,5
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,High,High,Low,Low,High,UDMCs,17
+Chittagong,Brahmanbaria,Kasba,High,High,Low,Medium,High,UDMCs,15
+Chittagong,Brahmanbaria,Nabinagar,High,High,Low,Medium,High,Partial,11
+Chittagong,Brahmanbaria,Nasirnagar,High,High,Low,Low,High,UDMCs,12
+Chittagong,Brahmanbaria,Sarail,High,High,Low,Medium,High,UDMCs,7
+Chittagong,Chandpur,Chandpur Sadar,High,High,Low,Medium,High,UDMCs,24
+Chittagong,Chandpur,Faridganj,High,High,Low,Low,High,Partial,19
+Chittagong,Chandpur,Haimchar,High,High,Low,Medium,High,UDMCs,10
+Chittagong,Chandpur,Haziganj,High,High,Low,Low,High,UDMCs,7
+Chittagong,Chandpur,Kachua,High,High,Low,Medium,High,UDMCs,12
+Chittagong,Chandpur,Matlab Dakshin,High,High,Low,Low,High,UDMCs,8
+Chittagong,Chandpur,Matlab Uttar,High,High,Low,Low,High,UDMCs,10
+Chittagong,Chandpur,Shahrasti,High,High,Low,Low,High,Partial,14
+Chittagong,Chittagong,Anwara,High,High,Low,Medium,High,UDMCs,15
+Chittagong,Chittagong,Banshkhali,High,High,Low,Medium,High,UDMCs,28
+Chittagong,Chittagong,Boalkhali,High,High,Low,Low,High,UDMCs,13
+Chittagong,Chittagong,Chandanaish,High,High,Low,Medium,High,Partial,17
+Chittagong,Chittagong,Chittagong Sadar,High,High,Low,Medium,High,UDMCs,41
+Chittagong,Chittagong,Fatikchhari,High,High,Low,Low,High,UDMCs,14
+Chittagong,Chittagong,Hathazari,High,High,Low,Medium,High,UDMCs,14
+Chittagong,Chittagong,Karnaphuli,High,High,Low,Low,High,UDMCs,17
+Chittagong,Chittagong,Lohagara,High,High,Low,Medium,High,Partial,18
+Chittagong,Chittagong,Mirsharai,High,High,Low,Low,High,UDMCs,30
+Chittagong,Chittagong,Patiya,High,High,Low,Low,High,UDMCs,18
+Chittagong,Chittagong,Rangunia,High,High,Low,Medium,High,Partial,9
+Chittagong,Chittagong,Raozan,High,High,Low,Low,High,Partial,13
+Chittagong,Chittagong,Sandwip,High,High,Low,Medium,High,UDMCs,20
+Chittagong,Chittagong,Satkania,High,High,Low,Low,High,UDMCs,26
+Chittagong,Chittagong,Sitakunda,High,High,Low,Medium,High,Partial,25
+Chittagong,Comilla,Barura,High,High,Low,Medium,High,UDMCs,9
+Chittagong,Comilla,Brahmanpara,High,High,Low,Low,High,UDMCs,17
+Chittagong,Comilla,Burichang,High,High,Low,Medium,High,UDMCs,14
+Chittagong,Comilla,Chandina,High,High,Low,Low,High,UDMCs,12
+Chittagong,Comilla,Chauddagram,High,High,Low,Low,High,UDMCs,14
+Chittagong,Comilla,Comilla Sadar,High,High,Low,Medium,High,Partial,24
+Chittagong,Comilla,Comilla Sadar Dakshin,High,High,Low,Medium,High,Partial,11
+Chittagong,Comilla,Daudkandi,High,High,Low,Low,High,Partial,15
+Chittagong,Comilla,Debidwar,High,High,Low,Low,High,Partial,18
+Chittagong,Comilla,Homna,High,High,Low,Low,High,UDMCs,7
+Chittagong,Comilla,Laksam,High,High,Low,Low,High,UDMCs,10
+Chittagong,Comilla,Lalmai,High,High,Low,Medium,High,UDMCs,10
+Chittagong,Comilla,Manoharganj,High,High,Low,Medium,High,UDMCs,10
+Chittagong,Comilla,Meghna,High,High,Low,Low,High,Partial,7
+Chittagong,Comilla,Muradnagar,High,High,Low,Medium,High,Partial,16
+Chittagong,Comilla,Nangalkot,High,High,Low,Medium,High,Partial,12
+Chittagong,Comilla,Titas,High,High,Low,Medium,High,UDMCs,12
+Chittagong,Cox's Bazar,Chakaria,High,High,Low,Medium,High,UDMCs,23
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,High,High,Low,Medium,High,UDMCs,17
+Chittagong,Cox's Bazar,Kutubdia,High,High,Low,Medium,High,Partial,9
+Chittagong,Cox's Bazar,Maheshkhali,High,High,Low,Medium,High,Partial,21
+Chittagong,Cox's Bazar,Pekua,High,High,Low,Low,High,UDMCs,6
+Chittagong,Cox's Bazar,Ramu,High,High,Low,Low,High,Partial,17
+Chittagong,Cox's Bazar,Teknaf,High,High,Low,Medium,High,Partial,12
+Chittagong,Cox's Bazar,Ukhia,High,High,Low,Low,High,UDMCs,12
+Chittagong,Feni,Chhagalnaiya,High,High,Low,Low,High,UDMCs,13
+Chittagong,Feni,Daganbhuiyan,High,High,Low,Medium,High,Partial,9
+Chittagong,Feni,Feni Sadar,High,High,Low,Medium,High,UDMCs,30
+Chittagong,Feni,Fulgazi,High,High,Low,Medium,High,Partial,6
+Chittagong,Feni,Parshuram,High,High,Low,Medium,High,Partial,9
+Chittagong,Feni,Sonagazi,High,High,Low,Medium,High,UDMCs,18
+Chittagong,Khagrachhari,Dighinala,High,High,Low,Low,High,UDMCs,3
+Chittagong,Khagrachhari,Guimara,High,High,Low,Medium,High,UDMCs,1
+Chittagong,Khagrachhari,Khagrachhari Sadar,High,High,Low,Medium,High,Partial,6
+Chittagong,Khagrachhari,Lakshmichhari,High,High,Low,Medium,High,Partial,2
+Chittagong,Khagrachhari,Mahalchhari,High,High,Low,Low,High,UDMCs,2
+Chittagong,Khagrachhari,Manikchhari,High,High,Low,Medium,High,Partial,2
+Chittagong,Khagrachhari,Matiranga,High,High,Low,Medium,High,Partial,4
+Chittagong,Khagrachhari,Panchhari,High,High,Low,Medium,High,UDMCs,5
+Chittagong,Khagrachhari,Ramgarh,High,High,Low,Low,High,Partial,2
+Chittagong,Lakshmipur,Kamalnagar,High,High,Low,Low,High,Partial,14
+Chittagong,Lakshmipur,Lakshmipur Sadar,High,High,Low,Low,High,UDMCs,14
+Chittagong,Lakshmipur,Ramganj,High,High,Low,Low,High,UDMCs,19
+Chittagong,Lakshmipur,Ramgati,High,High,Low,Medium,High,UDMCs,8
+Chittagong,Lakshmipur,Raipur,High,High,Low,Low,High,UDMCs,10
+Chittagong,Noakhali,Begumganj,High,High,Low,Medium,High,UDMCs,37
+Chittagong,Noakhali,Chatkhil,High,High,Low,Low,High,Partial,10
+Chittagong,Noakhali,Companiganj,High,High,Low,Low,High,UDMCs,21
+Chittagong,Noakhali,Hatiya,High,High,Low,Medium,High,UDMCs,16
+Chittagong,Noakhali,Kabirhat,High,High,Low,Medium,High,UDMCs,11
+Chittagong,Noakhali,Noakhali Sadar,High,High,Low,Low,High,UDMCs,16
+Chittagong,Noakhali,Senbagh,High,High,Low,Low,High,UDMCs,16
+Chittagong,Noakhali,Sonaimuri,High,High,Low,Medium,High,UDMCs,21
+Chittagong,Noakhali,Subarnachar,High,High,Low,Low,High,Partial,11
+Chittagong,Rangamati,Bagaichhari,High,High,Low,Low,High,UDMCs,3
+Chittagong,Rangamati,Barkal,High,High,Low,Medium,High,UDMCs,1
+Chittagong,Rangamati,Belaichhari,High,High,Low,Low,High,Partial,1
+Chittagong,Rangamati,Juraichhari,High,High,Low,Low,High,UDMCs,1
+Chittagong,Rangamati,Kaptai,High,High,Low,Medium,High,Partial,3
+Chittagong,Rangamati,Kawkhali,High,High,Low,Low,High,Partial,1
+Chittagong,Rangamati,Langadu,High,High,Low,Medium,High,UDMCs,4
+Chittagong,Rangamati,Naniarchar,High,High,Low,Low,High,UDMCs,1
+Chittagong,Rangamati,Rajasthali,High,High,Low,Low,High,UDMCs,1
+Chittagong,Rangamati,Rangamati Sadar,High,High,Low,Low,High,UDMCs,7
+Dhaka,Dhaka,Demra,Medium,Low,Low,Medium,Medium,Partial,25
+Dhaka,Dhaka,Dhamrai,Medium,Low,Low,Low,Medium,Partial,14
+Dhaka,Dhaka,Dohar,Medium,Low,Low,Medium,Medium,UDMCs,10
+Dhaka,Dhaka,Keraniganj,Medium,Low,Low,Low,Medium,Partial,62
+Dhaka,Dhaka,Nawabganj,Medium,Low,Low,Low,Medium,UDMCs,13
+Dhaka,Dhaka,Savar,Medium,Low,Low,Low,Medium,UDMCs,118
+Dhaka,Dhaka,Tejgaon (Dhaka City),Medium,Low,Low,Medium,Medium,UDMCs,634
+Dhaka,Faridpur,Alfadanga,Medium,Low,Low,Medium,Medium,UDMCs,10
+Dhaka,Faridpur,Bhanga,Medium,Low,Low,Low,Medium,UDMCs,10
+Dhaka,Faridpur,Boalmari,Medium,Low,Low,Medium,Medium,UDMCs,13
+Dhaka,Faridpur,Char Bhadrasan,Medium,Low,Low,Low,Medium,Partial,3
+Dhaka,Faridpur,Faridpur Sadar,Medium,Low,Low,Low,Medium,UDMCs,17
+Dhaka,Faridpur,Madhukhali,Medium,Low,Low,Medium,Medium,UDMCs,10
+Dhaka,Faridpur,Nagarkanda,Medium,Low,Low,Medium,Medium,UDMCs,9
+Dhaka,Faridpur,Saltha,Medium,Low,Low,Low,Medium,UDMCs,7
+Dhaka,Faridpur,Sadarpur,Medium,Low,Low,Medium,Medium,UDMCs,13
+Dhaka,Gazipur,Gazipur Sadar,Medium,Low,Low,Low,Medium,UDMCs,85
+Dhaka,Gazipur,Kaliakair,Medium,Low,Low,Low,Medium,UDMCs,45
+Dhaka,Gazipur,Kaliganj,Medium,Low,Low,Medium,Medium,Partial,32
+Dhaka,Gazipur,Kapasia,Medium,Low,Low,Low,Medium,UDMCs,12
+Dhaka,Gazipur,Sreepur,Medium,Low,Low,Low,Medium,UDMCs,18
+Dhaka,Gopalganj,Gopalganj Sadar,Medium,Low,Low,Medium,Medium,UDMCs,14
+Dhaka,Gopalganj,Kashiani,Medium,Low,Low,Low,Medium,UDMCs,8
+Dhaka,Gopalganj,Kotalipara,Medium,Low,Low,Low,Medium,Partial,17
+Dhaka,Gopalganj,Muksudpur,Medium,Low,Low,Low,Medium,UDMCs,14
+Dhaka,Gopalganj,Tungipara,Medium,Low,Low,Medium,Medium,UDMCs,3
+Dhaka,Kishoreganj,Astagram,Medium,Low,Low,Medium,Medium,UDMCs,7
+Dhaka,Kishoreganj,Bajitpur,Medium,Low,Low,Low,Medium,UDMCs,18
+Dhaka,Kishoreganj,Bhairab,Medium,Low,Low,Medium,Medium,Partial,17
+Dhaka,Kishoreganj,Hossainpur,Medium,Low,Low,Low,Medium,Partial,12
+Dhaka,Kishoreganj,Itna,Medium,Low,Low,Medium,Medium,UDMCs,10
+Dhaka,Kishoreganj,Karimganj,Medium,Low,Low,Medium,Medium,UDMCs,19
+Dhaka,Kishoreganj,Katiadi,Medium,Low,Low,Low,Medium,UDMCs,10
+Dhaka,Kishoreganj,Kishoreganj Sadar,Medium,Low,Low,Medium,Medium,Partial,25
+Dhaka,Kishoreganj,Kuliarchar,Medium,Low,Low,Medium,Medium,UDMCs,13
+Dhaka,Kishoreganj,Mithamain,Medium,Low,Low,Low,Medium,UDMCs,13
+Dhaka,Kishoreganj,Nikli,Medium,Low,Low,Medium,Medium,UDMCs,5
+Dhaka,Kishoreganj,Pakundia,Medium,Low,Low,Medium,Medium,Partial,8
+Dhaka,Kishoreganj,Tarail,Medium,Low,Low,Low,Medium,UDMCs,6
+Dhaka,Madaripur,Kalkini,Medium,Low,Low,Low,Medium,Partial,11
+Dhaka,Madaripur,Madaripur Sadar,Medium,Low,Low,Medium,Medium,Partial,22
+Dhaka,Madaripur,Rajoir,Medium,Low,Low,Medium,Medium,UDMCs,11
+Dhaka,Madaripur,Shibchar,Medium,Low,Low,Medium,Medium,UDMCs,13
+Dhaka,Manikganj,Daulatpur,Medium,Low,Low,Medium,Medium,UDMCs,8
+Dhaka,Manikganj,Ghior,Medium,Low,Low,Low,Medium,Partial,5
+Dhaka,Manikganj,Harirampur,Medium,Low,Low,Low,Medium,UDMCs,9
+Dhaka,Manikganj,Manikganj Sadar,Medium,Low,Low,Low,Medium,Partial,8
+Dhaka,Manikganj,Saturia,Medium,Low,Low,Low,Medium,UDMCs,13
+Dhaka,Manikganj,Shibalaya,Medium,Low,Low,Low,Medium,UDMCs,10
+Dhaka,Manikganj,Singair,Medium,Low,Low,Medium,Medium,UDMCs,18
+Dhaka,Munshiganj,Gazaria,Medium,Low,Low,Medium,Medium,UDMCs,13
+Dhaka,Munshiganj,Louhajang,Medium,Low,Low,Low,Medium,UDMCs,16
+Dhaka,Munshiganj,Munshiganj Sadar,Medium,Low,Low,Medium,Medium,UDMCs,12
+Dhaka,Munshiganj,Sirajdikhan,Medium,Low,Low,Low,Medium,Partial,18
+Dhaka,Munshiganj,Sreenagar,Medium,Low,Low,Low,Medium,UDMCs,16
+Dhaka,Munshiganj,Tongibari,Medium,Low,Low,Medium,Medium,UDMCs,19
+Dhaka,Narayanganj,Araihazar,Medium,Low,Low,Low,Medium,Partial,29
+Dhaka,Narayanganj,Bandar,Medium,Low,Low,Low,Medium,Partial,35
+Dhaka,Narayanganj,Narayanganj Sadar,Medium,Low,Low,Medium,Medium,Partial,23
+Dhaka,Narayanganj,Rupganj,Medium,Low,Low,Medium,Medium,UDMCs,58
+Dhaka,Narayanganj,Sonargaon,Medium,Low,Low,Medium,Medium,UDMCs,26
+Dhaka,Narsingdi,Belabo,Medium,Low,Low,Medium,Medium,UDMCs,6
+Dhaka,Narsingdi,Monohardi,Medium,Low,Low,Low,Medium,UDMCs,16
+Dhaka,Narsingdi,Narsingdi Sadar,Medium,Low,Low,Low,Medium,Partial,44
+Dhaka,Narsingdi,Palash,Medium,Low,Low,Medium,Medium,Partial,18
+Dhaka,Narsingdi,Raipura,Medium,Low,Low,Low,Medium,UDMCs,13
+Dhaka,Narsingdi,Shibpur,Medium,Low,Low,Low,Medium,UDMCs,23
+Dhaka,Rajbari,Baliakandi,Medium,Low,Low,Low,Medium,UDMCs,13
+Dhaka,Rajbari,Goalandaghat,Medium,Low,Low,Low,Medium,UDMCs,10
+Dhaka,Rajbari,Kalukhali,Medium,Low,Low,Low,Medium,Partial,6
+Dhaka,Rajbari,Pangsha,Medium,Low,Low,Low,Medium,UDMCs,7
+Dhaka,Rajbari,Rajbari Sadar,Medium,Low,Low,Medium,Medium,UDMCs,17
+Dhaka,Shariatpur,Bhedarganj,Medium,Low,Low,Medium,Medium,UDMCs,7
+Dhaka,Shariatpur,Damudya,Medium,Low,Low,Low,Medium,Partial,10
+Dhaka,Shariatpur,Gosairhat,Medium,Low,Low,Low,Medium,UDMCs,5
+Dhaka,Shariatpur,Jajira,Medium,Low,Low,Low,Medium,UDMCs,16
+Dhaka,Shariatpur,Naria,Medium,Low,Low,Medium,Medium,Partial,8
+Dhaka,Shariatpur,Shariatpur Sadar,Medium,Low,Low,Medium,Medium,Partial,19
+Dhaka,Tangail,Basail,Medium,Low,Low,Medium,Medium,UDMCs,9
+Dhaka,Tangail,Bhuapur,Medium,Low,Low,Medium,Medium,UDMCs,15
+Dhaka,Tangail,Delduar,Medium,Low,Low,Medium,Medium,UDMCs,12
+Dhaka,Tangail,Dhanbari,Medium,Low,Low,Medium,Medium,UDMCs,7
+Dhaka,Tangail,Ghatail,Medium,Low,Low,Low,Medium,Partial,19
+Dhaka,Tangail,Gopalpur,Medium,Low,Low,Low,Medium,UDMCs,11
+Dhaka,Tangail,Kalihati,Medium,Low,Low,Low,Medium,UDMCs,20
+Dhaka,Tangail,Madhupur,Medium,Low,Low,Low,Medium,UDMCs,14
+Dhaka,Tangail,Mirzapur,Medium,Low,Low,Medium,Medium,Partial,16
+Dhaka,Tangail,Nagarpur,Medium,Low,Low,Low,Medium,UDMCs,6
+Dhaka,Tangail,Sakhipur,Medium,Low,Low,Medium,Medium,Partial,9
+Dhaka,Tangail,Tangail Sadar,Medium,Low,Low,Low,Medium,UDMCs,27
+Khulna,Bagerhat,Bagerhat Sadar,Very High,Very High,Low,Low,Very High,UDMCs,15
+Khulna,Bagerhat,Chitalmari,Very High,Very High,Low,Low,Very High,UDMCs,5
+Khulna,Bagerhat,Fakirhat,Very High,Very High,Low,Low,Very High,Partial,5
+Khulna,Bagerhat,Kachua,Very High,Very High,Low,Low,Very High,UDMCs,8
+Khulna,Bagerhat,Mollahat,Very High,Very High,Low,Medium,Very High,UDMCs,7
+Khulna,Bagerhat,Mongla,Very High,Very High,Low,Low,Very High,UDMCs,7
+Khulna,Bagerhat,Morrelganj,Very High,Very High,Low,Low,Very High,Partial,11
+Khulna,Bagerhat,Rampal,Very High,Very High,Low,Medium,Very High,UDMCs,9
+Khulna,Bagerhat,Sarankhola,Very High,Very High,Low,Medium,Very High,Partial,7
+Khulna,Chuadanga,Alamdanga,Very High,Very High,Low,Medium,Very High,UDMCs,17
+Khulna,Chuadanga,Chuadanga Sadar,Very High,Very High,Low,Low,Very High,Partial,12
+Khulna,Chuadanga,Damurhuda,Very High,Very High,Low,Low,Very High,Partial,9
+Khulna,Chuadanga,Jibannagar,Very High,Very High,Low,Medium,Very High,Partial,8
+Khulna,Jessore,Abhaynagar,Very High,Very High,Low,Medium,Very High,Partial,13
+Khulna,Jessore,Bagherpara,Very High,Very High,Low,Low,Very High,UDMCs,8
+Khulna,Jessore,Chaugachha,Very High,Very High,Low,Medium,Very High,UDMCs,17
+Khulna,Jessore,Jessore Sadar,Very High,Very High,Low,Medium,Very High,UDMCs,35
+Khulna,Jessore,Jhikargachha,Very High,Very High,Low,Medium,Very High,Partial,11
+Khulna,Jessore,Keshabpur,Very High,Very High,Low,Low,Very High,Partial,13
+Khulna,Jessore,Manirampur,Very High,Very High,Low,Medium,Very High,Partial,11
+Khulna,Jessore,Sharsha,Very High,Very High,Low,Medium,Very High,UDMCs,22
+Khulna,Jhenaidah,Harinakunda,Very High,Very High,Low,Low,Very High,Partial,7
+Khulna,Jhenaidah,Jhenaidah Sadar,Very High,Very High,Low,Low,Very High,UDMCs,19
+Khulna,Jhenaidah,Kaliganj,Very High,Very High,Low,Medium,Very High,UDMCs,10
+Khulna,Jhenaidah,Kotchandpur,Very High,Very High,Low,Low,Very High,UDMCs,4
+Khulna,Jhenaidah,Maheshpur,Very High,Very High,Low,Medium,Very High,UDMCs,11
+Khulna,Jhenaidah,Shailkupa,Very High,Very High,Low,Medium,Very High,UDMCs,12
+Khulna,Khulna,Batiaghata,Very High,Very High,Low,Medium,Very High,UDMCs,13
+Khulna,Khulna,Dacope,Very High,Very High,Low,Low,Very High,UDMCs,6
+Khulna,Khulna,Dighalia,Very High,Very High,Low,Medium,Very High,UDMCs,8
+Khulna,Khulna,Dumuria,Very High,Very High,Low,Low,Very High,UDMCs,21
+Khulna,Khulna,Koyra,Very High,Very High,Low,Low,Very High,Partial,7
+Khulna,Khulna,Khulna Sadar,Very High,Very High,Low,Low,Very High,Partial,33
+Khulna,Khulna,Paikgachha,Very High,Very High,Low,Medium,Very High,UDMCs,12
+Khulna,Khulna,Phultala,Very High,Very High,Low,Medium,Very High,UDMCs,8
+Khulna,Khulna,Rupsha,Very High,Very High,Low,Low,Very High,UDMCs,12
+Khulna,Kushtia,Bheramara,Very High,Very High,Low,Low,Very High,UDMCs,8
+Khulna,Kushtia,Daulatpur,Very High,Very High,Low,Medium,Very High,UDMCs,19
+Khulna,Kushtia,Khoksa,Very High,Very High,Low,Low,Very High,UDMCs,4
+Khulna,Kushtia,Kushtia Sadar,Very High,Very High,Low,Medium,Very High,Partial,37
+Khulna,Kushtia,Kumarkhali,Very High,Very High,Low,Low,Very High,UDMCs,10
+Khulna,Kushtia,Mirpur,Very High,Very High,Low,Medium,Very High,UDMCs,16
+Khulna,Magura,Magura Sadar,Very High,Very High,Low,Low,Very High,UDMCs,22
+Khulna,Magura,Mohammadpur,Very High,Very High,Low,Low,Very High,Partial,6
+Khulna,Magura,Shalikha,Very High,Very High,Low,Low,Very High,Partial,8
+Khulna,Magura,Sreepur,Very High,Very High,Low,Medium,Very High,UDMCs,10
+Khulna,Meherpur,Gangni,Very High,Very High,Low,Medium,Very High,UDMCs,7
+Khulna,Meherpur,Meherpur Sadar,Very High,Very High,Low,Medium,Very High,UDMCs,8
+Khulna,Meherpur,Mujibnagar,Very High,Very High,Low,Low,Very High,UDMCs,3
+Khulna,Narail,Kalia,Very High,Very High,Low,Low,Very High,UDMCs,16
+Khulna,Narail,Lohagara,Very High,Very High,Low,Medium,Very High,UDMCs,14
+Khulna,Narail,Narail Sadar,Very High,Very High,Low,Medium,Very High,UDMCs,18
+Khulna,Satkhira,Assasuni,Very High,Very High,Low,Low,Very High,UDMCs,11
+Khulna,Satkhira,Debhata,Very High,Very High,Low,Medium,Very High,UDMCs,9
+Khulna,Satkhira,Kalaroa,Very High,Very High,Low,Medium,Very High,UDMCs,7
+Khulna,Satkhira,Kaliganj,Very High,Very High,Low,Low,Very High,UDMCs,18
+Khulna,Satkhira,Satkhira Sadar,Very High,Very High,Low,Low,Very High,Partial,29
+Khulna,Satkhira,Shyamnagar,Very High,Very High,Low,Low,Very High,Partial,10
+Khulna,Satkhira,Tala,Very High,Very High,Low,Medium,Very High,Partial,10
+Mymensingh,Jamalpur,Baksiganj,High,Low,Low,High,High,UDMCs,13
+Mymensingh,Jamalpur,Dewanganj,High,Low,Low,High,High,Partial,11
+Mymensingh,Jamalpur,Islampur,High,Low,Low,High,High,UDMCs,10
+Mymensingh,Jamalpur,Jamalpur Sadar,High,Low,Low,High,High,UDMCs,25
+Mymensingh,Jamalpur,Madarganj,High,Low,Low,High,High,Partial,13
+Mymensingh,Jamalpur,Melandaha,High,Low,Low,High,High,Partial,12
+Mymensingh,Jamalpur,Sarishabari,High,Low,Low,High,High,UDMCs,9
+Mymensingh,Mymensingh,Bhaluka,High,Low,Low,High,High,Partial,18
+Mymensingh,Mymensingh,Dhobaura,High,Low,Low,High,High,Partial,5
+Mymensingh,Mymensingh,Fulbaria,High,Low,Low,High,High,UDMCs,22
+Mymensingh,Mymensingh,Gaffargaon,High,Low,Low,High,High,Partial,20
+Mymensingh,Mymensingh,Gauripur,High,Low,Low,High,High,Partial,13
+Mymensingh,Mymensingh,Haluaghat,High,Low,Low,High,High,UDMCs,19
+Mymensingh,Mymensingh,Ishwarganj,High,Low,Low,High,High,UDMCs,21
+Mymensingh,Mymensingh,Mymensingh Sadar,High,Low,Low,High,High,UDMCs,25
+Mymensingh,Mymensingh,Muktagachha,High,Low,Low,High,High,UDMCs,21
+Mymensingh,Mymensingh,Nandail,High,Low,Low,High,High,UDMCs,17
+Mymensingh,Mymensingh,Phulpur,High,Low,Low,High,High,Partial,18
+Mymensingh,Mymensingh,Trishal,High,Low,Low,High,High,UDMCs,18
+Mymensingh,Netrokona,Atpara,High,Low,Low,High,High,Partial,14
+Mymensingh,Netrokona,Barhatta,High,Low,Low,High,High,UDMCs,13
+Mymensingh,Netrokona,Durgapur,High,Low,Low,High,High,Partial,9
+Mymensingh,Netrokona,Kalmakanda,High,Low,Low,High,High,UDMCs,13
+Mymensingh,Netrokona,Kendua,High,Low,Low,High,High,UDMCs,19
+Mymensingh,Netrokona,Khaliajuri,High,Low,Low,High,High,UDMCs,6
+Mymensingh,Netrokona,Madan,High,Low,Low,High,High,UDMCs,8
+Mymensingh,Netrokona,Mohanganj,High,Low,Low,High,High,UDMCs,12
+Mymensingh,Netrokona,Netrokona Sadar,High,Low,Low,High,High,Partial,20
+Mymensingh,Netrokona,Purbadhala,High,Low,Low,High,High,Partial,9
+Mymensingh,Sherpur,Jhenaigati,High,Low,Low,High,High,UDMCs,3
+Mymensingh,Sherpur,Nakla,High,Low,Low,High,High,Partial,8
+Mymensingh,Sherpur,Nalitabari,High,Low,Low,High,High,UDMCs,12
+Mymensingh,Sherpur,Sherpur Sadar,High,Low,Low,High,High,Partial,18
+Mymensingh,Sherpur,Sreebardi,High,Low,Low,High,High,UDMCs,6
+Rajshahi,Bogura,Adamdighi,Low,Low,High,Medium,Medium,Partial,6
+Rajshahi,Bogura,Bogura Sadar,Low,Low,High,Low,Medium,UDMCs,47
+Rajshahi,Bogura,Dhunat,Low,Low,High,Low,Medium,Partial,10
+Rajshahi,Bogura,Dupchanchia,Low,Low,High,Medium,Medium,UDMCs,11
+Rajshahi,Bogura,Gabtali,Low,Low,High,Medium,Medium,Partial,15
+Rajshahi,Bogura,Kahaloo,Low,Low,High,Low,Medium,UDMCs,11
+Rajshahi,Bogura,Nandigram,Low,Low,High,Medium,Medium,UDMCs,11
+Rajshahi,Bogura,Sariakandi,Low,Low,High,Medium,Medium,UDMCs,9
+Rajshahi,Bogura,Shajahanpur,Low,Low,High,Medium,Medium,Partial,7
+Rajshahi,Bogura,Sherpur,Low,Low,High,Medium,Medium,UDMCs,22
+Rajshahi,Bogura,Shibganj,Low,Low,High,Medium,Medium,UDMCs,13
+Rajshahi,Bogura,Sonatola,Low,Low,High,Medium,Medium,UDMCs,10
+Rajshahi,Chapainawabganj,Bholahat,Low,Low,High,Medium,Medium,UDMCs,4
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,Low,Low,High,Medium,Medium,UDMCs,15
+Rajshahi,Chapainawabganj,Gomastapur,Low,Low,High,Low,Medium,UDMCs,17
+Rajshahi,Chapainawabganj,Nachole,Low,Low,High,Low,Medium,UDMCs,9
+Rajshahi,Chapainawabganj,Shibganj,Low,Low,High,Medium,Medium,UDMCs,10
+Rajshahi,Joypurhat,Akkelpur,Low,Low,High,Low,Medium,UDMCs,10
+Rajshahi,Joypurhat,Joypurhat Sadar,Low,Low,High,Medium,Medium,UDMCs,11
+Rajshahi,Joypurhat,Kalai,Low,Low,High,Medium,Medium,UDMCs,10
+Rajshahi,Joypurhat,Khetlal,Low,Low,High,Medium,Medium,UDMCs,6
+Rajshahi,Joypurhat,Panchbibi,Low,Low,High,Medium,Medium,UDMCs,13
+Rajshahi,Naogaon,Atrai,Low,Low,High,Medium,Medium,UDMCs,14
+Rajshahi,Naogaon,Badalgachhi,Low,Low,High,Medium,Medium,UDMCs,11
+Rajshahi,Naogaon,Dhamoirhat,Low,Low,High,Medium,Medium,UDMCs,5
+Rajshahi,Naogaon,Manda,Low,Low,High,Medium,Medium,Partial,19
+Rajshahi,Naogaon,Mahadebpur,Low,Low,High,Medium,Medium,UDMCs,15
+Rajshahi,Naogaon,Naogaon Sadar,Low,Low,High,Low,Medium,UDMCs,17
+Rajshahi,Naogaon,Niamatpur,Low,Low,High,Medium,Medium,UDMCs,13
+Rajshahi,Naogaon,Patnitala,Low,Low,High,Medium,Medium,UDMCs,18
+Rajshahi,Naogaon,Porsha,Low,Low,High,Medium,Medium,Partial,13
+Rajshahi,Naogaon,Raninagar,Low,Low,High,Medium,Medium,Partial,11
+Rajshahi,Naogaon,Sapahar,Low,Low,High,Medium,Medium,UDMCs,10
+Rajshahi,Natore,Bagatipara,Low,Low,High,Medium,Medium,Partial,8
+Rajshahi,Natore,Baraigram,Low,Low,High,Low,Medium,UDMCs,9
+Rajshahi,Natore,Gurudaspur,Low,Low,High,Medium,Medium,UDMCs,11
+Rajshahi,Natore,Lalpur,Low,Low,High,Medium,Medium,UDMCs,8
+Rajshahi,Natore,Natore Sadar,Low,Low,High,Low,Medium,UDMCs,33
+Rajshahi,Natore,Singra,Low,Low,High,Low,Medium,UDMCs,14
+Rajshahi,Pabna,Atgharia,Low,Low,High,Medium,Medium,UDMCs,9
+Rajshahi,Pabna,Bera,Low,Low,High,Medium,Medium,UDMCs,17
+Rajshahi,Pabna,Bhangura,Low,Low,High,Medium,Medium,Partial,11
+Rajshahi,Pabna,Chatmohar,Low,Low,High,Low,Medium,Partial,10
+Rajshahi,Pabna,Faridpur,Low,Low,High,Low,Medium,UDMCs,14
+Rajshahi,Pabna,Ishwardi,Low,Low,High,Medium,Medium,UDMCs,16
+Rajshahi,Pabna,Pabna Sadar,Low,Low,High,Low,Medium,UDMCs,35
+Rajshahi,Pabna,Santhia,Low,Low,High,Low,Medium,UDMCs,15
+Rajshahi,Pabna,Sujanagar,Low,Low,High,Low,Medium,UDMCs,7
+Rajshahi,Rajshahi,Bagha,Low,Low,High,Medium,Medium,UDMCs,8
+Rajshahi,Rajshahi,Bagmara,Low,Low,High,Medium,Medium,UDMCs,12
+Rajshahi,Rajshahi,Charghat,Low,Low,High,Medium,Medium,UDMCs,5
+Rajshahi,Rajshahi,Durgapur,Low,Low,High,Medium,Medium,UDMCs,15
+Rajshahi,Rajshahi,Godagari,Low,Low,High,Medium,Medium,UDMCs,12
+Rajshahi,Rajshahi,Mohanpur,Low,Low,High,Medium,Medium,Partial,13
+Rajshahi,Rajshahi,Paba,Low,Low,High,Medium,Medium,UDMCs,11
+Rajshahi,Rajshahi,Putia,Low,Low,High,Medium,Medium,UDMCs,14
+Rajshahi,Rajshahi,Rajshahi Sadar,Low,Low,High,Low,Medium,UDMCs,51
+Rajshahi,Sirajganj,Belkuchi,Low,Low,High,Medium,Medium,Partial,18
+Rajshahi,Sirajganj,Chauhali,Low,Low,High,Low,Medium,UDMCs,10
+Rajshahi,Sirajganj,Kamarkhand,Low,Low,High,Medium,Medium,UDMCs,11
+Rajshahi,Sirajganj,Kazipur,Low,Low,High,Medium,Medium,Partial,22
+Rajshahi,Sirajganj,Raiganj,Low,Low,High,Low,Medium,Partial,10
+Rajshahi,Sirajganj,Shahjadpur,Low,Low,High,Low,Medium,UDMCs,36
+Rajshahi,Sirajganj,Sirajganj Sadar,Low,Low,High,Medium,Medium,Partial,41
+Rajshahi,Sirajganj,Tarash,Low,Low,High,Low,Medium,Partial,11
+Rajshahi,Sirajganj,Ullahpara,Low,Low,High,Low,Medium,UDMCs,9
+Rangpur,Dinajpur,Birampur,Medium,Low,High,High,Medium,UDMCs,5
+Rangpur,Dinajpur,Birganj,Medium,Low,High,High,Medium,UDMCs,10
+Rangpur,Dinajpur,Biral,Medium,Low,High,High,Medium,UDMCs,8
+Rangpur,Dinajpur,Bochaganj,Medium,Low,High,High,Medium,UDMCs,10
+Rangpur,Dinajpur,Chirirbandar,Medium,Low,High,High,Medium,UDMCs,7
+Rangpur,Dinajpur,Dinajpur Sadar,Medium,Low,High,High,Medium,UDMCs,23
+Rangpur,Dinajpur,Fulbari,Medium,Low,High,High,Medium,Partial,5
+Rangpur,Dinajpur,Ghoraghat,Medium,Low,High,High,Medium,UDMCs,6
+Rangpur,Dinajpur,Hakimpur,Medium,Low,High,High,Medium,Partial,4
+Rangpur,Dinajpur,Kaharole,Medium,Low,High,High,Medium,UDMCs,9
+Rangpur,Dinajpur,Khansama,Medium,Low,High,High,Medium,Partial,8
+Rangpur,Dinajpur,Nawabganj,Medium,Low,High,High,Medium,UDMCs,14
+Rangpur,Dinajpur,Parbatipur,Medium,Low,High,High,Medium,UDMCs,12
+Rangpur,Gaibandha,Fulchhari,Medium,Low,High,High,Medium,UDMCs,6
+Rangpur,Gaibandha,Gaibandha Sadar,Medium,Low,High,High,Medium,UDMCs,28
+Rangpur,Gaibandha,Gobindaganj,Medium,Low,High,High,Medium,UDMCs,35
+Rangpur,Gaibandha,Palashbari,Medium,Low,High,High,Medium,UDMCs,18
+Rangpur,Gaibandha,Sadullapur,Medium,Low,High,High,Medium,UDMCs,21
+Rangpur,Gaibandha,Saghata,Medium,Low,High,High,Medium,Partial,15
+Rangpur,Gaibandha,Sundarganj,Medium,Low,High,High,Medium,Partial,28
+Rangpur,Kurigram,Bhurungamari,Medium,Low,High,High,Medium,UDMCs,11
+Rangpur,Kurigram,Char Rajibpur,Medium,Low,High,High,Medium,UDMCs,4
+Rangpur,Kurigram,Chilmari,Medium,Low,High,High,Medium,UDMCs,5
+Rangpur,Kurigram,Kurigram Sadar,Medium,Low,High,High,Medium,Partial,32
+Rangpur,Kurigram,Nageshwari,Medium,Low,High,High,Medium,UDMCs,32
+Rangpur,Kurigram,Phulbari,Medium,Low,High,High,Medium,Partial,15
+Rangpur,Kurigram,Rajarhat,Medium,Low,High,High,Medium,UDMCs,11
+Rangpur,Kurigram,Raumari,Medium,Low,High,High,Medium,UDMCs,11
+Rangpur,Kurigram,Ulipur,Medium,Low,High,High,Medium,Partial,33
+Rangpur,Lalmonirhat,Aditmari,Medium,Low,High,High,Medium,UDMCs,11
+Rangpur,Lalmonirhat,Hatibandha,Medium,Low,High,High,Medium,Partial,9
+Rangpur,Lalmonirhat,Kaliganj,Medium,Low,High,High,Medium,UDMCs,8
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Medium,Low,High,High,Medium,UDMCs,23
+Rangpur,Lalmonirhat,Patgram,Medium,Low,High,High,Medium,UDMCs,14
+Rangpur,Nilphamari,Dimla,Medium,Low,High,High,Medium,UDMCs,15
+Rangpur,Nilphamari,Domar,Medium,Low,High,High,Medium,UDMCs,10
+Rangpur,Nilphamari,Jaldhaka,Medium,Low,High,High,Medium,Partial,11
+Rangpur,Nilphamari,Kishoreganj,Medium,Low,High,High,Medium,UDMCs,11
+Rangpur,Nilphamari,Nilphamari Sadar,Medium,Low,High,High,Medium,UDMCs,24
+Rangpur,Nilphamari,Saidpur,Medium,Low,High,High,Medium,UDMCs,13
+Rangpur,Panchagarh,Atwari,Medium,Low,High,High,Medium,UDMCs,4
+Rangpur,Panchagarh,Boda,Medium,Low,High,High,Medium,UDMCs,9
+Rangpur,Panchagarh,Debiganj,Medium,Low,High,High,Medium,Partial,16
+Rangpur,Panchagarh,Panchagarh Sadar,Medium,Low,High,High,Medium,UDMCs,11
+Rangpur,Panchagarh,Tetulia,Medium,Low,High,High,Medium,Partial,8
+Rangpur,Rangpur,Badarganj,Medium,Low,High,High,Medium,UDMCs,16
+Rangpur,Rangpur,Gangachara,Medium,Low,High,High,Medium,UDMCs,15
+Rangpur,Rangpur,Kaunia,Medium,Low,High,High,Medium,UDMCs,13
+Rangpur,Rangpur,Mithapukur,Medium,Low,High,High,Medium,UDMCs,22
+Rangpur,Rangpur,Pirgachha,Medium,Low,High,High,Medium,UDMCs,21
+Rangpur,Rangpur,Pirganj,Medium,Low,High,High,Medium,Partial,26
+Rangpur,Rangpur,Rangpur Sadar,Medium,Low,High,High,Medium,UDMCs,45
+Rangpur,Rangpur,Taraganj,Medium,Low,High,High,Medium,UDMCs,10
+Rangpur,Thakurgaon,Baliadangi,Medium,Low,High,High,Medium,UDMCs,7
+Rangpur,Thakurgaon,Haripur,Medium,Low,High,High,Medium,Partial,10
+Rangpur,Thakurgaon,Pirganj,Medium,Low,High,High,Medium,UDMCs,10
+Rangpur,Thakurgaon,Ranisankail,Medium,Low,High,High,Medium,UDMCs,18
+Rangpur,Thakurgaon,Thakurgaon Sadar,Medium,Low,High,High,Medium,UDMCs,27
+Sylhet,Habiganj,Ajmiriganj,High,Low,Low,Medium,High,Partial,6
+Sylhet,Habiganj,Bahubal,High,Low,Low,Medium,High,UDMCs,10
+Sylhet,Habiganj,Baniachong,High,Low,Low,Medium,High,UDMCs,12
+Sylhet,Habiganj,Chunarughat,High,Low,Low,Medium,High,UDMCs,6
+Sylhet,Habiganj,Habiganj Sadar,High,Low,Low,Low,High,UDMCs,32
+Sylhet,Habiganj,Lakhai,High,Low,Low,Low,High,UDMCs,9
+Sylhet,Habiganj,Madhabpur,High,Low,Low,Medium,High,UDMCs,14
+Sylhet,Habiganj,Nabiganj,High,Low,Low,Medium,High,UDMCs,17
+Sylhet,Moulvibazar,Barlekha,High,Low,Low,Low,High,UDMCs,7
+Sylhet,Moulvibazar,Juri,High,Low,Low,Low,High,UDMCs,4
+Sylhet,Moulvibazar,Kamalganj,High,Low,Low,Medium,High,UDMCs,4
+Sylhet,Moulvibazar,Kulaura,High,Low,Low,Medium,High,Partial,19
+Sylhet,Moulvibazar,Moulvibazar Sadar,High,Low,Low,Low,High,UDMCs,14
+Sylhet,Moulvibazar,Rajnagar,High,Low,Low,Low,High,UDMCs,8
+Sylhet,Moulvibazar,Sreemangal,High,Low,Low,Medium,High,Partial,8
+Sylhet,Sunamganj,Bishwamvarpur,High,Low,Low,Medium,High,UDMCs,8
+Sylhet,Sunamganj,Chhatak,High,Low,Low,Low,High,Partial,8
+Sylhet,Sunamganj,Derai,High,Low,Low,Medium,High,UDMCs,6
+Sylhet,Sunamganj,Dharampasha,High,Low,Low,Medium,High,UDMCs,8
+Sylhet,Sunamganj,Dowarabazar,High,Low,Low,Low,High,UDMCs,3
+Sylhet,Sunamganj,Jamalganj,High,Low,Low,Medium,High,UDMCs,5
+Sylhet,Sunamganj,Jagannathpur,High,Low,Low,Low,High,UDMCs,9
+Sylhet,Sunamganj,Sulla,High,Low,Low,Medium,High,Partial,4
+Sylhet,Sunamganj,Sunamganj Sadar,High,Low,Low,Medium,High,Partial,14
+Sylhet,Sunamganj,Tahirpur,High,Low,Low,Low,High,UDMCs,10
+Sylhet,Sylhet,Balaganj,High,Low,Low,Medium,High,UDMCs,21
+Sylhet,Sylhet,Beani Bazar,High,Low,Low,Medium,High,UDMCs,15
+Sylhet,Sylhet,Bishwanath,High,Low,Low,Low,High,Partial,20
+Sylhet,Sylhet,Companiganj,High,Low,Low,Low,High,UDMCs,10
+Sylhet,Sylhet,Dakshin Surma,High,Low,Low,Medium,High,UDMCs,11
+Sylhet,Sylhet,Fenchuganj,High,Low,Low,Low,High,UDMCs,8
+Sylhet,Sylhet,Golapganj,High,Low,Low,Medium,High,UDMCs,17
+Sylhet,Sylhet,Gowainghat,High,Low,Low,Low,High,UDMCs,6
+Sylhet,Sylhet,Jaintiapur,High,Low,Low,Medium,High,UDMCs,8
+Sylhet,Sylhet,Kanaighat,High,Low,Low,Low,High,UDMCs,14
+Sylhet,Sylhet,Osmani Nagar,High,Low,Low,Low,High,UDMCs,11
+Sylhet,Sylhet,Sylhet Sadar,High,Low,Low,Medium,High,UDMCs,24
+Sylhet,Sylhet,Zakiganj,High,Low,Low,Medium,High,UDMCs,12

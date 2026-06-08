@@ -1,0 +1,10 @@
+﻿Division,Total Thanas,Metropolitan,City/Sadar,Rural,Industrial,Border,Coastal/Hill/Other,Total Population,Total Area (km²),Avg. Density,Avg. FIRs/Thana,Avg. Officers/Thana,Flood Risk
+Barisal,78,3,6,29,2,0,38,6110077,16291,375,104,Very High,
+Chittagong,128,11,8,36,15,8,50,15446257,39388,392,166,High,
+Dhaka,181,55,13,35,36,0,42,28471893,21116,1348,205,Medium,
+Khulna,85,6,10,30,13,16,10,9000800,22757,396,144,Very High,
+Mymensingh,62,0,10,20,5,14,13,6543844,11211,584,143,High,
+Rajshahi,88,5,11,33,17,9,13,10724084,18141,591,157,Low,
+Rangpur,78,1,13,32,8,17,7,9672502,17755,545,166,Medium,
+Sylhet,67,6,7,14,10,6,24,6358800,12353,515,131,High,
+BANGLADESH TOTAL,767,87,78,229,106,70,197,92328257,159012,—,161,—,

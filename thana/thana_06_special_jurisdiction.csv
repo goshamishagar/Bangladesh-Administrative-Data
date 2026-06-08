@@ -1,0 +1,768 @@
+﻿Division,District,Thana / Police Station,Thana Type,Flood Risk,Cyclone Risk,Drought Risk,EPZ Zone,Port/Ferry Terminal,Border/Land Port,Tourist Area,River Police,Ethnic Minority Area
+Barisal,Barguna,Amtali,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barguna,Bamna,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barguna,Barguna Sadar,Sadar,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barguna,Betagi,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barguna,Patharghata,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barguna,Taltali,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barguna,Naltona,Rural,Very High,Very High,Low,No,No,No,No,No,Yes
+Barisal,Barguna,Burirarchar,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barguna,Keorabunia,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Barisal,Kotwali Barisal,Metropolitan,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Barisal Sadar,Sadar,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Airport Barisal,Metropolitan,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Agailjhara,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Babuganj,Rural,Very High,Very High,Low,No,No,No,No,No,Yes
+Barisal,Barisal,Bakerganj,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Banari Para,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Gaurnadi,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Hizla,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Barisal,Mehendiganj,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Barisal,Muladi,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Wazirpur,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Char Monai,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Barisal,Nalchira,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Duarghat,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Barisal,Tungibaria,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Charbaria,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,South Barisal,Metropolitan,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Barisal Industrial,Industrial,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Barisal,Raipura Char,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Bhola,Bhola Sadar,Sadar,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Bhola,Burhanuddin,Rural,Very High,Very High,Low,No,No,No,No,No,Yes
+Barisal,Bhola,Char Fasson,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Bhola,Daulatkhan,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Bhola,Lalmohan,Rural,Very High,Very High,Low,No,No,No,No,No,Yes
+Barisal,Bhola,Manpura,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Bhola,Tazumuddin,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Bhola,Ilisha,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Bhola,Veduria,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Bhola,Char Khalifa,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Bhola,Nothullabad,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Jhalokati,Jhalokati Sadar,Sadar,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Jhalokati,Kathalia,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Jhalokati,Nalchity,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Jhalokati,Rajapur,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Jhalokati,Gabkhan,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Jhalokati,Shashibhushan,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Jhalokati,Bisher,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Jhalokati,Nathullabad,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Patuakhali,Patuakhali Sadar,Sadar,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Bauphal,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Dashmina,Coastal,Very High,Very High,Low,No,No,No,No,No,Yes
+Barisal,Patuakhali,Dumki,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Galachipa,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Kalapara,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Mirzaganj,River,Very High,Very High,Low,No,No,No,No,Yes,Yes
+Barisal,Patuakhali,Rangabali,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Kuakata,Tourism,Very High,Very High,Low,No,No,No,Yes,No,Yes
+Barisal,Patuakhali,Lohalia,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Patuakhali,Madarbunia,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Char Kajal,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Baufal North,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Kalaiya,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Pirojpur,Pirojpur Sadar,Sadar,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Pirojpur,Bhandaria,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Pirojpur,Kawkhali,River,Very High,Very High,Low,No,No,No,No,Yes,Yes
+Barisal,Pirojpur,Mathbaria,Coastal,Very High,Very High,Low,No,No,No,No,No,Yes
+Barisal,Pirojpur,Nazirpur,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Pirojpur,Nesarabad,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Pirojpur,Zianagar,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Pirojpur,Hularhat,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Pirojpur,Indurkani,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Pirojpur,Swarupkathi,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Barisal,Pirojpur,Tutkhali,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Pirojpur,Shalikha Pir,Rural,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Pirojpur,Mathbaria North,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Kotwali Ctg,Metropolitan,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Double Mooring,Metropolitan,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Pahartali,Metropolitan,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Panchlaish,Metropolitan,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Chandgaon,Metropolitan,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Bayazid Bostami,Metropolitan,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Khulshi,Metropolitan,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Halishahar,Metropolitan,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Bandar,City,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Patenga,Industrial,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,EPZ Ctg,Industrial,High,High,Low,Yes,No,No,No,No,Yes
+Chittagong,Chittagong,Bakalia,Metropolitan,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Akbar Shah,Metropolitan,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Karnaphuli,Industrial,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Chattogram Port,Industrial,High,High,Low,No,Yes,No,No,No,No
+Chittagong,Chittagong,South Khulshi,Metropolitan,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Anwara,Industrial,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Banshkhali,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Boalkhali,Industrial,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Chandanaish,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Fatikchhari,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Hathazari,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Lohagara,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Mirsharai,Industrial,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Patiya,Industrial,High,High,Low,No,No,No,No,No,No
+Chittagong,Chittagong,Rangunia,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Raozan,Industrial,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Sandwip,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Satkania,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Chittagong,Sitakunda,Industrial,High,High,Low,No,No,No,No,No,No
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,Tourism,High,High,Low,No,No,No,Yes,No,Yes
+Chittagong,Cox's Bazar,Chakaria,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Cox's Bazar,Kutubdia,Coastal,High,High,Low,No,No,No,No,No,No
+Chittagong,Cox's Bazar,Maheshkhali,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Cox's Bazar,Pekua,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Cox's Bazar,Ramu,Tourism,High,High,Low,No,No,No,Yes,No,No
+Chittagong,Cox's Bazar,Teknaf,Border,High,High,Low,No,No,Yes,No,No,Yes
+Chittagong,Cox's Bazar,Ukhia,Border,High,High,Low,No,No,Yes,No,No,Yes
+Chittagong,Cox's Bazar,Hnila,Border,High,High,Low,No,No,Yes,No,No,Yes
+Chittagong,Comilla,Kotwali Comilla,City,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Comilla,Adarsha Sadar,Sadar,High,High,Low,No,No,No,No,No,No
+Chittagong,Comilla,Barura,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Comilla,Brahmanpara,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Comilla,Burichang,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Comilla,Chandina,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Comilla,Chauddagram,Industrial,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Comilla,Daudkandi,River,High,High,Low,No,No,No,No,Yes,No
+Chittagong,Comilla,Debidwar,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Comilla,Homna,River,High,High,Low,No,No,No,No,Yes,Yes
+Chittagong,Comilla,Laksam,Industrial,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Comilla,Lalmai,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Comilla,Manoharganj,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Comilla,Meghna,River,High,High,Low,No,No,No,No,Yes,Yes
+Chittagong,Comilla,Muradnagar,Industrial,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Comilla,Nangalkot,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Comilla,Titas,River,High,High,Low,No,No,No,No,Yes,No
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,City,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Brahmanbaria,Akhaura,Border,High,High,Low,No,No,Yes,No,No,No
+Chittagong,Brahmanbaria,Ashuganj,Industrial,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Brahmanbaria,Bancharampur,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Brahmanbaria,Bijoynagar,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Brahmanbaria,Kasba,Border,High,High,Low,No,No,Yes,No,No,Yes
+Chittagong,Brahmanbaria,Nabinagar,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Brahmanbaria,Nasirnagar,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Brahmanbaria,Sarail,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Brahmanbaria,Akhaura Land Port,Border,High,High,Low,No,Yes,Yes,No,No,Yes
+Chittagong,Brahmanbaria,Ashuganj Ferry,River,High,High,Low,No,Yes,No,No,Yes,No
+Chittagong,Chandpur,Chandpur Sadar,River,High,High,Low,No,No,No,No,Yes,No
+Chittagong,Chandpur,Faridganj,River,High,High,Low,No,No,No,No,Yes,Yes
+Chittagong,Chandpur,Haimchar,River,High,High,Low,No,No,No,No,Yes,No
+Chittagong,Chandpur,Haziganj,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Chandpur,Kachua,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Chandpur,Matlab Dakshin,River,High,High,Low,No,No,No,No,Yes,No
+Chittagong,Chandpur,Matlab Uttar,River,High,High,Low,No,No,No,No,Yes,Yes
+Chittagong,Chandpur,Shahrasti,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Chandpur,Hajiganj,River,High,High,Low,No,No,No,No,Yes,No
+Chittagong,Feni,Feni Sadar,City,High,High,Low,No,No,No,No,No,No
+Chittagong,Feni,Chhagalnaiya,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Feni,Daganbhuiyan,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Feni,Fulgazi,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Feni,Parshuram,Border,High,High,Low,No,No,Yes,No,No,Yes
+Chittagong,Feni,Sonagazi,Industrial,High,High,Low,No,No,No,No,No,No
+Chittagong,Feni,Muhuriganj,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Feni,Feni North,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Lakshmipur,Lakshmipur Sadar,Sadar,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Lakshmipur,Kamalnagar,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Lakshmipur,Ramganj,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Lakshmipur,Ramgati,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Lakshmipur,Raipur,River,High,High,Low,No,No,No,No,Yes,Yes
+Chittagong,Lakshmipur,Char Ababil,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Lakshmipur,Meghna Ghat,River,High,High,Low,No,Yes,No,No,Yes,No
+Chittagong,Noakhali,Noakhali Sadar,Sadar,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Noakhali,Begumganj,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Noakhali,Chatkhil,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Noakhali,Companiganj,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Noakhali,Hatiya,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Noakhali,Kabirhat,Rural,High,High,Low,No,No,No,No,No,No
+Chittagong,Noakhali,Senbagh,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Noakhali,Sonaimuri,Rural,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Noakhali,Subarnachar,Coastal,High,High,Low,No,No,No,No,No,No
+Chittagong,Noakhali,Char Jublee,Coastal,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Noakhali,Noakhali Model,Sadar,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Bandarban,Bandarban Sadar,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Bandarban,Ali Kadam,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Bandarban,Lama,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Bandarban,Naikhongchhari,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Bandarban,Ruma,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Bandarban,Rowangchhari,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Bandarban,Thanchi,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Khagrachhari,Khagrachhari Sadar,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Khagrachhari,Dighinala,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Khagrachhari,Matiranga,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Khagrachhari,Ramgarh,Border,High,High,Low,No,No,Yes,No,No,Yes
+Chittagong,Khagrachhari,Manikchhari,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Khagrachhari,Panchhari,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Khagrachhari,Lakshmichhari,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Khagrachhari,Mahalchhari,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Rangamati,Rangamati Sadar,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Rangamati,Kaptai,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Rangamati,Langadu,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Rangamati,Bagaichhari,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Rangamati,Barkal,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Rangamati,Belaichhari,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Rangamati,Rajasthali,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Rangamati,Naniarchar,Hill,High,High,Low,No,No,No,No,No,Yes
+Chittagong,Rangamati,Juraichhari,Hill,High,High,Low,No,No,No,No,No,No
+Chittagong,Rangamati,Kawkhali Rmt,Hill,High,High,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Motijheel,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Kotwali Dhaka,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Sutrapur,Metropolitan,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Dhaka,Wari,Metropolitan,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Dhaka,Lalbagh,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Hazaribagh,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Kamrangirchar,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Demra,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Jatrabari,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Kadamtali,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Shyampur,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Dhanmondi,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Adabor,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Mohammadpur,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Sher-e-Bangla Nagar,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Tejgaon,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Tejgaon Industrial,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Kafrul,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Pallabi,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Mirpur,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Shah Ali,Metropolitan,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Dhaka,Turag,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Uttara,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Uttara West,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Airport,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Dakshinkhan,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Uttar Khan,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Badda,Metropolitan,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Dhaka,Rampura,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Khilgaon,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Sabujbagh,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Gulshan,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Banani,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Cantonment Dhaka,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Khilkhet,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Vatara,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Bhatara,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Agargaon,Metropolitan,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Dhaka,Chawkbazar,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Newmarket,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Ramna,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Shahbag,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Hatirjheel,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Rupnagar,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Matijhata,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Keraniganj Model,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Nawabganj Dhaka,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Dhamrai,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Dohar,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Dhaka,Savar,Industrial,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Gazipur,Gazipur Sadar,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Joydebpur,City,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Kaliakair,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Kaliganj,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Kapasia,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Sreepur,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Tongi,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Basan,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Pubail,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Gazipur Industrial North,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Narayanganj Sadar,Industrial,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Narayanganj,Fatullah,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Siddhirganj,Industrial,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Narayanganj,Bandar,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Araihazar,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Rupganj,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Sonargaon,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Adamjee,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Narayanganj Port,Industrial,Medium,Low,Low,No,Yes,No,No,No,No
+Dhaka,Narsingdi,Narsingdi Sadar,Industrial,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Narsingdi,Belabo,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narsingdi,Monohardi,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narsingdi,Palash,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narsingdi,Raipura,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Narsingdi,Shibpur,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narsingdi,Ghodashail,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narsingdi,Madhabdi,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Kishoreganj,Kishoreganj Sadar,City,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Kishoreganj,Astagram,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Kishoreganj,Bajitpur,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Kishoreganj,Bhairab,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Kishoreganj,Hossainpur,Rural,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Kishoreganj,Itna,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Kishoreganj,Karimganj,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Kishoreganj,Katiadi,Rural,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Kishoreganj,Kuliarchar,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Kishoreganj,Mithamain,River,Medium,Low,Low,No,No,No,No,Yes,Yes
+Dhaka,Kishoreganj,Nikli,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Kishoreganj,Pakundia,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Kishoreganj,Tarail,Rural,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Kishoreganj,Bhairab Ferry,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Kishoreganj,Kuliarchar River,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Tangail,Tangail Sadar,City,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Basail,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Bhuapur,Rural,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Tangail,Delduar,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Dhanbari,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Ghatail,Rural,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Tangail,Gopalpur,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Kalihati,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Madhupur,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Mirzapur,Industrial,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Tangail,Nagarpur,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Sakhipur,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Tangail,Madhupur Forest,Rural,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Tangail,Tangail Model,City,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Manikganj,Manikganj Sadar,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Manikganj,Daulatpur,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Manikganj,Ghior,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Manikganj,Harirampur,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Manikganj,Saturia,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Manikganj,Shibalaya,River,Medium,Low,Low,No,No,No,No,Yes,Yes
+Dhaka,Manikganj,Singair,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Manikganj,Paturia Ghat,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Manikganj,Aricha Ghat,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Munshiganj,Munshiganj Sadar,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Munshiganj,Gazaria,Industrial,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Munshiganj,Louhajang,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Munshiganj,Sirajdikhan,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Munshiganj,Sreenagar,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Munshiganj,Tongibari,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Munshiganj,Mawa Ferry,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Munshiganj,Lauhajang Ferry,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Faridpur,Faridpur Sadar,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Faridpur,Alfadanga,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Faridpur,Bhanga,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Faridpur,Boalmari,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Faridpur,Char Bhadrasan,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Faridpur,Madhukhali,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Faridpur,Nagarkanda,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Faridpur,Saltha,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Faridpur,Sadarpur,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Faridpur,Faridpur Model,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gopalganj,Gopalganj Sadar,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gopalganj,Kashiani,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gopalganj,Kotalipara,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gopalganj,Muksudpur,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gopalganj,Tungipara,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gopalganj,Gopalganj Model,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gopalganj,Kotalipara Ferry,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Madaripur,Madaripur Sadar,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Madaripur,Kalkini,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Madaripur,Rajoir,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Madaripur,Shibchar,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Madaripur,Sibchar Ferry,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Madaripur,Muksudpur Ferry,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Rajbari,Rajbari Sadar,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Rajbari,Baliakandi,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Rajbari,Goalandaghat,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Rajbari,Kalukhali,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Rajbari,Pangsha,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Rajbari,Goalanda Ghat,River,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Rajbari,Rajbari Model,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Shariatpur,Shariatpur Sadar,Sadar,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Shariatpur,Bhedarganj,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Shariatpur,Damudya,River,Medium,Low,Low,No,No,No,No,Yes,Yes
+Dhaka,Shariatpur,Gosairhat,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Shariatpur,Jajira,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Shariatpur,Naria,River,Medium,Low,Low,No,No,No,No,Yes,Yes
+Dhaka,Shariatpur,Shakhipur River,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Shariatpur,Jajira Ferry,River,Medium,Low,Low,No,Yes,No,No,Yes,Yes
+Khulna,Khulna,Khulna Kotwali,Metropolitan,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Sonadanga,Metropolitan,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Khalishpur,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Daulatpur,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Khan Jahan Ali,Metropolitan,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Harintana,Metropolitan,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Arongghata,Metropolitan,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Khulna Industrial,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Batiaghata,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Dacope,Coastal,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Dighalia,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Dumuria,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Koyra,Coastal,Very High,Very High,Medium,No,No,No,No,No,Yes
+Khulna,Khulna,Paikgachha,Coastal,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Phultala,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Rupsha,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Khulna,Mongla Port,Industrial,Very High,Very High,Medium,No,Yes,No,No,No,No
+Khulna,Bagerhat,Bagerhat Sadar,Sadar,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Bagerhat,Chitalmari,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Bagerhat,Fakirhat,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Bagerhat,Kachua,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Bagerhat,Mollahat,Rural,Very High,Very High,Medium,No,No,No,No,No,Yes
+Khulna,Bagerhat,Mongla,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Bagerhat,Morrelganj,Coastal,Very High,Very High,Medium,No,No,No,No,No,Yes
+Khulna,Bagerhat,Rampal,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Bagerhat,Sarankhola,Coastal,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Bagerhat,Mongla EPZ,Industrial,Very High,Very High,Medium,Yes,No,No,No,No,No
+Khulna,Bagerhat,Bagerhat Model,Sadar,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jessore,Jessore Kotwali,City,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jessore,Abhaynagar,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jessore,Bagherpara,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jessore,Chaugachha,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jessore,Jhikargachha,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Jessore,Keshabpur,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jessore,Manirampur,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jessore,Sharsha,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Jessore,Benapole Land Port,Border,Very High,Very High,Medium,No,Yes,Yes,No,No,No
+Khulna,Jessore,Jessore Cantonment,Metropolitan,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jhenaidah,Jhenaidah Sadar,City,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jhenaidah,Harinakunda,Rural,Very High,Very High,Medium,No,No,No,No,No,Yes
+Khulna,Jhenaidah,Kaliganj,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jhenaidah,Kotchandpur,Rural,Very High,Very High,Medium,No,No,No,No,No,Yes
+Khulna,Jhenaidah,Maheshpur,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jhenaidah,Shailkupa,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jhenaidah,Halidhani,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Jhenaidah,Jhenaidah Model,City,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Kushtia,Kushtia Sadar,City,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Kushtia,Bheramara,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Kushtia,Daulatpur Kus,Rural,Very High,Very High,Medium,No,No,No,No,No,Yes
+Khulna,Kushtia,Khoksa,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Kushtia,Kumarkhali,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Kushtia,Mirpur Kus,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Kushtia,Hardinge Bridge,Industrial,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Kushtia,Lalon Shah Border,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Chuadanga,Chuadanga Sadar,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Chuadanga,Alamdanga,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Chuadanga,Damurhuda,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Chuadanga,Jibannagar,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Chuadanga,Chuadanga Border,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Chuadanga,Darshana ICT,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Magura,Magura Sadar,Sadar,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Magura,Mohammadpur,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Magura,Shalikha,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Magura,Sreepur,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Magura,Magura Model,Sadar,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Magura,Binarpota,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Meherpur,Meherpur Sadar,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Meherpur,Gangni,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Meherpur,Mujibnagar,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Meherpur,Meherpur Border,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Meherpur,Meherpur Model,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Narail,Narail Sadar,Sadar,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Narail,Kalia,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Narail,Lohagara,Rural,Very High,Very High,Medium,No,No,No,No,No,Yes
+Khulna,Narail,Narail Model,Sadar,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Narail,Narail River,River,Very High,Very High,Medium,No,No,No,No,Yes,No
+Khulna,Satkhira,Satkhira Sadar,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Satkhira,Assasuni,Coastal,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Satkhira,Debhata,Border,Very High,Very High,Medium,No,No,Yes,No,No,No
+Khulna,Satkhira,Kalaroa,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Satkhira,Kaliganj Sat,Coastal,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Satkhira,Shyamnagar,Coastal,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Satkhira,Tala,Rural,Very High,Very High,Medium,No,No,No,No,No,No
+Khulna,Satkhira,Bhomra Land Port,Border,Very High,Very High,Medium,No,Yes,Yes,No,No,No
+Khulna,Satkhira,Sundarban,Coastal,Very High,Very High,Medium,No,No,No,No,No,No
+Mymensingh,Mymensingh,Mymensingh Kotwali,City,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Mymensingh Sadar,Sadar,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Bhaluka,Industrial,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Mymensingh,Dhobaura,Border,High,Low,Low,No,No,Yes,No,No,No
+Mymensingh,Mymensingh,Fulbaria,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Mymensingh,Gaffargaon,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Gauripur,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Haluaghat,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Mymensingh,Mymensingh,Ishwarganj,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Muktagachha,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Nandail,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Mymensingh,Phulpur,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Trishal,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Mymensingh Model,City,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Bhaluka Industrial,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Haluaghat Border,Border,High,Low,Low,No,No,Yes,No,No,No
+Mymensingh,Mymensingh,Trishal University,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Jamalpur,Jamalpur Sadar,City,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Jamalpur,Baksiganj,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Jamalpur,Dewanganj,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Jamalpur,Islampur,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Jamalpur,Madarganj,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Jamalpur,Melandaha,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Jamalpur,Sarishabari,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Jamalpur,Jamalpur Model,City,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Jamalpur,Dewanganj Ferry,River,High,Low,Low,No,Yes,No,No,Yes,No
+Mymensingh,Netrokona,Netrokona Sadar,Sadar,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Netrokona,Atpara,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Netrokona,Barhatta,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Netrokona,Durgapur,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Mymensingh,Netrokona,Kalmakanda,Border,High,Low,Low,No,No,Yes,No,No,No
+Mymensingh,Netrokona,Kendua,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Netrokona,Khaliajuri,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Netrokona,Madan,River,High,Low,Low,No,No,No,No,Yes,No
+Mymensingh,Netrokona,Mohanganj,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Netrokona,Purbadhala,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Netrokona,Netrokona Model,Sadar,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Sherpur,Sherpur Sadar,City,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Sherpur,Jhenaigati,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Mymensingh,Sherpur,Nakla,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Sherpur,Nalitabari,Border,High,Low,Low,No,No,Yes,No,No,No
+Mymensingh,Sherpur,Sreebardi,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Mymensingh,Sherpur,Sherpur Model,City,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Sherpur,Nalitabari Border,Border,High,Low,Low,No,No,Yes,No,No,No
+Mymensingh,Sherpur,Sreebardi Border,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Mymensingh,Netrokona,Durgapur Border,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Mymensingh,Netrokona,Kalmakanda Border,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Mymensingh,Mymensingh,Dhobaura Border,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Mymensingh,Mymensingh,Gaffargaon Industrial,Industrial,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Mymensingh,Mymensingh River,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Jamalpur,Islampur River,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Jamalpur,Sarishabari Handloom,Rural,High,Low,Low,No,No,No,No,No,Yes
+Rajshahi,Rajshahi,Boalia,Metropolitan,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Rajpara,Metropolitan,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Motihar,Metropolitan,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Shah Makhdum,Metropolitan,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Rajshahi Cantonment,Metropolitan,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Rajshahi Industrial,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Bagha,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Bagmara,Rural,Low,Low,High,No,No,No,No,No,Yes
+Rajshahi,Rajshahi,Charghat,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Durgapur Raj,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Godagari,Border,Low,Low,High,No,No,Yes,No,No,No
+Rajshahi,Rajshahi,Mohanpur,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Paba,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Putia,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Rajshahi,Godagari Border,Border,Low,Low,High,No,No,Yes,No,No,No
+Rajshahi,Rajshahi,Rajshahi EPZ,Industrial,Low,Low,High,Yes,No,No,No,No,No
+Rajshahi,Bogura,Bogura Sadar,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Adamdighi,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Dhunat,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Bogura,Dupchanchia,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Gabtali,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Kahaloo,Rural,Low,Low,High,No,No,No,No,No,Yes
+Rajshahi,Bogura,Nandigram,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Sariakandi,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Bogura,Shajahanpur,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Sherpur Bog,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Shibganj Bog,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Sonatola,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Bogura,Bogura Model,City,Low,Low,High,No,No,No,No,No,Yes
+Rajshahi,Bogura,Sariakandi River,River,Low,Low,High,No,No,No,No,Yes,Yes
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,Border,Low,Low,High,No,No,Yes,No,No,Yes
+Rajshahi,Chapainawabganj,Bholahat,Border,Low,Low,High,No,No,Yes,No,No,No
+Rajshahi,Chapainawabganj,Gomastapur,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Chapainawabganj,Nachole,Border,Low,Low,High,No,No,Yes,No,No,No
+Rajshahi,Chapainawabganj,Shibganj Chap,Border,Low,Low,High,No,No,Yes,No,No,No
+Rajshahi,Chapainawabganj,Sonamasjid Land Port,Border,Low,Low,High,No,Yes,Yes,No,No,No
+Rajshahi,Chapainawabganj,Chapai Model,Border,Low,Low,High,No,No,Yes,No,No,No
+Rajshahi,Joypurhat,Joypurhat Sadar,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Joypurhat,Akkelpur,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Joypurhat,Kalai,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Joypurhat,Khetlal,Rural,Low,Low,High,No,No,No,No,No,Yes
+Rajshahi,Joypurhat,Panchbibi,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Joypurhat,Joypurhat Model,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Joypurhat,Akkelpur Industrial,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Naogaon Sadar,City,Low,Low,High,No,No,No,No,No,Yes
+Rajshahi,Naogaon,Atrai,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Naogaon,Badalgachhi,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Dhamoirhat,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Manda,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Mahadebpur,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Niamatpur,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Patnitala,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Porsha,Border,Low,Low,High,No,No,Yes,No,No,No
+Rajshahi,Naogaon,Raninagar,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Sapahar,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Naogaon Model,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Naogaon,Atrai River,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Natore,Natore Sadar,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Natore,Bagatipara,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Natore,Baraigram,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Natore,Gurudaspur,Industrial,Low,Low,High,No,No,No,No,No,Yes
+Rajshahi,Natore,Lalpur,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Natore,Singra,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Natore,Natore Model,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Natore,Baraigram Sugar,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Pabna,Pabna Sadar,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Pabna,Atgharia,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Pabna,Bera,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Pabna,Bhangura,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Pabna,Chatmohar,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Pabna,Faridpur Pab,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Pabna,Ishwardi,Industrial,Low,Low,High,No,No,No,No,No,Yes
+Rajshahi,Pabna,Santhia,River,Low,Low,High,No,No,No,No,Yes,Yes
+Rajshahi,Pabna,Sujanagar,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Pabna,Ishwardi EPZ,Industrial,Low,Low,High,Yes,No,No,No,No,No
+Rajshahi,Pabna,Pabna Model,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Sirajganj,Sirajganj Sadar,City,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Sirajganj,Belkuchi,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Sirajganj,Chauhali,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Sirajganj,Kamarkhand,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Sirajganj,Kazipur,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Sirajganj,Raiganj,River,Low,Low,High,No,No,No,No,Yes,No
+Rajshahi,Sirajganj,Shahjadpur,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Sirajganj,Tarash,Rural,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Sirajganj,Ullahpara,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Sirajganj,Sirajganj Ferry,River,Low,Low,High,No,Yes,No,No,Yes,No
+Rajshahi,Sirajganj,Sirajganj Industrial,Industrial,Low,Low,High,No,No,No,No,No,No
+Rajshahi,Sirajganj,Shahjadpur Handloom,Industrial,Low,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Rangpur Kotwali,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Rangpur Sadar,Sadar,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Rangpur Model,City,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Rangpur,Rangpur Industrial,Industrial,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Rangpur Cantonment,Metropolitan,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Badarganj,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Gangachara,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Kaunia,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Mithapukur,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Pirgachha,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Pirganj Rng,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Rangpur,Taraganj,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Dinajpur Sadar,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Birampur,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Birganj,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Biral,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Bochaganj,Rural,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Dinajpur,Chirirbandar,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Fulbari Din,Industrial,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Ghoraghat,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Hakimpur,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Kaharole,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Khansama,Rural,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Dinajpur,Nawabganj Din,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Dinajpur,Parbatipur,Industrial,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Dinajpur,Dinajpur Model,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Fulbari Coal,Industrial,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Gaibandha,Gaibandha Sadar,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Gaibandha,Fulchhari,River,Medium,Low,High,No,No,No,No,Yes,No
+Rangpur,Gaibandha,Gobindaganj,Industrial,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Gaibandha,Palashbari,Rural,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Gaibandha,Sadullapur,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Gaibandha,Saghata,River,Medium,Low,High,No,No,No,No,Yes,No
+Rangpur,Gaibandha,Sundarganj,River,Medium,Low,High,No,No,No,No,Yes,No
+Rangpur,Gaibandha,Gaibandha Model,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Gaibandha,Fulchhari Ferry,River,Medium,Low,High,No,Yes,No,No,Yes,No
+Rangpur,Kurigram,Kurigram Sadar,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Kurigram,Bhurungamari,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Kurigram,Char Rajibpur,River,Medium,Low,High,No,No,No,No,Yes,No
+Rangpur,Kurigram,Chilmari,River,Medium,Low,High,No,No,No,No,Yes,Yes
+Rangpur,Kurigram,Nageshwari,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Kurigram,Phulbari Kur,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Kurigram,Rajarhat,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Kurigram,Raumari,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Kurigram,Ulipur,River,Medium,Low,High,No,No,No,No,Yes,No
+Rangpur,Kurigram,Kurigram Model,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Kurigram,Bhurungamari Border,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Lalmonirhat,Aditmari,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Lalmonirhat,Hatibandha,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Lalmonirhat,Kaliganj Lal,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Lalmonirhat,Patgram,Border,Medium,Low,High,No,No,Yes,No,No,Yes
+Rangpur,Lalmonirhat,Lalmonirhat Model,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Lalmonirhat,Burimari Land Port,Border,Medium,Low,High,No,Yes,Yes,No,No,No
+Rangpur,Nilphamari,Nilphamari Sadar,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Nilphamari,Dimla,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Nilphamari,Domar,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Nilphamari,Jaldhaka,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Nilphamari,Kishoreganj Nil,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Nilphamari,Saidpur,Industrial,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Nilphamari,Nilphamari Model,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Nilphamari,Saidpur Cantonment,Industrial,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Panchagarh,Panchagarh Sadar,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Panchagarh,Atwari,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Panchagarh,Boda,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Panchagarh,Debiganj,Border,Medium,Low,High,No,No,Yes,No,No,Yes
+Rangpur,Panchagarh,Tetulia,Border,Medium,Low,High,No,No,Yes,No,No,No
+Rangpur,Panchagarh,Banglabandha Land Port,Border,Medium,Low,High,No,Yes,Yes,No,No,Yes
+Rangpur,Thakurgaon,Thakurgaon Sadar,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Thakurgaon,Baliadangi,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Thakurgaon,Haripur,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Thakurgaon,Pirganj Tha,Rural,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Thakurgaon,Ranisankail,Rural,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Thakurgaon,Thakurgaon Model,City,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Thakurgaon,Haripur Border,Border,Medium,Low,High,No,No,Yes,No,No,No
+Sylhet,Sylhet,Sylhet Kotwali,Metropolitan,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,South Surma,Metropolitan,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sylhet,Sylhet Sadar,Sadar,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sylhet,Osmani Nagar,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Sylhet Airport,Metropolitan,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Shah Paran,Metropolitan,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Jalalabad,Metropolitan,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Sylhet Industrial,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Balaganj,Rural,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sylhet,Beani Bazar,Rural,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sylhet,Bishwanath,Industrial,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sylhet,Companiganj Syl,Rural,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Dakshin Surma,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Fenchuganj,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Golapganj,Rural,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sylhet,Gowainghat,Rural,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Jaintiapur,Rural,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sylhet,Kanaighat,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Sylhet,Sylhet,Zakiganj,Border,High,Low,Low,No,No,Yes,No,No,No
+Sylhet,Sylhet,Zakiganj Border,Border,High,Low,Low,No,No,Yes,No,No,No
+Sylhet,Sylhet,Kanaighat Border,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Sylhet,Sylhet,Gowainghat Stone,Rural,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sylhet,Fenchuganj Gas,Industrial,High,Low,Low,No,No,No,No,No,No
+Sylhet,Habiganj,Habiganj Sadar,City,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Habiganj,Ajmiriganj,River,High,Low,Low,No,No,No,No,Yes,No
+Sylhet,Habiganj,Bahubal,Rural,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Habiganj,Baniachong,Rural,High,Low,Low,No,No,No,No,No,No
+Sylhet,Habiganj,Chunarughat,Tea,High,Low,Low,No,No,No,Yes,No,No
+Sylhet,Habiganj,Lakhai,Rural,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Habiganj,Madhabpur,Tea,High,Low,Low,No,No,No,Yes,No,Yes
+Sylhet,Habiganj,Nabiganj,Rural,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Habiganj,Shaistaganj,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Habiganj,Habiganj Model,City,High,Low,Low,No,No,No,No,No,No
+Sylhet,Habiganj,Chunarughat Tea,Tea,High,Low,Low,No,No,No,Yes,No,Yes
+Sylhet,Habiganj,Ajmiriganj Ferry,River,High,Low,Low,No,Yes,No,No,Yes,Yes
+Sylhet,Moulvibazar,Moulvibazar Sadar,City,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Moulvibazar,Barlekha,Tea,High,Low,Low,No,No,No,Yes,No,No
+Sylhet,Moulvibazar,Juri,Tea,High,Low,Low,No,No,No,Yes,No,Yes
+Sylhet,Moulvibazar,Kamalganj,Tea,High,Low,Low,No,No,No,Yes,No,Yes
+Sylhet,Moulvibazar,Kulaura,Tea,High,Low,Low,No,No,No,Yes,No,No
+Sylhet,Moulvibazar,Rajnagar,Tea,High,Low,Low,No,No,No,Yes,No,No
+Sylhet,Moulvibazar,Sreemangal,Tea,High,Low,Low,No,No,No,Yes,No,Yes
+Sylhet,Moulvibazar,Moulvibazar Model,City,High,Low,Low,No,No,No,No,No,No
+Sylhet,Moulvibazar,Sreemangal Tourism,Tourism,High,Low,Low,No,No,No,Yes,No,No
+Sylhet,Moulvibazar,Kulaura Railway,Tea,High,Low,Low,No,No,No,Yes,No,No
+Sylhet,Moulvibazar,Barlekha Tea,Tea,High,Low,Low,No,No,No,Yes,No,No
+Sylhet,Moulvibazar,Kamalganj Tea,Tea,High,Low,Low,No,No,No,Yes,No,Yes
+Sylhet,Sunamganj,Sunamganj Sadar,City,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sunamganj,Bishwamvarpur,River,High,Low,Low,No,No,No,No,Yes,Yes
+Sylhet,Sunamganj,Chhatak,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sunamganj,Derai,River,High,Low,Low,No,No,No,No,Yes,No
+Sylhet,Sunamganj,Dharampasha,River,High,Low,Low,No,No,No,No,Yes,Yes
+Sylhet,Sunamganj,Dowarabazar,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Sylhet,Sunamganj,Jagannathpur,Rural,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sunamganj,Jamalganj,River,High,Low,Low,No,No,No,No,Yes,Yes
+Sylhet,Sunamganj,Sulla,River,High,Low,Low,No,No,No,No,Yes,Yes
+Sylhet,Sunamganj,Tahirpur,River,High,Low,Low,No,No,No,No,Yes,No
+Sylhet,Sunamganj,Sunamganj Model,City,High,Low,Low,No,No,No,No,No,Yes
+Sylhet,Sunamganj,Chhatak Cement,Industrial,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sunamganj,Dowarabazar Border,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Sylhet,Sunamganj,Sulla Haor,River,High,Low,Low,No,No,No,No,Yes,No
+Sylhet,Sunamganj,Dharampasha Haor,River,High,Low,Low,No,No,No,No,Yes,Yes
+Barisal,Barguna,Bakkhali,Coastal,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Bhola,Bhola Industrial,Industrial,Very High,Very High,Low,No,No,No,No,No,No
+Barisal,Patuakhali,Patuakhali River,River,Very High,Very High,Low,No,No,No,No,Yes,No
+Chittagong,Noakhali,Begumganj North,Rural,High,High,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Demra South,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Jatrabari South,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Mugda,Metropolitan,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Dhaka,Rayer Bazar,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Hazaribagh Model,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Kotwali South,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Pallabi South,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Mirpur East,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Dhaka,Uttara East,Metropolitan,Medium,Low,Low,No,No,No,No,No,Yes
+Dhaka,Dhaka,Dakshinkhan South,Metropolitan,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Gazipur North,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Gazipur,Kaliakair North,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Rupganj North,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narayanganj,Sonargaon South,Industrial,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Narsingdi,Raipura South,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Kishoreganj,Bajitpur South,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Tangail,Ghatail North,Rural,Medium,Low,Low,No,Yes,No,No,Yes,No
+Dhaka,Faridpur,Bhanga South,River,Medium,Low,Low,No,No,No,No,Yes,No
+Dhaka,Manikganj,Singair South,Rural,Medium,Low,Low,No,No,No,No,No,No
+Dhaka,Shariatpur,Jajira South,River,Medium,Low,Low,No,No,No,No,Yes,No
+Mymensingh,Mymensingh,Mymensingh North,City,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Phulpur North,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Mymensingh,Gaffargaon South,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Mymensingh,Bhaluka South,Industrial,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Jamalpur,Islampur South,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Jamalpur,Madarganj South,River,High,Low,Low,No,No,No,No,Yes,Yes
+Mymensingh,Netrokona,Kendua South,Rural,High,Low,Low,No,No,No,No,No,Yes
+Mymensingh,Netrokona,Mohanganj South,River,High,Low,Low,No,No,No,No,Yes,No
+Mymensingh,Sherpur,Nakla South,Rural,High,Low,Low,No,No,No,No,No,No
+Mymensingh,Sherpur,Sreebardi South,Border,High,Low,Low,No,No,Yes,No,No,Yes
+Rangpur,Rangpur,Mithapukur South,Rural,Medium,Low,High,No,No,No,No,No,No
+Rangpur,Dinajpur,Birganj South,Rural,Medium,Low,High,No,No,No,No,No,Yes
+Rangpur,Gaibandha,Gobindaganj South,Industrial,Medium,Low,High,No,No,No,No,No,No
+Sylhet,Sylhet,Sylhet South,Metropolitan,High,Low,Low,No,No,No,No,No,No
+Sylhet,Sylhet,Osmani Nagar South,Industrial,High,Low,Low,No,No,No,No,No,No
+Sylhet,Habiganj,Nabiganj South,Rural,High,Low,Low,No,No,No,No,No,No
+Sylhet,Moulvibazar,Kulaura South,Tea,High,Low,Low,No,No,No,Yes,No,Yes
+Sylhet,Sunamganj,Jagannathpur South,Rural,High,Low,Low,No,No,No,No,No,No

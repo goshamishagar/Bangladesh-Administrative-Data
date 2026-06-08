@@ -1,0 +1,492 @@
+﻿Division,District,Upazila,Paved Road (% of total),Total Road Length (km),Electricity Access (%),Internet Penetration (%),Mobile Coverage (%),Bank Branches,Weekly Markets (Haats)
+Barisal,Barguna,Amtali,38,711.0,67.7,43.6,87.4,6,12
+Barisal,Barguna,Bamna,41,351.0,48.9,44.8,72.3,2,6
+Barisal,Barguna,Barguna Sadar,65,1158.7,70.6,30.7,83.6,8,11
+Barisal,Barguna,Betagi,57,530.8,65.1,22.6,82.1,4,7
+Barisal,Barguna,Patharghata,42,525.3,57.3,40.3,74.0,5,8
+Barisal,Barguna,Taltali,50,908.0,48.8,41.8,63.4,3,6
+Barisal,Barisal,Agailjhara,51,189.8,70.2,36.1,85.0,5,9
+Barisal,Barisal,Babuganj,55,337.0,59.3,34.2,81.4,6,10
+Barisal,Barisal,Bakerganj,37,806.6,53.0,30.7,65.6,13,26
+Barisal,Barisal,Banari Para,46,346.2,55.0,40.7,78.0,7,11
+Barisal,Barisal,Barisal Sadar,45,109.8,75.7,57.8,82.5,17,39
+Barisal,Barisal,Gaurnadi,49,179.3,65.8,38.3,63.2,7,13
+Barisal,Barisal,Hizla,50,329.7,57.6,32.9,70.2,4,9
+Barisal,Barisal,Mehendiganj,30,804.7,65.2,19.8,76.6,9,23
+Barisal,Barisal,Muladi,57,472.0,66.5,36.1,87.2,7,13
+Barisal,Barisal,Wazirpur,45,469.6,64.9,32.6,74.5,6,12
+Barisal,Bhola,Bhola Sadar,36,617.3,62.0,26.9,86.9,10,27
+Barisal,Bhola,Burhanuddin,38,714.3,52.7,37.4,81.4,6,16
+Barisal,Bhola,Char Fasson,49,1438.7,66.3,27.8,74.9,17,32
+Barisal,Bhola,Daulatkhan,59,283.5,57.8,25.5,72.8,5,10
+Barisal,Bhola,Lalmohan,45,936.4,62.8,25.2,80.9,9,15
+Barisal,Bhola,Manpura,23,503.5,55.3,18.6,72.2,3,5
+Barisal,Bhola,Tazumuddin,23,195.2,50.4,28.6,77.8,5,11
+Barisal,Jhalokati,Jhalokati Sadar,67,756.4,56.7,31.3,81.3,7,12
+Barisal,Jhalokati,Kathalia,34,315.7,60.8,41.5,73.3,4,8
+Barisal,Jhalokati,Nalchity,39,457.6,62.2,29.0,72.3,3,7
+Barisal,Jhalokati,Rajapur,21,218.0,67.0,43.0,68.2,5,11
+Barisal,Patuakhali,Bauphal,31,1314.5,52.5,23.7,74.6,11,18
+Barisal,Patuakhali,Dashmina,56,668.3,64.7,40.6,82.6,5,12
+Barisal,Patuakhali,Dumki,21,121.4,60.1,34.1,74.3,3,7
+Barisal,Patuakhali,Galachipa,55,878.9,69.3,24.2,81.0,10,20
+Barisal,Patuakhali,Kalapara,53,2279.3,62.5,35.5,77.3,8,19
+Barisal,Patuakhali,Mirzaganj,30,494.2,57.1,22.9,71.4,5,9
+Barisal,Patuakhali,Patuakhali Sadar,53,696.9,75.3,47.4,73.8,7,21
+Barisal,Patuakhali,Rangabali,43,709.1,47.3,13.4,67.4,3,5
+Barisal,Pirojpur,Bhandaria,23,471.0,57.0,25.6,81.7,4,12
+Barisal,Pirojpur,Kawkhali,45,425.9,58.0,26.6,82.2,4,10
+Barisal,Pirojpur,Mathbaria,42,471.0,68.8,36.5,74.5,6,19
+Barisal,Pirojpur,Nazirpur,34,413.7,62.1,41.6,86.6,7,11
+Barisal,Pirojpur,Pirojpur Sadar,65,366.6,66.4,33.6,78.1,7,16
+Barisal,Pirojpur,Nesarabad,36,576.2,51.5,28.0,82.1,5,13
+Barisal,Pirojpur,Zianagar,50,306.8,47.1,32.6,68.2,4,10
+Chittagong,Bandarban,Ali Kadam,46,1928.9,58.9,21.3,75.7,1,3
+Chittagong,Bandarban,Bandarban Sadar,49,1379.1,65.9,38.2,72.0,3,7
+Chittagong,Bandarban,Lama,35,1844.2,59.4,26.5,74.8,3,9
+Chittagong,Bandarban,Naikhongchhari,47,1818.3,57.3,31.4,74.9,1,4
+Chittagong,Bandarban,Rowangchhari,21,823.9,59.3,24.4,72.4,1,2
+Chittagong,Bandarban,Ruma,35,1076.2,55.8,24.7,75.7,1,3
+Chittagong,Bandarban,Thanchi,27,2309.0,62.9,17.1,75.5,1,2
+Chittagong,Brahmanbaria,Akhaura,84,220.9,72.2,52.2,80.9,7,11
+Chittagong,Brahmanbaria,Ashuganj,56,95.8,60.8,48.6,82.1,7,15
+Chittagong,Brahmanbaria,Bancharampur,56,550.0,55.7,28.5,65.7,8,19
+Chittagong,Brahmanbaria,Bijoynagar,46,262.6,49.3,31.2,77.4,5,11
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,33,540.5,76.9,48.3,78.7,14,32
+Chittagong,Brahmanbaria,Kasba,56,312.0,55.7,33.2,81.7,10,17
+Chittagong,Brahmanbaria,Nabinagar,28,343.1,57.5,15.3,66.2,12,21
+Chittagong,Brahmanbaria,Nasirnagar,42,722.2,62.7,34.0,75.4,10,21
+Chittagong,Brahmanbaria,Sarail,60,400.2,60.6,23.3,71.7,8,17
+Chittagong,Chandpur,Chandpur Sadar,62,454.5,69.1,41.1,72.7,12,26
+Chittagong,Chandpur,Faridganj,42,394.9,60.4,36.7,79.7,9,19
+Chittagong,Chandpur,Haimchar,56,215.9,56.4,32.0,74.0,4,8
+Chittagong,Chandpur,Haziganj,35,235.5,64.5,52.2,72.4,9,17
+Chittagong,Chandpur,Kachua,25,360.2,67.5,28.1,62.9,9,18
+Chittagong,Chandpur,Matlab Dakshin,49,462.2,64.2,18.3,72.3,8,16
+Chittagong,Chandpur,Matlab Uttar,25,258.1,57.6,30.6,74.0,7,19
+Chittagong,Chandpur,Shahrasti,33,194.7,62.4,34.4,79.0,5,14
+Chittagong,Chittagong,Anwara,60,206.5,58.9,43.8,78.5,9,15
+Chittagong,Chittagong,Banshkhali,30,471.8,58.3,40.3,85.4,11,22
+Chittagong,Chittagong,Boalkhali,54,224.1,67.3,31.4,70.2,10,16
+Chittagong,Chittagong,Chandanaish,40,392.8,64.2,37.4,69.3,9,17
+Chittagong,Chittagong,Chittagong Sadar,46,164.6,80.5,59.9,83.0,38,56
+Chittagong,Chittagong,Fatikchhari,32,1361.9,51.6,33.5,81.5,14,26
+Chittagong,Chittagong,Hathazari,63,368.0,69.9,27.2,81.9,11,29
+Chittagong,Chittagong,Karnaphuli,44,234.8,73.3,47.9,79.7,9,15
+Chittagong,Chittagong,Lohagara,49,371.2,54.6,34.5,83.9,7,15
+Chittagong,Chittagong,Mirsharai,41,1109.7,64.3,28.7,79.2,11,32
+Chittagong,Chittagong,Patiya,68,234.8,65.4,30.0,90.6,12,23
+Chittagong,Chittagong,Rangunia,51,704.5,53.1,20.6,82.2,12,23
+Chittagong,Chittagong,Raozan,46,254.5,66.8,27.6,81.4,10,19
+Chittagong,Chittagong,Sandwip,51,1788.4,66.2,34.3,64.5,12,23
+Chittagong,Chittagong,Satkania,29,678.2,59.0,36.8,68.5,12,27
+Chittagong,Chittagong,Sitakunda,65,723.9,68.9,48.9,83.4,13,27
+Chittagong,Comilla,Barura,26,619.3,62.5,33.3,77.8,10,20
+Chittagong,Comilla,Brahmanpara,50,193.2,71.1,35.5,72.1,8,16
+Chittagong,Comilla,Burichang,62,174.6,59.6,42.2,77.8,9,16
+Chittagong,Comilla,Chandina,24,431.5,66.3,40.8,75.9,12,23
+Chittagong,Comilla,Chauddagram,63,536.2,55.4,43.9,71.7,12,24
+Chittagong,Comilla,Comilla Sadar,64,190.4,83.3,50.1,83.3,20,37
+Chittagong,Comilla,Comilla Sadar Dakshin,40,301.5,57.1,43.3,73.8,8,21
+Chittagong,Comilla,Daudkandi,57,320.5,74.3,42.4,71.0,11,24
+Chittagong,Comilla,Debidwar,46,445.7,63.0,30.1,78.4,11,23
+Chittagong,Comilla,Homna,37,400.4,44.5,34.4,76.4,5,14
+Chittagong,Comilla,Laksam,31,260.7,63.2,43.6,76.5,7,16
+Chittagong,Comilla,Lalmai,54,228.8,52.6,50.4,72.3,4,10
+Chittagong,Comilla,Manoharganj,21,224.6,56.9,16.0,86.3,7,16
+Chittagong,Comilla,Meghna,53,145.2,59.7,32.7,83.9,5,13
+Chittagong,Comilla,Muradnagar,42,346.0,54.2,25.6,84.2,14,31
+Chittagong,Comilla,Nangalkot,43,625.2,62.6,25.1,74.3,11,21
+Chittagong,Comilla,Titas,38,338.3,52.6,17.8,78.4,7,18
+Chittagong,Cox's Bazar,Chakaria,49,1088.4,62.6,43.0,63.8,17,32
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,72,724.6,70.4,49.7,76.7,16,32
+Chittagong,Cox's Bazar,Kutubdia,41,218.9,56.6,30.6,70.2,3,9
+Chittagong,Cox's Bazar,Maheshkhali,29,633.8,56.7,38.2,74.5,11,17
+Chittagong,Cox's Bazar,Pekua,20,495.6,60.5,45.0,79.1,6,11
+Chittagong,Cox's Bazar,Ramu,37,525.2,57.1,35.1,74.8,8,15
+Chittagong,Cox's Bazar,Teknaf,55,553.0,61.2,37.9,78.1,7,14
+Chittagong,Cox's Bazar,Ukhia,22,582.9,61.3,26.9,76.1,8,15
+Chittagong,Feni,Chhagalnaiya,22,176.3,57.9,39.5,72.2,7,18
+Chittagong,Feni,Daganbhuiyan,25,430.3,64.1,34.1,69.0,9,21
+Chittagong,Feni,Feni Sadar,54,263.7,79.4,54.3,77.6,14,26
+Chittagong,Feni,Fulgazi,54,211.7,64.1,44.2,73.3,5,11
+Chittagong,Feni,Parshuram,52,136.7,59.2,35.9,73.4,5,8
+Chittagong,Feni,Sonagazi,61,552.8,58.3,25.8,74.4,9,16
+Chittagong,Khagrachhari,Dighinala,19,1118.6,61.6,25.2,74.6,3,6
+Chittagong,Khagrachhari,Guimara,40,664.6,58.5,24.6,77.2,1,3
+Chittagong,Khagrachhari,Khagrachhari Sadar,53,545.6,67.8,33.7,78.0,5,10
+Chittagong,Khagrachhari,Lakshmichhari,37,325.9,63.5,19.0,76.4,1,2
+Chittagong,Khagrachhari,Mahalchhari,43,468.2,57.8,43.3,70.4,1,2
+Chittagong,Khagrachhari,Manikchhari,35,720.1,59.8,42.2,74.8,2,3
+Chittagong,Khagrachhari,Matiranga,36,1206.9,56.3,23.7,80.6,3,7
+Chittagong,Khagrachhari,Panchhari,45,1327.4,52.1,30.8,74.2,2,4
+Chittagong,Khagrachhari,Ramgarh,48,470.3,65.6,20.2,73.6,2,5
+Chittagong,Lakshmipur,Kamalnagar,20,332.3,63.2,40.5,72.9,7,13
+Chittagong,Lakshmipur,Lakshmipur Sadar,45,660.1,69.1,50.2,77.8,16,27
+Chittagong,Lakshmipur,Ramganj,43,302.2,59.4,32.7,87.0,11,18
+Chittagong,Lakshmipur,Ramgati,27,841.2,50.6,42.3,69.7,9,18
+Chittagong,Lakshmipur,Raipur,51,206.4,62.6,37.3,77.3,5,10
+Chittagong,Noakhali,Begumganj,36,615.9,65.8,48.6,78.3,19,44
+Chittagong,Noakhali,Chatkhil,50,305.3,58.2,34.8,82.4,9,23
+Chittagong,Noakhali,Companiganj,44,1178.4,73.7,38.6,60.1,9,23
+Chittagong,Noakhali,Hatiya,37,2245.6,67.9,32.9,64.4,10,21
+Chittagong,Noakhali,Kabirhat,40,313.3,66.6,36.2,82.1,6,18
+Chittagong,Noakhali,Noakhali Sadar,87,514.4,75.6,54.4,83.3,13,28
+Chittagong,Noakhali,Senbagh,47,162.9,51.2,36.8,70.1,7,14
+Chittagong,Noakhali,Sonaimuri,25,295.9,56.7,32.6,77.0,9,22
+Chittagong,Noakhali,Subarnachar,54,1780.4,51.7,21.7,69.8,6,13
+Chittagong,Rangamati,Bagaichhari,19,1116.5,52.2,30.7,72.1,1,4
+Chittagong,Rangamati,Barkal,32,1521.5,55.9,26.4,70.6,1,2
+Chittagong,Rangamati,Belaichhari,20,1361.9,50.6,29.6,80.1,1,1
+Chittagong,Rangamati,Juraichhari,30,1404.7,63.2,20.4,66.9,1,1
+Chittagong,Rangamati,Kaptai,36,411.2,74.7,44.6,80.4,1,5
+Chittagong,Rangamati,Kawkhali,25,603.7,55.5,25.3,66.9,1,2
+Chittagong,Rangamati,Langadu,47,726.2,63.1,26.8,79.0,2,4
+Chittagong,Rangamati,Naniarchar,28,1152.3,58.3,24.5,71.9,1,2
+Chittagong,Rangamati,Rajasthali,37,736.3,62.6,37.4,75.5,1,2
+Chittagong,Rangamati,Rangamati Sadar,51,699.2,73.7,62.7,81.4,4,9
+Dhaka,Dhaka,Demra,123,85.3,80.4,63.9,95.3,25,45
+Dhaka,Dhaka,Dhamrai,40,376.1,52.5,40.0,79.8,12,27
+Dhaka,Dhaka,Dohar,30,308.8,62.4,34.9,83.7,9,15
+Dhaka,Dhaka,Keraniganj,88,187.3,86.1,81.2,84.3,23,48
+Dhaka,Dhaka,Nawabganj,37,200.9,66.6,27.3,73.2,9,18
+Dhaka,Dhaka,Savar,52,307.5,88.4,54.1,83.6,48,89
+Dhaka,Dhaka,Tejgaon (Dhaka City),120,719.4,96.1,86.4,92.8,282,661
+Dhaka,Faridpur,Alfadanga,23,437.0,58.4,37.6,77.5,5,11
+Dhaka,Faridpur,Bhanga,61,571.0,53.1,36.1,74.3,7,19
+Dhaka,Faridpur,Boalmari,51,277.7,56.4,38.4,64.1,7,13
+Dhaka,Faridpur,Char Bhadrasan,42,179.4,49.6,17.2,72.4,3,6
+Dhaka,Faridpur,Faridpur Sadar,74,851.0,80.1,30.6,83.6,12,30
+Dhaka,Faridpur,Madhukhali,45,177.9,57.5,19.2,74.5,6,11
+Dhaka,Faridpur,Nagarkanda,39,315.0,57.7,39.5,72.3,5,10
+Dhaka,Faridpur,Saltha,34,355.3,50.6,29.6,73.9,3,7
+Dhaka,Faridpur,Sadarpur,52,335.0,55.6,47.7,64.3,6,13
+Dhaka,Gazipur,Gazipur Sadar,49,420.5,76.2,57.0,89.2,57,108
+Dhaka,Gazipur,Kaliakair,71,499.6,68.2,54.2,84.5,27,49
+Dhaka,Gazipur,Kaliganj,37,406.1,62.3,40.4,80.6,17,31
+Dhaka,Gazipur,Kapasia,49,802.3,65.1,34.4,77.7,10,20
+Dhaka,Gazipur,Sreepur,44,599.4,69.0,48.9,72.6,19,47
+Dhaka,Gopalganj,Gopalganj Sadar,74,1099.4,66.3,27.9,79.0,9,22
+Dhaka,Gopalganj,Kashiani,52,412.6,60.9,25.3,79.3,8,16
+Dhaka,Gopalganj,Kotalipara,40,640.4,64.2,39.5,76.4,8,16
+Dhaka,Gopalganj,Muksudpur,50,664.8,70.1,31.0,69.5,9,15
+Dhaka,Gopalganj,Tungipara,28,237.6,60.0,28.8,69.5,3,8
+Dhaka,Kishoreganj,Astagram,24,903.8,62.3,46.6,75.4,9,16
+Dhaka,Kishoreganj,Bajitpur,41,469.4,55.2,45.4,72.7,8,22
+Dhaka,Kishoreganj,Bhairab,90,152.7,73.0,59.3,81.7,12,24
+Dhaka,Kishoreganj,Hossainpur,45,338.9,65.3,33.3,70.8,5,11
+Dhaka,Kishoreganj,Itna,40,533.3,63.9,33.8,73.0,6,14
+Dhaka,Kishoreganj,Karimganj,22,613.6,57.5,34.4,87.2,8,16
+Dhaka,Kishoreganj,Katiadi,47,246.6,67.8,43.0,77.7,8,22
+Dhaka,Kishoreganj,Kishoreganj Sadar,54,228.4,77.5,55.4,79.7,16,31
+Dhaka,Kishoreganj,Kuliarchar,26,245.3,61.6,22.5,78.8,8,17
+Dhaka,Kishoreganj,Mithamain,54,489.6,50.1,30.8,74.3,5,9
+Dhaka,Kishoreganj,Nikli,33,445.0,59.9,13.7,72.6,5,9
+Dhaka,Kishoreganj,Pakundia,45,450.7,59.1,51.0,68.5,10,18
+Dhaka,Kishoreganj,Tarail,43,388.8,62.8,35.2,78.4,7,14
+Dhaka,Madaripur,Kalkini,37,769.1,63.4,42.0,65.5,7,18
+Dhaka,Madaripur,Madaripur Sadar,41,634.5,77.3,39.4,90.4,13,26
+Dhaka,Madaripur,Rajoir,28,341.4,67.9,32.0,77.0,5,13
+Dhaka,Madaripur,Shibchar,33,596.7,60.5,32.8,81.1,9,16
+Dhaka,Manikganj,Daulatpur,47,545.3,53.3,42.0,78.3,6,13
+Dhaka,Manikganj,Ghior,55,266.3,55.5,32.4,69.2,5,13
+Dhaka,Manikganj,Harirampur,28,719.5,66.6,42.9,76.3,5,11
+Dhaka,Manikganj,Manikganj Sadar,39,482.1,63.1,38.5,79.7,10,21
+Dhaka,Manikganj,Saturia,27,259.4,61.6,36.1,74.0,7,16
+Dhaka,Manikganj,Shibalaya,51,339.3,56.5,28.9,64.6,5,10
+Dhaka,Manikganj,Singair,23,204.5,62.7,20.5,80.0,7,14
+Dhaka,Munshiganj,Gazaria,41,299.9,61.2,34.8,79.8,8,14
+Dhaka,Munshiganj,Louhajang,60,358.3,64.5,31.8,79.0,6,15
+Dhaka,Munshiganj,Munshiganj Sadar,59,183.5,75.1,48.7,86.4,13,19
+Dhaka,Munshiganj,Sirajdikhan,30,255.7,64.8,42.2,74.0,9,15
+Dhaka,Munshiganj,Sreenagar,62,325.3,70.2,37.0,79.0,8,18
+Dhaka,Munshiganj,Tongibari,47,461.5,68.7,41.9,86.1,8,23
+Dhaka,Narayanganj,Araihazar,56,455.8,66.6,38.5,71.9,18,32
+Dhaka,Narayanganj,Bandar,69,99.6,89.7,64.3,93.0,20,45
+Dhaka,Narayanganj,Narayanganj Sadar,92,101.1,81.7,67.3,87.6,29,68
+Dhaka,Narayanganj,Rupganj,52,325.6,82.9,54.8,85.0,29,47
+Dhaka,Narayanganj,Sonargaon,45,271.1,57.2,45.6,81.8,12,35
+Dhaka,Narsingdi,Belabo,45,392.1,60.9,26.9,74.3,9,16
+Dhaka,Narsingdi,Monohardi,60,371.2,69.8,33.6,76.7,9,15
+Dhaka,Narsingdi,Narsingdi Sadar,45,403.7,80.6,44.5,82.5,23,45
+Dhaka,Narsingdi,Palash,61,103.3,86.9,56.7,85.2,13,19
+Dhaka,Narsingdi,Raipura,30,713.3,65.3,40.2,82.0,17,36
+Dhaka,Narsingdi,Shibpur,33,229.6,68.1,36.4,72.7,12,20
+Dhaka,Rajbari,Baliakandi,26,309.3,58.5,40.5,72.2,7,10
+Dhaka,Rajbari,Goalandaghat,60,314.9,57.7,38.3,80.3,5,12
+Dhaka,Rajbari,Kalukhali,51,292.9,61.6,32.5,68.4,5,11
+Dhaka,Rajbari,Pangsha,43,265.5,68.6,32.1,71.4,8,16
+Dhaka,Rajbari,Rajbari Sadar,45,491.4,70.2,44.4,76.2,8,15
+Dhaka,Shariatpur,Bhedarganj,41,614.3,62.0,15.8,76.2,11,23
+Dhaka,Shariatpur,Damudya,37,219.5,56.9,26.7,74.8,6,11
+Dhaka,Shariatpur,Gosairhat,42,270.9,61.2,26.8,76.5,7,14
+Dhaka,Shariatpur,Jajira,41,395.2,57.8,22.6,68.9,9,14
+Dhaka,Shariatpur,Naria,21,576.7,49.5,24.8,69.7,8,17
+Dhaka,Shariatpur,Shariatpur Sadar,39,359.8,65.3,36.9,69.1,11,15
+Dhaka,Tangail,Basail,49,278.0,51.1,39.0,72.3,5,11
+Dhaka,Tangail,Bhuapur,40,262.9,50.6,40.0,75.1,9,17
+Dhaka,Tangail,Delduar,35,270.8,65.7,19.1,80.6,7,12
+Dhaka,Tangail,Dhanbari,44,421.4,58.4,36.2,74.9,6,12
+Dhaka,Tangail,Ghatail,61,827.8,47.5,37.0,75.6,13,24
+Dhaka,Tangail,Gopalpur,46,359.2,63.4,39.8,74.3,6,17
+Dhaka,Tangail,Kalihati,39,608.2,57.5,35.1,77.2,9,23
+Dhaka,Tangail,Madhupur,32,1149.0,54.9,41.1,68.9,10,22
+Dhaka,Tangail,Mirzapur,39,426.6,55.2,31.7,82.6,12,26
+Dhaka,Tangail,Nagarpur,23,232.5,60.3,31.5,62.1,6,16
+Dhaka,Tangail,Sakhipur,19,678.2,51.1,45.5,74.1,9,16
+Dhaka,Tangail,Tangail Sadar,49,533.0,63.1,61.2,90.8,25,46
+Khulna,Bagerhat,Bagerhat Sadar,41,430.7,64.8,34.6,81.1,8,19
+Khulna,Bagerhat,Chitalmari,46,403.1,62.4,29.2,66.7,4,10
+Khulna,Bagerhat,Fakirhat,50,278.7,52.7,23.4,69.8,4,9
+Khulna,Bagerhat,Kachua,26,799.3,70.1,27.6,79.3,5,14
+Khulna,Bagerhat,Mollahat,32,393.5,60.5,25.7,71.7,5,9
+Khulna,Bagerhat,Mongla,40,4661.0,78.7,26.1,83.2,5,8
+Khulna,Bagerhat,Morrelganj,28,517.0,51.1,23.7,74.8,9,16
+Khulna,Bagerhat,Rampal,24,731.1,57.1,43.3,65.1,4,10
+Khulna,Bagerhat,Sarankhola,23,727.9,55.9,31.8,78.0,5,9
+Khulna,Chuadanga,Alamdanga,24,535.4,60.5,29.4,85.3,9,14
+Khulna,Chuadanga,Chuadanga Sadar,39,566.8,61.7,45.8,77.5,9,21
+Khulna,Chuadanga,Damurhuda,48,280.1,55.9,17.4,82.8,7,15
+Khulna,Chuadanga,Jibannagar,34,410.4,55.6,31.3,69.9,5,11
+Khulna,Jessore,Abhaynagar,55,588.9,61.8,37.9,77.4,9,19
+Khulna,Jessore,Bagherpara,49,333.8,62.0,22.4,82.4,9,17
+Khulna,Jessore,Chaugachha,20,265.8,49.3,29.6,79.6,7,17
+Khulna,Jessore,Jessore Sadar,82,622.0,73.6,47.9,80.9,18,38
+Khulna,Jessore,Jhikargachha,39,349.6,72.0,28.6,70.1,10,17
+Khulna,Jessore,Keshabpur,45,595.3,60.3,29.4,68.5,6,17
+Khulna,Jessore,Manirampur,25,959.7,59.5,25.2,78.4,12,22
+Khulna,Jessore,Sharsha,64,471.1,56.5,38.6,73.4,13,26
+Khulna,Jhenaidah,Harinakunda,47,261.8,62.7,28.7,70.0,7,14
+Khulna,Jhenaidah,Jhenaidah Sadar,74,1178.5,70.2,39.1,79.1,16,36
+Khulna,Jhenaidah,Kaliganj,51,537.2,56.5,32.9,74.5,11,19
+Khulna,Jhenaidah,Kotchandpur,25,425.6,56.9,20.3,70.8,6,12
+Khulna,Jhenaidah,Maheshpur,38,445.4,66.6,42.4,74.5,8,21
+Khulna,Jhenaidah,Shailkupa,49,343.4,63.8,31.4,68.7,10,23
+Khulna,Khulna,Batiaghata,25,903.3,49.9,39.3,77.0,7,11
+Khulna,Khulna,Dacope,21,3560.4,58.7,25.7,69.4,6,11
+Khulna,Khulna,Dighalia,39,111.0,63.1,45.2,71.7,4,8
+Khulna,Khulna,Dumuria,47,1273.4,46.8,25.5,67.9,11,21
+Khulna,Khulna,Koyra,29,3239.3,57.2,34.0,79.4,5,11
+Khulna,Khulna,Khulna Sadar,45,105.7,90.7,65.3,88.6,31,63
+Khulna,Khulna,Paikgachha,27,818.0,56.3,25.8,72.9,6,19
+Khulna,Khulna,Phultala,66,81.6,66.1,43.1,78.1,4,9
+Khulna,Khulna,Rupsha,75,183.9,62.9,46.2,79.0,7,18
+Khulna,Kushtia,Bheramara,69,377.4,54.5,43.6,83.7,5,13
+Khulna,Kushtia,Daulatpur,53,393.3,64.1,37.9,79.0,11,16
+Khulna,Kushtia,Khoksa,62,211.1,68.5,28.4,80.7,5,13
+Khulna,Kushtia,Kushtia Sadar,31,561.4,80.1,47.8,83.9,17,37
+Khulna,Kushtia,Kumarkhali,52,444.2,54.1,43.4,76.0,10,17
+Khulna,Kushtia,Mirpur,24,627.0,60.9,38.1,72.3,9,17
+Khulna,Magura,Magura Sadar,38,613.8,79.1,51.7,84.6,10,22
+Khulna,Magura,Mohammadpur,34,596.5,58.2,34.5,74.9,7,13
+Khulna,Magura,Shalikha,22,393.1,66.2,44.4,74.6,4,9
+Khulna,Magura,Sreepur,45,457.3,55.3,27.4,83.9,5,9
+Khulna,Meherpur,Gangni,44,272.3,76.0,35.7,76.9,7,12
+Khulna,Meherpur,Meherpur Sadar,53,410.2,62.4,44.5,80.0,6,15
+Khulna,Meherpur,Mujibnagar,56,125.2,56.8,46.4,81.8,2,5
+Khulna,Narail,Kalia,32,651.0,53.3,33.6,72.1,8,17
+Khulna,Narail,Lohagara,54,287.3,48.8,40.0,73.4,6,14
+Khulna,Narail,Narail Sadar,72,622.6,56.5,32.3,75.8,7,19
+Khulna,Satkhira,Assasuni,25,436.7,60.4,22.6,80.4,6,18
+Khulna,Satkhira,Debhata,56,572.0,59.6,42.5,73.7,7,13
+Khulna,Satkhira,Kalaroa,40,452.8,56.9,15.9,80.4,11,22
+Khulna,Satkhira,Kaliganj,31,971.5,65.7,29.4,74.0,6,18
+Khulna,Satkhira,Satkhira Sadar,76,501.6,70.7,56.3,82.5,15,31
+Khulna,Satkhira,Shyamnagar,51,4307.0,52.8,35.4,73.7,6,15
+Khulna,Satkhira,Tala,54,635.9,53.4,23.3,78.9,9,18
+Mymensingh,Jamalpur,Baksiganj,48,385.9,60.6,27.0,74.4,8,16
+Mymensingh,Jamalpur,Dewanganj,41,603.9,45.9,16.8,67.1,10,22
+Mymensingh,Jamalpur,Islampur,42,385.7,71.5,41.0,63.3,11,22
+Mymensingh,Jamalpur,Jamalpur Sadar,50,449.8,69.5,52.7,79.1,18,40
+Mymensingh,Jamalpur,Madarganj,24,295.7,59.5,38.3,74.7,7,15
+Mymensingh,Jamalpur,Melandaha,57,506.7,52.8,34.0,74.0,9,20
+Mymensingh,Jamalpur,Sarishabari,40,367.2,57.3,29.3,75.3,11,17
+Mymensingh,Mymensingh,Bhaluka,40,341.2,65.3,35.6,77.7,15,26
+Mymensingh,Mymensingh,Dhobaura,23,366.5,64.1,40.7,75.2,5,10
+Mymensingh,Mymensingh,Fulbaria,27,761.1,66.6,39.7,78.6,13,20
+Mymensingh,Mymensingh,Gaffargaon,36,530.4,54.3,47.5,77.0,10,25
+Mymensingh,Mymensingh,Gauripur,51,587.6,65.0,36.8,78.4,9,21
+Mymensingh,Mymensingh,Haluaghat,29,608.8,49.7,27.6,73.8,10,22
+Mymensingh,Mymensingh,Ishwarganj,41,726.9,56.1,38.4,71.5,9,19
+Mymensingh,Mymensingh,Mymensingh Sadar,34,381.6,65.1,54.0,84.2,23,60
+Mymensingh,Mymensingh,Muktagachha,50,434.2,70.3,31.7,81.2,10,17
+Mymensingh,Mymensingh,Nandail,27,544.7,61.3,47.6,86.2,10,26
+Mymensingh,Mymensingh,Phulpur,28,773.5,46.1,37.6,68.0,13,23
+Mymensingh,Mymensingh,Trishal,64,529.9,59.8,31.7,77.3,15,31
+Mymensingh,Netrokona,Atpara,36,371.4,61.1,34.2,75.7,6,12
+Mymensingh,Netrokona,Barhatta,42,301.0,55.7,38.8,67.2,6,11
+Mymensingh,Netrokona,Durgapur,29,484.1,58.7,24.9,76.6,4,9
+Mymensingh,Netrokona,Kalmakanda,21,868.6,60.8,39.8,76.3,6,17
+Mymensingh,Netrokona,Kendua,33,545.7,58.4,33.1,75.3,11,26
+Mymensingh,Netrokona,Khaliajuri,30,598.1,52.1,41.1,69.5,5,8
+Mymensingh,Netrokona,Madan,33,684.7,58.5,40.5,80.6,5,13
+Mymensingh,Netrokona,Mohanganj,54,532.6,63.3,43.6,76.6,6,12
+Mymensingh,Netrokona,Netrokona Sadar,65,846.3,67.2,47.8,87.2,9,20
+Mymensingh,Netrokona,Purbadhala,40,428.5,68.3,21.1,86.1,11,19
+Mymensingh,Sherpur,Jhenaigati,45,821.2,50.2,38.6,76.6,5,9
+Mymensingh,Sherpur,Nakla,21,442.9,59.6,29.0,81.4,9,17
+Mymensingh,Sherpur,Nalitabari,48,663.6,62.1,25.6,65.5,9,14
+Mymensingh,Sherpur,Sherpur Sadar,66,533.1,69.4,36.0,79.2,12,24
+Mymensingh,Sherpur,Sreebardi,45,829.2,63.3,33.7,69.3,7,14
+Rajshahi,Bogura,Adamdighi,31,223.7,58.3,22.7,75.7,5,10
+Rajshahi,Bogura,Bogura Sadar,41,982.0,75.9,58.2,81.2,28,53
+Rajshahi,Bogura,Dhunat,30,799.8,60.3,32.9,71.3,9,16
+Rajshahi,Bogura,Dupchanchia,48,284.8,67.3,31.6,70.2,6,11
+Rajshahi,Bogura,Gabtali,23,588.8,63.2,29.0,78.6,11,20
+Rajshahi,Bogura,Kahaloo,59,465.5,59.8,33.7,72.9,9,15
+Rajshahi,Bogura,Nandigram,45,416.4,55.2,24.9,76.4,5,13
+Rajshahi,Bogura,Sariakandi,50,753.1,56.0,35.2,77.8,9,15
+Rajshahi,Bogura,Shajahanpur,56,162.5,62.2,37.7,77.3,6,14
+Rajshahi,Bogura,Sherpur,48,213.4,59.0,37.6,78.7,9,20
+Rajshahi,Bogura,Shibganj,23,320.0,61.7,51.5,77.9,12,26
+Rajshahi,Bogura,Sonatola,50,338.9,59.4,30.8,75.5,6,12
+Rajshahi,Chapainawabganj,Bholahat,44,109.1,59.9,35.3,79.2,3,9
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,77,442.2,74.9,43.4,75.1,17,29
+Rajshahi,Chapainawabganj,Gomastapur,38,767.5,56.9,34.1,73.6,8,21
+Rajshahi,Chapainawabganj,Nachole,43,260.8,62.9,33.7,72.7,6,13
+Rajshahi,Chapainawabganj,Shibganj,52,583.5,61.4,31.6,72.5,13,21
+Rajshahi,Joypurhat,Akkelpur,56,224.9,62.8,45.1,69.4,4,8
+Rajshahi,Joypurhat,Joypurhat Sadar,31,367.5,72.7,40.4,77.1,11,23
+Rajshahi,Joypurhat,Kalai,55,389.2,58.6,37.3,80.7,6,14
+Rajshahi,Joypurhat,Khetlal,25,314.2,56.7,46.5,73.6,5,10
+Rajshahi,Joypurhat,Panchbibi,55,542.9,62.2,31.2,72.9,5,15
+Rajshahi,Naogaon,Atrai,25,667.3,57.3,39.2,73.2,8,13
+Rajshahi,Naogaon,Badalgachhi,41,644.6,49.2,30.9,76.7,7,11
+Rajshahi,Naogaon,Dhamoirhat,33,394.1,51.4,37.2,67.0,6,14
+Rajshahi,Naogaon,Manda,46,381.0,66.1,24.8,78.1,10,20
+Rajshahi,Naogaon,Mahadebpur,51,577.9,54.4,27.9,68.0,10,21
+Rajshahi,Naogaon,Naogaon Sadar,39,357.8,64.0,45.5,79.6,15,35
+Rajshahi,Naogaon,Niamatpur,54,328.3,52.7,44.1,80.8,7,14
+Rajshahi,Naogaon,Patnitala,52,760.7,51.7,37.1,72.9,9,13
+Rajshahi,Naogaon,Porsha,24,690.3,57.9,24.0,87.4,6,14
+Rajshahi,Naogaon,Raninagar,45,198.3,62.5,40.4,66.2,4,11
+Rajshahi,Naogaon,Sapahar,22,328.9,49.6,25.3,76.5,7,14
+Rajshahi,Natore,Bagatipara,46,229.8,63.0,25.8,77.2,5,10
+Rajshahi,Natore,Baraigram,31,389.5,61.4,31.1,75.0,7,22
+Rajshahi,Natore,Gurudaspur,48,577.4,54.2,19.8,72.5,9,16
+Rajshahi,Natore,Lalpur,47,420.0,69.2,50.4,61.3,7,14
+Rajshahi,Natore,Natore Sadar,59,469.0,66.1,49.4,87.2,15,33
+Rajshahi,Natore,Singra,52,612.8,57.3,43.6,76.6,13,24
+Rajshahi,Pabna,Atgharia,27,185.5,56.7,41.6,78.0,6,9
+Rajshahi,Pabna,Bera,31,616.4,68.0,37.3,75.4,10,20
+Rajshahi,Pabna,Bhangura,21,234.9,55.1,42.7,74.1,5,12
+Rajshahi,Pabna,Chatmohar,21,395.9,61.0,32.1,72.5,7,14
+Rajshahi,Pabna,Faridpur,48,483.7,63.7,44.3,73.5,5,12
+Rajshahi,Pabna,Ishwardi,69,257.9,70.9,41.7,76.2,12,26
+Rajshahi,Pabna,Pabna Sadar,46,431.2,68.7,32.8,84.0,15,39
+Rajshahi,Pabna,Santhia,55,702.3,54.8,21.7,82.0,9,21
+Rajshahi,Pabna,Sujanagar,45,632.7,73.3,24.9,82.4,7,15
+Rajshahi,Rajshahi,Bagha,54,402.2,68.6,24.2,72.6,6,10
+Rajshahi,Rajshahi,Bagmara,27,798.5,64.0,19.5,75.7,9,26
+Rajshahi,Rajshahi,Charghat,44,476.7,62.5,31.6,79.6,7,11
+Rajshahi,Rajshahi,Durgapur,31,410.2,63.5,37.3,76.9,9,14
+Rajshahi,Rajshahi,Godagari,39,845.8,66.8,24.9,76.8,10,16
+Rajshahi,Rajshahi,Mohanpur,55,279.2,63.7,45.1,66.9,5,12
+Rajshahi,Rajshahi,Paba,71,643.6,61.9,52.6,75.7,13,24
+Rajshahi,Rajshahi,Putia,44,440.0,60.4,32.7,71.5,8,11
+Rajshahi,Rajshahi,Rajshahi Sadar,112,125.1,89.1,75.8,94.0,24,42
+Rajshahi,Sirajganj,Belkuchi,45,274.1,67.4,46.2,74.3,8,21
+Rajshahi,Sirajganj,Chauhali,54,564.1,60.4,26.7,72.7,7,13
+Rajshahi,Sirajganj,Kamarkhand,52,261.6,67.3,35.6,77.8,7,16
+Rajshahi,Sirajganj,Kazipur,45,466.2,68.6,35.1,66.6,9,19
+Rajshahi,Sirajganj,Raiganj,40,311.2,70.9,47.3,66.5,12,21
+Rajshahi,Sirajganj,Shahjadpur,53,406.0,70.3,42.4,75.2,20,36
+Rajshahi,Sirajganj,Sirajganj Sadar,74,416.5,83.3,54.2,81.1,21,35
+Rajshahi,Sirajganj,Tarash,48,293.8,56.2,38.8,67.3,5,14
+Rajshahi,Sirajganj,Ullahpara,35,691.6,62.7,33.1,76.1,12,24
+Rangpur,Dinajpur,Birampur,22,526.9,56.0,27.3,86.6,7,14
+Rangpur,Dinajpur,Birganj,32,383.1,59.4,28.6,75.9,11,16
+Rangpur,Dinajpur,Biral,57,423.3,59.7,32.4,66.0,7,16
+Rangpur,Dinajpur,Bochaganj,56,253.3,63.4,36.4,88.4,7,14
+Rangpur,Dinajpur,Chirirbandar,26,404.5,51.7,48.6,81.5,6,18
+Rangpur,Dinajpur,Dinajpur Sadar,32,961.4,71.8,34.9,82.3,23,45
+Rangpur,Dinajpur,Fulbari,37,331.9,55.8,40.5,66.6,5,11
+Rangpur,Dinajpur,Ghoraghat,35,229.6,58.1,23.2,71.1,4,11
+Rangpur,Dinajpur,Hakimpur,46,199.1,58.2,42.9,83.6,5,9
+Rangpur,Dinajpur,Kaharole,23,454.1,54.5,25.9,71.4,6,14
+Rangpur,Dinajpur,Khansama,55,192.3,52.5,35.6,78.9,5,10
+Rangpur,Dinajpur,Nawabganj,37,488.4,61.3,35.5,80.3,7,19
+Rangpur,Dinajpur,Parbatipur,61,523.1,66.7,24.7,76.4,9,17
+Rangpur,Gaibandha,Fulchhari,30,744.1,58.8,30.1,84.1,8,14
+Rangpur,Gaibandha,Gaibandha Sadar,39,902.8,67.4,44.7,82.4,17,35
+Rangpur,Gaibandha,Gobindaganj,46,673.8,66.8,59.3,72.0,14,39
+Rangpur,Gaibandha,Palashbari,27,452.0,65.7,20.3,72.9,8,19
+Rangpur,Gaibandha,Sadullapur,27,726.9,59.1,24.5,74.6,8,22
+Rangpur,Gaibandha,Saghata,38,689.9,62.0,16.5,71.9,8,19
+Rangpur,Gaibandha,Sundarganj,28,471.0,57.3,22.6,77.9,13,21
+Rangpur,Kurigram,Bhurungamari,46,914.4,65.1,35.7,74.7,9,20
+Rangpur,Kurigram,Char Rajibpur,31,258.4,55.7,35.9,71.7,3,7
+Rangpur,Kurigram,Chilmari,48,516.6,60.7,19.9,72.8,6,12
+Rangpur,Kurigram,Kurigram Sadar,55,327.8,81.1,32.1,80.7,12,27
+Rangpur,Kurigram,Nageshwari,55,455.9,54.9,33.3,77.8,14,24
+Rangpur,Kurigram,Phulbari,22,578.6,54.8,42.8,78.3,6,13
+Rangpur,Kurigram,Rajarhat,54,609.8,60.3,33.0,77.6,8,13
+Rangpur,Kurigram,Raumari,56,871.6,66.5,20.5,75.3,8,14
+Rangpur,Kurigram,Ulipur,49,1235.0,61.1,34.8,81.1,12,34
+Rangpur,Lalmonirhat,Aditmari,24,233.0,60.9,29.4,77.9,7,15
+Rangpur,Lalmonirhat,Hatibandha,29,570.4,65.2,29.9,70.8,10,19
+Rangpur,Lalmonirhat,Kaliganj,39,385.0,58.7,34.2,77.9,8,19
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,38,461.3,57.3,34.2,75.0,13,23
+Rangpur,Lalmonirhat,Patgram,53,783.2,69.8,31.7,65.6,12,24
+Rangpur,Nilphamari,Dimla,36,577.0,54.3,40.6,77.8,8,19
+Rangpur,Nilphamari,Domar,43,333.1,62.0,38.3,68.8,9,15
+Rangpur,Nilphamari,Jaldhaka,21,309.1,55.6,45.2,73.8,8,15
+Rangpur,Nilphamari,Kishoreganj,49,244.3,61.7,31.5,75.5,6,14
+Rangpur,Nilphamari,Nilphamari Sadar,68,902.7,62.8,41.0,74.7,12,27
+Rangpur,Nilphamari,Saidpur,78,306.5,74.4,61.0,84.1,15,25
+Rangpur,Panchagarh,Atwari,47,357.3,57.5,35.8,76.3,6,10
+Rangpur,Panchagarh,Boda,24,404.6,52.9,27.8,79.0,8,15
+Rangpur,Panchagarh,Debiganj,43,892.7,72.4,29.7,72.3,7,19
+Rangpur,Panchagarh,Panchagarh Sadar,66,371.3,76.1,37.1,76.1,8,22
+Rangpur,Panchagarh,Tetulia,46,418.6,59.3,22.9,70.3,6,11
+Rangpur,Rangpur,Badarganj,47,406.5,58.8,45.1,64.6,7,15
+Rangpur,Rangpur,Gangachara,43,328.2,60.7,32.3,78.3,10,19
+Rangpur,Rangpur,Kaunia,26,230.6,63.5,38.8,72.2,7,15
+Rangpur,Rangpur,Mithapukur,59,1024.4,60.7,48.0,84.9,12,28
+Rangpur,Rangpur,Pirgachha,44,635.0,69.9,32.4,78.2,8,19
+Rangpur,Rangpur,Pirganj,25,1017.6,60.8,16.3,80.2,12,22
+Rangpur,Rangpur,Rangpur Sadar,69,402.0,75.4,44.4,72.8,20,47
+Rangpur,Rangpur,Taraganj,28,246.5,59.5,35.7,65.5,7,14
+Rangpur,Thakurgaon,Baliadangi,27,314.5,55.2,34.3,74.3,6,14
+Rangpur,Thakurgaon,Haripur,50,308.8,62.8,34.8,69.4,7,14
+Rangpur,Thakurgaon,Pirganj,31,675.9,55.9,37.4,79.7,11,17
+Rangpur,Thakurgaon,Ranisankail,33,956.4,64.8,24.9,75.4,9,17
+Rangpur,Thakurgaon,Thakurgaon Sadar,43,1025.6,64.5,41.3,77.3,17,32
+Sylhet,Habiganj,Ajmiriganj,28,440.6,60.5,33.8,71.9,4,11
+Sylhet,Habiganj,Bahubal,23,405.4,54.6,38.0,79.8,6,10
+Sylhet,Habiganj,Baniachong,31,466.6,54.8,22.6,71.5,11,25
+Sylhet,Habiganj,Chunarughat,40,686.9,62.2,20.9,77.9,8,19
+Sylhet,Habiganj,Habiganj Sadar,38,404.5,72.9,45.4,81.7,13,31
+Sylhet,Habiganj,Lakhai,46,307.0,60.7,42.0,79.4,6,10
+Sylhet,Habiganj,Madhabpur,28,682.3,57.8,38.4,68.5,6,16
+Sylhet,Habiganj,Nabiganj,48,735.4,55.0,27.1,85.4,8,18
+Sylhet,Moulvibazar,Barlekha,22,467.6,62.2,28.9,80.3,6,11
+Sylhet,Moulvibazar,Juri,28,242.8,59.7,24.3,65.6,5,11
+Sylhet,Moulvibazar,Kamalganj,42,595.1,59.9,35.9,77.5,7,14
+Sylhet,Moulvibazar,Kulaura,41,509.4,53.6,35.1,77.0,9,21
+Sylhet,Moulvibazar,Moulvibazar Sadar,50,869.0,72.9,43.6,74.9,9,21
+Sylhet,Moulvibazar,Rajnagar,45,638.2,59.7,33.4,64.7,5,10
+Sylhet,Moulvibazar,Sreemangal,26,846.2,62.5,34.4,86.2,7,11
+Sylhet,Sunamganj,Bishwamvarpur,38,237.5,58.0,30.3,61.2,4,10
+Sylhet,Sunamganj,Chhatak,32,665.9,54.8,23.1,83.0,11,19
+Sylhet,Sunamganj,Derai,54,624.6,52.9,29.8,81.9,8,13
+Sylhet,Sunamganj,Dharampasha,34,1139.3,58.2,32.7,69.7,6,12
+Sylhet,Sunamganj,Dowarabazar,35,742.6,58.2,32.2,70.2,5,9
+Sylhet,Sunamganj,Jamalganj,43,429.8,68.0,47.4,68.9,4,9
+Sylhet,Sunamganj,Jagannathpur,50,285.4,53.7,38.3,75.8,8,13
+Sylhet,Sunamganj,Sulla,29,592.4,58.4,29.8,74.0,4,11
+Sylhet,Sunamganj,Sunamganj Sadar,62,806.7,73.9,45.9,81.4,10,27
+Sylhet,Sunamganj,Tahirpur,26,521.3,62.9,33.7,69.8,6,12
+Sylhet,Sylhet,Balaganj,38,698.4,62.2,39.1,77.9,9,18
+Sylhet,Sylhet,Beani Bazar,45,477.7,58.5,44.4,74.6,8,20
+Sylhet,Sylhet,Bishwanath,34,238.8,58.3,24.7,73.1,10,18
+Sylhet,Sylhet,Companiganj,52,414.2,63.7,38.1,70.1,7,13
+Sylhet,Sylhet,Dakshin Surma,43,294.7,77.7,37.4,78.2,10,23
+Sylhet,Sylhet,Fenchuganj,41,286.6,59.9,33.0,77.3,4,11
+Sylhet,Sylhet,Golapganj,42,434.6,67.8,33.3,70.2,9,15
+Sylhet,Sylhet,Gowainghat,49,1284.9,57.3,31.7,83.3,6,12
+Sylhet,Sylhet,Jaintiapur,23,620.5,63.7,24.9,75.3,5,14
+Sylhet,Sylhet,Kanaighat,45,854.7,63.7,33.8,79.9,8,14
+Sylhet,Sylhet,Osmani Nagar,56,436.7,73.3,37.8,82.1,11,15
+Sylhet,Sylhet,Sylhet Sadar,72,513.6,80.2,61.0,84.4,23,50
+Sylhet,Sylhet,Zakiganj,38,652.3,58.4,30.0,75.6,7,15

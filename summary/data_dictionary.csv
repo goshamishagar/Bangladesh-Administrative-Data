@@ -1,0 +1,59 @@
+﻿File,Column,Data Type,Description,Source,Notes
+upazila_01_overview.csv,Division,Text,One of 8 administrative divisions,BBS,
+upazila_01_overview.csv,District,Text,One of 64 districts,BBS,
+upazila_01_overview.csv,Upazila,Text,Upazila name,BBS,
+upazila_01_overview.csv,Area (km²),Numeric,Geographic area in square kilometres,BBS Statistical Yearbook,
+upazila_01_overview.csv,Population,Numeric,Estimated resident population (2022),BBS Census 2022,
+upazila_01_overview.csv,Pop. Density (/km²),Numeric,Population per square kilometre,Calculated,
+upazila_01_overview.csv,Urban Pop. %,Numeric,Percentage of population in urban areas,BBS,Estimated
+upazila_01_overview.csv,Main Economic Activity,Text,Dominant livelihood/industry sector(s),DAE/BBS,
+upazila_02_education.csv,Literacy Rate (%),Numeric,% of population aged 7+ who can read/write,BANBEIS 2022,Estimated
+upazila_02_education.csv,Primary Schools,Numeric,Number of primary schools,BANBEIS,Estimated
+upazila_02_education.csv,Secondary Schools,Numeric,Number of secondary schools,BANBEIS,Estimated
+upazila_02_education.csv,Colleges/Univ.,Numeric,Number of colleges and universities,BANBEIS,Estimated
+upazila_02_education.csv,Madrasas,Numeric,Number of madrasas,BANBEIS,Estimated
+upazila_02_education.csv,Net Enrolment Rate (%),Numeric,Net school enrolment rate (primary),BANBEIS,Estimated
+upazila_03_healthcare.csv,District Hospitals,Numeric,Number of district/general hospitals,DGHS,Estimated
+upazila_03_healthcare.csv,Upazila Health Complexes,Numeric,Number of UHCs,MoHFW,Estimated
+upazila_03_healthcare.csv,Community Clinics,Numeric,Number of community clinics,MoHFW,
+upazila_03_healthcare.csv,Registered Doctors,Numeric,Estimated registered doctors,DGHS,Estimated
+upazila_03_healthcare.csv,Nurses/Midwives,Numeric,Estimated nurses and midwives,DGHS,Estimated
+upazila_03_healthcare.csv,Immunisation Coverage (%),Numeric,% children fully immunised,DGHS,Estimated
+upazila_03_healthcare.csv,MMR (per 100k live births),Numeric,Maternal mortality ratio,NIPORT,Estimated
+upazila_07_disaster_risk.csv,Flood Risk,Text,Flood risk level: Low/Medium/High/Very High,DDM,Division-level
+upazila_07_disaster_risk.csv,Cyclone Risk,Text,Cyclone risk level,DDM,Division-level
+upazila_07_disaster_risk.csv,Drought Risk,Text,Drought risk level,DDM,Division-level
+upazila_07_disaster_risk.csv,Riverbank Erosion,Text,Erosion risk: Low/Medium/High,BWDB,Estimated
+upazila_07_disaster_risk.csv,Climate Vulnerability,Text,Overall climate vulnerability level,DDM/BDRCS,Estimated
+upazila_07_disaster_risk.csv,Cyclone Shelters,Numeric,Estimated number of cyclone shelters,DDM,Estimated
+thana_01_directory.csv,Division,Text,One of 8 administrative divisions,Bangladesh Police,
+thana_01_directory.csv,District,Text,One of 64 districts,Bangladesh Police,
+thana_01_directory.csv,Thana / Police Station,Text,Official thana/police station name,Bangladesh Police,
+thana_01_directory.csv,Thana Type,Text,Metropolitan/City/Sadar/Rural/Industrial/Border/Coastal/River/Hill/Tea/Tourism,MHA,
+thana_01_directory.csv,Area (km²),Numeric,Approximate jurisdiction area,LGD,Estimated
+thana_01_directory.csv,Population,Numeric,Estimated resident population,BBS 2022,Estimated
+thana_01_directory.csv,Pop. Density,Numeric,Population per km²,Calculated,
+thana_01_directory.csv,Year Estd.,Numeric,Year the thana was established,Bangladesh Police,Approximate
+thana_01_directory.csv,OC Rank,Text,Rank of Officer-in-Charge,MHA,Typical rank
+thana_01_directory.csv,Annual FIRs,Numeric,Estimated annual First Information Reports,Bangladesh Police,Estimated
+thana_01_directory.csv,Annual GDs,Numeric,Estimated annual General Diary entries,Bangladesh Police,Estimated
+thana_01_directory.csv,Flood Risk,Text,Flood risk zone,DDM,Division-level
+thana_02_policing.csv,Officers,Numeric,Estimated number of police officers (SI and above),Bangladesh Police,Estimated
+thana_02_policing.csv,Constables,Numeric,Estimated number of constables,Bangladesh Police,Estimated
+thana_02_policing.csv,Vehicles,Numeric,Estimated number of police vehicles,Bangladesh Police,Estimated
+thana_02_policing.csv,Outposts,Numeric,Estimated number of police outposts/camps,Bangladesh Police,Estimated
+thana_02_policing.csv,Detection Rate (%),Numeric,Estimated case detection/clearance rate,Bangladesh Police,Estimated
+thana_02_policing.csv,Lockup,Numeric,"1 = has lockup facility, 0 = no lockup",Bangladesh Police,
+thana_05_crime.csv,Total Crimes (annual),Numeric,Estimated total annual crime cases,Bangladesh Police,Estimated
+thana_05_crime.csv,Murder Cases,Numeric,Estimated annual murder/homicide cases,Bangladesh Police,Estimated
+thana_05_crime.csv,Robbery Cases,Numeric,Estimated annual robbery cases,Bangladesh Police,Estimated
+thana_05_crime.csv,Theft Cases,Numeric,Estimated annual theft cases,Bangladesh Police,Estimated
+thana_05_crime.csv,Narcotics Cases,Numeric,Estimated annual narcotics/drug cases,Bangladesh Police,Estimated
+thana_05_crime.csv,GBV/VAW Cases,Numeric,Estimated gender-based/violence against women cases,Bangladesh Police,Estimated
+thana_05_crime.csv,Human Trafficking Risk,Text,Trafficking risk level: Low/Medium/High,Bangladesh Police/BNWLA,Estimated
+thana_06_special_jurisdiction.csv,EPZ Zone,Text,Yes/No — whether thana contains EPZ,BEPZA,
+thana_06_special_jurisdiction.csv,Port/Ferry Terminal,Text,Yes/No — whether thana has port or ferry terminal,BIWTA,
+thana_06_special_jurisdiction.csv,Border/Land Port,Text,Yes/No — whether thana is a border/land port thana,BGB/NBR,
+thana_06_special_jurisdiction.csv,Tourist Area,Text,Yes/No — whether thana is a designated tourist area,BPC,
+thana_06_special_jurisdiction.csv,River Police,Text,Yes/No — whether river police patrol required,Bangladesh Police,
+thana_06_special_jurisdiction.csv,Ethnic Minority Area,Text,Yes/No — significant ethnic/indigenous population present,BBS,Estimated

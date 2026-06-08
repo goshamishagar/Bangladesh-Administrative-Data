@@ -1,0 +1,768 @@
+﻿Division,District,Thana / Police Station,Thana Type,Year Estd.,OC Rank,Population,Officers,Constables,Vehicles,Outposts,Annual FIRs,Annual GDs,Detection Rate (%),Lockup
+Barisal,Barguna,Amtali,Coastal,1918,Inspector,119928,31,74,3,2,198,587,71.9,0
+Barisal,Barguna,Bamna,Rural,1952,Inspector,49118,11,36,1,2,73,288,59.4,0
+Barisal,Barguna,Barguna Sadar,Sadar,1875,Inspector,135174,25,95,3,2,226,781,56.2,1
+Barisal,Barguna,Betagi,Rural,1960,Inspector,74673,13,49,1,2,122,388,80.3,0
+Barisal,Barguna,Patharghata,Coastal,1920,Inspector,96322,27,65,3,5,148,503,48.8,0
+Barisal,Barguna,Taltali,Coastal,1970,Inspector,64653,15,43,1,5,80,354,73.3,0
+Barisal,Barguna,Naltona,Rural,2008,Sub-Inspector,43115,10,23,1,1,60,229,63.4,0
+Barisal,Barguna,Burirarchar,Coastal,2010,Sub-Inspector,47325,10,31,1,1,81,246,64.4,0
+Barisal,Barguna,Keorabunia,River,2012,Sub-Inspector,27012,8,17,1,1,50,200,42.4,0
+Barisal,Barisal,Kotwali Barisal,Metropolitan,1872,Additional SP,226108,58,162,8,0,275,1010,63.8,1
+Barisal,Barisal,Barisal Sadar,Sadar,1875,Inspector,171532,49,120,6,0,170,847,70.7,1
+Barisal,Barisal,Airport Barisal,Metropolitan,1980,Inspector,77673,14,43,1,0,77,432,67.9,1
+Barisal,Barisal,Agailjhara,Rural,1927,Inspector,74603,19,40,2,1,108,413,45.8,0
+Barisal,Barisal,Babuganj,Rural,1932,Inspector,91123,25,55,3,1,132,497,63.5,0
+Barisal,Barisal,Bakerganj,Rural,1910,Inspector,193019,51,106,5,5,246,1156,58.7,0
+Barisal,Barisal,Banari Para,Rural,1935,Inspector,121670,34,81,4,3,172,655,65.1,0
+Barisal,Barisal,Gaurnadi,Rural,1928,Inspector,105558,28,63,2,1,116,501,52.5,0
+Barisal,Barisal,Hizla,River,1940,Inspector,63486,17,36,1,1,83,366,85.6,0
+Barisal,Barisal,Mehendiganj,River,1918,Inspector,140742,29,88,2,4,169,590,61.1,0
+Barisal,Barisal,Muladi,Rural,1930,Inspector,105832,23,75,2,2,160,442,59.1,0
+Barisal,Barisal,Wazirpur,Rural,1932,Inspector,109963,24,58,3,2,179,552,92.0,0
+Barisal,Barisal,Char Monai,River,2002,Sub-Inspector,36690,10,27,1,1,50,200,45.3,0
+Barisal,Barisal,Nalchira,Rural,2008,Sub-Inspector,38931,8,27,1,0,52,213,50.2,0
+Barisal,Barisal,Duarghat,River,2010,Sub-Inspector,30888,8,23,1,0,50,200,48.0,0
+Barisal,Barisal,Tungibaria,Rural,2012,Sub-Inspector,37203,10,20,1,1,50,200,63.5,0
+Barisal,Barisal,Charbaria,Rural,2016,Sub-Inspector,42281,10,25,1,1,51,225,65.7,0
+Barisal,Barisal,South Barisal,Metropolitan,2018,Inspector,64586,13,41,1,0,84,360,62.1,1
+Barisal,Barisal,Barisal Industrial,Industrial,2015,Inspector,47720,12,30,1,0,50,258,74.4,0
+Barisal,Barisal,Raipura Char,River,2014,Sub-Inspector,28384,8,21,1,1,50,200,50.2,0
+Barisal,Bhola,Bhola Sadar,Sadar,1890,Inspector,192039,51,128,5,2,217,853,55.1,1
+Barisal,Bhola,Burhanuddin,Rural,1920,Inspector,113709,21,66,2,3,153,504,70.4,0
+Barisal,Bhola,Char Fasson,Coastal,1918,Inspector,238064,58,142,8,6,334,1258,39.0,0
+Barisal,Bhola,Daulatkhan,River,1928,Inspector,83658,21,50,2,2,113,344,59.8,0
+Barisal,Bhola,Lalmohan,Rural,1925,Inspector,146479,26,100,3,5,204,719,79.1,0
+Barisal,Bhola,Manpura,Coastal,1940,Inspector,54916,14,30,1,3,86,279,71.9,0
+Barisal,Bhola,Tazumuddin,River,1932,Inspector,81816,21,48,2,2,84,460,53.5,0
+Barisal,Bhola,Ilisha,River,2005,Sub-Inspector,64383,17,43,1,2,86,370,69.3,0
+Barisal,Bhola,Veduria,Coastal,2010,Sub-Inspector,42748,9,30,1,1,52,218,35.9,0
+Barisal,Bhola,Char Khalifa,Coastal,2018,Sub-Inspector,48813,9,32,1,2,72,260,75.3,0
+Barisal,Bhola,Nothullabad,Rural,2015,Sub-Inspector,33650,8,21,1,1,50,200,63.7,0
+Barisal,Jhalokati,Jhalokati Sadar,Sadar,1888,Inspector,111686,26,83,2,2,188,538,58.4,1
+Barisal,Jhalokati,Kathalia,Rural,1930,Inspector,73929,14,57,1,2,69,435,48.5,0
+Barisal,Jhalokati,Nalchity,Rural,1932,Inspector,68397,14,52,2,2,79,283,56.6,0
+Barisal,Jhalokati,Rajapur,Rural,1928,Inspector,75073,14,46,2,1,78,447,48.2,0
+Barisal,Jhalokati,Gabkhan,River,2005,Sub-Inspector,39570,9,30,1,0,64,200,38.4,0
+Barisal,Jhalokati,Shashibhushan,Rural,2010,Sub-Inspector,44857,9,27,1,1,54,200,52.1,0
+Barisal,Jhalokati,Bisher,Rural,2012,Sub-Inspector,36008,8,23,1,0,50,200,73.7,0
+Barisal,Jhalokati,Nathullabad,River,2015,Sub-Inspector,29566,8,22,1,1,50,200,48.2,0
+Barisal,Patuakhali,Patuakhali Sadar,Sadar,1882,Inspector,150059,27,95,3,2,134,726,66.1,1
+Barisal,Patuakhali,Bauphal,Coastal,1920,Inspector,149941,38,90,5,6,152,806,50.9,0
+Barisal,Patuakhali,Dashmina,Coastal,1932,Inspector,84057,22,58,1,3,114,472,78.8,0
+Barisal,Patuakhali,Dumki,Rural,1960,Inspector,48322,9,38,1,1,74,241,52.1,0
+Barisal,Patuakhali,Galachipa,Coastal,1918,Inspector,170368,43,92,5,6,212,853,69.0,0
+Barisal,Patuakhali,Kalapara,Coastal,1920,Inspector,134316,29,106,3,4,134,776,64.0,0
+Barisal,Patuakhali,Mirzaganj,River,1935,Inspector,67364,14,41,2,2,109,343,66.8,0
+Barisal,Patuakhali,Rangabali,Coastal,1970,Inspector,53368,15,39,2,6,78,281,80.6,0
+Barisal,Patuakhali,Kuakata,Tourism,2005,Sub-Inspector,41026,11,31,1,1,50,200,72.3,0
+Barisal,Patuakhali,Lohalia,River,2008,Sub-Inspector,45910,9,31,1,1,58,242,50.8,0
+Barisal,Patuakhali,Madarbunia,Coastal,2010,Sub-Inspector,37145,10,26,1,2,50,211,45.1,0
+Barisal,Patuakhali,Char Kajal,Coastal,2012,Sub-Inspector,27636,8,16,1,1,50,200,64.2,0
+Barisal,Patuakhali,Baufal North,Rural,2015,Sub-Inspector,47145,8,35,1,0,54,215,68.0,0
+Barisal,Patuakhali,Kalaiya,River,2018,Sub-Inspector,32685,8,19,1,1,50,200,91.7,0
+Barisal,Pirojpur,Pirojpur Sadar,Sadar,1885,Inspector,132098,34,93,4,2,222,788,43.0,1
+Barisal,Pirojpur,Bhandaria,River,1928,Inspector,85409,19,49,2,1,75,380,69.7,0
+Barisal,Pirojpur,Kawkhali,River,1935,Inspector,68411,13,37,1,2,115,352,57.8,0
+Barisal,Pirojpur,Mathbaria,Coastal,1920,Inspector,116974,23,72,2,3,204,611,49.9,0
+Barisal,Pirojpur,Nazirpur,Rural,1930,Inspector,98183,22,75,3,3,97,540,66.3,0
+Barisal,Pirojpur,Nesarabad,Rural,1932,Inspector,91351,24,57,3,2,159,454,38.5,0
+Barisal,Pirojpur,Zianagar,Rural,1940,Inspector,71867,15,56,2,2,80,309,54.0,0
+Barisal,Pirojpur,Hularhat,River,2000,Sub-Inspector,40870,8,24,1,0,64,200,75.5,0
+Barisal,Pirojpur,Indurkani,Rural,2008,Sub-Inspector,46679,12,35,1,0,54,268,74.3,0
+Barisal,Pirojpur,Swarupkathi,River,2010,Sub-Inspector,37324,8,21,1,0,50,200,61.8,0
+Barisal,Pirojpur,Tutkhali,Rural,2015,Sub-Inspector,28007,8,20,1,1,50,200,65.8,0
+Barisal,Pirojpur,Shalikha Pir,Rural,2018,Sub-Inspector,42249,9,27,1,1,50,211,57.6,0
+Barisal,Pirojpur,Mathbaria North,Coastal,2016,Sub-Inspector,60013,10,32,1,1,56,266,58.5,0
+Chittagong,Chittagong,Kotwali Ctg,Metropolitan,1857,Additional SP,291684,75,212,7,0,328,1236,79.3,1
+Chittagong,Chittagong,Double Mooring,Metropolitan,1947,Additional SP,198616,42,129,6,0,260,1156,36.5,1
+Chittagong,Chittagong,Pahartali,Metropolitan,1952,Inspector,181960,43,134,6,0,214,950,65.4,1
+Chittagong,Chittagong,Panchlaish,Metropolitan,1960,Inspector,157233,36,110,3,0,180,910,48.4,1
+Chittagong,Chittagong,Chandgaon,Metropolitan,1965,Inspector,209163,38,153,6,0,274,1216,58.0,1
+Chittagong,Chittagong,Bayazid Bostami,Metropolitan,1980,Inspector,161916,29,114,3,0,277,828,55.9,1
+Chittagong,Chittagong,Khulshi,Metropolitan,1985,Inspector,121104,21,88,3,0,146,640,58.7,1
+Chittagong,Chittagong,Halishahar,Metropolitan,1975,Inspector,160893,32,108,3,0,276,804,53.4,1
+Chittagong,Chittagong,Bandar,City,1890,Inspector,196435,51,139,5,0,195,1035,54.6,1
+Chittagong,Chittagong,Patenga,Industrial,1970,Inspector,129226,27,73,3,0,211,523,84.4,0
+Chittagong,Chittagong,EPZ Ctg,Industrial,1983,Inspector,107168,30,71,2,0,164,596,68.1,0
+Chittagong,Chittagong,Bakalia,Metropolitan,1990,Inspector,205351,54,145,6,0,188,929,35.0,1
+Chittagong,Chittagong,Akbar Shah,Metropolitan,1995,Inspector,137997,25,79,2,0,229,566,92.0,1
+Chittagong,Chittagong,Karnaphuli,Industrial,2010,Inspector,140222,29,101,2,0,205,678,61.2,0
+Chittagong,Chittagong,Chattogram Port,Industrial,1947,Inspector,71940,15,40,2,0,120,354,71.8,0
+Chittagong,Chittagong,South Khulshi,Metropolitan,2000,Inspector,109091,30,84,2,0,148,446,60.5,1
+Chittagong,Chittagong,Anwara,Industrial,1920,Inspector,150794,32,83,3,1,159,612,54.1,0
+Chittagong,Chittagong,Banshkhali,Rural,1910,Inspector,187041,39,116,5,4,280,790,65.5,0
+Chittagong,Chittagong,Boalkhali,Industrial,1930,Inspector,132453,32,101,4,1,179,549,74.8,0
+Chittagong,Chittagong,Chandanaish,Rural,1932,Inspector,108668,21,86,2,1,178,606,76.7,0
+Chittagong,Chittagong,Fatikchhari,Rural,1908,Inspector,221939,57,140,7,11,317,908,51.1,0
+Chittagong,Chittagong,Hathazari,Rural,1918,Inspector,209752,56,162,8,1,353,969,51.8,0
+Chittagong,Chittagong,Lohagara,Rural,1928,Inspector,133709,29,77,3,3,136,778,54.8,0
+Chittagong,Chittagong,Mirsharai,Industrial,1915,Inspector,234818,46,180,6,4,235,1136,58.0,0
+Chittagong,Chittagong,Patiya,Industrial,1920,Inspector,206539,45,111,6,2,351,1050,63.7,0
+Chittagong,Chittagong,Rangunia,Rural,1922,Inspector,168635,40,103,6,2,199,997,50.7,0
+Chittagong,Chittagong,Raozan,Industrial,1925,Inspector,174358,49,121,4,2,293,1035,80.0,0
+Chittagong,Chittagong,Sandwip,Coastal,1900,Inspector,181602,43,111,5,8,284,1046,76.6,0
+Chittagong,Chittagong,Satkania,Rural,1918,Inspector,171676,31,106,4,5,235,997,61.1,0
+Chittagong,Chittagong,Sitakunda,Industrial,1915,Inspector,197033,51,121,6,6,217,1066,63.8,0
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,Tourism,1890,Inspector,243405,49,186,7,1,345,1274,55.1,0
+Chittagong,Cox's Bazar,Chakaria,Rural,1918,Inspector,234923,59,166,5,4,237,1338,71.4,0
+Chittagong,Cox's Bazar,Kutubdia,Coastal,1920,Inspector,68474,15,37,1,2,117,360,55.4,0
+Chittagong,Cox's Bazar,Maheshkhali,Coastal,1918,Inspector,136626,34,97,3,3,239,692,57.9,0
+Chittagong,Cox's Bazar,Pekua,Coastal,1965,Inspector,79386,15,45,2,3,132,332,43.3,0
+Chittagong,Cox's Bazar,Ramu,Tourism,1920,Inspector,112872,32,63,4,6,150,650,48.3,0
+Chittagong,Cox's Bazar,Teknaf,Border,1918,Inspector,114565,21,85,2,3,114,622,70.2,0
+Chittagong,Cox's Bazar,Ukhia,Border,1940,Inspector,124656,29,74,4,4,173,719,50.5,0
+Chittagong,Cox's Bazar,Hnila,Border,2008,Sub-Inspector,44107,11,23,1,2,50,204,58.7,0
+Chittagong,Comilla,Kotwali Comilla,City,1870,Inspector,240446,62,150,7,0,366,1280,64.0,1
+Chittagong,Comilla,Adarsha Sadar,Sadar,1982,Inspector,170081,46,126,4,1,252,706,84.4,1
+Chittagong,Comilla,Barura,Rural,1920,Inspector,142262,32,84,4,3,130,716,64.3,0
+Chittagong,Comilla,Brahmanpara,Rural,1928,Inspector,115745,31,72,3,2,131,582,83.9,0
+Chittagong,Comilla,Burichang,Rural,1930,Inspector,137311,28,108,2,2,191,594,43.8,0
+Chittagong,Comilla,Chandina,Rural,1922,Inspector,154454,40,110,6,2,219,637,70.4,0
+Chittagong,Comilla,Chauddagram,Industrial,1918,Inspector,195055,40,128,6,3,283,893,39.8,0
+Chittagong,Comilla,Daudkandi,River,1920,Inspector,182009,52,141,8,4,167,1019,54.4,0
+Chittagong,Comilla,Debidwar,Rural,1922,Inspector,186869,47,144,4,2,230,1029,52.0,0
+Chittagong,Comilla,Homna,River,1930,Inspector,95367,21,52,2,2,90,466,92.0,0
+Chittagong,Comilla,Laksam,Industrial,1915,Inspector,114715,25,86,3,1,113,659,39.5,0
+Chittagong,Comilla,Lalmai,Rural,1960,Inspector,71557,17,42,2,1,94,409,80.6,0
+Chittagong,Comilla,Manoharganj,Rural,1932,Inspector,130360,32,97,5,2,138,579,59.7,0
+Chittagong,Comilla,Meghna,River,1938,Inspector,94535,18,55,2,1,120,380,51.8,0
+Chittagong,Comilla,Muradnagar,Industrial,1920,Inspector,215446,39,166,3,3,204,987,92.0,0
+Chittagong,Comilla,Nangalkot,Rural,1928,Inspector,149003,40,107,4,2,179,645,46.0,0
+Chittagong,Comilla,Titas,River,1932,Inspector,126017,23,77,2,2,139,669,49.4,0
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,City,1882,Inspector,254806,54,155,5,1,318,1455,70.1,1
+Chittagong,Brahmanbaria,Akhaura,Border,1920,Inspector,105684,27,81,4,0,152,481,61.4,0
+Chittagong,Brahmanbaria,Ashuganj,Industrial,1970,Inspector,101314,28,68,2,1,147,603,56.0,0
+Chittagong,Brahmanbaria,Bancharampur,Rural,1928,Inspector,143094,34,82,3,3,129,848,63.5,0
+Chittagong,Brahmanbaria,Bijoynagar,Rural,1940,Inspector,95641,21,75,2,1,144,477,58.9,0
+Chittagong,Brahmanbaria,Kasba,Border,1920,Inspector,164276,34,116,3,3,281,804,76.0,0
+Chittagong,Brahmanbaria,Nabinagar,Rural,1922,Inspector,165092,36,100,5,3,168,893,67.9,0
+Chittagong,Brahmanbaria,Nasirnagar,Rural,1928,Inspector,139081,24,87,3,4,162,661,71.0,0
+Chittagong,Brahmanbaria,Sarail,Rural,1930,Inspector,144451,35,88,5,2,242,699,67.3,0
+Chittagong,Brahmanbaria,Akhaura Land Port,Border,2005,Sub-Inspector,21025,8,15,1,0,50,200,68.4,0
+Chittagong,Brahmanbaria,Ashuganj Ferry,River,2000,Sub-Inspector,29650,8,20,1,0,50,200,42.4,0
+Chittagong,Chandpur,Chandpur Sadar,River,1878,Inspector,196652,38,156,5,1,223,1140,70.4,0
+Chittagong,Chandpur,Faridganj,River,1920,Inspector,143745,33,80,5,2,208,647,66.5,0
+Chittagong,Chandpur,Haimchar,River,1932,Inspector,69368,16,42,2,1,117,332,81.3,0
+Chittagong,Chandpur,Haziganj,Rural,1928,Inspector,114533,25,61,3,2,109,573,73.8,0
+Chittagong,Chandpur,Kachua,Rural,1930,Inspector,139734,29,106,4,1,218,663,64.9,0
+Chittagong,Chandpur,Matlab Dakshin,River,1930,Inspector,109434,22,79,3,2,167,525,65.3,0
+Chittagong,Chandpur,Matlab Uttar,River,1928,Inspector,128112,27,90,3,2,119,708,64.4,0
+Chittagong,Chandpur,Shahrasti,Rural,1932,Inspector,107811,27,58,2,1,106,527,56.6,0
+Chittagong,Chandpur,Hajiganj,River,2005,Sub-Inspector,71532,20,52,2,1,91,351,53.3,0
+Chittagong,Feni,Feni Sadar,City,1882,Inspector,221453,62,132,8,1,363,1087,68.4,1
+Chittagong,Feni,Chhagalnaiya,Rural,1928,Inspector,117199,32,93,3,2,147,478,64.2,0
+Chittagong,Feni,Daganbhuiyan,Rural,1920,Inspector,141209,34,112,5,3,209,602,54.5,0
+Chittagong,Feni,Fulgazi,Rural,1935,Inspector,87224,24,69,2,1,99,362,59.8,0
+Chittagong,Feni,Parshuram,Border,1940,Inspector,60244,15,37,1,0,66,341,75.5,0
+Chittagong,Feni,Sonagazi,Industrial,1930,Inspector,130144,23,72,2,2,219,589,83.3,0
+Chittagong,Feni,Muhuriganj,Rural,2005,Sub-Inspector,65242,14,45,1,0,79,300,64.7,0
+Chittagong,Feni,Feni North,Rural,2010,Sub-Inspector,52314,12,37,1,1,53,265,65.1,0
+Chittagong,Lakshmipur,Lakshmipur Sadar,Sadar,1882,Inspector,257702,59,196,8,1,411,1355,54.6,1
+Chittagong,Lakshmipur,Kamalnagar,Coastal,1928,Inspector,127092,33,73,4,3,219,632,64.8,0
+Chittagong,Lakshmipur,Ramganj,Rural,1928,Inspector,145826,26,90,2,1,200,631,59.4,0
+Chittagong,Lakshmipur,Ramgati,Coastal,1932,Inspector,127532,26,92,2,2,153,644,79.2,0
+Chittagong,Lakshmipur,Raipur,River,1938,Inspector,109787,25,73,2,1,156,526,71.9,0
+Chittagong,Lakshmipur,Char Ababil,Coastal,2005,Sub-Inspector,52323,10,39,1,1,70,225,66.2,0
+Chittagong,Lakshmipur,Meghna Ghat,River,2010,Sub-Inspector,24385,8,16,1,0,50,200,63.2,0
+Chittagong,Noakhali,Noakhali Sadar,Sadar,1880,Inspector,219318,48,139,5,1,260,1188,52.7,1
+Chittagong,Noakhali,Begumganj,Rural,1920,Inspector,305280,72,195,10,3,275,1561,76.5,0
+Chittagong,Noakhali,Chatkhil,Rural,1928,Inspector,151104,42,88,4,2,231,794,67.3,0
+Chittagong,Noakhali,Companiganj,Coastal,1930,Inspector,165964,45,117,4,6,190,715,73.4,0
+Chittagong,Noakhali,Hatiya,Coastal,1900,Inspector,163792,31,117,2,18,266,951,65.9,0
+Chittagong,Noakhali,Kabirhat,Rural,1935,Inspector,133712,26,96,2,2,225,643,59.1,0
+Chittagong,Noakhali,Senbagh,Rural,1932,Inspector,133830,24,97,2,1,191,736,46.0,0
+Chittagong,Noakhali,Sonaimuri,Rural,1930,Inspector,153289,30,111,4,3,253,648,77.9,0
+Chittagong,Noakhali,Subarnachar,Coastal,1960,Inspector,119472,26,66,3,11,193,583,66.0,0
+Chittagong,Noakhali,Char Jublee,Coastal,2005,Sub-Inspector,74441,15,43,2,2,127,361,61.6,0
+Chittagong,Noakhali,Noakhali Model,Sadar,2010,Sub-Inspector,54128,11,36,1,0,89,317,52.3,1
+Chittagong,Bandarban,Bandarban Sadar,Hill,1947,Inspector,54980,15,31,1,3,79,241,81.7,0
+Chittagong,Bandarban,Ali Kadam,Hill,1970,Sub-Inspector,30449,8,18,1,12,50,200,85.4,0
+Chittagong,Bandarban,Lama,Hill,1960,Inspector,58362,10,33,1,7,94,279,58.6,0
+Chittagong,Bandarban,Naikhongchhari,Hill,1972,Sub-Inspector,31981,8,23,1,12,50,200,71.1,0
+Chittagong,Bandarban,Ruma,Hill,1975,Sub-Inspector,24243,8,17,1,10,50,200,71.2,0
+Chittagong,Bandarban,Rowangchhari,Hill,1975,Sub-Inspector,27461,8,21,1,3,50,200,74.6,0
+Chittagong,Bandarban,Thanchi,Hill,1980,Sub-Inspector,20747,8,15,1,11,50,200,43.2,0
+Chittagong,Khagrachhari,Khagrachhari Sadar,Hill,1947,Inspector,85007,18,46,2,4,140,372,83.2,0
+Chittagong,Khagrachhari,Dighinala,Hill,1965,Sub-Inspector,47030,13,31,1,5,50,267,61.6,0
+Chittagong,Khagrachhari,Matiranga,Hill,1960,Inspector,55036,15,34,1,3,58,261,82.5,0
+Chittagong,Khagrachhari,Ramgarh,Border,1960,Sub-Inspector,43151,9,29,1,4,64,255,37.3,0
+Chittagong,Khagrachhari,Manikchhari,Hill,1970,Sub-Inspector,35239,10,24,1,4,51,200,90.2,0
+Chittagong,Khagrachhari,Panchhari,Hill,1972,Sub-Inspector,39174,10,23,1,7,66,200,59.8,0
+Chittagong,Khagrachhari,Lakshmichhari,Hill,1975,Sub-Inspector,24810,8,19,1,3,50,200,70.4,0
+Chittagong,Khagrachhari,Mahalchhari,Hill,1978,Sub-Inspector,25062,8,15,1,2,50,200,58.2,0
+Chittagong,Rangamati,Rangamati Sadar,Hill,1947,Inspector,74383,14,45,1,5,109,413,61.7,0
+Chittagong,Rangamati,Kaptai,Hill,1960,Sub-Inspector,36418,9,23,1,4,53,200,87.3,0
+Chittagong,Rangamati,Langadu,Hill,1968,Sub-Inspector,28510,8,22,1,11,50,200,69.6,0
+Chittagong,Rangamati,Bagaichhari,Hill,1970,Sub-Inspector,27203,8,16,1,9,50,200,62.7,0
+Chittagong,Rangamati,Barkal,Hill,1975,Sub-Inspector,22514,8,15,1,8,50,200,61.3,0
+Chittagong,Rangamati,Belaichhari,Hill,1978,Sub-Inspector,19153,8,15,1,9,50,200,64.0,0
+Chittagong,Rangamati,Rajasthali,Hill,1980,Sub-Inspector,15783,8,15,1,4,50,200,63.5,0
+Chittagong,Rangamati,Naniarchar,Hill,1982,Sub-Inspector,19400,8,15,1,3,50,200,49.4,0
+Chittagong,Rangamati,Juraichhari,Hill,1985,Sub-Inspector,16863,8,15,1,6,50,200,92.0,0
+Chittagong,Rangamati,Kawkhali Rmt,Hill,1988,Sub-Inspector,25346,8,16,1,3,50,200,59.5,0
+Dhaka,Dhaka,Motijheel,Metropolitan,1952,Additional SP,310375,79,202,11,0,277,1248,62.0,1
+Dhaka,Dhaka,Kotwali Dhaka,Metropolitan,1857,Additional SP,235194,47,163,4,0,250,1386,81.1,1
+Dhaka,Dhaka,Sutrapur,Metropolitan,1900,Additional SP,188041,44,139,6,0,284,1086,74.7,1
+Dhaka,Dhaka,Wari,Metropolitan,1947,Additional SP,204441,40,134,5,0,306,843,66.8,1
+Dhaka,Dhaka,Lalbagh,Metropolitan,1947,Additional SP,234799,44,155,5,0,321,973,60.5,1
+Dhaka,Dhaka,Hazaribagh,Metropolitan,1952,Inspector,204387,38,129,5,0,328,1019,61.8,1
+Dhaka,Dhaka,Kamrangirchar,Metropolitan,1960,Inspector,235814,43,141,5,0,402,1018,55.5,1
+Dhaka,Dhaka,Demra,Metropolitan,1965,Inspector,360135,83,278,9,0,329,2016,57.3,1
+Dhaka,Dhaka,Jatrabari,Metropolitan,1960,Inspector,258858,62,195,5,0,283,1265,81.8,1
+Dhaka,Dhaka,Kadamtali,Metropolitan,1965,Inspector,188253,48,129,6,0,235,920,49.7,1
+Dhaka,Dhaka,Shyampur,Metropolitan,1968,Inspector,220261,59,167,7,0,266,904,55.5,1
+Dhaka,Dhaka,Dhanmondi,Metropolitan,1965,Inspector,198542,45,123,4,0,253,864,61.6,1
+Dhaka,Dhaka,Adabor,Metropolitan,1980,Inspector,162734,35,95,4,0,259,743,81.8,1
+Dhaka,Dhaka,Mohammadpur,Metropolitan,1968,Inspector,213662,44,142,6,0,370,1061,35.0,1
+Dhaka,Dhaka,Sher-e-Bangla Nagar,Metropolitan,1975,Inspector,163106,42,92,4,0,212,970,61.3,1
+Dhaka,Dhaka,Tejgaon,Metropolitan,1960,Inspector,205956,47,135,6,0,216,861,81.7,1
+Dhaka,Dhaka,Tejgaon Industrial,Industrial,1965,Inspector,157363,30,101,4,0,273,943,74.5,0
+Dhaka,Dhaka,Kafrul,Metropolitan,1975,Inspector,204338,45,114,4,0,246,1194,41.0,1
+Dhaka,Dhaka,Pallabi,Metropolitan,1980,Inspector,216766,43,151,5,0,297,996,92.0,1
+Dhaka,Dhaka,Mirpur,Metropolitan,1975,Inspector,326926,58,206,5,0,333,1788,56.1,1
+Dhaka,Dhaka,Shah Ali,Metropolitan,1985,Inspector,183607,49,104,4,0,276,772,51.6,1
+Dhaka,Dhaka,Turag,Metropolitan,1990,Inspector,217028,60,120,9,0,294,984,53.9,1
+Dhaka,Dhaka,Uttara,Metropolitan,1990,Inspector,232119,65,167,9,0,331,1214,48.4,1
+Dhaka,Dhaka,Uttara West,Metropolitan,2000,Inspector,186138,49,136,4,0,301,916,84.0,1
+Dhaka,Dhaka,Airport,Metropolitan,1980,Inspector,151107,38,99,5,0,244,776,58.3,1
+Dhaka,Dhaka,Dakshinkhan,Metropolitan,1995,Inspector,199300,55,126,7,0,192,1154,76.4,1
+Dhaka,Dhaka,Uttar Khan,Metropolitan,1998,Inspector,172212,45,108,6,0,187,733,73.7,1
+Dhaka,Dhaka,Badda,Metropolitan,1985,Inspector,243791,48,154,5,0,388,1214,64.3,1
+Dhaka,Dhaka,Rampura,Metropolitan,1985,Inspector,206153,36,149,4,0,325,1033,54.3,1
+Dhaka,Dhaka,Khilgaon,Metropolitan,1980,Inspector,235836,51,184,6,0,246,1097,78.1,1
+Dhaka,Dhaka,Sabujbagh,Metropolitan,1980,Inspector,206459,38,148,4,0,356,1041,61.0,1
+Dhaka,Dhaka,Gulshan,Metropolitan,1975,Inspector,177252,51,136,7,0,206,838,64.9,1
+Dhaka,Dhaka,Banani,Metropolitan,1982,Inspector,134252,23,73,2,0,181,758,56.7,1
+Dhaka,Dhaka,Cantonment Dhaka,Metropolitan,1971,Inspector,156763,44,93,7,0,191,742,70.1,1
+Dhaka,Dhaka,Khilkhet,Metropolitan,2000,Inspector,145148,38,110,5,0,249,768,78.5,1
+Dhaka,Dhaka,Vatara,Metropolitan,2005,Inspector,179654,40,121,3,0,188,1000,48.2,1
+Dhaka,Dhaka,Bhatara,Metropolitan,2008,Inspector,152177,38,111,5,0,220,755,84.5,1
+Dhaka,Dhaka,Agargaon,Metropolitan,2005,Inspector,146521,37,88,3,0,204,668,53.9,1
+Dhaka,Dhaka,Chawkbazar,Metropolitan,1900,Inspector,186951,37,127,3,0,299,911,63.4,1
+Dhaka,Dhaka,Newmarket,Metropolitan,1965,Inspector,184710,45,134,6,0,238,751,57.4,1
+Dhaka,Dhaka,Ramna,Metropolitan,1947,Inspector,170653,44,129,4,0,259,872,68.9,1
+Dhaka,Dhaka,Shahbag,Metropolitan,1960,Inspector,121024,27,74,3,0,140,694,67.4,1
+Dhaka,Dhaka,Hatirjheel,Metropolitan,2010,Inspector,123004,29,70,4,0,172,688,67.6,1
+Dhaka,Dhaka,Rupnagar,Metropolitan,2012,Inspector,149952,43,105,5,0,240,712,52.4,1
+Dhaka,Dhaka,Matijhata,Metropolitan,2005,Inspector,169209,47,91,4,0,240,893,75.0,1
+Dhaka,Dhaka,Keraniganj Model,Industrial,2000,Inspector,287073,78,205,8,0,441,1292,61.4,0
+Dhaka,Dhaka,Nawabganj Dhaka,Metropolitan,1995,Inspector,173692,37,101,3,0,228,925,71.6,1
+Dhaka,Dhaka,Dhamrai,Rural,1918,Inspector,223783,61,177,8,3,333,1299,67.2,0
+Dhaka,Dhaka,Dohar,River,1928,Inspector,131425,31,70,3,2,154,784,65.5,0
+Dhaka,Dhaka,Savar,Industrial,1960,Inspector,796960,226,584,35,3,1068,4290,53.2,0
+Dhaka,Gazipur,Gazipur Sadar,Industrial,1920,Inspector,787141,172,436,19,2,729,3792,55.1,0
+Dhaka,Gazipur,Joydebpur,City,1965,Inspector,383656,110,224,13,1,399,2047,59.5,1
+Dhaka,Gazipur,Kaliakair,Industrial,1982,Inspector,430035,87,303,9,4,439,2131,45.2,0
+Dhaka,Gazipur,Kaliganj,Industrial,1930,Inspector,234635,61,162,8,2,293,973,68.5,0
+Dhaka,Gazipur,Kapasia,Rural,1932,Inspector,186179,52,140,5,4,262,956,51.2,0
+Dhaka,Gazipur,Sreepur,Industrial,1928,Inspector,346646,83,217,11,4,328,1824,92.0,0
+Dhaka,Gazipur,Tongi,Industrial,1965,Inspector,354448,87,194,11,0,334,1427,75.9,0
+Dhaka,Gazipur,Basan,Industrial,2005,Inspector,216297,47,150,7,0,312,912,71.5,0
+Dhaka,Gazipur,Pubail,Industrial,2008,Inspector,171320,32,123,4,0,237,999,47.1,0
+Dhaka,Gazipur,Gazipur Industrial North,Industrial,2010,Inspector,141301,31,75,3,0,168,743,45.1,0
+Dhaka,Narayanganj,Narayanganj Sadar,Industrial,1880,Inspector,397122,91,245,13,0,652,1707,46.1,0
+Dhaka,Narayanganj,Fatullah,Industrial,1970,Inspector,312920,72,212,7,0,532,1774,73.0,0
+Dhaka,Narayanganj,Siddhirganj,Industrial,1975,Inspector,319089,73,194,11,0,323,1856,59.8,0
+Dhaka,Narayanganj,Bandar,Industrial,1890,Inspector,307561,62,229,6,0,377,1635,80.1,0
+Dhaka,Narayanganj,Araihazar,Industrial,1928,Inspector,235786,41,137,6,1,228,1283,62.8,0
+Dhaka,Narayanganj,Rupganj,Industrial,1932,Inspector,429187,112,273,13,2,712,2337,35.0,0
+Dhaka,Narayanganj,Sonargaon,Industrial,1935,Inspector,213996,53,126,7,1,345,1063,69.3,0
+Dhaka,Narayanganj,Adamjee,Industrial,1995,Inspector,106518,29,70,4,0,131,465,78.7,0
+Dhaka,Narayanganj,Narayanganj Port,Industrial,1990,Sub-Inspector,55280,11,42,1,0,78,267,68.9,0
+Dhaka,Narsingdi,Narsingdi Sadar,Industrial,1882,Inspector,329821,84,189,13,1,438,1458,65.2,0
+Dhaka,Narsingdi,Belabo,Rural,1932,Inspector,135793,25,88,2,1,138,651,54.8,0
+Dhaka,Narsingdi,Monohardi,Rural,1935,Inspector,121023,29,66,3,2,166,643,73.4,0
+Dhaka,Narsingdi,Palash,Industrial,1965,Inspector,171331,34,121,3,0,257,701,62.5,0
+Dhaka,Narsingdi,Raipura,River,1928,Inspector,257884,61,205,6,3,266,1354,72.8,0
+Dhaka,Narsingdi,Shibpur,Industrial,1930,Inspector,192135,47,123,4,1,299,949,71.8,0
+Dhaka,Narsingdi,Ghodashail,Industrial,2000,Sub-Inspector,96595,27,58,4,0,109,533,71.8,0
+Dhaka,Narsingdi,Madhabdi,Industrial,2008,Sub-Inspector,93312,22,57,3,0,135,437,35.3,0
+Dhaka,Kishoreganj,Kishoreganj Sadar,City,1882,Inspector,218317,56,124,6,0,305,1168,56.2,1
+Dhaka,Kishoreganj,Astagram,River,1932,Inspector,135879,37,82,4,3,219,625,64.7,0
+Dhaka,Kishoreganj,Bajitpur,River,1928,Inspector,155576,38,88,5,2,216,730,67.6,0
+Dhaka,Kishoreganj,Bhairab,Industrial,1920,Inspector,189938,54,148,8,1,248,790,58.8,0
+Dhaka,Kishoreganj,Hossainpur,Rural,1935,Inspector,94519,20,67,1,1,156,537,57.8,0
+Dhaka,Kishoreganj,Itna,River,1938,Inspector,110678,22,80,3,3,123,472,56.4,0
+Dhaka,Kishoreganj,Karimganj,Rural,1932,Inspector,141453,37,95,3,2,150,585,64.9,0
+Dhaka,Kishoreganj,Katiadi,Rural,1930,Inspector,137735,35,82,3,3,183,636,72.1,0
+Dhaka,Kishoreganj,Kuliarchar,River,1932,Inspector,132749,30,78,2,2,135,711,59.5,0
+Dhaka,Kishoreganj,Mithamain,River,1940,Inspector,83593,20,61,2,2,98,352,58.1,0
+Dhaka,Kishoreganj,Nikli,River,1945,Inspector,68572,17,54,2,2,115,402,78.8,0
+Dhaka,Kishoreganj,Pakundia,Rural,1928,Inspector,143289,33,99,3,3,198,635,40.5,0
+Dhaka,Kishoreganj,Tarail,Rural,1932,Inspector,103401,27,77,4,1,126,603,92.0,0
+Dhaka,Kishoreganj,Bhairab Ferry,River,2000,Sub-Inspector,19525,8,15,1,0,50,200,37.3,0
+Dhaka,Kishoreganj,Kuliarchar River,River,2005,Sub-Inspector,17238,8,15,1,0,50,200,65.0,0
+Dhaka,Tangail,Tangail Sadar,City,1882,Inspector,338240,81,233,9,2,503,1990,67.1,1
+Dhaka,Tangail,Basail,Rural,1940,Inspector,72369,14,43,2,1,68,305,49.4,0
+Dhaka,Tangail,Bhuapur,Rural,1932,Inspector,120249,25,66,3,1,162,584,61.7,0
+Dhaka,Tangail,Delduar,Rural,1935,Inspector,104999,28,69,3,2,159,433,63.5,0
+Dhaka,Tangail,Dhanbari,Rural,1940,Inspector,92227,26,60,2,1,152,422,50.4,0
+Dhaka,Tangail,Ghatail,Rural,1928,Inspector,176105,36,130,5,5,265,848,48.2,0
+Dhaka,Tangail,Gopalpur,Rural,1938,Inspector,105247,22,79,2,1,166,625,60.0,0
+Dhaka,Tangail,Kalihati,Industrial,1930,Inspector,175262,33,114,3,1,278,992,57.7,0
+Dhaka,Tangail,Madhupur,Rural,1920,Inspector,201646,41,144,4,6,281,926,49.6,0
+Dhaka,Tangail,Mirzapur,Industrial,1925,Inspector,177281,35,131,4,2,195,976,92.0,0
+Dhaka,Tangail,Nagarpur,Rural,1932,Inspector,127592,24,96,3,1,141,586,55.1,0
+Dhaka,Tangail,Sakhipur,Rural,1935,Inspector,121804,28,87,3,4,107,693,75.6,0
+Dhaka,Tangail,Madhupur Forest,Rural,2008,Sub-Inspector,35680,8,20,1,0,60,213,40.2,0
+Dhaka,Tangail,Tangail Model,City,2015,Inspector,71895,16,43,2,0,93,407,61.5,1
+Dhaka,Manikganj,Manikganj Sadar,Sadar,1882,Inspector,147291,32,109,3,1,213,628,73.4,1
+Dhaka,Manikganj,Daulatpur,River,1930,Inspector,130938,36,90,4,3,140,742,44.1,0
+Dhaka,Manikganj,Ghior,Rural,1935,Inspector,96442,25,70,2,2,150,496,54.1,0
+Dhaka,Manikganj,Harirampur,River,1938,Inspector,103478,26,56,3,3,141,436,47.5,0
+Dhaka,Manikganj,Saturia,Rural,1932,Inspector,114977,21,77,2,1,194,566,75.2,0
+Dhaka,Manikganj,Shibalaya,River,1938,Inspector,92651,19,73,2,1,89,502,63.3,0
+Dhaka,Manikganj,Singair,Rural,1930,Inspector,135081,36,101,4,3,193,753,73.7,0
+Dhaka,Manikganj,Paturia Ghat,River,1998,Sub-Inspector,20333,8,15,1,0,50,200,58.4,0
+Dhaka,Manikganj,Aricha Ghat,River,2005,Sub-Inspector,14907,8,15,1,0,50,200,56.9,0
+Dhaka,Munshiganj,Munshiganj Sadar,Industrial,1882,Inspector,187907,36,138,4,1,320,913,56.3,0
+Dhaka,Munshiganj,Gazaria,Industrial,1965,Inspector,120395,23,71,2,1,172,609,41.9,0
+Dhaka,Munshiganj,Louhajang,River,1930,Inspector,119687,33,75,5,1,202,678,52.5,0
+Dhaka,Munshiganj,Sirajdikhan,Industrial,1932,Inspector,146269,40,110,6,2,255,697,58.4,0
+Dhaka,Munshiganj,Sreenagar,Industrial,1930,Inspector,138108,33,82,4,1,131,729,57.2,0
+Dhaka,Munshiganj,Tongibari,River,1932,Inspector,153431,38,107,6,1,226,894,39.3,0
+Dhaka,Munshiganj,Mawa Ferry,River,2000,Sub-Inspector,14040,8,15,1,0,50,200,74.1,0
+Dhaka,Munshiganj,Lauhajang Ferry,River,2005,Sub-Inspector,12230,8,15,1,0,50,200,85.6,0
+Dhaka,Faridpur,Faridpur Sadar,Sadar,1882,Inspector,218699,62,156,6,1,275,1224,76.2,1
+Dhaka,Faridpur,Alfadanga,Rural,1935,Inspector,73753,19,58,2,2,83,328,49.8,0
+Dhaka,Faridpur,Bhanga,River,1928,Inspector,137012,26,92,2,1,225,659,60.7,0
+Dhaka,Faridpur,Boalmari,Rural,1930,Inspector,133981,25,91,2,3,150,611,63.8,0
+Dhaka,Faridpur,Char Bhadrasan,River,1945,Inspector,54661,12,39,1,1,56,262,64.7,0
+Dhaka,Faridpur,Madhukhali,Rural,1932,Inspector,91010,21,64,3,2,121,405,48.5,0
+Dhaka,Faridpur,Nagarkanda,Rural,1935,Inspector,87859,24,54,3,2,125,363,72.4,0
+Dhaka,Faridpur,Saltha,Rural,1940,Inspector,61944,17,47,2,1,72,331,40.4,0
+Dhaka,Faridpur,Sadarpur,River,1935,Inspector,107316,29,61,2,2,156,604,47.3,0
+Dhaka,Faridpur,Faridpur Model,Sadar,2015,Sub-Inspector,50542,12,36,1,0,57,225,68.3,1
+Dhaka,Gopalganj,Gopalganj Sadar,Sadar,1882,Inspector,160420,39,89,5,1,209,853,62.9,1
+Dhaka,Gopalganj,Kashiani,Rural,1930,Inspector,124985,24,97,2,3,127,640,61.1,0
+Dhaka,Gopalganj,Kotalipara,Rural,1930,Inspector,125027,35,66,5,4,134,597,60.6,0
+Dhaka,Gopalganj,Muksudpur,Rural,1932,Inspector,118512,33,86,3,3,187,705,67.4,0
+Dhaka,Gopalganj,Tungipara,Rural,1965,Inspector,55275,11,38,1,1,58,231,57.9,0
+Dhaka,Gopalganj,Gopalganj Model,Sadar,2010,Sub-Inspector,42723,8,29,1,0,57,200,57.2,1
+Dhaka,Gopalganj,Kotalipara Ferry,River,2015,Sub-Inspector,12693,8,15,1,0,50,200,85.7,0
+Dhaka,Madaripur,Madaripur Sadar,Sadar,1882,Inspector,181202,51,131,7,1,304,1051,67.8,1
+Dhaka,Madaripur,Kalkini,River,1932,Inspector,127666,27,83,3,3,168,747,67.7,0
+Dhaka,Madaripur,Rajoir,River,1935,Inspector,86640,16,62,2,1,119,421,71.8,0
+Dhaka,Madaripur,Shibchar,River,1928,Inspector,136708,28,90,3,4,123,569,53.2,0
+Dhaka,Madaripur,Sibchar Ferry,River,2005,Sub-Inspector,14655,8,15,1,0,50,200,73.1,0
+Dhaka,Madaripur,Muksudpur Ferry,River,2010,Sub-Inspector,10814,8,15,1,0,50,200,50.4,0
+Dhaka,Rajbari,Rajbari Sadar,Sadar,1882,Inspector,150645,31,82,4,1,150,734,57.5,1
+Dhaka,Rajbari,Baliakandi,Rural,1932,Inspector,109190,30,67,3,1,120,567,57.8,0
+Dhaka,Rajbari,Goalandaghat,River,1928,Inspector,83579,20,54,3,2,133,453,54.5,0
+Dhaka,Rajbari,Kalukhali,River,1940,Inspector,80341,16,60,1,1,73,475,53.8,0
+Dhaka,Rajbari,Pangsha,Rural,1930,Inspector,134358,31,84,3,2,141,624,73.8,0
+Dhaka,Rajbari,Goalanda Ghat,River,1998,Sub-Inspector,16469,8,15,1,0,50,200,43.3,0
+Dhaka,Rajbari,Rajbari Model,Sadar,2015,Sub-Inspector,43705,9,32,1,0,50,211,80.0,1
+Dhaka,Shariatpur,Shariatpur Sadar,Sadar,1882,Inspector,138310,37,76,3,1,209,776,61.7,1
+Dhaka,Shariatpur,Bhedarganj,River,1928,Inspector,136752,27,104,2,3,161,547,70.3,0
+Dhaka,Shariatpur,Damudya,River,1935,Inspector,81148,16,58,2,1,140,477,65.0,0
+Dhaka,Shariatpur,Gosairhat,River,1938,Inspector,109307,28,86,4,1,113,535,81.4,0
+Dhaka,Shariatpur,Jajira,River,1932,Inspector,116516,31,62,3,2,191,494,59.0,0
+Dhaka,Shariatpur,Naria,River,1935,Inspector,114595,28,66,3,2,171,532,55.2,0
+Dhaka,Shariatpur,Shakhipur River,River,2005,Sub-Inspector,12773,8,15,1,0,50,200,44.3,0
+Dhaka,Shariatpur,Jajira Ferry,River,2010,Sub-Inspector,11767,8,15,1,0,50,200,43.8,0
+Khulna,Khulna,Khulna Kotwali,Metropolitan,1882,Additional SP,225567,51,168,7,0,388,953,70.6,1
+Khulna,Khulna,Sonadanga,Metropolitan,1975,Inspector,168890,41,103,6,0,221,823,70.1,1
+Khulna,Khulna,Khalishpur,Industrial,1965,Inspector,179471,49,120,6,0,188,999,35.0,0
+Khulna,Khulna,Daulatpur,Industrial,1968,Inspector,186491,50,119,5,0,306,1042,66.1,0
+Khulna,Khulna,Khan Jahan Ali,Metropolitan,1980,Inspector,155604,36,96,5,0,258,660,69.8,1
+Khulna,Khulna,Harintana,Metropolitan,1990,Inspector,149050,27,111,3,0,193,799,51.5,1
+Khulna,Khulna,Arongghata,Metropolitan,1998,Inspector,135127,31,84,3,0,150,571,73.7,1
+Khulna,Khulna,Khulna Industrial,Industrial,1970,Inspector,116584,23,82,2,0,179,585,60.4,0
+Khulna,Khulna,Batiaghata,Rural,1928,Inspector,109808,24,60,2,5,138,493,70.2,0
+Khulna,Khulna,Dacope,Coastal,1918,Inspector,83177,18,57,2,13,130,430,67.4,0
+Khulna,Khulna,Dighalia,Rural,1940,Inspector,74761,20,43,3,0,96,324,63.1,0
+Khulna,Khulna,Dumuria,Rural,1928,Inspector,143529,40,77,3,4,137,664,68.0,0
+Khulna,Khulna,Koyra,Coastal,1918,Inspector,88525,24,61,3,23,128,368,41.9,0
+Khulna,Khulna,Paikgachha,Coastal,1928,Inspector,123932,25,84,3,6,109,712,67.2,0
+Khulna,Khulna,Phultala,Industrial,1965,Inspector,71052,16,48,1,0,94,392,55.1,0
+Khulna,Khulna,Rupsha,Industrial,1968,Inspector,114234,23,68,2,1,144,565,64.1,0
+Khulna,Khulna,Mongla Port,Industrial,1960,Inspector,70680,14,40,2,2,65,339,71.8,0
+Khulna,Bagerhat,Bagerhat Sadar,Sadar,1882,Inspector,157757,30,107,3,1,231,642,65.1,1
+Khulna,Bagerhat,Chitalmari,Rural,1932,Inspector,69252,18,43,2,1,118,385,52.1,0
+Khulna,Bagerhat,Fakirhat,Rural,1935,Inspector,77934,16,48,2,2,71,372,77.7,0
+Khulna,Bagerhat,Kachua,Rural,1932,Inspector,92997,26,59,4,2,91,515,45.8,0
+Khulna,Bagerhat,Mollahat,Rural,1935,Inspector,78708,17,53,1,2,116,394,63.4,0
+Khulna,Bagerhat,Mongla,Industrial,1960,Inspector,67316,14,40,2,14,98,354,58.5,0
+Khulna,Bagerhat,Morrelganj,Coastal,1928,Inspector,115780,23,92,3,5,147,561,67.6,0
+Khulna,Bagerhat,Rampal,Rural,1938,Inspector,87717,18,56,2,2,146,452,70.6,0
+Khulna,Bagerhat,Sarankhola,Coastal,1935,Inspector,63852,13,34,1,5,96,283,44.5,0
+Khulna,Bagerhat,Mongla EPZ,Industrial,1998,Sub-Inspector,28938,8,19,1,0,50,200,76.3,0
+Khulna,Bagerhat,Bagerhat Model,Sadar,2010,Sub-Inspector,35410,8,24,1,0,58,200,76.5,1
+Khulna,Jessore,Jessore Kotwali,City,1875,Inspector,308601,63,175,9,0,515,1267,55.6,1
+Khulna,Jessore,Abhaynagar,Industrial,1928,Inspector,114721,22,63,2,2,176,665,52.9,0
+Khulna,Jessore,Bagherpara,Rural,1932,Inspector,136124,24,93,2,3,159,735,61.4,0
+Khulna,Jessore,Chaugachha,Rural,1932,Inspector,122455,32,78,4,3,145,600,92.0,0
+Khulna,Jessore,Jhikargachha,Border,1930,Inspector,144202,35,81,5,3,181,717,60.3,0
+Khulna,Jessore,Keshabpur,Rural,1935,Inspector,120610,30,64,3,1,175,488,53.4,0
+Khulna,Jessore,Manirampur,Rural,1928,Inspector,184072,32,141,3,3,212,778,63.4,0
+Khulna,Jessore,Sharsha,Border,1928,Inspector,173283,33,96,3,5,278,944,64.5,0
+Khulna,Jessore,Benapole Land Port,Border,1980,Inspector,37127,8,24,1,0,50,200,46.7,0
+Khulna,Jessore,Jessore Cantonment,Metropolitan,1971,Inspector,36336,8,19,1,0,50,204,63.5,1
+Khulna,Jhenaidah,Jhenaidah Sadar,City,1882,Inspector,240232,57,182,9,1,259,1244,60.1,1
+Khulna,Jhenaidah,Harinakunda,Rural,1932,Inspector,106295,22,69,3,2,129,605,64.7,0
+Khulna,Jhenaidah,Kaliganj,Rural,1930,Inspector,152389,27,115,3,2,243,854,81.0,0
+Khulna,Jhenaidah,Kotchandpur,Rural,1935,Inspector,92117,25,57,2,1,140,452,71.1,0
+Khulna,Jhenaidah,Maheshpur,Rural,1928,Inspector,162387,34,98,5,3,271,963,38.5,0
+Khulna,Jhenaidah,Shailkupa,Rural,1930,Inspector,160199,44,94,6,5,228,741,59.5,0
+Khulna,Jhenaidah,Halidhani,Rural,2005,Sub-Inspector,51104,13,31,1,0,87,209,70.5,0
+Khulna,Jhenaidah,Jhenaidah Model,City,2015,Sub-Inspector,41164,8,25,1,0,50,241,75.7,1
+Khulna,Kushtia,Kushtia Sadar,City,1882,Inspector,282563,59,185,6,1,313,1622,41.6,1
+Khulna,Kushtia,Bheramara,Industrial,1930,Inspector,106501,28,56,4,1,151,470,57.1,0
+Khulna,Kushtia,Daulatpur Kus,Rural,1928,Inspector,164181,34,127,3,3,262,759,68.6,0
+Khulna,Kushtia,Khoksa,Industrial,1935,Inspector,91843,18,63,1,1,105,489,63.8,0
+Khulna,Kushtia,Kumarkhali,Industrial,1928,Inspector,162359,36,95,4,3,152,704,36.4,0
+Khulna,Kushtia,Mirpur Kus,Rural,1932,Inspector,128287,25,99,2,3,151,553,54.4,0
+Khulna,Kushtia,Hardinge Bridge,Industrial,1998,Sub-Inspector,19814,8,15,1,0,50,200,58.3,0
+Khulna,Kushtia,Lalon Shah Border,Border,2005,Sub-Inspector,22040,8,16,1,0,50,200,64.6,0
+Khulna,Chuadanga,Chuadanga Sadar,Border,1882,Inspector,170944,42,110,4,2,262,861,50.8,0
+Khulna,Chuadanga,Alamdanga,Rural,1930,Inspector,135350,33,105,5,4,134,546,80.1,0
+Khulna,Chuadanga,Damurhuda,Border,1928,Inspector,102487,27,58,3,3,108,494,61.5,0
+Khulna,Chuadanga,Jibannagar,Rural,1935,Inspector,81747,16,64,2,2,113,332,64.8,0
+Khulna,Chuadanga,Chuadanga Border,Border,2000,Sub-Inspector,21121,8,15,1,0,50,200,36.4,0
+Khulna,Chuadanga,Darshana ICT,Border,2005,Sub-Inspector,15342,8,15,1,0,50,200,57.4,0
+Khulna,Magura,Magura Sadar,Sadar,1882,Inspector,167851,47,127,5,2,278,674,59.3,1
+Khulna,Magura,Mohammadpur,Rural,1932,Inspector,95562,18,58,2,2,138,486,75.4,0
+Khulna,Magura,Shalikha,Rural,1935,Inspector,68591,15,45,2,2,88,305,58.8,0
+Khulna,Magura,Sreepur,Rural,1938,Inspector,80392,17,43,1,1,107,376,49.2,0
+Khulna,Magura,Magura Model,Sadar,2010,Sub-Inspector,36010,8,27,1,0,50,200,66.3,1
+Khulna,Magura,Binarpota,Rural,2015,Sub-Inspector,49486,10,26,1,1,51,204,52.7,0
+Khulna,Meherpur,Meherpur Sadar,Border,1882,Inspector,120013,22,70,2,1,169,503,64.0,0
+Khulna,Meherpur,Gangni,Border,1928,Inspector,119825,30,66,4,2,147,580,67.1,0
+Khulna,Meherpur,Mujibnagar,Border,1971,Sub-Inspector,41544,8,30,1,0,50,200,58.8,0
+Khulna,Meherpur,Meherpur Border,Border,2000,Sub-Inspector,14716,8,15,1,0,50,200,56.4,0
+Khulna,Meherpur,Meherpur Model,Border,2015,Sub-Inspector,29197,8,15,1,0,51,200,68.0,0
+Khulna,Narail,Narail Sadar,Sadar,1882,Inspector,140297,37,108,5,2,229,815,36.1,1
+Khulna,Narail,Kalia,Rural,1930,Inspector,113278,24,69,3,3,124,605,75.7,0
+Khulna,Narail,Lohagara,Rural,1932,Inspector,94998,27,73,2,1,96,549,61.0,0
+Khulna,Narail,Narail Model,Sadar,2010,Sub-Inspector,33154,8,21,1,0,50,200,41.8,1
+Khulna,Narail,Narail River,River,2015,Sub-Inspector,24788,8,18,1,0,50,200,66.9,0
+Khulna,Satkhira,Satkhira Sadar,Border,1882,Inspector,249765,59,153,5,2,365,1011,53.0,0
+Khulna,Satkhira,Assasuni,Coastal,1928,Inspector,117420,30,72,4,4,144,546,66.3,0
+Khulna,Satkhira,Debhata,Border,1932,Inspector,91421,18,69,2,3,87,452,72.6,0
+Khulna,Satkhira,Kalaroa,Rural,1930,Inspector,151295,43,119,5,5,198,668,45.5,0
+Khulna,Satkhira,Kaliganj Sat,Coastal,1930,Inspector,136708,27,104,4,4,237,629,64.7,0
+Khulna,Satkhira,Shyamnagar,Coastal,1918,Inspector,98642,26,57,3,17,117,414,35.0,0
+Khulna,Satkhira,Tala,Rural,1932,Inspector,130222,28,92,3,2,170,585,51.2,0
+Khulna,Satkhira,Bhomra Land Port,Border,1998,Sub-Inspector,20598,8,15,1,0,50,200,55.2,0
+Khulna,Satkhira,Sundarban,Coastal,2005,Sub-Inspector,10857,8,15,1,0,50,200,71.9,0
+Mymensingh,Mymensingh,Mymensingh Kotwali,City,1875,Inspector,367458,75,265,11,1,515,1718,63.4,1
+Mymensingh,Mymensingh,Mymensingh Sadar,Sadar,1982,Inspector,222938,61,151,5,1,216,1273,54.9,1
+Mymensingh,Mymensingh,Bhaluka,Industrial,1930,Inspector,233448,43,147,5,3,314,985,62.7,0
+Mymensingh,Mymensingh,Dhobaura,Border,1940,Inspector,79398,14,48,1,3,94,348,79.4,0
+Mymensingh,Mymensingh,Fulbaria,Rural,1928,Inspector,187866,53,143,5,2,231,946,92.0,0
+Mymensingh,Mymensingh,Gaffargaon,Rural,1928,Inspector,190159,39,119,3,2,295,854,57.5,0
+Mymensingh,Mymensingh,Gauripur,Rural,1932,Inspector,146364,30,113,4,3,186,688,61.3,0
+Mymensingh,Mymensingh,Haluaghat,Border,1928,Inspector,140197,25,104,3,3,156,814,59.4,0
+Mymensingh,Mymensingh,Ishwarganj,Rural,1930,Inspector,191347,47,134,4,3,334,797,54.7,0
+Mymensingh,Mymensingh,Muktagachha,Rural,1930,Inspector,145028,36,91,5,3,142,830,65.0,0
+Mymensingh,Mymensingh,Nandail,Rural,1928,Inspector,162641,43,108,4,3,175,970,65.3,0
+Mymensingh,Mymensingh,Phulpur,Rural,1928,Inspector,215224,42,163,6,5,357,975,48.7,0
+Mymensingh,Mymensingh,Trishal,Industrial,1930,Inspector,194873,55,131,7,4,339,907,72.1,0
+Mymensingh,Mymensingh,Mymensingh Model,City,2010,Sub-Inspector,64296,11,44,1,0,57,337,69.5,1
+Mymensingh,Mymensingh,Bhaluka Industrial,Industrial,2012,Sub-Inspector,88599,17,70,2,0,152,526,67.9,0
+Mymensingh,Mymensingh,Haluaghat Border,Border,2005,Sub-Inspector,13231,8,15,1,0,50,200,57.1,0
+Mymensingh,Mymensingh,Trishal University,Rural,2015,Sub-Inspector,18733,8,15,1,0,50,200,76.0,0
+Mymensingh,Jamalpur,Jamalpur Sadar,City,1882,Inspector,264526,53,179,5,2,391,1317,76.7,1
+Mymensingh,Jamalpur,Baksiganj,Rural,1932,Inspector,101208,19,75,1,2,114,464,39.8,0
+Mymensingh,Jamalpur,Dewanganj,River,1930,Inspector,155903,40,96,4,3,264,807,54.8,0
+Mymensingh,Jamalpur,Islampur,River,1928,Inspector,190326,48,128,7,4,282,764,53.8,0
+Mymensingh,Jamalpur,Madarganj,River,1932,Inspector,116645,28,80,4,2,151,604,72.7,0
+Mymensingh,Jamalpur,Melandaha,River,1930,Inspector,162464,45,87,4,3,211,895,56.4,0
+Mymensingh,Jamalpur,Sarishabari,Rural,1930,Inspector,135528,30,79,3,1,164,682,70.6,0
+Mymensingh,Jamalpur,Jamalpur Model,City,2010,Sub-Inspector,40793,10,31,1,0,53,200,58.6,1
+Mymensingh,Jamalpur,Dewanganj Ferry,River,2005,Sub-Inspector,11323,8,15,1,0,50,200,35.0,0
+Mymensingh,Netrokona,Netrokona Sadar,Sadar,1882,Inspector,175094,35,102,3,1,287,943,50.3,1
+Mymensingh,Netrokona,Atpara,Rural,1932,Inspector,106042,19,75,1,1,158,539,58.9,0
+Mymensingh,Netrokona,Barhatta,Rural,1935,Inspector,95385,23,75,2,1,86,569,75.9,0
+Mymensingh,Netrokona,Durgapur,Border,1932,Inspector,87123,19,49,2,4,108,473,53.1,0
+Mymensingh,Netrokona,Kalmakanda,Border,1930,Inspector,115734,29,62,4,3,178,554,74.0,0
+Mymensingh,Netrokona,Kendua,Rural,1928,Inspector,180350,50,97,6,5,297,843,76.1,0
+Mymensingh,Netrokona,Khaliajuri,River,1938,Inspector,67601,13,43,1,2,102,332,61.5,0
+Mymensingh,Netrokona,Madan,River,1932,Inspector,102740,28,77,3,2,108,559,71.1,0
+Mymensingh,Netrokona,Mohanganj,River,1935,Inspector,96658,20,72,2,2,159,502,60.1,0
+Mymensingh,Netrokona,Purbadhala,Rural,1928,Inspector,150144,37,117,5,2,251,729,65.6,0
+Mymensingh,Netrokona,Netrokona Model,Sadar,2010,Sub-Inspector,39195,8,25,1,0,57,206,69.6,1
+Mymensingh,Sherpur,Sherpur Sadar,City,1882,Inspector,212959,57,125,8,2,333,1004,35.0,1
+Mymensingh,Sherpur,Jhenaigati,Border,1932,Inspector,81032,20,56,2,3,131,483,57.4,0
+Mymensingh,Sherpur,Nakla,Rural,1932,Inspector,119898,21,86,3,3,128,671,57.6,0
+Mymensingh,Sherpur,Nalitabari,Border,1928,Inspector,124451,27,96,2,3,184,616,66.9,0
+Mymensingh,Sherpur,Sreebardi,Border,1930,Inspector,104210,28,68,3,3,103,604,61.1,0
+Mymensingh,Sherpur,Sherpur Model,City,2010,Sub-Inspector,42277,9,25,1,0,50,200,75.2,1
+Mymensingh,Sherpur,Nalitabari Border,Border,2005,Sub-Inspector,11253,8,15,1,0,50,200,61.0,0
+Mymensingh,Sherpur,Sreebardi Border,Border,2008,Sub-Inspector,9105,8,15,1,0,50,200,52.1,0
+Mymensingh,Netrokona,Durgapur Border,Border,2008,Sub-Inspector,14781,8,15,1,0,50,200,47.3,0
+Mymensingh,Netrokona,Kalmakanda Border,Border,2010,Sub-Inspector,12733,8,15,1,0,50,200,56.6,0
+Mymensingh,Mymensingh,Dhobaura Border,Border,2008,Sub-Inspector,12303,8,15,1,0,50,200,53.2,0
+Mymensingh,Mymensingh,Gaffargaon Industrial,Industrial,2015,Sub-Inspector,36332,9,24,1,0,50,200,60.6,0
+Mymensingh,Mymensingh,Mymensingh River,River,2018,Sub-Inspector,13231,8,15,1,0,50,200,63.7,0
+Mymensingh,Jamalpur,Islampur River,River,2008,Sub-Inspector,15072,8,15,1,0,50,200,60.9,0
+Mymensingh,Jamalpur,Sarishabari Handloom,Rural,2015,Sub-Inspector,22971,8,15,1,0,50,200,35.0,0
+Rajshahi,Rajshahi,Boalia,Metropolitan,1920,Inspector,244948,61,159,8,0,367,1006,59.3,1
+Rajshahi,Rajshahi,Rajpara,Metropolitan,1952,Inspector,216680,39,148,6,0,317,1093,56.1,1
+Rajshahi,Rajshahi,Motihar,Metropolitan,1965,Inspector,187875,52,100,8,0,252,946,59.8,1
+Rajshahi,Rajshahi,Shah Makhdum,Metropolitan,1975,Inspector,150634,41,84,4,0,181,672,59.9,1
+Rajshahi,Rajshahi,Rajshahi Cantonment,Metropolitan,1971,Inspector,90296,22,64,2,0,118,480,56.5,1
+Rajshahi,Rajshahi,Rajshahi Industrial,Industrial,1980,Inspector,107557,20,63,3,0,163,627,59.8,0
+Rajshahi,Rajshahi,Bagha,Rural,1928,Inspector,104215,24,62,2,3,143,602,69.5,0
+Rajshahi,Rajshahi,Bagmara,Rural,1930,Inspector,190555,44,134,4,6,228,1004,64.6,0
+Rajshahi,Rajshahi,Charghat,Industrial,1935,Inspector,99567,24,76,2,2,170,507,78.5,0
+Rajshahi,Rajshahi,Durgapur Raj,Rural,1932,Inspector,126578,34,99,3,4,173,529,51.9,0
+Rajshahi,Rajshahi,Godagari,Border,1928,Inspector,146622,26,91,3,6,206,748,62.8,0
+Rajshahi,Rajshahi,Mohanpur,Rural,1935,Inspector,97804,18,59,2,1,89,449,65.7,0
+Rajshahi,Rajshahi,Paba,Industrial,1930,Inspector,190409,37,150,4,3,274,1127,59.8,0
+Rajshahi,Rajshahi,Putia,Rural,1932,Inspector,109923,28,74,4,2,139,460,48.6,0
+Rajshahi,Rajshahi,Godagari Border,Border,2000,Sub-Inspector,12688,8,15,1,0,50,200,45.2,0
+Rajshahi,Rajshahi,Rajshahi EPZ,Industrial,2005,Sub-Inspector,22529,8,16,1,0,50,200,67.6,0
+Rajshahi,Bogura,Bogura Sadar,City,1882,Inspector,350911,76,280,6,2,339,1940,58.8,1
+Rajshahi,Bogura,Adamdighi,Rural,1932,Inspector,102322,29,58,2,1,139,542,68.6,0
+Rajshahi,Bogura,Dhunat,River,1928,Inspector,146950,37,93,4,4,220,750,70.1,0
+Rajshahi,Bogura,Dupchanchia,Rural,1935,Inspector,89122,24,60,2,1,78,468,44.2,0
+Rajshahi,Bogura,Gabtali,Rural,1930,Inspector,150799,42,117,3,2,253,710,66.7,0
+Rajshahi,Bogura,Kahaloo,Rural,1932,Inspector,124730,33,89,5,1,206,522,52.8,0
+Rajshahi,Bogura,Nandigram,Rural,1935,Inspector,108471,31,63,3,1,138,457,50.8,0
+Rajshahi,Bogura,Sariakandi,River,1930,Inspector,122480,34,92,3,5,143,581,74.2,0
+Rajshahi,Bogura,Shajahanpur,Industrial,1938,Inspector,93281,26,66,2,1,99,502,51.8,0
+Rajshahi,Bogura,Sherpur Bog,Rural,1930,Inspector,144493,38,106,4,3,239,791,54.0,0
+Rajshahi,Bogura,Shibganj Bog,Rural,1928,Inspector,183690,44,98,5,2,281,739,60.8,0
+Rajshahi,Bogura,Sonatola,Rural,1940,Inspector,86120,23,61,2,1,150,496,64.1,0
+Rajshahi,Bogura,Bogura Model,City,2010,Sub-Inspector,48163,9,31,1,0,50,244,65.7,1
+Rajshahi,Bogura,Sariakandi River,River,2015,Sub-Inspector,14835,8,15,1,0,50,200,41.2,0
+Rajshahi,Chapainawabganj,Chapainawabganj Sadar,Border,1882,Inspector,229827,63,173,6,2,222,1036,63.7,0
+Rajshahi,Chapainawabganj,Bholahat,Border,1935,Inspector,55606,9,44,1,1,94,330,51.9,0
+Rajshahi,Chapainawabganj,Gomastapur,Rural,1928,Inspector,156276,38,96,4,3,230,907,44.5,0
+Rajshahi,Chapainawabganj,Nachole,Border,1932,Inspector,108701,20,74,2,3,123,550,56.6,0
+Rajshahi,Chapainawabganj,Shibganj Chap,Border,1928,Inspector,170606,47,113,5,7,188,764,56.7,0
+Rajshahi,Chapainawabganj,Sonamasjid Land Port,Border,1980,Sub-Inspector,20999,8,15,1,0,50,200,71.6,0
+Rajshahi,Chapainawabganj,Chapai Model,Border,2010,Sub-Inspector,35095,8,20,1,0,50,200,71.6,0
+Rajshahi,Joypurhat,Joypurhat Sadar,City,1882,Inspector,137816,32,84,4,1,142,660,64.2,1
+Rajshahi,Joypurhat,Akkelpur,Industrial,1940,Inspector,79356,15,44,2,2,112,395,73.1,0
+Rajshahi,Joypurhat,Kalai,Rural,1932,Inspector,105980,21,62,2,2,170,515,67.8,0
+Rajshahi,Joypurhat,Khetlal,Rural,1935,Inspector,67367,18,42,2,1,87,318,63.2,0
+Rajshahi,Joypurhat,Panchbibi,Rural,1932,Inspector,99770,25,60,3,3,164,557,61.8,0
+Rajshahi,Joypurhat,Joypurhat Model,City,2010,Sub-Inspector,31680,8,23,1,0,52,200,72.0,1
+Rajshahi,Joypurhat,Akkelpur Industrial,Industrial,2015,Sub-Inspector,21830,8,15,1,0,50,200,70.9,0
+Rajshahi,Naogaon,Naogaon Sadar,City,1882,Inspector,235320,62,156,8,2,267,1374,65.6,1
+Rajshahi,Naogaon,Atrai,River,1930,Inspector,113984,22,62,3,3,138,615,53.4,0
+Rajshahi,Naogaon,Badalgachhi,Rural,1932,Inspector,100386,22,62,2,3,168,424,57.4,0
+Rajshahi,Naogaon,Dhamoirhat,Rural,1935,Inspector,96747,19,64,1,3,84,550,47.8,0
+Rajshahi,Naogaon,Manda,Rural,1930,Inspector,149164,32,86,3,4,224,886,57.2,0
+Rajshahi,Naogaon,Mahadebpur,Rural,1928,Inspector,157242,28,96,3,5,172,749,58.3,0
+Rajshahi,Naogaon,Niamatpur,Rural,1932,Inspector,137434,36,90,5,2,146,750,56.5,0
+Rajshahi,Naogaon,Patnitala,Rural,1935,Inspector,112749,30,73,4,3,135,656,59.9,0
+Rajshahi,Naogaon,Porsha,Border,1938,Inspector,92891,22,73,3,3,152,435,65.5,0
+Rajshahi,Naogaon,Raninagar,Rural,1940,Inspector,92607,25,69,2,2,86,387,41.3,0
+Rajshahi,Naogaon,Sapahar,Rural,1938,Inspector,102433,24,68,2,4,151,473,35.0,0
+Rajshahi,Naogaon,Naogaon Model,City,2010,Sub-Inspector,48008,9,28,1,0,75,237,56.0,1
+Rajshahi,Naogaon,Atrai River,River,2015,Sub-Inspector,15210,8,15,1,0,50,200,76.5,0
+Rajshahi,Natore,Natore Sadar,City,1882,Inspector,210981,44,124,7,2,198,992,45.6,1
+Rajshahi,Natore,Bagatipara,Rural,1938,Inspector,70289,16,38,2,1,64,393,69.4,0
+Rajshahi,Natore,Baraigram,Rural,1930,Inspector,148705,26,106,4,2,197,879,71.5,0
+Rajshahi,Natore,Gurudaspur,Industrial,1932,Inspector,121012,32,75,4,3,140,612,81.0,0
+Rajshahi,Natore,Lalpur,Rural,1932,Inspector,122745,23,92,2,1,144,492,50.1,0
+Rajshahi,Natore,Singra,Rural,1928,Inspector,167105,46,109,4,3,180,893,62.4,0
+Rajshahi,Natore,Natore Model,City,2010,Sub-Inspector,40142,11,25,1,0,50,228,52.3,1
+Rajshahi,Natore,Baraigram Sugar,Industrial,2012,Sub-Inspector,21159,8,15,1,0,50,200,49.5,0
+Rajshahi,Pabna,Pabna Sadar,City,1882,Inspector,283068,76,178,8,2,490,1467,65.2,1
+Rajshahi,Pabna,Atgharia,Rural,1938,Inspector,90661,18,72,1,1,129,499,71.7,0
+Rajshahi,Pabna,Bera,River,1928,Inspector,146338,28,80,4,3,173,697,78.8,0
+Rajshahi,Pabna,Bhangura,Rural,1940,Inspector,78111,17,52,2,1,130,328,72.5,0
+Rajshahi,Pabna,Chatmohar,River,1932,Inspector,124445,33,66,4,4,213,672,68.8,0
+Rajshahi,Pabna,Faridpur Pab,Rural,1935,Inspector,95654,19,69,2,3,105,385,52.4,0
+Rajshahi,Pabna,Ishwardi,Industrial,1930,Inspector,187905,45,130,5,2,308,786,37.9,0
+Rajshahi,Pabna,Santhia,River,1930,Inspector,151881,41,89,4,4,155,834,69.3,0
+Rajshahi,Pabna,Sujanagar,River,1932,Inspector,134717,34,104,3,3,178,804,71.0,0
+Rajshahi,Pabna,Ishwardi EPZ,Industrial,2000,Sub-Inspector,28112,8,20,1,0,50,200,74.6,0
+Rajshahi,Pabna,Pabna Model,City,2010,Sub-Inspector,40088,8,24,1,0,62,200,59.9,1
+Rajshahi,Sirajganj,Sirajganj Sadar,City,1882,Inspector,282353,69,189,7,2,301,1662,57.8,1
+Rajshahi,Sirajganj,Belkuchi,Industrial,1928,Inspector,138291,37,96,3,1,132,798,51.7,0
+Rajshahi,Sirajganj,Chauhali,River,1932,Inspector,103366,19,74,2,1,90,449,78.7,0
+Rajshahi,Sirajganj,Kamarkhand,Industrial,1930,Inspector,123400,30,67,3,1,152,676,41.5,0
+Rajshahi,Sirajganj,Kazipur,River,1928,Inspector,157812,40,84,3,4,209,876,57.2,0
+Rajshahi,Sirajganj,Raiganj,River,1928,Inspector,182375,36,138,5,2,234,761,55.2,0
+Rajshahi,Sirajganj,Shahjadpur,Industrial,1930,Inspector,257144,62,158,7,5,353,1168,65.6,0
+Rajshahi,Sirajganj,Tarash,Rural,1935,Inspector,108709,22,62,2,3,110,552,80.5,0
+Rajshahi,Sirajganj,Ullahpara,Industrial,1930,Inspector,165431,30,103,4,2,256,681,61.3,0
+Rajshahi,Sirajganj,Sirajganj Ferry,River,2000,Sub-Inspector,13539,8,15,1,0,50,200,83.0,0
+Rajshahi,Sirajganj,Sirajganj Industrial,Industrial,2005,Sub-Inspector,39366,9,28,1,0,67,200,45.2,0
+Rajshahi,Sirajganj,Shahjadpur Handloom,Industrial,2010,Sub-Inspector,31457,8,23,1,0,50,200,81.0,0
+Rangpur,Rangpur,Rangpur Kotwali,City,1882,Inspector,352392,71,258,9,1,457,1615,60.8,1
+Rangpur,Rangpur,Rangpur Sadar,Sadar,1982,Inspector,217851,46,149,6,1,282,1118,73.2,1
+Rangpur,Rangpur,Rangpur Model,City,2010,Inspector,97926,19,78,1,0,167,401,55.4,1
+Rangpur,Rangpur,Rangpur Industrial,Industrial,1985,Inspector,87288,18,49,2,0,83,395,48.3,0
+Rangpur,Rangpur,Rangpur Cantonment,Metropolitan,1971,Inspector,51860,10,40,1,0,85,275,72.8,1
+Rangpur,Rangpur,Badarganj,Rural,1928,Inspector,125705,33,87,5,2,113,751,84.3,0
+Rangpur,Rangpur,Gangachara,Rural,1930,Inspector,154121,42,104,4,3,200,651,56.3,0
+Rangpur,Rangpur,Kaunia,Rural,1932,Inspector,90149,24,61,3,2,115,458,52.3,0
+Rangpur,Rangpur,Mithapukur,Rural,1928,Inspector,232326,53,173,7,6,351,1128,85.0,0
+Rangpur,Rangpur,Pirgachha,Rural,1930,Inspector,146624,29,86,2,2,208,830,46.8,0
+Rangpur,Rangpur,Pirganj Rng,Rural,1928,Inspector,182862,36,137,4,4,312,1065,89.2,0
+Rangpur,Rangpur,Taraganj,Rural,1935,Inspector,102024,19,57,2,2,120,507,65.0,0
+Rangpur,Dinajpur,Dinajpur Sadar,City,1882,Inspector,349829,68,276,9,2,599,1675,50.1,1
+Rangpur,Dinajpur,Birampur,Rural,1932,Inspector,97948,22,65,2,3,93,526,71.8,0
+Rangpur,Dinajpur,Birganj,Rural,1930,Inspector,141370,29,85,4,4,152,780,52.6,0
+Rangpur,Dinajpur,Biral,Rural,1932,Inspector,114711,21,71,2,3,183,472,55.8,0
+Rangpur,Dinajpur,Bochaganj,Rural,1935,Inspector,119987,34,71,3,3,196,599,80.6,0
+Rangpur,Dinajpur,Chirirbandar,Rural,1932,Inspector,132551,26,105,4,3,120,747,69.5,0
+Rangpur,Dinajpur,Fulbari Din,Industrial,1935,Inspector,109219,26,68,3,2,169,600,76.4,0
+Rangpur,Dinajpur,Ghoraghat,Rural,1938,Inspector,70883,17,43,2,2,104,418,63.1,0
+Rangpur,Dinajpur,Hakimpur,Rural,1940,Inspector,65948,18,48,2,1,111,352,64.8,0
+Rangpur,Dinajpur,Kaharole,Rural,1935,Inspector,105931,27,68,3,1,110,575,74.1,0
+Rangpur,Dinajpur,Khansama,Rural,1938,Inspector,89701,24,67,2,2,90,488,59.9,0
+Rangpur,Dinajpur,Nawabganj Din,Border,1930,Inspector,119692,30,73,3,4,206,501,59.1,0
+Rangpur,Dinajpur,Parbatipur,Industrial,1930,Inspector,138753,35,80,4,3,137,826,82.5,0
+Rangpur,Dinajpur,Dinajpur Model,City,2010,Sub-Inspector,47717,11,36,1,0,75,279,44.1,1
+Rangpur,Dinajpur,Fulbari Coal,Industrial,2008,Sub-Inspector,24279,8,15,1,0,50,200,61.0,0
+Rangpur,Gaibandha,Gaibandha Sadar,City,1882,Inspector,217100,44,115,5,1,353,916,61.5,1
+Rangpur,Gaibandha,Fulchhari,River,1930,Inspector,117661,33,75,5,2,148,695,53.0,0
+Rangpur,Gaibandha,Gobindaganj,Industrial,1928,Inspector,274000,62,175,7,4,310,1266,74.5,0
+Rangpur,Gaibandha,Palashbari,Rural,1932,Inspector,115206,26,73,2,2,165,605,68.4,0
+Rangpur,Gaibandha,Sadullapur,Rural,1930,Inspector,146076,39,94,6,4,248,736,59.9,0
+Rangpur,Gaibandha,Saghata,River,1932,Inspector,122209,31,70,4,3,149,659,52.1,0
+Rangpur,Gaibandha,Sundarganj,River,1928,Inspector,187455,41,120,5,6,294,875,59.6,0
+Rangpur,Gaibandha,Gaibandha Model,City,2010,Sub-Inspector,43961,8,33,1,0,50,205,55.6,1
+Rangpur,Gaibandha,Fulchhari Ferry,River,2005,Sub-Inspector,10985,8,15,1,0,50,200,67.8,0
+Rangpur,Kurigram,Kurigram Sadar,City,1882,Inspector,234923,63,141,7,1,294,1047,68.9,1
+Rangpur,Kurigram,Bhurungamari,Border,1928,Inspector,145220,33,115,4,4,191,810,35.0,0
+Rangpur,Kurigram,Char Rajibpur,River,1945,Inspector,65360,14,36,1,2,88,354,69.6,0
+Rangpur,Kurigram,Chilmari,River,1932,Inspector,97966,23,64,2,1,107,532,54.0,0
+Rangpur,Kurigram,Nageshwari,Rural,1928,Inspector,234483,62,180,5,5,390,1230,59.9,0
+Rangpur,Kurigram,Phulbari Kur,Border,1932,Inspector,102543,26,80,2,3,124,457,57.5,0
+Rangpur,Kurigram,Rajarhat,Rural,1932,Inspector,120104,32,72,3,3,129,693,69.1,0
+Rangpur,Kurigram,Raumari,Border,1935,Inspector,113933,24,90,3,3,141,543,65.1,0
+Rangpur,Kurigram,Ulipur,River,1928,Inspector,228226,65,145,7,4,322,1328,63.7,0
+Rangpur,Kurigram,Kurigram Model,City,2010,Sub-Inspector,41904,11,28,1,0,60,200,80.2,1
+Rangpur,Kurigram,Bhurungamari Border,Border,2005,Sub-Inspector,12821,8,15,1,0,50,200,60.9,0
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Border,1882,Inspector,182760,52,106,6,2,217,1007,62.4,0
+Rangpur,Lalmonirhat,Aditmari,Rural,1932,Inspector,108755,24,61,3,2,113,566,78.7,0
+Rangpur,Lalmonirhat,Hatibandha,Border,1930,Inspector,153640,34,95,4,4,266,821,56.3,0
+Rangpur,Lalmonirhat,Kaliganj Lal,Rural,1932,Inspector,119291,25,66,2,2,122,503,77.3,0
+Rangpur,Lalmonirhat,Patgram,Border,1928,Inspector,176689,36,117,3,6,160,1045,49.3,0
+Rangpur,Lalmonirhat,Lalmonirhat Model,Border,2010,Sub-Inspector,34109,8,23,1,0,50,200,74.4,0
+Rangpur,Lalmonirhat,Burimari Land Port,Border,1997,Sub-Inspector,13011,8,15,1,0,50,200,57.3,0
+Rangpur,Nilphamari,Nilphamari Sadar,City,1882,Inspector,229654,46,164,5,1,399,1176,66.9,1
+Rangpur,Nilphamari,Dimla,Border,1930,Inspector,135614,29,105,4,4,173,722,37.8,0
+Rangpur,Nilphamari,Domar,Rural,1932,Inspector,129090,28,91,3,1,158,707,69.5,0
+Rangpur,Nilphamari,Jaldhaka,Rural,1932,Inspector,126582,25,75,3,3,167,580,58.1,0
+Rangpur,Nilphamari,Kishoreganj Nil,Rural,1935,Inspector,99728,19,73,1,2,99,418,60.0,0
+Rangpur,Nilphamari,Saidpur,Industrial,1930,Inspector,182593,51,143,6,1,274,936,65.4,0
+Rangpur,Nilphamari,Nilphamari Model,City,2010,Sub-Inspector,37782,10,29,1,0,50,200,51.0,1
+Rangpur,Nilphamari,Saidpur Cantonment,Industrial,1971,Sub-Inspector,29766,8,21,1,0,50,200,55.9,0
+Rangpur,Panchagarh,Panchagarh Sadar,Border,1882,Inspector,150163,29,118,3,1,151,764,82.3,0
+Rangpur,Panchagarh,Atwari,Border,1932,Inspector,87895,20,65,2,1,129,458,57.7,0
+Rangpur,Panchagarh,Boda,Rural,1930,Inspector,122396,29,77,4,4,163,632,53.6,0
+Rangpur,Panchagarh,Debiganj,Border,1932,Inspector,121173,33,83,2,3,128,589,63.4,0
+Rangpur,Panchagarh,Tetulia,Border,1935,Inspector,82968,19,59,2,2,93,431,48.4,0
+Rangpur,Panchagarh,Banglabandha Land Port,Border,1997,Sub-Inspector,11572,8,15,1,0,50,200,65.1,0
+Rangpur,Thakurgaon,Thakurgaon Sadar,City,1882,Inspector,245165,54,145,8,2,388,986,56.6,1
+Rangpur,Thakurgaon,Baliadangi,Rural,1930,Inspector,113856,24,64,2,3,194,540,81.9,0
+Rangpur,Thakurgaon,Haripur,Rural,1932,Inspector,98305,26,56,2,3,142,421,58.5,0
+Rangpur,Thakurgaon,Pirganj Tha,Rural,1928,Inspector,149853,29,81,3,4,209,646,53.1,0
+Rangpur,Thakurgaon,Ranisankail,Rural,1930,Inspector,157691,30,101,2,2,178,829,78.1,0
+Rangpur,Thakurgaon,Thakurgaon Model,City,2010,Sub-Inspector,41379,8,24,1,0,59,228,47.6,1
+Rangpur,Thakurgaon,Haripur Border,Border,2008,Sub-Inspector,11101,8,15,1,0,50,200,65.4,0
+Sylhet,Sylhet,Sylhet Kotwali,Metropolitan,1874,Additional SP,474335,101,306,12,0,637,2583,87.5,1
+Sylhet,Sylhet,South Surma,Metropolitan,1980,Inspector,185309,37,137,3,0,233,1109,42.4,1
+Sylhet,Sylhet,Sylhet Sadar,Sadar,1982,Inspector,240072,54,164,5,0,288,1342,57.7,1
+Sylhet,Sylhet,Osmani Nagar,Industrial,2000,Inspector,139831,25,93,2,0,186,777,75.1,0
+Sylhet,Sylhet,Sylhet Airport,Metropolitan,1980,Inspector,92630,18,60,2,0,98,405,68.7,1
+Sylhet,Sylhet,Shah Paran,Metropolitan,2005,Inspector,120614,30,70,4,0,193,658,70.5,1
+Sylhet,Sylhet,Jalalabad,Metropolitan,2008,Inspector,119018,33,87,5,0,110,711,61.2,1
+Sylhet,Sylhet,Sylhet Industrial,Industrial,2010,Inspector,86624,22,46,2,0,131,459,77.4,0
+Sylhet,Sylhet,Balaganj,Rural,1928,Inspector,136931,31,87,2,3,155,577,35.0,0
+Sylhet,Sylhet,Beani Bazar,Rural,1930,Inspector,149005,38,112,4,1,259,633,74.1,0
+Sylhet,Sylhet,Bishwanath,Industrial,1928,Inspector,164023,39,113,3,1,188,816,73.9,0
+Sylhet,Sylhet,Companiganj Syl,Rural,1935,Inspector,91411,18,63,2,3,105,486,60.1,0
+Sylhet,Sylhet,Dakshin Surma,Industrial,1930,Inspector,136834,25,92,2,2,120,558,62.9,0
+Sylhet,Sylhet,Fenchuganj,Industrial,1965,Inspector,92387,22,63,2,1,84,404,78.3,0
+Sylhet,Sylhet,Golapganj,Rural,1928,Inspector,144052,31,86,3,3,179,800,43.1,0
+Sylhet,Sylhet,Gowainghat,Rural,1932,Inspector,108206,29,85,3,7,186,622,66.0,0
+Sylhet,Sylhet,Jaintiapur,Rural,1935,Inspector,106831,29,76,2,5,124,636,78.8,0
+Sylhet,Sylhet,Kanaighat,Border,1930,Inspector,127670,36,95,4,3,125,634,63.3,0
+Sylhet,Sylhet,Zakiganj,Border,1930,Inspector,128741,24,85,2,2,198,529,43.5,0
+Sylhet,Sylhet,Zakiganj Border,Border,2000,Sub-Inspector,13201,8,15,1,0,50,200,64.0,0
+Sylhet,Sylhet,Kanaighat Border,Border,2005,Sub-Inspector,11888,8,15,1,0,50,200,61.9,0
+Sylhet,Sylhet,Gowainghat Stone,Rural,2008,Sub-Inspector,17233,8,15,1,0,50,200,85.6,0
+Sylhet,Sylhet,Fenchuganj Gas,Industrial,2010,Sub-Inspector,11526,8,15,1,0,50,200,49.0,0
+Sylhet,Habiganj,Habiganj Sadar,City,1882,Inspector,221311,52,165,5,3,284,1303,56.3,1
+Sylhet,Habiganj,Ajmiriganj,River,1935,Inspector,75292,17,40,2,2,97,304,76.9,0
+Sylhet,Habiganj,Bahubal,Rural,1932,Inspector,109029,29,72,3,2,188,504,54.6,0
+Sylhet,Habiganj,Baniachong,Rural,1928,Inspector,180026,37,105,5,6,294,770,61.1,0
+Sylhet,Habiganj,Chunarughat,Tea,1928,Inspector,121003,24,92,3,3,123,585,80.5,0
+Sylhet,Habiganj,Lakhai,Rural,1938,Inspector,85437,16,57,2,2,90,488,35.0,0
+Sylhet,Habiganj,Madhabpur,Tea,1930,Inspector,125699,32,93,4,3,208,544,56.0,0
+Sylhet,Habiganj,Nabiganj,Rural,1928,Inspector,146710,40,92,5,5,133,783,43.4,0
+Sylhet,Habiganj,Shaistaganj,Industrial,2000,Sub-Inspector,62487,13,47,1,0,64,283,55.2,0
+Sylhet,Habiganj,Habiganj Model,City,2010,Sub-Inspector,37079,10,25,1,0,50,200,35.3,1
+Sylhet,Habiganj,Chunarughat Tea,Tea,2008,Sub-Inspector,17076,8,15,1,0,50,200,76.4,0
+Sylhet,Habiganj,Ajmiriganj Ferry,River,2012,Sub-Inspector,9169,8,15,1,0,50,200,65.6,0
+Sylhet,Moulvibazar,Moulvibazar Sadar,City,1882,Inspector,174302,38,125,4,2,214,822,35.0,1
+Sylhet,Moulvibazar,Barlekha,Tea,1928,Inspector,91233,18,63,1,2,92,445,49.8,0
+Sylhet,Moulvibazar,Juri,Tea,1935,Inspector,70480,12,53,1,1,88,321,65.2,0
+Sylhet,Moulvibazar,Kamalganj,Tea,1930,Inspector,97427,26,52,3,3,150,578,58.6,0
+Sylhet,Moulvibazar,Kulaura,Tea,1928,Inspector,148306,35,116,3,4,148,809,54.3,0
+Sylhet,Moulvibazar,Rajnagar,Tea,1938,Inspector,74717,13,43,2,3,90,305,66.2,0
+Sylhet,Moulvibazar,Sreemangal,Tea,1928,Inspector,108562,22,80,2,5,141,634,44.3,0
+Sylhet,Moulvibazar,Moulvibazar Model,City,2010,Sub-Inspector,41001,8,28,1,0,50,213,50.2,1
+Sylhet,Moulvibazar,Sreemangal Tourism,Tourism,2010,Sub-Inspector,19930,8,15,1,0,50,200,58.0,0
+Sylhet,Moulvibazar,Kulaura Railway,Tea,2008,Sub-Inspector,12638,8,15,1,0,50,200,68.6,0
+Sylhet,Moulvibazar,Barlekha Tea,Tea,2012,Sub-Inspector,13245,8,15,1,0,50,200,74.1,0
+Sylhet,Moulvibazar,Kamalganj Tea,Tea,2015,Sub-Inspector,10975,8,15,1,0,50,200,69.8,0
+Sylhet,Sunamganj,Sunamganj Sadar,City,1882,Inspector,175904,38,100,4,1,261,719,66.3,1
+Sylhet,Sunamganj,Bishwamvarpur,River,1935,Inspector,68042,18,37,1,1,83,396,77.8,0
+Sylhet,Sunamganj,Chhatak,Industrial,1928,Inspector,162743,43,129,4,3,187,766,59.3,0
+Sylhet,Sunamganj,Derai,River,1930,Inspector,102960,27,75,3,4,163,535,58.9,0
+Sylhet,Sunamganj,Dharampasha,River,1932,Inspector,108737,22,83,3,6,124,459,68.4,0
+Sylhet,Sunamganj,Dowarabazar,Border,1938,Inspector,78608,18,61,2,2,75,320,92.0,0
+Sylhet,Sunamganj,Jagannathpur,Rural,1930,Inspector,115723,32,77,2,2,116,671,68.0,0
+Sylhet,Sunamganj,Jamalganj,River,1935,Inspector,76149,20,46,2,3,83,365,75.3,0
+Sylhet,Sunamganj,Sulla,River,1940,Inspector,67580,16,38,1,4,109,336,72.0,0
+Sylhet,Sunamganj,Tahirpur,River,1932,Inspector,89437,20,57,2,3,112,463,68.8,0
+Sylhet,Sunamganj,Sunamganj Model,City,2010,Sub-Inspector,36398,10,25,1,0,50,200,71.2,1
+Sylhet,Sunamganj,Chhatak Cement,Industrial,2005,Sub-Inspector,18629,8,15,1,0,50,200,67.7,0
+Sylhet,Sunamganj,Dowarabazar Border,Border,2008,Sub-Inspector,10116,8,15,1,0,50,200,63.2,0
+Sylhet,Sunamganj,Sulla Haor,River,2010,Sub-Inspector,14757,8,15,1,0,50,200,58.0,0
+Sylhet,Sunamganj,Dharampasha Haor,River,2012,Sub-Inspector,12946,8,15,1,0,50,200,44.1,0
+Barisal,Barguna,Bakkhali,Coastal,2010,Sub-Inspector,34865,9,23,1,1,57,203,37.8,0
+Barisal,Bhola,Bhola Industrial,Industrial,2016,Sub-Inspector,22537,8,15,1,0,50,200,68.2,0
+Barisal,Patuakhali,Patuakhali River,River,2018,Sub-Inspector,22991,8,15,1,0,50,200,70.9,0
+Chittagong,Noakhali,Begumganj North,Rural,2012,Sub-Inspector,71484,13,55,1,1,117,306,61.5,0
+Dhaka,Dhaka,Demra South,Metropolitan,2015,Inspector,156175,34,118,3,0,178,863,50.1,1
+Dhaka,Dhaka,Jatrabari South,Metropolitan,2016,Inspector,142234,35,112,4,0,242,767,42.3,1
+Dhaka,Dhaka,Mugda,Metropolitan,2018,Inspector,125378,23,87,2,0,152,732,44.2,1
+Dhaka,Dhaka,Rayer Bazar,Metropolitan,2019,Inspector,106480,23,77,3,0,116,457,75.4,1
+Dhaka,Dhaka,Hazaribagh Model,Metropolitan,2020,Inspector,92263,21,73,2,0,126,492,77.9,1
+Dhaka,Dhaka,Kotwali South,Metropolitan,2020,Inspector,102655,22,57,2,0,154,538,64.2,1
+Dhaka,Dhaka,Pallabi South,Metropolitan,2021,Inspector,106217,29,63,2,0,174,428,58.4,1
+Dhaka,Dhaka,Mirpur East,Metropolitan,2021,Inspector,130156,24,94,3,0,165,577,62.6,1
+Dhaka,Dhaka,Uttara East,Metropolitan,2022,Inspector,125762,32,78,3,0,125,705,73.6,1
+Dhaka,Dhaka,Dakshinkhan South,Metropolitan,2022,Inspector,101981,21,78,1,0,169,524,69.6,1
+Dhaka,Gazipur,Gazipur North,Industrial,2015,Inspector,152019,36,96,3,0,202,610,74.1,0
+Dhaka,Gazipur,Kaliakair North,Industrial,2018,Inspector,103561,20,69,2,0,99,528,64.9,0
+Dhaka,Narayanganj,Rupganj North,Industrial,2016,Inspector,123985,27,94,4,0,130,549,63.4,0
+Dhaka,Narayanganj,Sonargaon South,Industrial,2018,Sub-Inspector,84912,22,47,3,0,143,467,71.9,0
+Dhaka,Narsingdi,Raipura South,River,2015,Sub-Inspector,64504,15,34,1,1,75,292,88.9,0
+Dhaka,Kishoreganj,Bajitpur South,River,2016,Sub-Inspector,52307,12,29,1,0,83,299,55.4,0
+Dhaka,Tangail,Ghatail North,Rural,2018,Sub-Inspector,65970,13,44,1,0,77,305,73.7,0
+Dhaka,Faridpur,Bhanga South,River,2019,Sub-Inspector,44058,8,26,1,0,72,237,50.6,0
+Dhaka,Manikganj,Singair South,Rural,2020,Sub-Inspector,46920,13,30,1,0,62,227,80.7,0
+Dhaka,Shariatpur,Jajira South,River,2021,Sub-Inspector,46160,9,28,1,0,60,261,64.7,0
+Mymensingh,Mymensingh,Mymensingh North,City,2012,Sub-Inspector,72299,19,40,1,0,98,408,68.5,1
+Mymensingh,Mymensingh,Phulpur North,Rural,2015,Sub-Inspector,62447,15,42,1,0,103,313,75.2,0
+Mymensingh,Mymensingh,Gaffargaon South,Rural,2016,Sub-Inspector,66584,16,35,1,0,61,356,38.4,0
+Mymensingh,Mymensingh,Bhaluka South,Industrial,2018,Sub-Inspector,66502,17,36,2,0,107,342,69.2,0
+Mymensingh,Jamalpur,Islampur South,River,2015,Sub-Inspector,55709,15,36,1,0,57,306,81.2,0
+Mymensingh,Jamalpur,Madarganj South,River,2016,Sub-Inspector,43218,10,28,1,0,69,200,68.8,0
+Mymensingh,Netrokona,Kendua South,Rural,2015,Sub-Inspector,70187,15,46,1,1,76,305,78.7,0
+Mymensingh,Netrokona,Mohanganj South,River,2018,Sub-Inspector,39261,9,25,1,0,62,219,77.6,0
+Mymensingh,Sherpur,Nakla South,Rural,2016,Sub-Inspector,45761,9,25,1,0,50,213,39.6,0
+Mymensingh,Sherpur,Sreebardi South,Border,2019,Sub-Inspector,38358,11,20,1,0,50,217,72.2,0
+Rangpur,Rangpur,Mithapukur South,Rural,2015,Sub-Inspector,73430,17,48,2,1,81,439,59.9,0
+Rangpur,Dinajpur,Birganj South,Rural,2018,Sub-Inspector,55602,14,34,1,0,71,238,67.7,0
+Rangpur,Gaibandha,Gobindaganj South,Industrial,2020,Sub-Inspector,72116,18,52,2,0,94,382,59.0,0
+Sylhet,Sylhet,Sylhet South,Metropolitan,2015,Inspector,92961,22,50,2,0,138,396,44.7,1
+Sylhet,Sylhet,Osmani Nagar South,Industrial,2018,Inspector,67567,13,39,1,0,108,353,45.9,0
+Sylhet,Habiganj,Nabiganj South,Rural,2016,Sub-Inspector,56164,11,31,1,1,86,314,79.9,0
+Sylhet,Moulvibazar,Kulaura South,Tea,2018,Sub-Inspector,55500,13,42,2,0,58,236,53.2,0
+Sylhet,Sunamganj,Jagannathpur South,Rural,2019,Sub-Inspector,41537,9,24,1,0,50,200,49.0,0
