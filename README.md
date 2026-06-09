@@ -1,4 +1,6 @@
+[README.md](https://github.com/goshamishagar-attachments/files/28737491/README.md)
 <div align="center">
+
 <svg width="800" height="200" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>Bangladesh flag banner</title>
 <desc>Animated Bangladesh flag banner for the Bangladesh Administrative Data repository</desc>
@@ -40,20 +42,30 @@
   <rect x="0" y="194" width="680" height="2" fill="#ffffff" opacity="0.15"/>
 </g>
 </svg>
-🇧🇩 Bangladesh Administrative Data Repository
-The most comprehensive open dataset of Bangladesh's administrative geography
-![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
+
+# 🇧🇩 Bangladesh Administrative Data Repository
+
+**The most comprehensive open dataset of Bangladesh's administrative geography**
+
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
 [![Upazilas](https://img.shields.io/badge/Upazilas-491-006A4E.svg)]()
 [![Thanas](https://img.shields.io/badge/Police%20Thanas-767-F42A41.svg)]()
 [![Categories](https://img.shields.io/badge/Data%20Categories-22-blue.svg)]()
 [![Format](https://img.shields.io/badge/Format-CSV%20%7C%20XLSX-orange.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+
 </div>
+
 ---
-🌟 What's Inside
-A complete, researcher-ready dataset covering 491 Upazilas and 767 Police Thanas across all 8 divisions and 64 districts of Bangladesh — with 22 data categories spanning demographics, health, education, infrastructure, agriculture, crime, gender, digital economy, disaster risk, and more.
+
+## 🌟 What's Inside
+
+A complete, researcher-ready dataset covering **491 Upazilas** and **767 Police Thanas** across all **8 divisions** and **64 districts** of Bangladesh — with **22 data categories** spanning demographics, health, education, infrastructure, agriculture, crime, gender, digital economy, disaster risk, and more.
+
 ---
-📁 Repository Structure
+
+## 📁 Repository Structure
+
 ```
 bangladesh-administrative-data/
 │
@@ -98,53 +110,71 @@ bangladesh-administrative-data/
 │       ├── thana_division_summary.csv
 │       └── data_dictionary.csv             ← Field-by-field documentation
 ```
+
 ---
-📊 Data Categories
-🏘️ Upazila Level — 491 Upazilas
-#	File	Key Fields
-01	`upazila_01_overview.csv`	Area, population, density, urban %, economy
-02	`upazila_02_education.csv`	Literacy rate, schools, enrolment rate
-03	`upazila_03_healthcare.csv`	Hospitals, doctors, nurses, immunisation, MMR
-04	`upazila_04_infrastructure.csv`	Roads, electricity, internet, mobile, banking
-05	`upazila_05_agriculture.csv`	Crops, irrigated land, fisheries, agri HH%
-06	`upazila_06_water_sanitation.csv`	Safe water, sanitation, arsenic risk
-07	`upazila_07_disaster_risk.csv`	Flood, cyclone, drought, climate vulnerability
-08	`upazila_08_administrative.csv`	Unions, municipalities, constituencies
-09	`upazila_09_poverty_development.csv`	Poverty rate, HDI, NGOs, food security
-12	`upazila_12_employment_labour.csv`	Labour force, unemployment, sector split
-13	`upazila_13_gender_social.csv`	Sex ratio, child marriage, women empowerment
-14	`upazila_14_transport_connectivity.csv`	Highways, railway, ports, bridges
-15	`upazila_15_housing_living.csv`	Dwelling type, assets, cooking fuel
-16	`upazila_16_religion_ethnicity.csv`	Religious composition, ethnic groups, languages
-17	`upazila_17_digital_economy.csv`	Smartphone, MFS, 4G, e-commerce, freelancers
-⭐	`upazila_master_merged.csv`	All 15 categories merged · 112 columns
-🚔 Police Thana Level — 767 Thanas
-#	File	Key Fields
-01	`thana_01_directory.csv`	Name, type, area, population, OC rank, FIRs
-02	`thana_02_policing.csv`	Officers, constables, vehicles, detection rate
-03	`thana_03_demographics.csv`	Population, density, gender, literacy
-04	`thana_04_infrastructure.csv`	Roads, electricity, internet, 4G, banks
-05	`thana_05_crime.csv`	Total crime, murder, robbery, narcotics, GBV
-06	`thana_06_special_jurisdiction.csv`	Border, EPZ, port, tourism, flood/cyclone risk
-07	`thana_07_economic_profile.csv`	Poverty, employment, remittance, e-commerce
-⭐	`thana_master_merged.csv`	All 7 categories merged · 56 columns
+
+## 📊 Data Categories
+
+### 🏘️ Upazila Level — 491 Upazilas
+
+| # | File | Key Fields |
+|---|------|-----------|
+| 01 | `upazila_01_overview.csv` | Area, population, density, urban %, economy |
+| 02 | `upazila_02_education.csv` | Literacy rate, schools, enrolment rate |
+| 03 | `upazila_03_healthcare.csv` | Hospitals, doctors, nurses, immunisation, MMR |
+| 04 | `upazila_04_infrastructure.csv` | Roads, electricity, internet, mobile, banking |
+| 05 | `upazila_05_agriculture.csv` | Crops, irrigated land, fisheries, agri HH% |
+| 06 | `upazila_06_water_sanitation.csv` | Safe water, sanitation, arsenic risk |
+| 07 | `upazila_07_disaster_risk.csv` | Flood, cyclone, drought, climate vulnerability |
+| 08 | `upazila_08_administrative.csv` | Unions, municipalities, constituencies |
+| 09 | `upazila_09_poverty_development.csv` | Poverty rate, HDI, NGOs, food security |
+| 12 | `upazila_12_employment_labour.csv` | Labour force, unemployment, sector split |
+| 13 | `upazila_13_gender_social.csv` | Sex ratio, child marriage, women empowerment |
+| 14 | `upazila_14_transport_connectivity.csv` | Highways, railway, ports, bridges |
+| 15 | `upazila_15_housing_living.csv` | Dwelling type, assets, cooking fuel |
+| 16 | `upazila_16_religion_ethnicity.csv` | Religious composition, ethnic groups, languages |
+| 17 | `upazila_17_digital_economy.csv` | Smartphone, MFS, 4G, e-commerce, freelancers |
+| ⭐ | `upazila_master_merged.csv` | **All 15 categories merged · 112 columns** |
+
+### 🚔 Police Thana Level — 767 Thanas
+
+| # | File | Key Fields |
+|---|------|-----------|
+| 01 | `thana_01_directory.csv` | Name, type, area, population, OC rank, FIRs |
+| 02 | `thana_02_policing.csv` | Officers, constables, vehicles, detection rate |
+| 03 | `thana_03_demographics.csv` | Population, density, gender, literacy |
+| 04 | `thana_04_infrastructure.csv` | Roads, electricity, internet, 4G, banks |
+| 05 | `thana_05_crime.csv` | Total crime, murder, robbery, narcotics, GBV |
+| 06 | `thana_06_special_jurisdiction.csv` | Border, EPZ, port, tourism, flood/cyclone risk |
+| 07 | `thana_07_economic_profile.csv` | Poverty, employment, remittance, e-commerce |
+| ⭐ | `thana_master_merged.csv` | **All 7 categories merged · 56 columns** |
+
 ---
-🗺️ Administrative Coverage
+
+## 🗺️ Administrative Coverage
+
 <div align="center">
-Division	Upazilas	Police Thanas	Districts
-🟢 Barisal	42	78	6
-🔴 Chittagong	103	128	11
-🟩 Dhaka	67	181	13
-🔵 Khulna	59	85	10
-🟣 Mymensingh	35	62	4
-🟠 Rajshahi	70	88	8
-🟤 Rangpur	58	78	8
-🟡 Sylhet	38	67	4
-Total	491	767	64
+
+| Division | Upazilas | Police Thanas | Districts |
+|----------|:--------:|:-------------:|:---------:|
+| 🟢 Barisal | 42 | 78 | 6 |
+| 🔴 Chittagong | 103 | 128 | 11 |
+| 🟩 Dhaka | 67 | 181 | 13 |
+| 🔵 Khulna | 59 | 85 | 10 |
+| 🟣 Mymensingh | 35 | 62 | 4 |
+| 🟠 Rajshahi | 70 | 88 | 8 |
+| 🟤 Rangpur | 58 | 78 | 8 |
+| 🟡 Sylhet | 38 | 67 | 4 |
+| **Total** | **491** | **767** | **64** |
+
 </div>
+
 ---
-🚀 Quick Start
-Python
+
+## 🚀 Quick Start
+
+### Python
+
 ```python
 import pandas as pd
 
@@ -167,7 +197,9 @@ risk = pd.read_csv("csv/upazila/upazila_07_disaster_risk.csv")
 high = risk[risk["Flood Risk"] == "Very High"]
 print(f"Very High flood risk upazilas: {len(high)}")
 ```
-R
+
+### R
+
 ```r
 library(tidyverse)
 
@@ -186,41 +218,63 @@ crime %>%
   summarise(total = sum(`Total Crimes (annual)`, na.rm = TRUE)) %>%
   arrange(desc(total))
 ```
-Excel / Power BI / Tableau
+
+### Excel / Power BI / Tableau
 Open any `.csv` directly — UTF-8 encoding, headers in row 1, no preprocessing needed.
+
 ---
-🔑 Joining Keys
-Level	Key Columns
-Upazila files	`Division` + `District` + `Upazila`
-Thana files	`Division` + `District` + `Thana / Police Station`
-Thana Types
-Type	Description
-`Metropolitan`	DMP / CMP / KMP / SMP city thanas
-`City`	District city or municipality thanas
-`Sadar`	Upazila headquarters thanas
-`Rural`	General rural coverage
-`Industrial`	EPZ, factory-cluster, port-industrial
-`Border`	India / Myanmar border thanas
-`Coastal`	Bay of Bengal coastal thanas
-`River`	Haor / river / ferry-ghat thanas
-`Hill`	Chittagong Hill Tracts
-`Tea`	Tea-garden area (Sylhet Division)
-`Tourism`	Beach / heritage / eco-tourism
+
+## 🔑 Joining Keys
+
+| Level | Key Columns |
+|-------|------------|
+| Upazila files | `Division` + `District` + `Upazila` |
+| Thana files | `Division` + `District` + `Thana / Police Station` |
+
+### Thana Types
+
+| Type | Description |
+|------|-------------|
+| `Metropolitan` | DMP / CMP / KMP / SMP city thanas |
+| `City` | District city or municipality thanas |
+| `Sadar` | Upazila headquarters thanas |
+| `Rural` | General rural coverage |
+| `Industrial` | EPZ, factory-cluster, port-industrial |
+| `Border` | India / Myanmar border thanas |
+| `Coastal` | Bay of Bengal coastal thanas |
+| `River` | Haor / river / ferry-ghat thanas |
+| `Hill` | Chittagong Hill Tracts |
+| `Tea` | Tea-garden area (Sylhet Division) |
+| `Tourism` | Beach / heritage / eco-tourism |
+
 ---
-⚠️ Disclaimer
-All secondary indicators are modelled estimates derived from division-level official statistics using population-weighted calibration.
+
+## ⚠️ Disclaimer
+
+All **secondary indicators** are **modelled estimates** derived from division-level official statistics using population-weighted calibration.
+
 ✅ Suitable for: comparative analysis · planning · research · teaching · visualisation  
 ❌ Not for: official government reporting · legal or policy decisions
-Official sources:
-bbs.gov.bd · police.gov.bd · dghs.gov.bd · lgd.gov.bd
+
+**Official sources:**
+[bbs.gov.bd](https://www.bbs.gov.bd) · [police.gov.bd](https://www.police.gov.bd) · [dghs.gov.bd](https://www.dghs.gov.bd) · [lgd.gov.bd](https://www.lgd.gov.bd)
+
 ---
-📜 License
-Released under Creative Commons Zero v1.0 Universal (CC0) — free for any purpose, no permission needed.
+
+## 📜 License
+
+Released under **[Creative Commons Zero v1.0 Universal (CC0)](LICENSE)** — free for any purpose, no permission needed.
+
 ---
-🙌 Contributing
-Pull requests are welcome! If you have official data, corrections, or additional variables, please open an Issue or submit a PR.
+
+## 🙌 Contributing
+
+Pull requests are welcome! If you have official data, corrections, or additional variables, please open an **Issue** or submit a **PR**.
+
 ---
-📬 Citation
+
+## 📬 Citation
+
 ```bibtex
 @misc{bangladesh_admin_data_2024,
   title = {Bangladesh Administrative Data Repository},
@@ -229,8 +283,13 @@ Pull requests are welcome! If you have official data, corrections, or additional
   url   = {https://github.com/YOUR_USERNAME/bangladesh-administrative-data}
 }
 ```
+
 ---
+
 <div align="center">
+
 Made with ❤️ for Bangladesh 🇧🇩
-Last updated: June 2026 · Reference year: 2022 · 491 Upazilas · 767 Thanas · 22 categories
+
+*Last updated: June 2026 · Reference year: 2022 · 491 Upazilas · 767 Thanas · 22 categories*
+
 </div>
