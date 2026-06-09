@@ -1,4 +1,3 @@
-[README.md](https://github.com/goshamishagar-attachments/files/28737491/README.md)
 <div align="center">
 
 <svg width="800" height="200" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
@@ -280,7 +279,7 @@ Pull requests are welcome! If you have official data, corrections, or additional
   title = {Bangladesh Administrative Data Repository},
   note  = {Upazila and Police Thana level dataset for Bangladesh},
   year  = {2024},
-  url   = {https://github.com/YOUR_USERNAME/bangladesh-administrative-data}
+  url   = {https://github.com/goshamishagar/bangladesh-administrative-data}
 }
 ```
 
