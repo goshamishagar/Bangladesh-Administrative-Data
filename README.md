@@ -239,7 +239,7 @@ Pull requests are welcome! If you have official data, corrections, or additional
   title = {Bangladesh Administrative Data Repository},
   note  = {Upazila and Police Thana level dataset for Bangladesh},
   year  = {2024},
-  url   = {https://github.com/YOUR_USERNAME/bangladesh-administrative-data}
+  url   = {https://github.com/goshamishagar/bangladesh-administrative-data}
 }
 ```
 
